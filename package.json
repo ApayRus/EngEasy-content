@@ -1,0 +1,27 @@
+{
+	"name": "eng-easy-content",
+	"version": "1.0.0",
+	"description": "content for LangEasy app ",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ApayRus/EngEasy-content.git"
+	},
+	"keywords": [
+		"english",
+		"textbook",
+		"language",
+		"learning",
+		"app"
+	],
+	"author": "aparus",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ApayRus/EngEasy-content/issues"
+	},
+	"homepage": "https://github.com/ApayRus/EngEasy-content#readme",
+	"package-name": "git+https://apayrus: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@github.com/ApayRus/EngEasy-content.git"
+}
