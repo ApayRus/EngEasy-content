@@ -25,7 +25,7 @@
 	cursor: pointer;
 	transition: all 0.3s ease;
 	display: flex;
-	align-items: center;
+	align-items: baseline;
 }
 
 .phrase-container:hover {
