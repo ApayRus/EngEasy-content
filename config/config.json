@@ -28,5 +28,6 @@
 			"voiceTitle": "Голос"
 		}
 	],
-	"voicePriority": ["en-GB", "en-US", "en"]
+	"voicePriority": ["en-GB", "en-US", "en"],
+	"yandexMetrikaId": "101145170"
 }
