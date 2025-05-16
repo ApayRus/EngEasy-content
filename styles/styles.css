@@ -24,6 +24,8 @@
 	border-radius: 8px;
 	cursor: pointer;
 	transition: all 0.3s ease;
+	display: flex;
+	align-items: center;
 }
 
 .phrase-container:hover {
@@ -37,7 +39,7 @@
 .phrase-container .id {
 	color: var(--grey-text);
 	font-size: 0.8rem;
-	margin-left: 0.25rem;
+	margin-right: 0.25rem;
 }
 
 /* Remove slash from last element if it's the last one */
@@ -95,11 +97,6 @@
 	padding-bottom: 0.5rem;
 }
 
-.mainPageTocContainer .sectionTitle.ar {
-	font-family: 'Scheherazade New', serif;
-	font-size: 1.5rem;
-}
-
 .mainPageTocContainer .lessonItem {
 	padding: 1rem;
 	background-color: #f8f8f8;
@@ -110,15 +107,9 @@
 	align-items: center;
 }
 
-.mainPageTocContainer .lessonItem.ar {
-	font-family: 'Scheherazade New', serif;
-	font-size: 1.2rem;
-}
-
 .translationBlock {
 	/* Adjust spacing to work with new layout */
 	margin-top: 0;
 	margin-bottom: 0.25rem;
 	/* padding-left: 1.5rem; */
-	text-align: right;
 }
