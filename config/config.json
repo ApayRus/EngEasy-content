@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"ru": {
+			"title": "EngEasy - английский легко",
+			"description": "интерактивный учебник для изучения английского языка по уникальной методике",
+			"siteUrl": "https://engeasy.ru"
+		},
+		"en": {
+			"title": "EngEasy - Easy English",
+			"description": "Interactive textbook for learning English language using a unique methodology",
+			"siteUrl": "https://engeasy.ru"
+		}
+	},
+	"logo": {
+		"textArray": ["Eng", "Easy"]
+	},
+	"languages": [
+		{
+			"code": "en",
+			"emoji": "🇬🇧",
+			"name": "English",
+			"voiceTitle": "Voice"
+		},
+		{
+			"code": "ru",
+			"emoji": "🇷🇺",
+			"name": "Russian",
+			"voiceTitle": "Голос"
+		}
+	],
+	"voicePriority": ["en-GB", "en-US", "en"]
+}

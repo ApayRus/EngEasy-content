@@ -19,24 +19,6 @@
 	}
 }
 
-.phrase-container .content-wrapper {
-	display: inline;
-	white-space: normal;
-	word-wrap: break-word;
-}
-
-.phrase-container .id {
-	color: var(--grey-text);
-	font-size: 0.8rem;
-	padding-right: 0.2rem;
-	margin-right: 0.25rem;
-}
-
-/* Remove slash from last element if it's the last one */
-.phrase-container .content-wrapper > span:last-child::after {
-	content: none;
-}
-
 .phrase-container {
 	padding: 0.25rem;
 	border-radius: 8px;
@@ -50,6 +32,17 @@
 
 .phrase-container.playing {
 	animation: pulse 1.5s infinite;
+}
+
+.phrase-container .id {
+	color: var(--grey-text);
+	font-size: 0.8rem;
+	margin-left: 0.25rem;
+}
+
+/* Remove slash from last element if it's the last one */
+.phrase-container > span:last-child::after {
+	content: none;
 }
 
 .primary-text-phrase {
@@ -82,4 +75,50 @@
 	color: #bdbdbd;
 	margin-inline: 0.25rem;
 	font-weight: 300;
+}
+
+/* Main page styles */
+
+.mainPageTocContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	width: 100%;
+	max-width: 800px;
+}
+
+.mainPageTocContainer .sectionTitle {
+	font-size: 1.5rem;
+	margin-bottom: 1rem;
+	color: #333;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 0.5rem;
+}
+
+.mainPageTocContainer .sectionTitle.ar {
+	font-family: 'Scheherazade New', serif;
+	font-size: 1.5rem;
+}
+
+.mainPageTocContainer .lessonItem {
+	padding: 1rem;
+	background-color: #f8f8f8;
+	border-radius: 6px;
+	transition: all 0.2s ease;
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.mainPageTocContainer .lessonItem.ar {
+	font-family: 'Scheherazade New', serif;
+	font-size: 1.2rem;
+}
+
+.translationBlock {
+	/* Adjust spacing to work with new layout */
+	margin-top: 0;
+	margin-bottom: 0.25rem;
+	/* padding-left: 1.5rem; */
+	text-align: right;
 }

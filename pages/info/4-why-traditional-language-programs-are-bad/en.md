@@ -1,6 +1,6 @@
 ---
 type: text
-image: images/content/learning-programs.png
+image: from-content/images/content/learning-programs.png
 ---
 
 # 💩 Why Traditional Language Programs Are Bad

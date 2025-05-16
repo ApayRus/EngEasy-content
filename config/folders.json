@@ -1,0 +1,17 @@
+[
+	{
+		"slug": "info",
+		"ru": "Информация",
+		"en": "Info"
+	},
+	{
+		"slug": "lessons",
+		"ru": "Уроки",
+		"en": "Lessons"
+	},
+	{
+		"slug": "topics",
+		"ru": "Диалоги на разные темы",
+		"en": "Dialogues on various topics"
+	}
+]

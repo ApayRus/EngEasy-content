@@ -1,6 +1,6 @@
 ---
 type: text
-image: images/content/1-about.png
+image: from-content/images/content/1-about.png
 description: Уникальная методика. Интуитивное понимание языка через практику и повторение
 ---
 

@@ -1,6 +1,6 @@
 ---
 type: text
-image: images/content/teacher.png
+image: from-content/images/content/teacher.png
 ---
 
 # 🧑‍💻 Teacher and Technology. Less Workload and Requirements
