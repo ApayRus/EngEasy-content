@@ -79,34 +79,6 @@
 	font-weight: 300;
 }
 
-/* Main page styles */
-
-.mainPageTocContainer {
-	display: flex;
-	flex-direction: column;
-	gap: 2rem;
-	width: 100%;
-	max-width: 800px;
-}
-
-.mainPageTocContainer .sectionTitle {
-	font-size: 1.5rem;
-	margin-bottom: 1rem;
-	color: #333;
-	border-bottom: 1px solid #eee;
-	padding-bottom: 0.5rem;
-}
-
-.mainPageTocContainer .lessonItem {
-	padding: 1rem;
-	background-color: #f8f8f8;
-	border-radius: 6px;
-	transition: all 0.2s ease;
-	height: 100%;
-	display: flex;
-	align-items: center;
-}
-
 .translationBlock {
 	/* Adjust spacing to work with new layout */
 	margin-top: 0;
