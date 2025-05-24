@@ -24,7 +24,7 @@ Canada
 where
 from
 in
-country
+a country
 
 ## Sentences with countries
 

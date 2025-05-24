@@ -102,3 +102,56 @@ hiː ɪz hɒt
 ðeɪ ɑː kəʊld
 juː ɑː əʊld
 ɪt ɪz jʌŋ
+
+## Contracted forms {new}
+
+aɪm
+jɔː
+hiːz
+ʃiːz
+ɪts
+wɪə
+ðeə
+
+## Sentences with contractions
+
+aɪm bɪɡ
+jɔː smɔːl
+hiːz tɔːl
+ʃiːz ʃɔːt
+ɪts ɡʊd
+wɪə bæd
+ðeə hɒt
+aɪm kəʊld
+jɔː əʊld
+ʃiːz jʌŋ
+hiːz bɪɡ
+ɪts smɔːl
+wɪə tɔːl
+ðeə ʃɔːt
+jɔː ɡʊd
+aɪm bæd
+ʃiːz hɒt
+hiːz kəʊld
+ɪts əʊld
+wɪə jʌŋ
+ðeə bɪɡ
+jɔː smɔːl
+aɪm tɔːl
+ʃiːz ʃɔːt
+hiːz ɡʊd
+ɪts bæd
+wɪə hɒt
+ðeə kəʊld
+jɔː əʊld
+aɪm jʌŋ
+ʃiːz bɪɡ
+hiːz smɔːl
+ɪts tɔːl
+wɪə ʃɔːt
+ðeə ɡʊd
+jɔː bæd
+aɪm hɒt
+ʃiːz kəʊld
+hiːz əʊld
+ɪts jʌŋ

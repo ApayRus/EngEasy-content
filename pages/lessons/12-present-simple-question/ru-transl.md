@@ -13,11 +13,11 @@ hideHelp: true
 ˈоːлвейз
 ˈневə
 ˈофн
-кук
-иːт
-дрин̣к
+тu кук
+тu иːт
+тu дрин̣к
 фоː
-френд
+ə френд
 
 ## Present Simple Question forms
 

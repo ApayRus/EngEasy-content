@@ -13,11 +13,11 @@ does
 always
 never
 often
-cook
-eat
-drink
+to cook
+to eat
+to drink
 for
-friend
+a friend
 
 ## Present Simple Question forms
 

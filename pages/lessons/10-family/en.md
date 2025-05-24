@@ -8,16 +8,16 @@ hideHelp: true
 
 ## Words {new}
 
-father
-mother
-son
-daughter
-brother
-sister
-sibling
-husband
-wife
-child
+a father
+a mother
+a son
+a daughter
+a brother
+a sister
+a sibling
+a husband
+a wife
+a child
 or
 
 ## Sentences

@@ -13,11 +13,11 @@ dʌz
 ˈɔːlweɪz
 ˈnevə
 ˈɒfn
-kʊk
-iːt
-drɪŋk
+tu kʊk
+tu iːt
+tu drɪŋk
 fɔː
-frend
+ə frend
 
 ## Present Simple Question forms
 

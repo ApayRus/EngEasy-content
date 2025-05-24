@@ -24,7 +24,7 @@ hideHelp: true
 вɛə
 фром
 ин
-ˈкантри
+ə ˈкантри
 
 ## Sentences with countries
 

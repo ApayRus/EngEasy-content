@@ -10,15 +10,15 @@ hideHelp: true
 
 the
 the
-city
-school
-hospital
-restaurant
-cinema
-museum
-park
-library
-shop
+a city
+a school
+a hospital
+a restaurant
+a cinema
+a museum
+a park
+a library
+a shop
 go, goes
 
 ## The Article Rules
@@ -95,7 +95,6 @@ The cinema is in the city.
 He works at a school in the city.
 My father goes to work on Monday.
 The park is cold.
-A library is a good place.
 The shop has books and pens.
 We play in a museum on Sunday.
 The city has many parks.
@@ -116,7 +115,6 @@ The teacher is in the school.
 I go to a cinema with my friends.
 The doctor works in the hospital.
 She has a book in the shop.
-He goes to the park after work.
 The park is big.
 We don't eat in a restaurant today.
 The city is small but good.
@@ -134,7 +132,6 @@ You live in a good city.
 The phone is new.
 He reads a book in the park.
 She goes to the library on Monday.
-The restaurant has good food.
 I study at a good school.
 The park has children.
 She works in the hospital.

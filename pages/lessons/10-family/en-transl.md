@@ -8,16 +8,16 @@ hideHelp: true
 
 ## Words
 
-ˈfɑːðə
-ˈmʌðə
-sʌn
-ˈdɔːtə
-ˈbrʌðə
-ˈsɪstə
-ˈsɪblɪŋ
-ˈhʌzbənd
-waɪf
-tʃaɪld
+ə ˈfɑːðə
+ə ˈmʌðə
+ə sʌn
+ə ˈdɔːtə
+ə ˈbrʌðə
+ə ˈsɪstə
+ə ˈsɪblɪŋ
+ə ˈhʌzbənd
+ə waɪf
+ə tʃaɪld
 ɔː
 
 ## Sentences

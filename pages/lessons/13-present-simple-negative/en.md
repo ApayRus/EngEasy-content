@@ -13,13 +13,13 @@ doesn't
 sunday
 monday
 friday
-weekend
-week
+a weekend
+a week
 today
 tomorrow
 on
 at
-home
+a home
 like
 
 ## Present Simple Negative forms

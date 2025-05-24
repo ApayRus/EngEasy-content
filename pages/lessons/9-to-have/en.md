@@ -10,15 +10,15 @@ hideHelp: true
 
 have
 has
-car
-house
+a car
+a house
 money
-computer
-TV
-bicycle
-garden
-pet
-toy
+a computer
+a TV
+a bicycle
+a garden
+a pet
+a toy
 new
 and
 but

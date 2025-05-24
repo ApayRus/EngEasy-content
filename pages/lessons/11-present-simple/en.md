@@ -8,18 +8,18 @@ hideHelp: true
 
 ## Words {new}
 
-work
-live
-play
-study
-read
-write
-speak
-listen
+to work
+to live
+to play
+to study
+to read
+to write
+to speak
+to listen
 everyday
 sometimes
-message
-audiobook
+a message
+an audiobook
 to
 with
 

@@ -13,13 +13,13 @@ dəʊnt
 ˈsʌndeɪ
 ˈmʌndeɪ
 ˈfraɪdeɪ
-ˌwiːkˈend
-wiːk
+ə ˈwiːkˈend
+ə wiːk
 təˈdeɪ
 təˈmɒrəʊ
 ɒn
 æt
-həʊm
+ə həʊm
 laɪk
 
 ## Present Simple Negative forms

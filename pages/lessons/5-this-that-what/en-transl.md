@@ -8,16 +8,16 @@ hideHelp: true
 
 ## Household items
 
-bʊk
-pen
-fəʊn
-ˈteɪbəl
-tʃeə
-bæɡ
-kiː
-kʌp
-klɒk
-dɔː
+ə bʊk
+ə pen
+ə fəʊn
+ə ˈteɪbəl
+ə tʃeə
+ə bæɡ
+ə kiː
+ə kʌp
+ə klɒk
+ə dɔː
 
 ## Demonstratives and Question Words
 

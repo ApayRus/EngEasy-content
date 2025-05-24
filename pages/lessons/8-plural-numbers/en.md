@@ -23,22 +23,22 @@ ten
 
 ### Most nouns: add -s {new}
 
-book, books
-pen, pens
-phone, phones
-table, tables
+a book, books
+a pen, pens
+a phone, phones
+a table, tables
 
 ### Nouns ending in -s, -ss, -x, -ch, -sh: add -es {new}
 
-glass, glasses
-box, boxes
-watch, watches
-dish, dishes
+a glass, glasses
+a box, boxes
+a watch, watches
+a dish, dishes
 
 ### Nouns ending in consonant + y: change y to i and add -es {new}
 
-country, countries
-family, families
+a country, countries
+a family, families
 
 ## New words and expressions {new}
 

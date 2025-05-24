@@ -8,16 +8,16 @@ hideHelp: true
 
 ## Household items {new}
 
-book
-pen
-phone
-table
-chair
-bag
-key
-cup
-clock
-door
+a book
+a pen
+a phone
+a table
+a chair
+a bag
+a key
+a cup
+a clock
+a door
 
 ## Demonstratives and Question Words {new}
 

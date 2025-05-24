@@ -10,15 +10,15 @@ hideHelp: true
 
 həv
 hæz
-kɑː
-haʊs
+ə kɑː
+ə haʊs
 ˈmʌni
-kəmˈpjuːtə
-tiː viː
-ˈbaɪsɪkl
-ˈɡɑːdn
-pet
-tɔɪ
+ə kəmˈpjuːtə
+ə tiː viː
+ə ˈbaɪsɪkl
+ə ˈɡɑːdn
+ə pet
+ə tɔɪ
 njuː
 ænd
 bʌt

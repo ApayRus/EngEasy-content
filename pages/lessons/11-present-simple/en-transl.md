@@ -8,18 +8,18 @@ hideHelp: true
 
 ## Words
 
-wɜːk
-lɪv
-pleɪ
-ˈstʌdi
-riːd
-raɪt
-spiːk
-ˈlɪsn
+tu wɜːk
+tu lɪv
+tu pleɪ
+tu ˈstʌdi
+tu riːd
+tu raɪt
+tu spiːk
+tu ˈlɪsn
 ˈevrideɪ
 ˈsʌmtaɪmz
-ˈmesɪdʒ
-ˈɔːdiəʊbʊk
+ə ˈmesɪdʒ
+ənˈɔːdiəʊbʊk
 tuː
 wɪð
 

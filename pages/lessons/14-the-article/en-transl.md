@@ -10,15 +10,15 @@ hideHelp: true
 
 ðə
 ði
-ˈsɪti
-skuːl
-ˈhɒspɪtl
-ˈrestrɒnt
-ˈsɪnəmə
-mjuːˈziəm
-pɑːk
-ˈlaɪbrəri
-ʃɒp
+ə ˈsɪti
+ə skuːl
+ə ˈhɒspɪtl
+ə ˈrestrɒnt
+ə ˈsɪnəmə
+ə mjuːˈziəm
+ə pɑːk
+ə ˈlaɪbrəri
+ə ʃɒp
 ɡəʊ, ɡəʊz
 
 ## The Article Rules
@@ -95,7 +95,6 @@ hiː ɡəʊz tuː ə ʃɒp ɒn ˈfraɪdeɪ
 hiː wɜːks æt ə skuːl ɪn ðə ˈsɪti
 maɪ ˈfɑːðə ɡəʊz tuː wɜːk ɒn ˈmʌndeɪ
 ðə pɑːk ɪz kəʊld
-ə ˈlaɪbrəri ɪz ə ɡʊd pleɪs
 ðə ʃɒp hæz bʊks ænd penz
 wiː pleɪ ɪn ə mjuːˈziəm ɒn ˈsʌndeɪ
 ðə ˈsɪti hæz ˈmeni pɑːks
@@ -116,7 +115,6 @@ juː hæv ə kəmˈpjuːtə bʌt nɒt ə fəʊn
 aɪ ɡəʊ tuː ə ˈsɪnəmə wɪð maɪ frendz
 ðə ˈdɒktə wɜːks ɪn ðə ˈhɒspɪtl
 ʃiː hæz ə bʊk ɪn ðə ʃɒp
-hiː ɡəʊz tuː ðə pɑːk ˈɑːftə wɜːk
 ðə pɑːk ɪz bɪɡ
 wiː dəʊnt iːt ɪn ə ˈrestrɒnt təˈdeɪ
 ðə ˈsɪti ɪz smɔːl bʌt ɡʊd
@@ -134,7 +132,6 @@ juː lɪv ɪn ə ɡʊd ˈsɪti
 ðə fəʊn ɪz njuː
 hiː riːdz ə bʊk ɪn ðə pɑːk
 ʃiː ɡəʊz tuː ðə ˈlaɪbrəri ɒn ˈmʌndeɪ
-ðə ˈrestrɒnt hæz ɡʊd fuːd
 aɪ ˈstʌdi æt ə ɡʊd skuːl
 ðə pɑːk hæz ˈtʃɪldrən
 ʃiː wɜːks ɪn ðə ˈhɒspɪtl

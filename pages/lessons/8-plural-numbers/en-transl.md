@@ -23,22 +23,22 @@ ten
 
 ### Most nouns: add -s {new}
 
-bʊk, bʊks
-pen, penz
-fəʊn, fəʊnz
-ˈteɪbəl, ˈteɪbəlz
+ə bʊk, bʊks
+ə pen, penz
+ə fəʊn, fəʊnz
+ə ˈteɪbəl, ˈteɪbəlz
 
 ### Nouns ending in -s, -ss, -x, -ch, -sh: add -es {new}
 
-ɡlɑːs, ˈɡlɑːsɪz
-bɒks, ˈbɒksɪz
-wɒtʃ, ˈwɒtʃɪz
-dɪʃ, ˈdɪʃɪz
+ə ɡlɑːs, ˈɡlɑːsɪz
+ə bɒks, ˈbɒksɪz
+ə wɒtʃ, ˈwɒtʃɪz
+ə dɪʃ, ˈdɪʃɪz
 
 ### Nouns ending in consonant + y: change y to i and add -es {new}
 
-ˈkʌntri, ˈkʌntriz
-ˈfæməli, ˈfæməliz
+ə ˈkʌntri, ˈkʌntriz
+ə ˈfæməli, ˈfæməliz
 
 ## New words and expressions {new}
 

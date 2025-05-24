@@ -24,7 +24,7 @@ dʒəˈpæn
 wɛə
 frɒm
 ɪn
-ˈkʌntri
+ə ˈkʌntri
 
 ## Sentences with countries
 
