@@ -20,7 +20,7 @@ təˈmɒrəʊ
 ɒn
 æt
 ə həʊm
-laɪk
+tuː laɪk
 
 ## Present Simple Negative forms
 

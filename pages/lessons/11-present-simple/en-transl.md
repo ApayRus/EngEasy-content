@@ -8,14 +8,14 @@ hideHelp: true
 
 ## Words
 
-tu wɜːk
-tu lɪv
-tu pleɪ
-tu ˈstʌdi
-tu riːd
-tu raɪt
-tu spiːk
-tu ˈlɪsn
+tuː wɜːk
+tuː lɪv
+tuː pleɪ
+tuː ˈstʌdi
+tuː riːd
+tuː raɪt
+tuː spiːk
+tuː ˈlɪsn
 ˈevrideɪ
 ˈsʌmtaɪmz
 ə ˈmesɪdʒ

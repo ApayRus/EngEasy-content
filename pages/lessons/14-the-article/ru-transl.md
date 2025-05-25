@@ -19,7 +19,8 @@ hideHelp: true
 ə паːк
 ə ˈлайбрəри
 ə шоп
-гəу, гəуз
+туː гəу
+гəуз
 
 ## The Article Rules
 

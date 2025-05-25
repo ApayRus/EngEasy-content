@@ -20,7 +20,7 @@ tomorrow
 on
 at
 a home
-like
+to like
 
 ## Present Simple Negative forms
 

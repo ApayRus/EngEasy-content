@@ -20,7 +20,7 @@ hideHelp: true
 он
 ят
 ə хəум
-лайк
+туː лайк
 
 ## Present Simple Negative forms
 

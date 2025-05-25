@@ -19,7 +19,8 @@ hideHelp: true
 ə pɑːk
 ə ˈlaɪbrəri
 ə ʃɒp
-ɡəʊ, ɡəʊz
+tuː ɡəʊ
+ɡəʊz
 
 ## The Article Rules
 

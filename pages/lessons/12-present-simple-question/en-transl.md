@@ -13,9 +13,9 @@ dʌz
 ˈɔːlweɪz
 ˈnevə
 ˈɒfn
-tu kʊk
-tu iːt
-tu drɪŋk
+tuː kʊk
+tuː iːt
+tuː drɪŋk
 fɔː
 ə frend
 

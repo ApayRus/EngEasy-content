@@ -19,7 +19,8 @@ a museum
 a park
 a library
 a shop
-go, goes
+to go
+goes
 
 ## The Article Rules
 
