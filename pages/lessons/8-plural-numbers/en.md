@@ -19,9 +19,9 @@ eight
 nine
 ten
 
-## Basic plural rules
+## Basic plural rules. Before plural nouns, we don't use the indefinite article (a/an)
 
-### Most nouns: add -s {new}
+### Most nouns: add -s. {new}
 
 a book, books
 a pen, pens
