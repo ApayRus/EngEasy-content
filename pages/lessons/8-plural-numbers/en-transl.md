@@ -23,7 +23,7 @@ ten
 
 ### Most nouns: add -s {new}
 
-ə bʊk, bʊːks
+ə bʊk, bʊks
 ə pen, penz
 ə fəʊn, fəʊnz
 ə ˈteɪbəl, ˈteɪbəlz
@@ -48,7 +48,7 @@ haʊ ˈmeni
 
 ## Practice sentences
 
-ˈaʊə ten bʊːks ɑː ɡʊd.
+ˈaʊə ten bʊks ɑː ɡʊd.
 jɔː faɪv penz ɑː smɔːl.
 hɪz θriː fəʊnz ɑː əʊld.
 hɜː fɔː ˈteɪbəlz ɑː bɪɡ.
@@ -76,12 +76,12 @@ jɔː ˈsevən ˈbɒksɪz ɑː smɔːl.
 hɪz faɪv ˈwɒtʃɪz ɑː əʊld.
 hɜː sɪks ˈdɪʃɪz ɑː bɪɡ.
 ðeə θriː ˈfæməliz ɑː ˈhæpi.
-ðiːz naɪn bʊːks ɑː ɡʊd.
+ðiːz naɪn bʊks ɑː ɡʊd.
 ðəʊz fɔː penz ɑː ʃɔːt.
 maɪ ˈsevən fəʊnz ɑː ˈbɪzi.
 ˈaʊə ten ˈteɪbəlz ɑː bɪɡ.
 jɔː eɪt tʃeəz ɑː əʊld.
-haʊ ˈmeni bʊːks ɑː ɪn ðɪs bɒks?
+haʊ ˈmeni bʊks ɑː ɪn ðɪs bɒks?
 ðiːz θriː penz ɑː ɡʊd.
 ðəʊz fɔː fəʊnz ɑː bæd.
 maɪ faɪv ˈkʌntriz ɑː bɪɡ.
@@ -102,7 +102,7 @@ maɪ tuː ˈbɒksɪz ɑː smɔːl.
 jɔː θriː ˈɡlɑːsɪz ɑː bɪɡ.
 hɪz fɔː ˈdɪʃɪz ɑː kəʊld.
 hɜː faɪv ˈwɒtʃɪz ɑː ɡʊd.
-ˈaʊə sɪks bʊːks ɑː əʊld.
+ˈaʊə sɪks bʊks ɑː əʊld.
 ðeə ˈsevən penz ɑː ʃɔːt.
 haʊ ˈmeni ˈteɪbəlz ɑː ɪn ðɪs ˈkʌntri?
 ðiːz fɔː tʃeəz ɑː nɒt bɪɡ.
@@ -126,7 +126,7 @@ eɪt əˈkaʊntənts ɑː frɒm ˈɪtəli.
 ðiːz ten ˈbɒksɪz ɑː frɒm ˈɪŋɡlənd.
 ðəʊz sɪks ˈdɪʃɪz ɑː hɒt.
 maɪ fɔː ˈwɒtʃɪz ɑː nɒt əʊld.
-jɔː faɪv bʊːks ɑː ɡʊd.
+jɔː faɪv bʊks ɑː ɡʊd.
 hɪz θriː penz ɑː ʃɔːt.
 hɜː ˈsevən fəʊnz ɑː nɒt bæd.
 ˈaʊə tuː ˈteɪbəlz ɑː bɪɡ.
@@ -150,4 +150,4 @@ faɪv ˈdraɪvəz ɑː ɪn sɪks ˈkʌntriz.
 ðiːz ˈsevən ˈɡlɑːsɪz ɑː fʊl.
 ðəʊz faɪv ˈbɒksɪz ɑː smɔːl.
 fɔː ˈwɒtʃɪz ɑː ɡʊd.
-ten bʊːks ɑː nɒt əʊld.
+ten bʊks ɑː nɒt əʊld.
