@@ -13,9 +13,9 @@ tuː lɪv
 tuː pleɪ
 tuː ˈstʌdi
 tuː riːd
-tuː raɪt
+tuː raɪt (tuː)
 tuː spiːk
-tuː ˈlɪsn
+tuː ˈlɪsn (tuː)
 ˈevrideɪ
 ˈsʌmtaɪmz
 ə ˈmesɪdʒ

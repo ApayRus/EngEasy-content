@@ -13,7 +13,6 @@ a mountain
 an island
 a river
 a forest
-an umbrella
 a train
 a bridge
 the sun
@@ -22,133 +21,125 @@ a lake
 to see
 long
 fast
+blue
 
 ## First mention - use a/an. Second mention - use the
 
-I see a mountain.
-The mountain is big.
-She has an island.
+I see a car.
+The car is new.
+He has a book.
+The book is old.
+She sees an island.
 The island is small.
-We have a river.
+A doctor has a pen.
+The pen is blue.
+An engineer has a computer.
+The computer is new.
+We see a mountain.
+The mountain is tall.
+They see a river.
 The river is long.
-They have a forest.
-The forest is big.
-He has an umbrella.
-The umbrella is new.
+A man has a bicycle.
+The bicycle is old.
+A woman has a bag.
+The bag is big.
+It is a house.
+The house is good.
 
 ## Unique things - use the
 
 The sun is hot.
+The sky is blue.
+I see the sun everyday.
+You see the sky.
+The sun is big.
 The sky is big.
-The city is big.
-The school is good.
-The park is good.
 
 ## General things - use a/an
 
-A train is big.
-A bridge is long.
-A lake is big.
-A car is good.
+A car is fast.
 A book is good.
+An engineer is smart.
+A train is long.
+A bridge is strong.
+A lake is cold.
+A mountain is tall.
+An island is small.
+A river is long.
+A forest is big.
+A doctor is a worker.
+A teacher is a worker.
+A student has a book.
+A phone is for a message.
 
 ## Practice sentences
 
-I see a mountain.
-The mountain is big.
-She has an island.
-The island is small.
-We have a river.
-The river is long.
-They have a forest.
-The forest is big.
-He has an umbrella.
-The umbrella is new.
-
-I have a train.
+I see a car and a house.
+The car is blue and the house is big.
+He has a pen and a book.
+The pen is small and the book is old.
+She sees a mountain and a river.
+The mountain is tall and the river is long.
+We have a computer.
+The computer is for work.
+They see an island.
+The island is in a lake.
+A doctor is in a hospital.
+The hospital is big.
+A teacher is in a school.
+The school is new.
+An engineer works with a train.
 The train is fast.
-She has a bridge.
-The bridge is long.
-We have a lake.
-The lake is big.
-They see the sun.
-The sun is hot.
-He sees the sky.
-The sky is big.
-
-I have a car.
-The car is new.
-She has a book.
-The book is good.
-He has a pen.
-The pen is small.
-We have a house.
-The house is big.
-They have a computer.
-The computer is new.
-
+The sun is hot and the sky is blue.
 I have a phone.
-The phone is small.
-He has a bicycle.
-The bicycle is old.
-I am in a city.
-The city is big.
-She is at a school.
-The school is good.
-He is at a hospital.
-The hospital is good.
-
-We are at a restaurant.
-The restaurant is good.
-They are at a park.
-The park is good.
-I am at a cinema.
-The cinema is big.
-She is at a museum.
-The museum is old.
-He is at a library.
-The library is good.
-
-We are at a shop.
-The shop is small.
-This is a table.
-The table is big.
-That is a chair.
-The chair is small.
-This is a cup.
+The phone is for a message.
+He sees a bridge.
+The bridge is long.
+A man has a key.
+The key is for a door.
+A woman has a cup.
 The cup is hot.
-That is a clock.
-The clock is old.
-
-This is a door.
-The door is new.
-I have a father.
-The father is old.
-She has a mother.
-The mother is young.
-He has a brother.
-The brother is tall.
-We have a sister.
-The sister is smart.
-
-I see a mountain and a river.
-She has an island and a lake.
-He has an umbrella and a train.
-We have a bridge and a forest.
-They see the sun and the sky.
-I am on a mountain.
-She is on an island.
-He is on a bridge.
-We are at a lake.
-They are in a forest.
-
-The sun is hot today.
-The sky is big and good.
-A train is big and fast.
-A bridge is long and strong.
-A lake is big and good.
-A mountain is big and tall.
-An island is small but good.
-A river is long but small.
-A forest is big and good.
-An umbrella is small but good.
+A student reads a book.
+The book is from a library.
+The library is quiet.
+I am a student.
+You are a teacher.
+He is a doctor.
+She is an engineer.
+We are a family.
+They are friends.
+A family lives in a house.
+The house has a door.
+I see the sun in the sky.
+The sun is hot everyday.
+A train goes to a city.
+The city is big.
+I have a pet.
+The pet is small.
+A park is big.
+We play in a park.
+I see a man.
+The man is tall.
+I see a woman.
+The woman is smart.
+He has a box.
+The box is for a toy.
+She has a watch.
+The watch is good.
+My father has a car.
+His car is new.
+My mother has a book.
+Her book is good.
+This is a pen.
+The pen is blue.
+That is a house.
+The house is big.
+A lake is cold and blue.
+We see a lake.
+The lake is big.
+A train is fast.
+A car is fast.
+The bicycle is fast.
+A forest is old and big.
+We work in a forest.
+The forest is good.

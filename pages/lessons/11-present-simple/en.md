@@ -13,9 +13,9 @@ to live
 to play
 to study
 to read
-to write
+to write (to)
 to speak
-to listen
+to listen (to)
 everyday
 sometimes
 a message

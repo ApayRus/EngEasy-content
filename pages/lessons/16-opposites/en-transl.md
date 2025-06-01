@@ -35,7 +35,7 @@ maɪ bæɡ ɪz ˈhɛvi bʌt jɔː pɛn ɪz laɪt
 ðə kliːn haʊs hæz ˈdɜːti kɑːz
 ðɪs kʌp ɪz draɪ ænd ðæt ɡlɑːs ɪz wɛt
 ðə hɑːd tʃeə ɪz fɔː ðə ˈfɑːðə
-aɪ laɪk sɒft bæɡz ænd ˈdɪfɪkəlt bʊks
+aɪ hæv sɒft bæɡz ænd ˈdɪfɪkəlt bʊks
 ðə sʌn ɪz haɪ ɪn ðə skaɪ
 wiː hæv ə ləʊ ˈteɪbl ɪn ˈaʊə haʊs
 
@@ -63,7 +63,7 @@ nəʊ ɪt ɪz ˈdɜːti
 
 jɛs bʌt ðə ɡlɑːs ɪz wɛt
 ðə hɑːd tʃeə ɪz ɪn ðə ˈhɒspɪtl
-aɪ laɪk sɒft bæɡz fɔː skuːl
+aɪ hæv sɒft bæɡz fɔː ðə skuːl
 ðə ˈiːzi bʊk ɪz fɔː ðə sʌn
 ʃiː hæz ə ˈdɪfɪkəlt bʊk frɒm ðə ˈlaɪbrəri
 ðɪs haɪ ˈmaʊntɪn ɪz ɪn ˈrʌʃə
@@ -75,7 +75,7 @@ jɔː ˈɛmpti kʌp ɪz ɒn ðə ˈteɪbl
 hɪz bæɡ ɪz ˈhɛvi wɪð bʊks ænd pɛnz
 maɪ laɪt pɛn ɪz frɒm ˈtʃaɪnə
 jɔː kliːn haʊs ɪz ɡʊd
-ðeə ˈdɜːti kɑː ɪz æt ðə ʃɒp
+ðeə ˈdɜːti kɑː ɪz ɪn ðə ʃɒp
 ˈaʊə draɪ kʌps ɑː ɪn ðə ˈrɛstrɒnt
 ðə wɛt ɡlɑːs ɪz frɒm ðə pɑːk
 ðə hɑːd tʃeə ɪz ɪn ðə ˈsɪnəmə
@@ -89,13 +89,13 @@ aɪ hæv ə waɪd bɒks wɪð tɔɪz
 ʃiː hæz ən ˈɛmpti bæɡ bʌt aɪ hæv ə fʊl bæɡ
 hiː hæz ə ˈhɛvi kəmˈpjuːtə bʌt aɪ hæv ə laɪt kəmˈpjuːtə
 maɪ kliːn fəʊn ɪz ɒn ðə ˈteɪbl
-jɔː ˈdɜːti kɑː ɪz æt ðə haʊs
+jɔː ˈdɜːti kɑː ɪz ɪn ðə haʊs
 ˈaʊə draɪ kʌps ɑː hɒt
 ðə wɛt ˈglɑːsɪz ɑː kəʊld
 
 aɪ hæv ə hɑːd tʃeə ænd ə sɒft bæɡ
-maɪ ˈiːzi bʊk ɪz æt həʊm
-hɪz ˈdɪfɪkəlt bʊk ɪz æt ðə ˈlaɪbrəri
+maɪ ˈiːzi bʊk ɪz ɪn ðə ˈlaɪbrəri
+hɪz ˈdɪfɪkəlt bʊk ɪz frɒm ðə ˈlaɪbrəri
 ðə ˈmaʊntɪn ɪz haɪ
 ɪz ðə ˈmaʊntɪn haɪ
 jɛs ɪt ɪz haɪ
@@ -135,15 +135,15 @@ jɛs ɪt ɪz ˈɛmpti
 ðə strɒŋ ˈfɑːðə hæz ə draɪ kʌp
 ðə wiːk tʃaɪld hæz ə wɛt ɡlɑːs
 aɪ æm ɪn ə haɪ ˈmaʊntɪn
-juː ɑː æt ə ləʊ ˈteɪbl
+juː hæv ə ləʊ ˈteɪbl
 
-hiː ɪz wɪð ə waɪd ˈrɪvə
-ʃiː ɪz wɪð ə ˈnærəʊ bɒks
+hiː siːz ə waɪd ˈrɪvə
+ʃiː hæz ə ˈnærəʊ bɒks
 wiː ɑː ɪn ən ˈɛmpti haʊs
-ðeɪ ɑː wɪð ə ˈhɛvi bæɡ
-aɪ æm wɪð ə laɪt pɛn
+ðeɪ hæv ə ˈhɛvi bæɡ
+aɪ hæv ə laɪt pɛn
 juː ɑː ɪn ə kliːn kɑː
 hiː ɪz ɪn ə ˈdɜːti pɑːk
-ʃiː ɪz wɪð ə draɪ kʌp
-wiː ɑː æt ə hɑːd tʃeə
-ðeɪ ɑː ɪn ə sɒft bæɡ
+ʃiː hæz ə draɪ kʌp
+wiː hæv ə hɑːd tʃeə
+ðeɪ hæv ə sɒft bæɡ
