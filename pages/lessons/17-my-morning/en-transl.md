@@ -11,6 +11,7 @@ hideHelp: true
 
 ə ˈmɔːnɪŋ
 əˈklɒk
+æt eɪt əˈklɒk
 
 tuː weɪk ʌp
 
@@ -37,7 +38,6 @@ tuː liːv
 tuː liːv həʊm
 
 tuː ɡəʊ tuː skuːl
-æt eɪt əˈklɒk
 
 ## My Morning Routine
 

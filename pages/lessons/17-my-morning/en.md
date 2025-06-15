@@ -11,6 +11,7 @@ hideHelp: true
 
 a morning
 o'clock
+at 8 o'clock
 
 to wake up
 
@@ -37,7 +38,6 @@ a home
 to leave home
 
 to go to school
-at 8 o'clock
 
 ## My Morning Routine
 
