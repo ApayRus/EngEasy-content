@@ -4,7 +4,7 @@ description: Learn 10 basic colors and how to use the verb 'to give' in practica
 hideHelp: true
 ---
 
-# 18. Colors and Giving
+# 18. Colors
 
 ## New Vocabulary {new}
 
