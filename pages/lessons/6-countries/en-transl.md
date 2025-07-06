@@ -28,14 +28,6 @@ frɒm
 
 ## Sentences with countries
 
-aɪ æm frɒm ˈrʌʃə.  
-juː ɑː frɒm ˈɪŋɡlənd.  
-hiː ɪz frɒm əˈmerɪkə.  
-ʃiː ɪz frɒm frɑːns.  
-ðeɪ ɑː frɒm speɪn.  
-wiː ɑː frɒm ˈɪtəly.  
-ɪt ɪz frɒm dʒəˈpæn.
-
 ˈrʌʃə ɪz ə kəʊld ˈkʌntri.
 ˈɪŋɡlənd ɪz ə smɔːl ˈkʌntri.
 əˈmerɪkə ɪz ə rɪtʃ ˈkʌntri.

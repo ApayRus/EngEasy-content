@@ -28,14 +28,6 @@ a country
 
 ## Sentences with countries
 
-I am from Russia.  
-You are from England.  
-He is from America.  
-She is from France.  
-They are from Spain.  
-We are from Italy.  
-It is from Japan.
-
 Russia is a cold country.
 England is a small country.
 America is a rich country.
