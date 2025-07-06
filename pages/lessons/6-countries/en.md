@@ -36,83 +36,124 @@ They are from Spain.
 We are from Italy.  
 It is from Japan.
 
-Russia is a country.
-England is a country.
-America is a big country.
-France is a country.
+Russia is a cold country.
+England is a small country.
+America is a rich country.
+Spain is a hot country.
+Italy is an old country.
+Japan is a smart country.
+India is a poor country.
+China is a strong country.
+Canada is a young country.
+France is a big country.
 
-## Question "where from"
-
-Where are you from?  
-I am from Russia.
-
-Where is he from?  
-He is from America.
-
-Where is she from?  
-She is from France.
-
-Where are they from?  
-They are from China.
-
-Where are we from?  
-We are from India.
-
-What country are you from?
-I am from Russia.
-
-## Countries and "in"
-
-I am in Russia.
-You are in England.
-He is in America.
-She is in France.
-They are in Spain.
-We are in Italy.
-It is in Japan.
-
-I am in this country.
-You are in that country.
-He is in a big country.
-She is in a small country.
-
-## Question "where"
+## Question "where" and "where from"
 
 Where are you?
 I am in Russia.
 
+Where are you from?  
+I am from Russia.
+
 Where is he?
 He is in America.
+
+Where is he from?  
+He is from America.
 
 Where is she?
 She is in France.
 
+Where is she from?  
+She is from France.
+
 Where are they?
 They are in China.
+
+Where are they from?  
+They are from China.
 
 Where are we?
 We are in India.
 
+Where are we from?  
+We are from India.
+
+## What country are you from/in?
+
+What country are you from?
+I am from Russia.
+
 What country are you in?
-I am in Russia.
+I am in Italy.
+
+What country is he from?
+He is from America.
+
+What country is he in?
+He is in Spain.
+
+What country is she from?
+She is from France.
+
+What country is she in?
+She is in France.
+
+What country are they from?
+They are from China.
+
+What country are they in?
+They are in China.
+
+What country are we from?
+We are from India.
+
+What country are we in?
+We are in India.
+
+What country is it from?
+It is from Japan.
+
+What country is it in?
+It is in Japan.
+
+What country am I from?
+I am from Canada.
+
+What country am I in?
+I am in Canada.
 
 ## This, that and countries
 
 This is a book from America.
-That is a pen from Russia.
-This phone is from Japan.
-That table is from Italy.
-This chair is from France.
-That bag is from Spain.
-This key is from England.
-That cup is from China.
-This clock is from Canada.
-That door is from India.
+This book is from America.
 
-This country is big.
-That country is small.
-America is a big country.
-Japan is a small country.
+That is a pen from Russia.
+That pen is from Russia.
+
+This is a phone from Japan.
+This phone is from Japan.
+
+That is a table from Italy.
+That table is from Italy.
+
+This is a chair from France.
+This chair is from France.
+
+That is a bag from Spain.
+That bag is from Spain.
+
+This is a key from England.
+This key is from England.
+
+That is a cup from China.
+That cup is from China.
+
+This is a clock from Canada.
+This clock is from Canada.
+
+That is a door from India.
+That door is from India.
 
 ## Professions, countries and objects
 
@@ -126,54 +167,39 @@ This hot cup is from Japan.
 That cold door is from Italy.
 This old clock is from India.
 
-She is from a country.
-He is from a cold country.
-They are from a big country.
-
 ## Questions and answers
 
 Who is she?  
 She is an actor.  
 Where is she from?  
 She is from France.
+
 What is this?
 This is a phone from Japan.
-
-What country is she from?
-She is from France.
 
 Who is he?  
 He is a doctor.  
 Where is he from?  
 He is from America.
+
 What is that?
 That is a chair from Spain.
-
-What country is he from?
-He is from America.
-
-What country are they from?
-They are from Japan.
 
 Who am I?  
 You are a teacher.  
 Where am I from?  
 You are from Canada.
+
 What is that?
 That is a key from Russia.
-
-What country am I from?
-You are from Canada.
 
 Who are you?  
 I am a driver.  
 Where are you from?  
 I am from Italy.
+
 What is this?
 This is a book from China.
-
-What country are you from?
-I am from Italy.
 
 ## Negative answers
 
@@ -219,6 +245,3 @@ This book is from America.
 What is that?
 That is not a hot cup.
 That is a cold cup from Russia.
-
-What country is this cup from?
-That cup is from Russia.

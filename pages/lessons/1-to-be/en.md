@@ -17,6 +17,16 @@ it is
 we are
 they are
 
+## Contracted forms {new}
+
+I`m
+you're
+he's
+she's
+it's
+we're
+they're
+
 ## Words {new}
 
 big
@@ -33,11 +43,18 @@ young
 ## Sentences
 
 I am big
+I'm big
 She is small
+She's small
 We are tall
+We're tall
 He is short
+He's short
 They are good
+They're good
 You are bad
+You're bad
+
 It is hot
 I am cold
 She is old

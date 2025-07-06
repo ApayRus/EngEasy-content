@@ -17,6 +17,16 @@ hiː ɪz
 wiː ɑː
 ðeɪ ɑː
 
+## Contracted forms {new}
+
+aɪm
+jɔː
+hiːz
+ʃiːz
+ɪts
+wɪə
+ðeə
+
 ## Words {new}
 
 bɪɡ
@@ -33,11 +43,18 @@ jʌŋ
 ## Sentences
 
 aɪ æm bɪɡ
+aɪm bɪɡ
 ʃiː ɪz smɔːl
+ʃiːz smɔːl
 wiː ɑː tɔːl
+wɪə tɔːl
 hiː ɪz ʃɔːt
+hiːz ʃɔːt
 ðeɪ ɑː ɡʊd
+ðeə ɡʊd
 juː ɑː bæd
+jɔː bæd
+
 ɪt ɪz hɒt
 aɪ æm kəʊld
 ʃiː ɪz əʊld
