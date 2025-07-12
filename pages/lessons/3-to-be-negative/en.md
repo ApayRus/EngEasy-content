@@ -153,3 +153,39 @@ I am not thirsty.
 Is he ready?
 No, he isn't ready.
 He is tired.
+
+## Negative questions {new}
+
+Aren't you busy?
+Yes, I am busy.
+
+Isn't he strong?
+Yes, he is strong.
+
+Aren't they rich?
+No, they aren't rich.
+They are poor.
+
+Isn't she happy?
+No, she isn't happy.
+She is sad.
+
+Aren't you tired?
+Yes, I am tired.
+
+Isn't it cold?
+No, it isn't cold.
+It is hot.
+
+Aren't we late?
+Yes, we are late.
+
+Isn't he ready?
+No, he isn't ready.
+
+Aren't you hungry?
+Yes, I am hungry.
+
+Isn't she tall?
+No, she isn't tall.
+She is short.

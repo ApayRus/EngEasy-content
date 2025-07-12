@@ -153,3 +153,39 @@ aɪ æm nɒt ˈθɜːsti.
 ɪz hiː ˈredi?
 nəʊ, hiː ɪznt ˈredi.
 hiː ɪz taɪəd.
+
+## Negative questions
+
+ɑːnt juː ˈbɪzi?
+jɛs, aɪ æm ˈbɪzi.
+
+ɪznt hiː strɒŋ?
+jɛs, hiː ɪz strɒŋ.
+
+ɑːnt ðeɪ rɪtʃ?
+nəʊ, ðeɪ ɑːnt rɪtʃ.
+ðeɪ ɑː pɔː.
+
+ɪznt ʃiː ˈhæpi?
+nəʊ, ʃiː ɪznt ˈhæpi.
+ʃiː ɪz sæd.
+
+ɑːnt juː taɪəd?
+jɛs, aɪ æm taɪəd.
+
+ɪznt ɪt kəʊld?
+nəʊ, ɪt ɪznt kəʊld.
+ɪt ɪz hɒt.
+
+ɑːnt wiː leɪt?
+jɛs, wiː ɑː leɪt.
+
+ɪznt hiː ˈredi?
+nəʊ, hiː ɪznt ˈredi.
+
+ɑːnt juː ˈhʌŋɡri?
+jɛs, aɪ æm ˈhʌŋɡri.
+
+ɪznt ʃiː tɔːl?
+nəʊ, ʃiː ɪznt tɔːl.
+ʃiː ɪz ʃɔːt.
