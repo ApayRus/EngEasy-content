@@ -154,7 +154,7 @@ Is he ready?
 No, he isn't ready.
 He is tired.
 
-## Negative questions {new}
+## Negative questions
 
 Aren't you busy?
 Yes, I am busy.
