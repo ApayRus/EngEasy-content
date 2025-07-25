@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: 'Изучите, как задавать вопросы на английском языке, используя вопросительные слова: who, what, where, when, why, how, which, whose.'
+description: 'Изучите, как задавать вопросы на английском языке, используя вопросительные слова - who, what, where, when, why, how, which, whose.'
 hideHelp: true
 ---
 
