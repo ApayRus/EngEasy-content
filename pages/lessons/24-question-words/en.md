@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: Learn how to ask questions in English using question words - who, what, where, when, why, how, which, whose
+description: 'Learn how to ask questions in English using question words - who, what, where, when, why, how, which, whose'
 hideHelp: true
 ---
 
