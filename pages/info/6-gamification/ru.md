@@ -1,6 +1,6 @@
 ---
 type: text
-image: from-content/images/content/gamification.png
+image: images/content/gamification.png
 description: Геймификация, популярные приложения, всегда предоставляют вам внешние стимулы. Это создает иллюзию обучения, но не дают реальных навыков владения языком
 ---
 

@@ -1,6 +1,6 @@
 ---
 type: text
-image: from-content/images/content/hot-to-study.png
+image: images/content/hot-to-study.png
 ---
 
 # 🏋️ For the Student: How to Use the Textbook/App

@@ -1,6 +1,6 @@
 ---
 type: text
-image: from-content/images/content/hot-to-study.png
+image: images/content/hot-to-study.png
 description: Читайте, слушайте, повторяйте, придумывайте метафоры для вспоминания.
 ---
 

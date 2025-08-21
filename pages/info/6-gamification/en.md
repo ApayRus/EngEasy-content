@@ -1,6 +1,6 @@
 ---
 type: lesson
-image: from-content/images/content/1-about.png
+image: images/content/1-about.png
 ---
 
 # 🎮 Why Gamification Don’t Teach You to Speak

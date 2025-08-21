@@ -1,6 +1,6 @@
 ---
 type: text
-image: from-content/images/content/teacher.png
+image: images/content/teacher.png
 description: Роль преподавателя делится на 2 части - 1) знания о предмете, 2) мотивация ученика. Имея методичное приложение, можно сосредоточиться на мотивационной составляющей
 ---
 

@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# facebookexternalhit
+User-agent: facebookexternalhit
+Allow: /
+
+# Host
+Host: https://engeasy.ru
+
+# Sitemaps
+Sitemap: https://engeasy.ru/sitemap.xml
