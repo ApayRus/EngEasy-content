@@ -1,6 +1,7 @@
 ---
 type: lesson
-description: Learn basic differences between AT, IN, and ON with places and time. Simple rules for beginners to use prepositions correctly.
+description: Learn basic differences between AT, IN, and ON with places and time. Simple rules for beginners to use prepositions correctly
+hidden: true
 ---
 
 # 26. At school, in the room, on the table (Prepositions 2)
