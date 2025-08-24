@@ -1,192 +1,141 @@
 ---
 type: lesson
-description: Learn basic differences between AT, IN, and ON with places and time. Simple rules for beginners to use prepositions correctly
+description: Learn to use prepositions with time and place. Master when to use IN, ON, and AT with time expressions
 hideHelp: true
 ---
 
-# 26. At school, in the room, on the table (Prepositions 2)
+# 26. In winter, on Monday, at 8 o'clock (Prepositions 2)
 
 ## New words {new}
 
-ɡɜːl
-bɔɪ
-ˈbeɪbi
-ˈpiːpl
-ˈɒfɪs
-stɔː
-ˈsteɪʃn
-klɑːs
-ˈlesn
-striːt
-rəʊd
-wɔːl
-flɔː
-ˈwɪndəʊ
-bed
+ə ɡɜːl
+ə bɔɪ
+ə ˈbeɪbi
+ə ˈlesn
+ə ˈsiːzn
+ˈwɪntə
+sprɪŋ
+ˈsʌmə
+ˈɔːtəm
+ˈdʒænjʊəri
+ˈfebrʊəri
+mɑːtʃ
+ˈeɪprəl
+tuː stɑːt
 
-## AT + places (specific locations and addresses)
+## AT + time (specific times)
 
-ðə ɡɜːl ɪz æt skuːl
-ðə bɔɪ ɪz æt həʊm
-ˈpiːpl wɜːk æt ði ˈɒfɪs
-wiː miːt æt ðə ˈsteɪʃn
-aɪ ɡəʊ æt ðə stɔː
-ðə ˈfæməli ɪz æt ðə ˈrestərɒnt
-ʃiː ɪz æt ðə ˈhɒspɪtl
-hiː wɜːks æt ði ˈɒfɪs
-ðeɪ ˈstʌdi æt ðə ˈlaɪbrəri
+ðə ˈdɒktə wɜːks æt eɪt əˈklɒk
+ðə ˈtiːtʃə riːdz æt naɪn əˈklɒk
+ðə ˈbeɪbi weɪks ʌp æt ˈsevn əˈklɒk
+ðə ɡɜːl iːts æt sɪks əˈklɒk
+ðə bɔɪ teɪks ə ˈʃaʊə æt faɪv əˈklɒk
+ðə ˈfæməli liːvz həʊm æt eɪt əˈklɒk
+ðə ˈstjuːdnt ˈstʌdiz æt ten əˈklɒk
+ðə ˈwɜːkə kʊks æt fɔː əˈklɒk
+ðə ˈɑːtɪst raɪts æt ɪˈlevn əˈklɒk
+ðə ˈendʒɪnɪə ɡəʊz tuː wɜːk æt θriː əˈklɒk
+
+## IN + time (months, seasons, parts of day)
+
+maɪ ˈfɑːðə ənd aɪ ˈtrævl tuː dʒəˈpæn ɪn ˈsʌmə
+jɔː ˈdɒktə ɪz ˈbɪzi ɪn ˈwɪntə
+ðə ɡɜːl ˈstʌdiz ɪn sprɪŋ
+ðə bɔɪ pleɪz ɪn ˈɔːtəm
+ðə ˈbeɪbi ɪz ˈhæpi ɪn ˈdʒænjʊəri
+ðə ˈfæməli ɪz friː ɪn ˈfebrʊəri
+ðə ˈstjuːdnt riːdz ɪn mɑːtʃ
+ðə ˈtiːtʃə wɜːks ɪn ˈeɪprəl
+ðə skaɪ ɪz bluː ɪn ðə ˈmɔːnɪŋ
+ðə skaɪ ɪz blæk ɪn ði ˈiːvnɪŋ
+
+## ON + time (days, dates)
+
+ðə ˈdɒktə wɜːks ɒn ˈmʌndeɪ
+ðə ˈtiːtʃə riːdz ɒn ˈtjuːzdeɪ
+ðə ˈbeɪbi ɪz ˈhæpi ɒn ˈwenzdeɪ
+ðə ɡɜːl ˈstʌdiz ɒn ˈθɜːzdeɪ
+ðə bɔɪ ɪz ˈbɪzi ɒn ˈfraɪdeɪ
+ðə ˈfæməli ɪz friː ɒn ˈsætədeɪ
+ðə ˈstjuːdnt ˈstʌdiz ɒn ˈsʌndeɪ
+ðə ˈsiːzn sprɪŋ stɑːts ɒn mɑːtʃ wʌn
+ðə ˈlesn stɑːts ɒn ˈdʒænjʊəri wʌn
+ðə ɡɜːl hæz ə ˈlesn ɒn ˈfebrʊəri tuː
+
+## AT + place (specific locations)
+
+ðə ˈdɒktə ɪz æt ðə ˈhɒspɪtl
+ðə ˈtiːtʃə ɪz æt skuːl
 ðə ˈbeɪbi ɪz æt həʊm
+ðə ɡɜːl ɪz æt ðə ˈlaɪbrəri
+ðə bɔɪ ɪz æt ðə ˈrestərɒnt
+ðə ˈfæməli ɪz æt ðə ˈsɪnəmə
+ðə ˈstjuːdnt ɪz æt ðə mjuːˈziːəm
+ðə ˈwɜːkə ɪz æt ðə ʃɒp
+ðə ˈɑːtɪst ɪz æt ðə pɑːk
+ðə ˈendʒɪnɪə ɪz æt ðə ˈhɒspɪtl
 
-## IN + places (inside spaces and enclosed areas)
+## IN + place (enclosed spaces)
 
-ðə ɡɜːl ɪz ɪn ðə klɑːs
-ðə bɔɪ ɪz ɪn hɪz ruːm
-ˈpiːpl wɜːk ɪn ði ˈɒfɪs
-wiː ɑː ɪn ðə ˈsteɪʃn
-ðə fuːd ɪz ɪn ðə stɔː
-ðə ˈfæməli ɪz ɪn ðə ˈrestərɒnt
-ʃiː ɪz ɪn ðə kɑː
-hiː ɪz ɪn ðə ˈhɒspɪtl
-ðə bʊks ɑː ɪn ðə ˈlaɪbrəri
-ðə ˈbeɪbi ɪz ɪn ðə bed
-
-## ON + surfaces (things touching flat surfaces)
-
-ðə bʊk ɪz ɒn ðə ˈteɪbl
-ðə pen ɪz ɒn ðə wɔːl
-ðə kʌp ɪz ɒn ðə flɔː
-ðə klɒk ɪz ɒn ðə wɔːl
-ðə fəʊn ɪz ɒn ðə bed
-ðə kiː ɪz ɒn ðə ˈteɪbl
-ðə bæɡ ɪz ɒn ðə tʃeə
-ðə ˈmʌni ɪz ɪn ðə bɒks
-ðə pen ɪz ɒn ðə ˈteɪbl
-ðə bʊk ɪz ɒn ðə tʃeə
-
-## AT + time (specific times and occasions)
-
-ðə ˈlesn ɪz æt eɪt əˈklɒk
-ðə ɡɜːl kʌmz æt ˈbrekfəst
-wiː miːt æt faɪv əˈklɒk
-ðə klɑːs ɪz æt ten əˈklɒk
-ʃiː ɡəʊz tuː bed æt ɪˈlevn əˈklɒk
-ˈpiːpl wɜːk æt eɪt əˈklɒk
-ðə ˈbeɪbi ɪz ˈhʌŋɡri æt tuː əˈklɒk
-ðeɪ iːt æt sɪks əˈklɒk
-aɪ riːd æt ˈsevn əˈklɒk
-
-## IN + time (longer periods: months, years, seasons)
-
-ðə klɑːs ɪz ɪn ðə ˈmɔːnɪŋ
-ðə bɔɪ ˈstʌdiz ɪn ði ˈiːvnɪŋ
-ˈpiːpl wɜːk ɒn ˈmʌndeɪ
-wiː ˈtrævl ˈsʌmtaɪmz
-ðə ɡɜːl pleɪz ɪn ðə ˈmɔːnɪŋ
-ðeɪ iːt ɪn ði ˈiːvnɪŋ
-ðə stɔː ɪz ɡʊd
-ðə ˈbeɪbi ɪz jʌŋ
-aɪ riːd æt həʊm
-
-## ON + time (days of the week and dates)
-
-ðə ɡɜːl ɡəʊz tuː skuːl ɒn ˈmʌndeɪ
-ðə bɔɪ pleɪz ɒn ˈtjuːzdeɪ
-ˈpiːpl wɜːk ɒn ˈwenzdeɪ
-ðə ˈlesn ɪz ɒn ˈθɜːzdeɪ
-wiː ˈtrævl ɒn ˈfraɪdeɪ
-ðə ˈfæməli iːts ɒn ˈsætədeɪ
-ðeɪ ɑː friː ɒn ˈsʌndeɪ
-ðə stɔː ɪz ɡʊd ɒn ˈwiːkdeɪz
-ðə ˈbeɪbi ɪz ˈhæpi ɒn ˈmʌndeɪ
-aɪ riːd ɒn ˈsʌndeɪ
-
-## Simple location patterns
-
-ðə ɡɜːl ɪz æt ðə ˈteɪbl
-ðə bɔɪ ɪz ɪn ðə tʃeə
-ðə bʊk ɪz ɒn ðə ˈteɪbl
-ˈpiːpl wɜːk æt ði ˈɒfɪs
-ðə ˈfæməli ɪz ɪn ðə haʊs
-ðə ˈbeɪbi ɪz ɒn ðə bed
-ðə pen ɪz ɒn ðə ˈteɪbl
-ðə bæɡ ɪz ɪn ðə ruːm
-ðə klɒk ɪz ɒn ðə wɔːl
-ðə fəʊn ɪz æt həʊm
-
-## People and places
-
-ðə ɡɜːl ɡəʊz tuː skuːl
-ðə bɔɪ ɪz æt skuːl
-ˈpiːpl ɡəʊ tuː ði ˈɒfɪs
-ðə ˈwʊmən ɪz æt ði ˈɒfɪs
-ðə ˈbeɪbi ɡəʊz tuː bed
-ðə mæn ɪz ɪn bed
-ðə ˈfæməli ɡəʊz tuː ðə stɔː
-ðə ˈtiːtʃə ɪz æt ðə stɔː
-ðə ˈstjuːdnt ɡəʊz tuː klɑːs
-ðə ˈdɒktə ɪz ɪn klɑːs
-
-## Daily activities with prepositions
-
-ðə ɡɜːl ˈstʌdiz æt skuːl
-ðə bɔɪ pleɪz ɪn ðə ˈɡɑːdn
-ˈpiːpl iːt æt ðə ˈrestərɒnt
-ðə ˈwʊmən wɜːks ɪn ði ˈɒfɪs
+ðə ɡɜːl ɪz ɪn ðə kɑː
+ðə bɔɪ ɪz ɪn ðə treɪn
 ðə ˈbeɪbi ɪz ɪn ðə ruːm
-ðə mæn riːdz æt həʊm
-ˈpiːpl wɜːk ɒn ðə striːt
+ðə ˈdɒktə ɪz ɪn ðə ˈhɒspɪtl
+ðə ˈtiːtʃə ɪz ɪn skuːl
 ðə ˈfæməli ɪz ɪn ðə haʊs
-ðə ˈstjuːdnt riːdz ɪn ðə ˈlesn
-ðə ˈtiːtʃə wɜːks ɒn ðə wɔːl
+ðə ˈstjuːdnt ɪz ɪn ðə ˈlaɪbrəri
+ðə ˈwɜːkə ɪz ɪn ðə ʃɒp
+ðə ˈɑːtɪst ɪz ɪn ðə mjuːˈziːəm
+ðə ˈendʒɪnɪə ɪz ɪn ðə ˈhɒspɪtl
 
 ## Questions with WHERE
 
+weə ɪz ðə ˈdɒktə
+hiː ɪz æt ðə ˈhɒspɪtl
+weə ɪz ðə ˈtiːtʃə
+ʃiː ɪz ɪn skuːl
+weə ɪz ðə ˈbeɪbi
+ðə ˈbeɪbi ɪz ɪn ðə kɑː
 weə ɪz ðə ɡɜːl
-ʃiː ɪz æt skuːl
+ʃiː ɪz æt ðə ˈlaɪbrəri
 weə ɪz ðə bɔɪ
-hiː ɪz ɪn hɪz ruːm
-weər ɑː ˈpiːpl
-ðeɪ ɑː æt wɜːk
-weər ɪz ðə ˈbeɪbi
-ðə ˈbeɪbi ɪz ɪn bed
-weər ɪz ðə bʊk
-ɪt ɪz ɒn ðə ˈteɪbl
+hiː ɪz ɪn ðə ˈrestərɒnt
 
-## Common place combinations
+## Questions with WHEN
 
-ðə ɡɜːl ɪz ɒn ðə tʃeər æt skuːl
-ðə bɔɪ riːdz ɪn hɪz ruːm æt həʊm
-ˈpiːpl wɜːk æt ðə ˈteɪbl ɪn ði ˈɒfɪs
-ðə ˈbeɪbi pleɪz ɒn ðə flɔː ɪn ðə ruːm
-ðə ˈfæməli iːts æt ðə ˈteɪbl ɪn ðə haʊs
-ðə ˈstjuːdnt ˈstʌdiz ɪn ðə ˈlaɪbrəri æt skuːl
-ðə ˈtiːtʃər ɪz æt ðə ˈteɪbl ɪn ðə klɑːs
-ðə ˈwʊmən wɜːks æt ði ˈɒfɪs ɒn ðə striːt
-ðə mæn ɪz ɪn ðə bed æt həʊm
-ˈpiːpl pleɪ ɒn ðə striːt nɪər ðə skuːl
+wen dʌz ðə ˈdɒktə wɜːk
+hiː wɜːks æt eɪt əˈklɒk
+wen dʌz ðə ˈtiːtʃə riːd
+ʃiː riːdz æt naɪn əˈklɒk
+wen dʌz ðə ˈbeɪbi weɪk ʌp
+ðə ˈbeɪbi weɪks ʌp æt ˈsevn əˈklɒk
+wen dʌz ðə ɡɜːl iːt
+ʃiː iːts æt sɪks əˈklɒk
+wen dʌz ðə bɔɪ teɪk ə ˈʃaʊə
+hiː teɪks ə ˈʃaʊə æt faɪv əˈklɒk
 
-## Time and place together
+## Time combinations
 
-ðə ɡɜːl ɪz æt skuːl ɪn ðə ˈmɔːnɪŋ
-ðə bɔɪ ɪz ɪn hɪz bed æt həʊm
-ˈpiːpl wɜːk ɪn ði ˈɒfɪs æt eɪt əˈklɒk
-ðə ˈfæməli iːts ɪn ðə haʊs æt sɪks əˈklɒk
-ðə ˈbeɪbi pleɪz ɒn ðə flɔː ɪn ðə ˈmɔːnɪŋ
-ðə ˈstjuːdnt ɪz ɪn klɑːs æt ten əˈklɒk
-ðə ˈtiːtʃə wɜːks æt skuːl ɒn ˈmʌndeɪ
-ðə ˈwʊmən ɪz æt həʊm ɪn ði ˈiːvnɪŋ
-ðə mæn riːdz ɪn ðə ˈlaɪbrəri æt θriː əˈklɒk
-ˈpiːpl pleɪ æt ðə pɑːk ˈsʌmtaɪmz
+ðə ˈdɒktə wɜːks æt eɪt əˈklɒk ɒn ˈmʌndeɪ
+ðə ˈtiːtʃə riːdz æt naɪn əˈklɒk ɒn ˈtjuːzdeɪ
+ðə ˈbeɪbi weɪks ʌp æt ˈsevn əˈklɒk ɒn ˈwenzdeɪ
+ðə ɡɜːl ˈstʌdiz æt sɪks əˈklɒk ɒn ˈθɜːzdeɪ
+ðə bɔɪ teɪks ə ˈʃaʊə æt faɪv əˈklɒk ɒn ˈfraɪdeɪ
+ðə ˈfæməli ˈtrævlz ɒn ˈsætədeɪ ɪn ˈsʌmə
+ðə ˈstjuːdnt raɪts ɒn ˈsʌndeɪ ɪn ˈwɪntə
+ðə ˈɑːtɪst raɪts æt ɪˈlevn əˈklɒk ɪn sprɪŋ
+ðə ˈendʒɪnɪə ˈtrævlz æt θriː əˈklɒk ɪn ˈɔːtəm
+ðə ˈwɜːkə kʊks æt fɔː əˈklɒk ɪn ˈdʒænjʊəri
 
-## Practice with new words
+## Place combinations
 
-ðə ɡɜːl ɪz ɒn ðə rəʊd
-ðə bɔɪ riːdz θruː ðə ˈwɪndəʊ
-ˈpiːpl ɑː ɒn ðə flɔː
-ði ˈɒfɪs ɪz ɒn ðɪs striːt
-ðə stɔː ɪz nɪər ðə ˈsteɪʃn
-ðə klɑːs hæz ˈmeni ˈwɪndəʊz
-ðə ˈlesn ɪz ɪn ðə ˈmɔːnɪŋ
-ðə ˈbeɪbi ɪz ɒn ðə bed
-ðə ˈfæməli lɪvz ɒn ðɪs rəʊd
-ðə ˈstjuːdnt ɪz ɪn ðə klɑːs
+ðə ˈdɒktə ɪz æt ðə ˈhɒspɪtl ɪn ðə ruːm
+ðə ˈtiːtʃə ɪz æt skuːl ɪn ðə ruːm
+ðə ˈbeɪbi ɪz æt həʊm ɪn ðə kɑː
+ðə ɡɜːl ɪz æt ðə ˈlaɪbrəri ɪn ðə ruːm
+ðə bɔɪ ɪz æt ðə ˈrestərɒnt ɪn ðə ruːm
+ðə ˈfæməli ɪz æt ðə ˈsɪnəmə ɪn ðə ruːm
+ðə ˈstjuːdnt ɪz æt ðə mjuːˈziːəm ɪn ðə ruːm
+ðə ˈwɜːkə ɪz æt ðə ʃɒp ɪn ðə ruːm
+ðə ˈɑːtɪst ɪz æt ðə pɑːk ɪn ðə ruːm
+ðə ˈendʒɪnɪə ɪz æt ðə ˈhɒspɪtl ɪn ðə ruːm

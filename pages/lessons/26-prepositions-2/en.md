@@ -1,192 +1,141 @@
 ---
 type: lesson
-description: Learn basic differences between AT, IN, and ON with places and time. Simple rules for beginners to use prepositions correctly
+description: Learn to use prepositions with time and place. Master when to use IN, ON, and AT with time expressions
 hideHelp: true
 ---
 
-# 26. At school, in the room, on the table (Prepositions 2)
+# 26. In winter, on Monday, at 8 o'clock (Prepositions 2)
 
 ## New words {new}
 
-girl
-boy
-baby
-people
-office
-store
-station
-class
-lesson
-street
-road
-wall
-floor
-window
-bed
+a girl
+a boy
+a baby
+a lesson
+a season
+winter
+spring
+summer
+autumn
+January
+February
+March
+April
+to start
 
-## AT + places (specific locations and addresses)
+## AT + time (specific times)
 
-The girl is at school.
-The boy is at home.
-People work at the office.
-We meet at the station.
-I go at the store.
-The family is at the restaurant.
-She is at the hospital.
-He works at the office.
-They study at the library.
+The doctor works at 8 o'clock.
+The teacher reads at 9 o'clock.
+The baby wakes up at 7 o'clock.
+The girl eats at 6 o'clock.
+The boy takes a shower at 5 o'clock.
+The family leaves home at 8 o'clock.
+The student studies at 10 o'clock.
+The worker cooks at 4 o'clock.
+The artist writes at 11 o'clock.
+The engineer goes to work at 3 o'clock.
+
+## IN + time (months, seasons, parts of day)
+
+My father and I travel to Japan in summer.
+Your doctor is busy in winter.
+The girl studies in spring.
+The boy plays in autumn.
+The baby is happy in January.
+The family is free in February.
+The student reads in March.
+The teacher works in April.
+The sky is blue in the morning.
+The sky is black in the evening.
+
+## ON + time (days, dates)
+
+The doctor works on Monday.
+The teacher reads on Tuesday.
+The baby is happy on Wednesday.
+The girl studies on Thursday.
+The boy is busy on Friday.
+The family is free on Saturday.
+The student studies on Sunday.
+The season spring starts on March 1.
+The lesson starts on January 1.
+The girl has a lesson on February 2.
+
+## AT + place (specific locations)
+
+The doctor is at the hospital.
+The teacher is at school.
 The baby is at home.
+The girl is at the library.
+The boy is at the restaurant.
+The family is at the cinema.
+The student is at the museum.
+The worker is at the shop.
+The artist is at the park.
+The engineer is at the hospital.
 
-## IN + places (inside spaces and enclosed areas)
+## IN + place (enclosed spaces)
 
-The girl is in the class.
-The boy is in his room.
-People work in the office.
-We are in the station.
-The food is in the store.
-The family is in the restaurant.
-She is in the car.
-He is in the hospital.
-The books are in the library.
-The baby is in the bed.
-
-## ON + surfaces (things touching flat surfaces)
-
-The book is on the table.
-The pen is on the wall.
-The cup is on the floor.
-The clock is on the wall.
-The phone is on the bed.
-The key is on the table.
-The bag is on the chair.
-The money is in the box.
-The pen is on the table.
-The book is on the chair.
-
-## AT + time (specific times and occasions)
-
-The lesson is at 8 o'clock.
-The girl comes at breakfast.
-We meet at 5 o'clock.
-The class is at 10 o'clock.
-She goes to bed at 11 o'clock.
-People work at 8 o'clock.
-The baby is hungry at 2 o'clock.
-They eat at 6 o'clock.
-I read at 7 o'clock.
-
-## IN + time (longer periods: months, years, seasons)
-
-The class is in the morning.
-The boy studies in the evening.
-People work on Monday.
-We travel sometimes.
-The girl plays in the morning.
-They eat in the evening.
-The store is good.
-The baby is young.
-I read at home.
-
-## ON + time (days of the week and dates)
-
-The girl goes to school on Monday.
-The boy plays on Tuesday.
-People work on Wednesday.
-The lesson is on Thursday.
-We travel on Friday.
-The family eats on Saturday.
-They are free on Sunday.
-The store is good on weekdays.
-The baby is happy on Monday.
-I read on Sunday.
-
-## Simple location patterns
-
-The girl is at the table.
-The boy is in the chair.
-The book is on the table.
-People work at the office.
-The family is in the house.
-The baby is on the bed.
-The pen is on the table.
-The bag is in the room.
-The clock is on the wall.
-The phone is at home.
-
-## People and places
-
-The girl goes to school.
-The boy is at school.
-People go to the office.
-The woman is at the office.
-The baby goes to bed.
-The man is in bed.
-The family goes to the store.
-The teacher is at the store.
-The student goes to class.
-The doctor is in class.
-
-## Daily activities with prepositions
-
-The girl studies at school.
-The boy plays in the garden.
-People eat at the restaurant.
-The woman works in the office.
+The girl is in the car.
+The boy is in the train.
 The baby is in the room.
-The man reads at home.
-People work on the street.
+The doctor is in the hospital.
+The teacher is in the school.
 The family is in the house.
-The student reads in the lesson.
-The teacher works on the wall.
+The student is in the library.
+The worker is in the shop.
+The artist is in the museum.
+The engineer is in the hospital.
 
 ## Questions with WHERE
 
-Where is the girl?
-She is at school.
-Where is the boy?
-He is in his room.
-Where are people?
-They are at work.
+Where is the doctor?
+He is at the hospital.
+Where is the teacher?
+She is in the school.
 Where is the baby?
-The baby is in bed.
-Where is the book?
-It is on the table.
+The baby is in the car.
+Where is the girl?
+She is at the library.
+Where is the boy?
+He is in the restaurant.
 
-## Common place combinations
+## Questions with WHEN
 
-The girl is on the chair at school.
-The boy reads in his room at home.
-People work at the table in the office.
-The baby plays on the floor in the room.
-The family eats at the table in the house.
-The student studies in the library at school.
-The teacher is at the table in the class.
-The woman works at the office on the street.
-The man is in the bed at home.
-People play on the street near the school.
+When does the doctor work?
+He works at 8 o'clock.
+When does the teacher read?
+She reads at 9 o'clock.
+When does the baby wake up?
+The baby wakes up at 7 o'clock.
+When does the girl eat?
+She eats at 6 o'clock.
+When does the boy take a shower?
+He takes a shower at 5 o'clock.
 
-## Time and place together
+## Time combinations
 
-The girl is at school in the morning.
-The boy is in his bed at home.
-People work in the office at 8 o'clock.
-The family eats in the house at 6 o'clock.
-The baby plays on the floor in the morning.
-The student is in class at 10 o'clock.
-The teacher works at school on Monday.
-The woman is at home in the evening.
-The man reads in the library at 3 o'clock.
-People play at the park sometimes.
+The doctor works at 8 o'clock on Monday.
+The teacher reads at 9 o'clock on Tuesday.
+The baby wakes up at 7 o'clock on Wednesday.
+The girl studies at 6 o'clock on Thursday.
+The boy takes a shower at 5 o'clock on Friday.
+The family travels on Saturday in summer.
+The student writes on Sunday in winter.
+The artist writes at 11 o'clock in spring.
+The engineer travels at 3 o'clock in autumn.
+The worker cooks at 4 o'clock in January.
 
-## Practice with new words
+## Place combinations
 
-The girl is on the road.
-The boy reads through the window.
-People are on the floor.
-The office is on this street.
-The store is near the station.
-The class has many windows.
-The lesson is in the morning.
-The baby is on the bed.
-The family lives on this road.
-The student is in the class.
+The doctor is at the hospital in the room.
+The teacher is at school in the room.
+The baby is at home in the car.
+The girl is at the library in the room.
+The boy is at the restaurant in the room.
+The family is at the cinema in the room.
+The student is at the museum in the room.
+The worker is at the shop in the room.
+The artist is at the park in the room.
+The engineer is at the hospital in the room.
