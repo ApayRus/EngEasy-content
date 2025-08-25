@@ -1,10 +1,10 @@
 ---
 type: lesson
-description: I am making tea. Present Continuous Tense. Household items.
+description: Learn present continuous tense. And how to talk about household actions.
 hideHelp: true
 ---
 
-# Household Items
+# 27. I am making tea. Present Continuous Tense. Household items.
 
 ## New words {new}
 

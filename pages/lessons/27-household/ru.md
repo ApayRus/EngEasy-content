@@ -1,10 +1,10 @@
 ---
 type: lesson
-description: Я делаю чай. Время Present Continuous. Предметы быта.
+description: Изучаем время Present Continuous. И как говорить о действиях в быту.
 hideHelp: true
 ---
 
-# Предметы быта
+# 27. Я делаю чай. Время Present Continuous. Предметы быта.
 
 ## Новые слова {new}
 
