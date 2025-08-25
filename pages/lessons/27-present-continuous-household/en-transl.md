@@ -15,12 +15,12 @@ hideHelp: true
 ə ˈwɪndəʊ
 ə naɪf
 ə ˈkɪʧɪn
-tə sɪt
-tə laɪ
-tə pʊt
-tə lʊk
-tə meɪk
-tə duː
+tuː sɪt
+tuː laɪ
+tuː pʊt
+tuː lʊk
+tuː meɪk
+tuː duː
 naʊ
 
 ## ˈprɛznt kənˈtɪnjʊəs tɛns = tə biː (æm, ɪz, ɑː) + ðə meɪn vɜːb + ɪŋ. ˈkɒnsənənts b, d, g, l, m, n, p, r ɑː ˈdʌbld ət ði ɛnd. wiː juːz ðɪs tɛns fər ˈækʃənz ˈhæpnɪŋ raɪt naʊ.

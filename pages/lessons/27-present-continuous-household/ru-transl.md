@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: Время Present Continuous. Предметы быта.
+description: Present Continuous Tense. Household items.
 hideHelp: true
 ---
 
@@ -15,12 +15,12 @@ hideHelp: true
 ə ˈвиндəу
 ə найф
 ə ˈкиʧин
-тə сит
-тə лай
-тə пут
-тə лук
-тə мейк
-тə дуː
+туː сит
+туː лай
+туː пут
+туː лук
+туː мейк
+туː дуː
 нау
 
 ## ˈprɛznt kənˈtɪnjʊəs tɛns = tə biː (æm, ɪz, ɑː) + ðə meɪn vɜːb + ɪŋ. ˈkɒnsənənts b, d, g, l, m, n, p, r ɑː ˈdʌbld ət ði ɛnd. wiː juːz ðɪs tɛns fər ˈækʃənz ˈhæpnɪŋ raɪt naʊ.
