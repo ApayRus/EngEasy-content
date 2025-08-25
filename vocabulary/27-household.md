@@ -437,3 +437,18 @@ february
 march
 april
 start
+
+--- lesson 27 ---
+sofa
+kettle
+spoon
+fork
+window
+knife
+kitchen
+sit
+lie
+put
+look
+make
+now

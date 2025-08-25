@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"ru": {
-			"title": "EngEasy - английский легко",
-			"description": "интерактивный учебник для изучения английского языка по уникальной методике",
-			"siteUrl": "https://engeasy.ru"
-		},
-		"en": {
-			"title": "EngEasy - Easy English",
-			"description": "Interactive textbook for learning English language using a unique methodology",
-			"siteUrl": "https://engeasy.ru"
-		}
-	},
-	"logo": {
-		"textArray": ["Eng", "Easy"]
-	},
-	"languages": [
-		{
-			"code": "en",
-			"emoji": "🇬🇧",
-			"name": "English",
-			"voiceTitle": "Voice"
-		},
-		{
-			"code": "ru",
-			"emoji": "🇷🇺",
-			"name": "Russian",
-			"voiceTitle": "Голос"
-		}
-	],
-	"voicePriority": ["en-GB", "en-US", "en"],
-	"yandexMetrikaId": "101145170"
+  "metadata": {
+    "ru": {
+      "title": "EngEasy - английский с нуля",
+      "description": "интерактивный учебник, приложение, курс по уникальной методике для изучения английского языка с нуля для начинающих. Самостоятельно или с учителем. ",
+      "siteUrl": "https://engeasy.ru"
+    },
+    "en": {
+      "title": "EngEasy - English from scratch",
+      "description": "Interactive textbook, app, course for learning English language from scratch using a unique methodology. By yourself or with a teacher.",
+      "siteUrl": "https://engeasy.ru"
+    }
+  },
+  "logo": {
+    "textArray": ["Eng", "Easy"]
+  },
+  "languages": [
+    {
+      "code": "en",
+      "emoji": "🇬🇧",
+      "name": "English",
+      "voiceTitle": "Voice"
+    },
+    {
+      "code": "ru",
+      "emoji": "🇷🇺",
+      "name": "Russian",
+      "voiceTitle": "Голос"
+    }
+  ],
+  "voicePriority": ["en-GB", "en-US", "en"],
+  "yandexMetrikaId": "101145170"
 }
