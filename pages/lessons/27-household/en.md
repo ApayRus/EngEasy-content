@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: Learn the names of common household items and practice using them in sentences with prepositions.
+description: I am making tea. Present Continuous Tense. Household items.
 hideHelp: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: lɜːn ðə neɪmz əv ˈkɒmən ˈhaʊshəʊld ˈaɪtəmz ənd ˈpræktɪs ˈjuːzɪŋ ðəm ɪn ˈsɛntənsɪz wɪð ˌprɛpəˈzɪʃənz.
+description: Время Present Continuous. Предметы быта.
 hideHelp: true
 ---
 

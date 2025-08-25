@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: lɜːn ðə neɪmz əv ˈkɒmən ˈhaʊshəʊld ˈaɪtəmz ənd ˈpræktɪs ˈjuːzɪŋ ðəm ɪn ˈsɛntənsɪz wɪð ˌprɛpəˈzɪʃənz.
+description: Present Continuous Tense. Household items.
 hideHelp: true
 ---
 
