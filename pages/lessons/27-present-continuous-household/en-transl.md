@@ -68,16 +68,16 @@ aɪ əm ˈlʊkɪŋ fə maɪ fəʊn ɪn ðə ruːm.
 ʃiː ɪz ˈpʊtɪŋ ðə bʊk ɒn ðə ˈsəʊfə.
 ðə ˈbeɪbi ɪz ˈlaɪɪŋ ɪn ðə smɔːl ruːm.
 
-wɒt ə juː ˈduːɪŋ ɪn ðə ˈkɪʧɪn naʊ?
-weər ɪz jə ˈfɑːðə ˈsɪtɪŋ?
-ɪz jə ˈmʌðə ˈmeɪkɪŋ tiː ɔː ˈkɒfi?
-waɪ ə ðeɪ ˈlʊkɪŋ θruː ðə ˈwɪndəʊ?
-wɒt ɪz ðə pɛt ˈduːɪŋ naʊ?
-ə juː ˈpʊtɪŋ mɪlk ɪn ðə tiː?
-ɪz jə ˈbrʌðə ˈwɒʧɪŋ ˌtiːˈviː ɔː ˈriːdɪŋ?
-wɒt ɪz ʃiː ˈpʊtɪŋ ɒn ðə ˈteɪbl?
-ɪz ðə pɛt ˈlaɪɪŋ ˈʌndə ðə ˈsəʊfə?
-huː ɪz ˈsɪtɪŋ ɒn maɪ njuː ʧeə?
+juː ə ˈkʊkɪŋ ɪn ðə ˈkɪʧɪn naʊ.
+maɪ ˈfɑːðər ɪz ˈsɪtɪŋ ɒn ðə ˈsəʊfə.
+maɪ ˈmʌðər ɪz ˈmeɪkɪŋ tiː.
+ðeɪ ə ˈlʊkɪŋ θruː ðə ˈwɪndəʊ.
+ðə pɛt ɪz ˈpleɪɪŋ wɪð ə tɔɪ naʊ.
+juː ə ˈpʊtɪŋ mɪlk ɪn ðə tiː.
+maɪ ˈbrʌðər ɪz ˈwɒʧɪŋ ˌtiːˈviː.
+ʃiː ɪz ˈpʊtɪŋ ə spuːn ɒn ðə ˈteɪbl.
+ðə pɛt ɪz ˈlaɪɪŋ ˈʌndə ðə ˈsəʊfə.
+maɪ frɛnd ɪz ˈsɪtɪŋ ɒn maɪ njuː ʧeə.
 
 maɪ ˈfɑːðər ɪz ˈsɪtɪŋ ɒn ðə ˈsəʊfə ənd ˈwɒʧɪŋ ˌtiːˈviː.
 maɪ ˈmʌðər ɪz ˈteɪkɪŋ ðə ˈkɛtl ənd ˈmeɪkɪŋ tiː.
@@ -113,7 +113,7 @@ aɪ əm ˈpʊtɪŋ ðə kliːn spuːnz ənd fɔːks ɒn ðə ˈteɪbl.
 ʃiː ɪz ˈmeɪkɪŋ tiː.
 ðə bɔɪ ɪz ˈsɪtɪŋ ˈʌndə ðə ˈteɪbl wɪð hɪz pɛt.
 aɪ əm ˈpʊtɪŋ mɪlk ənd ən ɛg ɒn ðə ˈteɪbl.
-ə juː ˈmeɪkɪŋ ˈkɒfi fə jə ˈbrʌðə?
+juː ə ˈmeɪkɪŋ ˈkɒfi fə jə ˈbrʌðə.
 hiː ɪz nɒt ˈsɪtɪŋ ɒn ðə ʧeə.
 hiː ɪz ˈsɪtɪŋ ɒn ðə ˈsəʊfə.
 ʃiː ɪz ˈlʊkɪŋ fər ə spuːn ɪn ðə ˈkɪʧɪn.
@@ -128,8 +128,8 @@ hiː ɪz ˈpʊtɪŋ hɪz əʊld bʊks ɒn ə ʧeə.
 ðə pɛt ɪz ˈlaɪɪŋ fɑː frəm ðə dɔː.
 aɪ əm nɒt ˈdrɪŋkɪŋ ˈkɒfi.
 aɪ əm ˈdrɪŋkɪŋ ˈwɔːtə.
-ə juː ˈsɪtɪŋ nɪə ðə ˈwɪndəʊ?
-wɒt ɪz hiː ˈpʊtɪŋ ɪn ðə bɒks?
+juː ə ˈsɪtɪŋ nɪə ðə ˈwɪndəʊ.
+hiː ɪz ˈpʊtɪŋ ə bʊk ɪn ðə bɒks.
 ðeɪ ə ˈlɪsnɪŋ tə ðə ˈtiːʧə.
 ðə ˈstjuːdənt ɪz ˈɑːskɪŋ ə ˈkwɛsʧən.
 

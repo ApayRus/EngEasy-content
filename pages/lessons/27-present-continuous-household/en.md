@@ -68,16 +68,16 @@ I am looking for my phone in the room.
 She is putting the book on the sofa.
 The baby is lying in the small room.
 
-What are you doing in the kitchen now?
-Where is your father sitting?
-Is your mother making tea or coffee?
-Why are they looking through the window?
-What is the pet doing now?
-Are you putting milk in the tea?
-Is your brother watching TV or reading?
-What is she putting on the table?
-Is the pet lying under the sofa?
-Who is sitting on my new chair?
+You are cooking in the kitchen now.
+My father is sitting on the sofa.
+My mother is making tea.
+They are looking through the window.
+The pet is playing with a toy now.
+You are putting milk in your tea.
+My brother is watching TV.
+She is putting a spoon on the table.
+The pet is lying under the sofa.
+My friend is sitting on my new chair.
 
 My father is sitting on the sofa and watching TV.
 My mother is taking the kettle and making tea.
@@ -113,7 +113,7 @@ The girl is looking at her mother.
 she is making tea.
 The boy is sitting under the table with his pet.
 I am putting milk and an egg on the table.
-Are you making coffee for your brother?
+You are making coffee for your brother.
 He is not sitting on the chair.
 he is sitting on the sofa.
 She is looking for a spoon in the kitchen.
@@ -128,8 +128,8 @@ She is looking at a beautiful clock.
 The pet is lying far from the door.
 I am not drinking coffee.
 I am drinking water.
-Are you sitting near the window?
-What is he putting in the box?
+You are sitting near the window.
+He is putting a book in the box.
 They are listening to the teacher.
 The student is asking a question.
 
