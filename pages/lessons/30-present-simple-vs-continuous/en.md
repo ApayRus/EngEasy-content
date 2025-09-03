@@ -4,7 +4,7 @@ description: Learn to compare Present Simple (habits) and Present Continuous (ac
 hideHelp: true
 ---
 
-# 30. Present Simple vs Present Continuous
+# 30. I am playing now. I play usually. Present Simple vs Present Continuous
 
 ## New words {new}
 

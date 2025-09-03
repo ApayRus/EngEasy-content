@@ -4,7 +4,7 @@ description: Сравните Present Simple (привычки) и Present Conti
 hideHelp: true
 ---
 
-# 30. Present Simple и Present Continuous
+# 30. Я играю сейчас. Я обычно играю. Present Simple и Present Continuous
 
 ## Новые слова {new}
 
