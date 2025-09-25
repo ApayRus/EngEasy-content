@@ -23,92 +23,92 @@ a cat
 ## Sentences
 
 Is your father sleeping now?
-What are you watching on TV?
-Why is your sister crying?
-Is he running to the shop?
-Are they swimming in the big lake?
-Who are you talking to on the phone?
-Is your mother singing in the kitchen?
-Why are the children dancing in the garden?
-Why is that man laughing?
-Are the boys running in the park?
-Is your friend swimming in the river?
-Is the baby sleeping in the room?
-Are you dancing with your husband?
-Why are you crying?
-Is he laughing at my new car?
-What book are you reading?
-Are we watching the beautiful sky?
-Why is he running fast?
-Is she swimming better than her brother?
-Are they talking to the new teacher?
+What are you watching on TV today?
+Why is your sister crying tonight?
+Is he running to the shop this week?
+Are they swimming in the big lake this month?
+Who are you talking to on the phone now?
+Is your mother singing in the kitchen today?
+Why are the children dancing in the garden tonight?
+Why is that man laughing this week?
+Are the boys running in the park this month?
+Is your friend swimming in the river this year?
+Is the baby sleeping in the room today?
+Are you dancing with your husband tonight?
+Why are you crying this week?
+Is he laughing at my new car this month?
+What book are you reading today?
+Are we watching the beautiful sky tonight?
+Why is he running fast this week?
+Is she swimming better than her brother this month?
+Are they talking to the new teacher this year?
 Is he singing now?
-Why is she laughing at the small dog?
-Is the baby crying because it is hungry?
-What are you watching in the cinema?
-Is your brother sleeping on the sofa?
-Is the girl running to her mother?
-Are they swimming in the cold water?
-Who is she talking with near the window?
-What are they singing?
-Is he dancing with the beautiful woman?
-Why are we laughing?
-Is your son crying in his room?
-What are you watching?
-Is he sleeping?
-Why is she running?
-Are they swimming?
-Who are you talking to?
-What is he singing?
-Are you dancing?
-Why is she laughing?
-Is the baby crying?
-Are you watching a train?
-Is your cat sleeping on the chair?
-Is the boy running to school?
-Is the woman swimming in the blue river?
-Are you talking to your friend?
-Is the man singing?
-Is the girl dancing with her father?
-Why is the boy laughing?
-Is the baby crying for milk?
-Is he sleeping at work?
-Are they swimming in the evening?
-Is he talking on the phone with his wife?
-Is she singing in the shower?
-Are they dancing?
-What is he watching on his computer?
-Is the dog sleeping under the table?
-Why is the woman running in the morning?
-Are the children swimming in the lake?
-What is your daughter singing?
-Why are they laughing?
-Is the baby crying?
-Is the old man sleeping in the park?
-Is she running late for the lesson?
-Are they swimming fast?
-Is he talking?
-Is she singing?
-Are they dancing?
-Why are they laughing?
-Is the child crying for a toy?
-Is the dog running in the garden?
-Is the cat sleeping on the sofa?
-What is the dog eating?
-Why is the cat running from the dog?
-Are you watching the cat?
-Is the dog swimming in the river?
-Is the cat crying?
-Is the dog laughing?
-Are you talking to your dog?
-Is the cat dancing?
-Is the dog singing?
-Why is the cat sleeping on my bag?
-Is the big dog running fast?
-Is the small cat playing with a toy?
-What is the dog watching?
-Is the cat talking?
+Why is she laughing at the small dog today?
+Is the baby crying because it is hungry tonight?
+What are you watching in the cinema this week?
+Is your brother sleeping on the sofa this month?
+Is the girl running to her mother this year?
+Are they swimming in the cold water today?
+Who is she talking with near the window tonight?
+What are they singing this week?
+Is he dancing with the beautiful woman this month?
+Why are we laughing this year?
+Is your son crying in his room today?
+What are you watching tonight?
+Is he sleeping this week?
+Why is she running this month?
+Are they swimming this year?
+Who are you talking to today?
+What is he singing tonight?
+Are you dancing this week?
+Why is she laughing this month?
+Is the baby crying this year?
+Are you watching a train today?
+Is your cat sleeping on the chair tonight?
+Is the boy running to school this week?
+Is the woman swimming in the blue river this month?
+Are you talking to your friend this year?
+Is the man singing today?
+Is the girl dancing with her father tonight?
+Why is the boy laughing this week?
+Is the baby crying for milk this month?
+Is he sleeping at work this year?
+Are they swimming in the evening today?
+Is he talking on the phone with his wife tonight?
+Is she singing in the shower this week?
+Are they dancing this month?
+What is he watching on his computer this year?
+Is the dog sleeping under the table today?
+Why is the woman running in the morning tonight?
+Are the children swimming in the lake this week?
+What is your daughter singing this month?
+Why are they laughing this year?
+Is the baby crying today?
+Is the old man sleeping in the park tonight?
+Is she running late for the lesson this week?
+Are they swimming fast this month?
+Is he talking this year?
+Is she singing today?
+Are they dancing tonight?
+Why are they laughing this week?
+Is the child crying for a toy this month?
+Is the dog running in the garden this year?
+Is the cat sleeping on the sofa today?
+What is the dog eating tonight?
+Why is the cat running from the dog this week?
+Are you watching the cat this month?
+Is the dog swimming in the river this year?
+Is the cat crying today?
+Is the dog laughing tonight?
+Are you talking to your dog this week?
+Is the cat dancing this month?
+Is the dog singing this year?
+Why is the cat sleeping on my bag today?
+Is the big dog running fast tonight?
+Is the small cat playing with a toy this week?
+What is the dog watching this month?
+Is the cat talking this year?
 Is your dog sleeping now?
-Are you watching my cat?
-Why is your dog crying?
-Is the cat running to the kitchen?
+Are you watching my cat today?
+Why is your dog crying tonight?
+Is the cat running to the kitchen this week?

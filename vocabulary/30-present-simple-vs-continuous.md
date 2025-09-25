@@ -439,19 +439,19 @@ april
 start
 
 --- lesson 27 ---
-sofa
-kettle
-spoon
-fork
-window
-knife
 kitchen
+sofa
+window
 sit
 lie
 put
 look
 make
 now
+tonight
+week
+month
+year
 
 --- lesson 28 ---
 sleep
@@ -480,12 +480,12 @@ anything
 about
 
 --- lesson 30 ---
+kettle
+spoon
+knife
+fork
 call
-practice
-enjoy
-prefer
 usually
 rarely
 right
 moment
-later

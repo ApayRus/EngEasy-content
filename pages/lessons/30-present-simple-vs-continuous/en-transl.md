@@ -1,22 +1,22 @@
 ---
 type: lesson
-description: Learn to compare Present Simple (habits) and Present Continuous (actions now) with clear pairs and frequency markers.
+description: lɜːn tuː kəmˈpeə ˈprɛznt ˈsɪmpl (ˈhæbɪts) ænd ˈprɛznt kənˈtɪnjʊəs (ˈækʃənz naʊ) wɪð klɪə peəz ænd ə ʃɔːt ˈstɔːri.
 hideHelp: true
 ---
 
-# 30. ˈprɛznt ˈsɪmpl vɜːsəs ˈprɛznt kənˈtɪnjʊəs
+# 30. aɪ æm nɒt ˈpleɪɪŋ naʊ. aɪ pleɪ ˈjuːʒʊəli. ˈprɛznt ˈsɪmpl vɜːsəs ˈprɛznt kənˈtɪnjʊəs
 
 ## njuː wɜːdz {new}
 
+ə ˈkɛtl
+ə spuːn
+ə naɪf
+ə fɔːk
 tuː kɔːl
-tuː ˈpræktɪs
-tuː ɪnˈʤɔɪ
-tuː prɪˈfɜː
-ˈjuːʒəli
+ˈjuːʒʊəli
 ˈreəli
 raɪt naʊ
-ət ðə ˈməʊmənt
-ˈleɪtə
+æt ðə ˈməʊmənt
 
 ## ˈfriːkwənsi ænd taɪm ˈmɑːkəz
 
@@ -24,159 +24,167 @@ raɪt naʊ
 
 ˈɔːlweɪz
 ˈɒfən
-ˈjuːʒəli
+ˈjuːʒʊəli
 ˈsʌmtaɪmz
 ˈreəli
 ˈnɛvə
+ˈɛvrideɪ
+ɒn ˈsʌndeɪ
+æt ˈsɛvn əˈklɒk
+ɪn ˈwɪntə
 
 ### ˈprɛznt kənˈtɪnjʊəs
 
 naʊ
 raɪt naʊ
-ət ðə ˈməʊmənt
-ˈleɪtə
+æt ðə ˈməʊmənt
+təˈdeɪ
+təˈnaɪt
+ðɪs wiːk
+ðɪs mʌnθ
+ðɪs jɪə
 
 ## ˈsɛntənsɪz
 
-duː juː wɜːk ɒn ˈmʌndeɪ?
+duː juː sɪt ɪn ðə ˈkɪʧən ɒn ˈtjuːzdeɪ?
 jɛs, aɪ duː.
-aɪ ˈɒfən wɜːk ɒn ˈmʌndeɪ.
+aɪ ˈɒfən sɪt ɪn ðə ˈkɪʧən ɒn ˈtjuːzdeɪ.
 nəʊ, aɪ dəʊnt.
-aɪ ˈnɛvə wɜːk ɒn ˈmʌndeɪ.
-ɑː juː ˈwɜːkɪŋ naʊ?
+aɪ ˈnɛvə sɪt ɪn ðə ˈkɪʧən ɒn ˈtjuːzdeɪ.
+ɑː juː ˈsɪtɪŋ ɪn ðə ˈkɪʧən naʊ?
 jɛs, aɪ æm.
-aɪ æm ˈwɜːkɪŋ raɪt naʊ.
+aɪ æm ˈsɪtɪŋ ɪn ðə ˈkɪʧən raɪt naʊ.
 nəʊ, aɪ æm nɒt.
-aɪ æm nɒt ˈwɜːkɪŋ naʊ.
+aɪ æm nɒt ˈsɪtɪŋ ɪn ðə ˈkɪʧən naʊ.
 
-dʌz ʃiː kʊk ˈɛvrɪdeɪ?
+dʌz ʃiː meɪk tiː ɒn ˈwɛnzdeɪ?
 jɛs, ʃiː dʌz.
-ʃiː ˈɒfən kʊks.
+ʃiː ˈɒfən meɪks tiː ɒn ˈwɛnzdeɪ.
 nəʊ, ʃiː dʌznt.
-ʃiː ˈreəli kʊks.
-ɪz ʃiː ˈkʊkɪŋ naʊ?
+ʃiː ˈreəli meɪks tiː ɒn ˈwɛnzdeɪ.
+ɪz ʃiː ˈmeɪkɪŋ tiː naʊ?
 jɛs, ʃiː ɪz.
-ʃiː ɪz ˈkʊkɪŋ raɪt naʊ.
+ʃiː ɪz ˈmeɪkɪŋ tiː raɪt naʊ.
 nəʊ, ʃiː ˈɪznt.
-ʃiː ɪz nɒt ˈkʊkɪŋ naʊ.
+ʃiː ɪz nɒt ˈmeɪkɪŋ tiː naʊ.
 
-dʌz hiː riːd ɒn ˈsʌndeɪ?
+dʌz hiː sliːp ɪn ðə ruːm ɒn ˈθɜːzdeɪ?
 nəʊ, hiː dʌznt.
-hiː dʌz nɒt riːd ɒn ˈsʌndeɪ.
+hiː dʌz nɒt sliːp ɪn ðə ruːm ɒn ˈθɜːzdeɪ.
 jɛs, hiː dʌz.
-hiː ˈsʌmtaɪmz riːdz ɒn ˈsʌndeɪ.
-ɪz hiː ˈriːdɪŋ naʊ?
+hiː ˈsʌmtaɪmz sliːps ɪn ðə ruːm ɒn ˈθɜːzdeɪ.
+ɪz hiː ˈsliːpɪŋ ɪn ðə ruːm naʊ?
 nəʊ, hiː ˈɪznt.
-hiː ɪz nɒt ˈriːdɪŋ raɪt naʊ.
+hiː ɪz nɒt ˈsliːpɪŋ ɪn ðə ruːm raɪt naʊ.
 jɛs, hiː ɪz.
-hiː ɪz ˈriːdɪŋ naʊ.
+hiː ɪz ˈsliːpɪŋ ɪn ðə ruːm naʊ.
 
-duː ðeɪ gəʊ tuː ðə pɑːk ɒn ˈsʌndeɪ?
+duː ðeɪ pʊt kʌps ɒn ðə ˈteɪbl ɒn ˈfraɪdeɪ?
 jɛs, ðeɪ duː.
-ðeɪ ˈjuːʒəli gəʊ tuː ðə pɑːk ɒn ˈsʌndeɪ.
+ðeɪ ˈjuːʒʊəli pʊt kʌps ɒn ðə ˈteɪbl ɒn ˈfraɪdeɪ.
 nəʊ, ðeɪ dəʊnt.
-ðeɪ ˈnɛvə gəʊ tuː ðə pɑːk ɒn ˈsʌndeɪ.
-ɑː ðeɪ ˈgəʊɪŋ tuː ðə pɑːk naʊ?
+ðeɪ ˈnɛvə pʊt kʌps ɒn ðə ˈteɪbl ɒn ˈfraɪdeɪ.
+ɑː ðeɪ ˈpʊtɪŋ kʌps ɒn ðə ˈteɪbl naʊ?
 nəʊ, ðeɪ ˈɑːnt.
-ðeɪ ɑː nɒt ˈgəʊɪŋ tuː ðə pɑːk naʊ; ðeɪ ɑː ˈgəʊɪŋ ˈleɪtə.
+ðeɪ ɑː nɒt ˈpʊtɪŋ kʌps ɒn ðə ˈteɪbl naʊ.
 jɛs, ðeɪ ɑː.
-ðeɪ ɑː ˈgəʊɪŋ tuː ðə pɑːk raɪt naʊ.
+ðeɪ ɑː ˈpʊtɪŋ kʌps ɒn ðə ˈteɪbl raɪt naʊ.
 
-duː wiː wɒʧ ˌtiːˈviː ɒn ˈmʌndeɪ?
+duː wiː sɪŋ ɪn ðə ˈgɑːdn ɒn ˈsætədeɪ?
 nəʊ, wiː dəʊnt.
-wiː duː nɒt ˈjuːʒəli wɒʧ ˌtiːˈviː ɒn ˈmʌndeɪ.
+wiː duː nɒt ˈjuːʒʊəli sɪŋ ɪn ðə ˈgɑːdn ɒn ˈsætədeɪ.
 jɛs, wiː duː.
-wiː ˈjuːʒəli wɒʧ ˌtiːˈviː ɒn ˈmʌndeɪ.
-ɑː wiː ˈwɒʧɪŋ ˌtiːˈviː raɪt naʊ?
+wiː ˈjuːʒʊəli sɪŋ ɪn ðə ˈgɑːdn ɒn ˈsætədeɪ.
+ɑː wiː ˈsɪŋɪŋ ɪn ðə ˈgɑːdn raɪt naʊ?
 jɛs, wiː ɑː.
-wiː ɑː ˈwɒʧɪŋ ˌtiːˈviː raɪt naʊ.
+wiː ɑː ˈsɪŋɪŋ ɪn ðə ˈgɑːdn raɪt naʊ.
 nəʊ, wiː ˈɑːnt.
-wiː ɑː nɒt ˈwɒʧɪŋ ˌtiːˈviː naʊ.
+wiː ɑː nɒt ˈsɪŋɪŋ ɪn ðə ˈgɑːdn naʊ.
 
-dʌz jɔː ˈmʌðə drɪŋk tiː ɪn ðə ˈmɔːnɪŋ?
+dʌz jɔː ˈmʌðə baɪ fuːd ɪn ði ˈiːvnɪŋ?
 jɛs, ʃiː dʌz.
-maɪ ˈmʌðə ˈjuːʒəli drɪŋks tiː ɪn ðə ˈmɔːnɪŋ.
+maɪ ˈmʌðə ˈjuːʒʊəli baɪz fuːd ɪn ði ˈiːvnɪŋ.
 nəʊ, ʃiː dʌznt.
-maɪ ˈmʌðə ˈreəli drɪŋks tiː ɪn ðə ˈmɔːnɪŋ.
-ɪz jɔː ˈmʌðə ˈdrɪŋkɪŋ naʊ?
+maɪ ˈmʌðə ˈreəli baɪz fuːd ɪn ði ˈiːvnɪŋ.
+ɪz jɔː ˈmʌðə ˈbaɪɪŋ fuːd naʊ?
 jɛs, ʃiː ɪz.
-maɪ ˈmʌðə ɪz ˈdrɪŋkɪŋ tiː raɪt naʊ.
+maɪ ˈmʌðə ɪz ˈbaɪɪŋ fuːd raɪt naʊ.
 nəʊ, ʃiː ˈɪznt.
-maɪ ˈmʌðə ɪz nɒt ˈdrɪŋkɪŋ tiː naʊ.
+maɪ ˈmʌðə ɪz nɒt ˈbaɪɪŋ fuːd naʊ.
 
-dʌz jɔː ˈfɑːðə wɜːk ɪn ðə ˈsɪti?
+dʌz jɔː ˈfɑːðə lʊk æt ðə ˈgɑːdn ɪn ði ˈiːvnɪŋ?
 jɛs, hiː dʌz.
-maɪ ˈfɑːðə ˈɒfən wɜːks ɪn ðə ˈsɪti.
+maɪ ˈfɑːðə ˈɒfən lʊks æt ðə ˈgɑːdn ɪn ði ˈiːvnɪŋ.
 nəʊ, hiː dʌznt.
-maɪ ˈfɑːðə ˈnɛvə wɜːks ɪn ðə ˈsɪti.
-ɪz jɔː ˈfɑːðə ˈwɜːkɪŋ ɪn ðə ˈsɪti naʊ?
+maɪ ˈfɑːðə ˈnɛvə lʊks æt ðə ˈgɑːdn ɪn ði ˈiːvnɪŋ.
+ɪz jɔː ˈfɑːðə ˈlʊkɪŋ æt ðə ˈgɑːdn naʊ?
 jɛs, hiː ɪz.
-maɪ ˈfɑːðə ɪz ˈwɜːkɪŋ ɪn ðə ˈsɪti raɪt naʊ.
+maɪ ˈfɑːðə ɪz ˈlʊkɪŋ æt ðə ˈgɑːdn raɪt naʊ.
 nəʊ, hiː ˈɪznt.
-maɪ ˈfɑːðə ɪz nɒt ˈwɜːkɪŋ ɪn ðə ˈsɪti naʊ.
+maɪ ˈfɑːðə ɪz nɒt ˈlʊkɪŋ æt ðə ˈgɑːdn naʊ.
 
-dʌz ðə bɔɪ pleɪ ɪn ðə ruːm?
+dʌz ðə bɔɪ dɑːns ɪn ðə ruːm ɒn ˈwiːkɛnd?
 jɛs, hiː dʌz.
-ðə bɔɪ ˈjuːʒəli pleɪz ɪn ðə ruːm.
+ðə bɔɪ ˈjuːʒʊəli ˈdɑːnsɪz ɪn ðə ruːm ɒn ˈwiːkɛnd.
 nəʊ, hiː dʌznt.
-ðə bɔɪ ˈreəli pleɪz ɪn ðə ruːm.
-ɪz ðə bɔɪ ˈpleɪɪŋ ɪn ðə ruːm naʊ?
+ðə bɔɪ ˈreəli ˈdɑːnsɪz ɪn ðə ruːm ɒn ˈwiːkɛnd.
+ɪz ðə bɔɪ ˈdɑːnsɪŋ ɪn ðə ruːm naʊ?
 jɛs, hiː ɪz.
-ðə bɔɪ ɪz ˈpleɪɪŋ ɪn ðə ruːm raɪt naʊ.
+ðə bɔɪ ɪz ˈdɑːnsɪŋ ɪn ðə ruːm raɪt naʊ.
 nəʊ, hiː ˈɪznt.
-ðə bɔɪ ɪz nɒt ˈpleɪɪŋ ɪn ðə ruːm naʊ.
+ðə bɔɪ ɪz nɒt ˈdɑːnsɪŋ ɪn ðə ruːm naʊ.
 
-duː juː kɔːl jɔː ˈmʌðə ˈɛvrɪdeɪ?
+duː juː weɪt fə jɔː frɛnd ɒn ˈwiːkdeɪ?
 jɛs, aɪ duː.
-aɪ ˈɔːlweɪz kɔːl maɪ ˈmʌðə.
+aɪ ˈɔːlweɪz weɪt fə maɪ frɛnd ɒn ˈwiːkdeɪ.
 nəʊ, aɪ dəʊnt.
-aɪ duː nɒt kɔːl maɪ ˈmʌðə ˈɛvrɪdeɪ.
-ɑː juː ˈkɔːlɪŋ jɔː ˈmʌðə raɪt naʊ?
+aɪ duː nɒt weɪt fə maɪ frɛnd ɒn ˈwiːkdeɪ.
+ɑː juː ˈweɪtɪŋ fə jɔː frɛnd ðɪs jɪə?
 jɛs, aɪ æm.
-aɪ æm ˈkɔːlɪŋ maɪ ˈmʌðə raɪt naʊ.
+aɪ æm ˈweɪtɪŋ fə maɪ frɛnd ðɪs jɪə.
 nəʊ, aɪ æm nɒt.
-aɪ æm nɒt ˈkɔːlɪŋ maɪ ˈmʌðə naʊ.
+aɪ æm nɒt ˈweɪtɪŋ fə maɪ frɛnd ðɪs jɪə.
 
-duː wiː ˈpræktɪs ˈɪŋɡlɪʃ ˈɛvrɪdeɪ?
+duː wiː tɔːk ɪn ðə ˈkɪʧən æt eɪt əˈklɒk?
 jɛs, wiː duː.
-wiː ˈɒfən ˈpræktɪs ˈɪŋɡlɪʃ.
+wiː ˈɒfən tɔːk ɪn ðə ˈkɪʧən æt eɪt əˈklɒk.
 nəʊ, wiː dəʊnt.
-wiː duː nɒt ˈpræktɪs ˈɪŋɡlɪʃ ˈɛvrɪdeɪ.
-ɑː wiː ˈpræktɪsɪŋ ˈɪŋɡlɪʃ raɪt naʊ?
+wiː duː nɒt tɔːk ɪn ðə ˈkɪʧən æt eɪt əˈklɒk.
+ɑː wiː ˈtɔːkɪŋ ɪn ðə ˈkɪʧən raɪt naʊ?
 jɛs, wiː ɑː.
-wiː ɑː ˈpræktɪsɪŋ ˈɪŋɡlɪʃ raɪt naʊ.
+wiː ɑː ˈtɔːkɪŋ ɪn ðə ˈkɪʧən raɪt naʊ.
 nəʊ, wiː ˈɑːnt.
-wiː ɑː nɒt ˈpræktɪsɪŋ ˈɪŋɡlɪʃ naʊ.
+wiː ɑː nɒt ˈtɔːkɪŋ ɪn ðə ˈkɪʧən naʊ.
 
-duː juː prɪˈfɜː tiː?
+duː juː drɪŋk tiː ɪn ˈwɪntə?
 jɛs, aɪ duː.
-aɪ ˈɒfən prɪˈfɜː tiː.
+aɪ ˈɒfən drɪŋk tiː ɪn ˈwɪntə.
 nəʊ, aɪ dəʊnt.
-aɪ duː nɒt prɪˈfɜː tiː.
-ɑː juː ˈdrɪŋkɪŋ ˈkɒfi raɪt naʊ?
+aɪ duː nɒt drɪŋk tiː ɪn ˈwɪntə.
+ɑː juː ˈdrɪŋkɪŋ tiː raɪt naʊ?
 jɛs, aɪ æm.
-aɪ æm ˈdrɪŋkɪŋ ˈkɒfi raɪt naʊ.
+aɪ æm ˈdrɪŋkɪŋ tiː raɪt naʊ.
 nəʊ, aɪ æm nɒt.
-aɪ æm nɒt ˈdrɪŋkɪŋ ˈkɒfi naʊ.
+aɪ æm nɒt ˈdrɪŋkɪŋ tiː naʊ.
 
-duː ðeɪ ɪnˈʤɔɪ ə ˈmuːvi ɒn ˈsætədeɪ?
+duː ðeɪ swɪm ɪn ˈsʌmə?
 jɛs, ðeɪ duː.
-ðeɪ ˈjuːʒəli ɪnˈʤɔɪ ə ˈmuːvi ɒn ˈsætədeɪ.
+ðeɪ ˈjuːʒʊəli swɪm ɪn ˈsʌmə.
 nəʊ, ðeɪ dəʊnt.
-ðeɪ ˈreəli ɪnˈʤɔɪ ə ˈmuːvi ɒn ˈsætədeɪ.
-ɑː ðeɪ ˈwɒʧɪŋ ə ˈmuːvi naʊ?
+ðeɪ ˈreəli swɪm ɪn ˈsʌmə.
+ɑː ðeɪ ˈswɪmɪŋ ðɪs wiːk?
 nəʊ, ðeɪ ˈɑːnt.
-ðeɪ ɑː nɒt ˈwɒʧɪŋ ə ˈmuːvi naʊ; ðeɪ ɑː ˈwɒʧɪŋ ˈleɪtə.
+ðeɪ ɑː nɒt ˈswɪmɪŋ ðɪs wiːk.
 jɛs, ðeɪ ɑː.
-ðeɪ ɑː ˈwɒʧɪŋ ə ˈmuːvi raɪt naʊ.
+ðeɪ ɑː ˈswɪmɪŋ ðɪs wiːk.
 
-duː juː weə kliːn kləʊðz?
+duː juː rʌn ɪn ðə pɑːk ɪn sprɪŋ?
 jɛs, aɪ duː.
-aɪ ˈɔːlweɪz weə kliːn kləʊðz.
+aɪ ˈɔːlweɪz rʌn ɪn ðə pɑːk ɪn sprɪŋ.
 nəʊ, aɪ dəʊnt.
-aɪ ˈnɛvə weə kliːn kləʊðz.
-ɑː juː ˈweərɪŋ njuː kləʊðz naʊ?
+aɪ ˈnɛvə rʌn ɪn ðə pɑːk ɪn sprɪŋ.
+ɑː juː ˈrʌnɪŋ ɪn ðə pɑːk ðɪs mʌnθ?
 jɛs, aɪ æm.
-aɪ æm ˈweərɪŋ njuː kləʊðz raɪt naʊ.
+aɪ æm ˈrʌnɪŋ ɪn ðə pɑːk ðɪs mʌnθ.
 nəʊ, aɪ æm nɒt.
-aɪ æm nɒt ˈweərɪŋ njuː kləʊðz naʊ.
+aɪ æm nɒt ˈrʌnɪŋ ɪn ðə pɑːk ðɪs mʌnθ.
