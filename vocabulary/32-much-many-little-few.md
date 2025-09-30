@@ -503,5 +503,13 @@ floor
 ceiling
 
 --- lesson 32 ---
+few
+several
+much
+little
+lot
+some
+any
+enough
 people
 time
