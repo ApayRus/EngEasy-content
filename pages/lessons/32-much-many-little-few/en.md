@@ -6,20 +6,20 @@ hideHelp: true
 
 # 32. How many books? How much water?
 
-## Quantity words {new}
+## Quantity words
 
-### For countable nouns (books, cars, people)
+### For countable nouns (books, cars, people) {new}
 
 many
 few
 several
 
-### For uncountable nouns (water, time, money)
+### For uncountable nouns (water, time, money) {new}
 
 much
 little
 
-### For both types
+### For both types {new}
 
 a lot of
 some
