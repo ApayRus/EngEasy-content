@@ -15,16 +15,16 @@ there aren't
 
 ## Nouns {new}
 
-apartment
-building
-street
-store
-office
-bathroom
-bedroom
-wall
-floor
-ceiling
+an apartment
+a building
+a street
+a store
+an office
+a bathroom
+a bedroom
+a wall
+a floor
+a ceiling
 
 ## Difference
 
@@ -82,7 +82,7 @@ Is there a window in the bedroom?
 There isn't a window in this room.
 
 There is a new floor in the kitchen.
-There are lights on the ceiling.
+There are cats on the ceiling.
 Is there an apartment in this building?
 There isn't a store near my apartment.
 

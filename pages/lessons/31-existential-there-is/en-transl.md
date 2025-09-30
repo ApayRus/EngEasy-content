@@ -15,16 +15,16 @@ hideHelp: true
 
 ## naʊnz {new}
 
-əˈpɑːtmənt
-ˈbɪldɪŋ
-striːt
-stɔː
-ˈɒfɪs
-ˈbɑːθruːm
-ˈbedruːm
-wɔːl
-flɔː
-ˈsiːlɪŋ
+ən əˈpɑːtmənt
+ə ˈbɪldɪŋ
+ə striːt
+ə stɔː
+ən ˈɒfɪs
+ə ˈbɑːθruːm
+ə ˈbedruːm
+ə wɔːl
+ə flɔː
+ə ˈsiːlɪŋ
 
 ## ˈdɪfrəns
 
@@ -82,7 +82,7 @@ flɔː
 ðeər ˈɪznt ə ˈwɪndəʊ ɪn ðɪs ruːm.
 
 ðeər ɪz ə njuː flɔː ɪn ðə ˈkɪʧən.
-ðeər ɑː laɪts ɒn ðə ˈsiːlɪŋ.
+ðeər ɑː kæts ɒn ðə ˈsiːlɪŋ.
 ɪz ðeər ən əˈpɑːtmənt ɪn ðɪs ˈbɪldɪŋ?
 ðeər ˈɪznt ə stɔː nɪə maɪ əˈpɑːtmənt.
 
