@@ -434,8 +434,8 @@
 			wordsPerPage = 20;
 		}
 
-		// Загружаем индекс
-		fetch('chunks/index.json')
+	// Загружаем индекс
+	fetch('./chunks/index.json')
 			.then(response => response.json())
 			.then(index => {
 				indexData = index;
@@ -502,20 +502,20 @@
 			renderChart();
 		}
 
-		async function loadChunk(chunkNum) {
-			try {
-				const response = await fetch(`chunks/chunk-${chunkNum}.json`);
-				const chunkData = await response.json();
+	async function loadChunk(chunkNum) {
+		try {
+			const response = await fetch(`./chunks/chunk-${chunkNum}.json`);
+			const chunkData = await response.json();
 
-				// Добавляем данные чанка в общий объект
-				Object.assign(wordsData, chunkData);
-				loadedChunks.add(chunkNum);
+			// Добавляем данные чанка в общий объект
+			Object.assign(wordsData, chunkData);
+			loadedChunks.add(chunkNum);
 
-				console.log(`Загружен чанк ${chunkNum}`);
-			} catch (error) {
-				console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
-			}
+			console.log(`Загружен чанк ${chunkNum}`);
+		} catch (error) {
+			console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
 		}
+	}
 
 		function renderChart() {
 			if (isSearchMode) return;

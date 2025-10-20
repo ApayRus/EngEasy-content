@@ -167,14 +167,14 @@
 		let indexData = null;
 		let loadedChunks = new Set();
 
-		// Загружаем индекс
-		fetch('chunks/index.json')
-			.then(response => response.json())
-			.then(index => {
-				indexData = index;
-				// Загружаем первый чанк
-				return loadChunk(0);
-			})
+	// Загружаем индекс
+	fetch('./chunks/index.json')
+		.then(response => response.json())
+		.then(index => {
+			indexData = index;
+			// Загружаем первый чанк
+			return loadChunk(0);
+		})
 			.then(() => {
 				renderWords();
 			})
@@ -184,18 +184,18 @@
 					'<div class="no-results">Ошибка загрузки данных</div>';
 			});
 
-		async function loadChunk(chunkNum) {
-			if (loadedChunks.has(chunkNum)) return;
+	async function loadChunk(chunkNum) {
+		if (loadedChunks.has(chunkNum)) return;
 
-			try {
-				const response = await fetch(`chunks/chunk-${chunkNum}.json`);
-				const chunkData = await response.json();
-				Object.assign(wordsData, chunkData);
-				loadedChunks.add(chunkNum);
-			} catch (error) {
-				console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
-			}
+		try {
+			const response = await fetch(`./chunks/chunk-${chunkNum}.json`);
+			const chunkData = await response.json();
+			Object.assign(wordsData, chunkData);
+			loadedChunks.add(chunkNum);
+		} catch (error) {
+			console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
 		}
+	}
 
 		let currentLimit = 100;
 
