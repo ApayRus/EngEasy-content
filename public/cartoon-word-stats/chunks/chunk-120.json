@@ -1,0 +1,602 @@
+{
+  "aragosta": {
+    "total": 1,
+    "forms": {
+      "aragosta": 1
+    }
+  },
+  "glimpse": {
+    "total": 1,
+    "forms": {
+      "glimpse": 1
+    }
+  },
+  "pinchy": {
+    "total": 1,
+    "forms": {
+      "pinchy": 1
+    }
+  },
+  "pessa": {
+    "total": 1,
+    "forms": {
+      "pessa": 1
+    }
+  },
+  "onh": {
+    "total": 1,
+    "forms": {
+      "onh": 1
+    }
+  },
+  "branzinos": {
+    "total": 1,
+    "forms": {
+      "branzinos": 1
+    }
+  },
+  "smuca": {
+    "total": 1,
+    "forms": {
+      "smuca": 1
+    }
+  },
+  "unbroke": {
+    "total": 1,
+    "forms": {
+      "unbroke": 1
+    }
+  },
+  "vespatown": {
+    "total": 1,
+    "forms": {
+      "vespatown": 1
+    }
+  },
+  "piccolina": {
+    "total": 1,
+    "forms": {
+      "piccolina": 1
+    }
+  },
+  "towner": {
+    "total": 1,
+    "forms": {
+      "towners": 1
+    }
+  },
+  "visconti": {
+    "total": 1,
+    "forms": {
+      "visconti": 1
+    }
+  },
+  "basta": {
+    "total": 1,
+    "forms": {
+      "basta": 1
+    }
+  },
+  "maggiore": {
+    "total": 1,
+    "forms": {
+      "maggiore": 1
+    }
+  },
+  "sto": {
+    "total": 1,
+    "forms": {
+      "sto": 1
+    }
+  },
+  "soldo": {
+    "total": 1,
+    "forms": {
+      "soldi": 1
+    }
+  },
+  "triathlon": {
+    "total": 1,
+    "forms": {
+      "triathlon": 1
+    }
+  },
+  "teammate": {
+    "total": 1,
+    "forms": {
+      "teammate": 1
+    }
+  },
+  "verbal": {
+    "total": 1,
+    "forms": {
+      "verbal": 1
+    }
+  },
+  "fiendishly": {
+    "total": 1,
+    "forms": {
+      "fiendishly": 1
+    }
+  },
+  "perfetto": {
+    "total": 1,
+    "forms": {
+      "perfetto": 1
+    }
+  },
+  "visto": {
+    "total": 1,
+    "forms": {
+      "visto": 1
+    }
+  },
+  "il": {
+    "total": 1,
+    "forms": {
+      "il": 1
+    }
+  },
+  "giornale": {
+    "total": 1,
+    "forms": {
+      "giornale": 1
+    }
+  },
+  "favore": {
+    "total": 1,
+    "forms": {
+      "favore": 1
+    }
+  },
+  "buonanotte": {
+    "total": 1,
+    "forms": {
+      "buonanotte": 1
+    }
+  },
+  "humaning": {
+    "total": 1,
+    "forms": {
+      "humaning": 1
+    }
+  },
+  "benissimo": {
+    "total": 1,
+    "forms": {
+      "benissimo": 1
+    }
+  },
+  "renzo": {
+    "total": 1,
+    "forms": {
+      "renzo": 1
+    }
+  },
+  "portorossans": {
+    "total": 1,
+    "forms": {
+      "portorossans": 1
+    }
+  },
+  "giorgio": {
+    "total": 1,
+    "forms": {
+      "giorgio": 1
+    }
+  },
+  "giorgioni": {
+    "total": 1,
+    "forms": {
+      "giorgioni": 1
+    }
+  },
+  "purveyor": {
+    "total": 1,
+    "forms": {
+      "purveyor": 1
+    }
+  },
+  "liguria": {
+    "total": 1,
+    "forms": {
+      "liguria": 1
+    }
+  },
+  "feeder": {
+    "total": 1,
+    "forms": {
+      "feeders": 1
+    }
+  },
+  "cioccolata": {
+    "total": 1,
+    "forms": {
+      "cioccolata": 1
+    }
+  },
+  "finiti": {
+    "total": 1,
+    "forms": {
+      "finiti": 1
+    }
+  },
+  "cannelloni": {
+    "total": 1,
+    "forms": {
+      "cannelloni": 1
+    }
+  },
+  "penne": {
+    "total": 1,
+    "forms": {
+      "penne": 1
+    }
+  },
+  "fusilli": {
+    "total": 1,
+    "forms": {
+      "fusilli": 1
+    }
+  },
+  "trofie": {
+    "total": 1,
+    "forms": {
+      "trofie": 1
+    }
+  },
+  "lasagne": {
+    "total": 1,
+    "forms": {
+      "lasagne": 1
+    }
+  },
+  "forchelta": {
+    "total": 1,
+    "forms": {
+      "forchelta": 1
+    }
+  },
+  "forza": {
+    "total": 1,
+    "forms": {
+      "forza": 1
+    }
+  },
+  "subito": {
+    "total": 1,
+    "forms": {
+      "subito": 1
+    }
+  },
+  "bernardi": {
+    "total": 1,
+    "forms": {
+      "bernardi": 1
+    }
+  },
+  "saturno": {
+    "total": 1,
+    "forms": {
+      "saturno": 1
+    }
+  },
+  "youl": {
+    "total": 1,
+    "forms": {
+      "youl": 1
+    }
+  },
+  "porca": {
+    "total": 1,
+    "forms": {
+      "porca": 1
+    }
+  },
+  "paletta": {
+    "total": 1,
+    "forms": {
+      "paletta": 1
+    }
+  },
+  "daniella": {
+    "total": 1,
+    "forms": {
+      "daniella": 1
+    }
+  },
+  "olio": {
+    "total": 1,
+    "forms": {
+      "olio": 1
+    }
+  },
+  "d'oliva": {
+    "total": 1,
+    "forms": {
+      "d'oliva": 1
+    }
+  },
+  "oily": {
+    "total": 1,
+    "forms": {
+      "oily": 1
+    }
+  },
+  "mille": {
+    "total": 1,
+    "forms": {
+      "mille": 1
+    }
+  },
+  "cavoli": {
+    "total": 1,
+    "forms": {
+      "cavoli": 1
+    }
+  },
+  "piu": {
+    "total": 1,
+    "forms": {
+      "piu": 1
+    }
+  },
+  "impossibile": {
+    "total": 1,
+    "forms": {
+      "impossibile": 1
+    }
+  },
+  "mostri": {
+    "total": 1,
+    "forms": {
+      "mostri": 1
+    }
+  },
+  "marini": {
+    "total": 1,
+    "forms": {
+      "marini": 1
+    }
+  },
+  "papal": {
+    "total": 1,
+    "forms": {
+      "papal": 1
+    }
+  },
+  "idioti": {
+    "total": 1,
+    "forms": {
+      "idioti": 1
+    }
+  },
+  "piccolino": {
+    "total": 1,
+    "forms": {
+      "piccolino": 1
+    }
+  },
+  "gorgonzola": {
+    "total": 1,
+    "forms": {
+      "gorgonzola": 1
+    }
+  },
+  "bustle": {
+    "total": 1,
+    "forms": {
+      "bustle": 1
+    }
+  },
+  "resync": {
+    "total": 1,
+    "forms": {
+      "resync": 1
+    }
+  },
+  "jheng": {
+    "total": 1,
+    "forms": {
+      "jheng": 1
+    }
+  },
+  "daydream": {
+    "total": 1,
+    "forms": {
+      "daydreaming": 1
+    }
+  },
+  "sterilize": {
+    "total": 1,
+    "forms": {
+      "sterilized": 1
+    }
+  },
+  "examination": {
+    "total": 1,
+    "forms": {
+      "examination": 1
+    }
+  },
+  "lib": {
+    "total": 1,
+    "forms": {
+      "lib": 1
+    }
+  },
+  "freshalicious": {
+    "total": 1,
+    "forms": {
+      "freshalicious": 1
+    }
+  },
+  "ziploc": {
+    "total": 1,
+    "forms": {
+      "ziploc": 1
+    }
+  },
+  "kwanzaa": {
+    "total": 1,
+    "forms": {
+      "kwanzaa": 1
+    }
+  },
+  "spay": {
+    "total": 1,
+    "forms": {
+      "spay": 1
+    }
+  },
+  "cabbie": {
+    "total": 1,
+    "forms": {
+      "cabbie": 1
+    }
+  },
+  "englisch": {
+    "total": 1,
+    "forms": {
+      "englisch": 1
+    }
+  },
+  "hoover": {
+    "total": 1,
+    "forms": {
+      "hoover": 1
+    }
+  },
+  "tica": {
+    "total": 1,
+    "forms": {
+      "tica": 1
+    }
+  },
+  "rectal": {
+    "total": 1,
+    "forms": {
+      "rectal": 1
+    }
+  },
+  "babycakes": {
+    "total": 1,
+    "forms": {
+      "babycakes": 1
+    }
+  },
+  "glo": {
+    "total": 1,
+    "forms": {
+      "glo": 1
+    }
+  },
+  "turnal": {
+    "total": 1,
+    "forms": {
+      "turnal": 1
+    }
+  },
+  "howard": {
+    "total": 1,
+    "forms": {
+      "howard": 1
+    }
+  },
+  "bigmouth": {
+    "total": 1,
+    "forms": {
+      "bigmouth": 1
+    }
+  },
+  "delicacy": {
+    "total": 1,
+    "forms": {
+      "delicacy": 1
+    }
+  },
+  "infection": {
+    "total": 1,
+    "forms": {
+      "infection": 1
+    }
+  },
+  "wolfe": {
+    "total": 1,
+    "forms": {
+      "wolfe": 1
+    }
+  },
+  "vanderbilt": {
+    "total": 1,
+    "forms": {
+      "vanderbilt": 1
+    }
+  },
+  "chrysler": {
+    "total": 1,
+    "forms": {
+      "chrysler": 1
+    }
+  },
+  "dagnabbit": {
+    "total": 1,
+    "forms": {
+      "dagnabbit": 1
+    }
+  },
+  "stamford": {
+    "total": 1,
+    "forms": {
+      "stamford": 1
+    }
+  },
+  "fling": {
+    "total": 1,
+    "forms": {
+      "fling": 1
+    }
+  },
+  "internal": {
+    "total": 1,
+    "forms": {
+      "internal": 1
+    }
+  },
+  "doze": {
+    "total": 1,
+    "forms": {
+      "doze": 1
+    }
+  },
+  "goldberg": {
+    "total": 1,
+    "forms": {
+      "goldberg": 1
+    }
+  },
+  "hmo": {
+    "total": 1,
+    "forms": {
+      "hmo": 1
+    }
+  },
+  "kenya": {
+    "total": 1,
+    "forms": {
+      "kenya": 1
+    }
+  },
+  "regis": {
+    "total": 1,
+    "forms": {
+      "regis": 1
+    }
+  },
+  "alrighty": {
+    "total": 1,
+    "forms": {
+      "alrighty": 1
+    }
+  }
+}

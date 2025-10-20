@@ -1,0 +1,32 @@
+---
+alwaysApply: false
+---
+
+Создание и редактирование новых лексических единиц.
+
+Файлы лексических единиц находятся в папке `/vocabulary-lexemes`. Для каждой части речи есть отдельный файл.
+
+Первая строка содержит названия всех возможных форм слова.
+
+Затем идет заголовок 1го уровня с номером урока.
+
+Далее в строках идут все слова урока. А в столбцах, разделенных вертикальной чертой, идут все формы слова. Если форма слова образуется не по правилу (исключение), то перед формой ставится восклицательный знак.
+
+Пример:
+
+/vocabulary-lexemes/adjectives.md
+
+```
+# 1
+
+big | bigger | biggest
+small | smaller | smallest
+tall | taller | tallest
+short | shorter | shortest
+good | !better | !best
+bad | !worse | !worst
+hot | hotter | hottest
+cold | colder | coldest
+old | older | oldest
+young | younger | youngest
+```

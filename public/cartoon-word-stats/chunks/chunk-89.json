@@ -1,0 +1,608 @@
+{
+  "backhand": {
+    "total": 2,
+    "forms": {
+      "backhand": 2
+    }
+  },
+  "backfire": {
+    "total": 2,
+    "forms": {
+      "backfired": 2
+    }
+  },
+  "carlos": {
+    "total": 2,
+    "forms": {
+      "carlos": 2
+    }
+  },
+  "indoors": {
+    "total": 2,
+    "forms": {
+      "indoors": 2
+    }
+  },
+  "chalk": {
+    "total": 2,
+    "forms": {
+      "chalk": 2
+    }
+  },
+  "plea": {
+    "total": 2,
+    "forms": {
+      "plea": 2
+    }
+  },
+  "suprip": {
+    "total": 2,
+    "forms": {
+      "suprip": 2
+    }
+  },
+  "xrain": {
+    "total": 2,
+    "forms": {
+      "xrain": 2
+    }
+  },
+  "miam": {
+    "total": 2,
+    "forms": {
+      "miam": 2
+    }
+  },
+  "eager": {
+    "total": 2,
+    "forms": {
+      "eager": 2
+    }
+  },
+  "chosa": {
+    "total": 2,
+    "forms": {
+      "chosa": 2
+    }
+  },
+  "matoka": {
+    "total": 2,
+    "forms": {
+      "matoka": 2
+    }
+  },
+  "lapati": {
+    "total": 2,
+    "forms": {
+      "lapati": 2
+    }
+  },
+  "dye": {
+    "total": 2,
+    "forms": {
+      "dye": 1,
+      "dyed": 1
+    }
+  },
+  "wotomaki": {
+    "total": 2,
+    "forms": {
+      "wotomaki": 2
+    }
+  },
+  "triba": {
+    "total": 2,
+    "forms": {
+      "triba": 2
+    }
+  },
+  "papaguena": {
+    "total": 2,
+    "forms": {
+      "papaguena": 2
+    }
+  },
+  "paragraph": {
+    "total": 2,
+    "forms": {
+      "paragraph": 2
+    }
+  },
+  "makaro": {
+    "total": 2,
+    "forms": {
+      "makaro": 2
+    }
+  },
+  "nelson": {
+    "total": 2,
+    "forms": {
+      "nelson": 1,
+      "nelsons": 1
+    }
+  },
+  "makati": {
+    "total": 2,
+    "forms": {
+      "makati": 2
+    }
+  },
+  "oka": {
+    "total": 2,
+    "forms": {
+      "oka": 2
+    }
+  },
+  "sumo": {
+    "total": 2,
+    "forms": {
+      "sumo": 2
+    }
+  },
+  "mala": {
+    "total": 2,
+    "forms": {
+      "mala": 2
+    }
+  },
+  "flux": {
+    "total": 2,
+    "forms": {
+      "flux": 2
+    }
+  },
+  "denim": {
+    "total": 2,
+    "forms": {
+      "denim": 2
+    }
+  },
+  "victorious": {
+    "total": 2,
+    "forms": {
+      "victorious": 2
+    }
+  },
+  "lader": {
+    "total": 2,
+    "forms": {
+      "lader": 2
+    }
+  },
+  "coolos": {
+    "total": 2,
+    "forms": {
+      "coolos": 2
+    }
+  },
+  "elizabeth": {
+    "total": 2,
+    "forms": {
+      "elizabeth": 2
+    }
+  },
+  "yamali": {
+    "total": 2,
+    "forms": {
+      "yamali": 2
+    }
+  },
+  "unloved": {
+    "total": 2,
+    "forms": {
+      "unloved": 2
+    }
+  },
+  "boli": {
+    "total": 2,
+    "forms": {
+      "boli": 2
+    }
+  },
+  "kano": {
+    "total": 2,
+    "forms": {
+      "kano": 2
+    }
+  },
+  "polani": {
+    "total": 2,
+    "forms": {
+      "polani": 2
+    }
+  },
+  "speeda": {
+    "total": 2,
+    "forms": {
+      "speeda": 2
+    }
+  },
+  "gordon": {
+    "total": 2,
+    "forms": {
+      "gordon": 2
+    }
+  },
+  "bennett": {
+    "total": 2,
+    "forms": {
+      "bennett": 2
+    }
+  },
+  "famed": {
+    "total": 2,
+    "forms": {
+      "famed": 2
+    }
+  },
+  "dictate": {
+    "total": 2,
+    "forms": {
+      "dictates": 1,
+      "dictated": 1
+    }
+  },
+  "muji": {
+    "total": 2,
+    "forms": {
+      "muji": 2
+    }
+  },
+  "claire": {
+    "total": 2,
+    "forms": {
+      "claire": 2
+    }
+  },
+  "tobe": {
+    "total": 2,
+    "forms": {
+      "tobe": 2
+    }
+  },
+  "palatika": {
+    "total": 2,
+    "forms": {
+      "palatika": 2
+    }
+  },
+  "telani": {
+    "total": 2,
+    "forms": {
+      "telani": 2
+    }
+  },
+  "tucacu": {
+    "total": 2,
+    "forms": {
+      "tucacu": 2
+    }
+  },
+  "pilitaku": {
+    "total": 2,
+    "forms": {
+      "pilitaku": 2
+    }
+  },
+  "cinetulu": {
+    "total": 2,
+    "forms": {
+      "cinetulu": 2
+    }
+  },
+  "blerb": {
+    "total": 2,
+    "forms": {
+      "blerb": 2
+    }
+  },
+  "patala": {
+    "total": 2,
+    "forms": {
+      "patala": 2
+    }
+  },
+  "fabrice": {
+    "total": 2,
+    "forms": {
+      "fabrice": 2
+    }
+  },
+  "density": {
+    "total": 2,
+    "forms": {
+      "density": 2
+    }
+  },
+  "fissa": {
+    "total": 2,
+    "forms": {
+      "fissa": 2
+    }
+  },
+  "pugna": {
+    "total": 2,
+    "forms": {
+      "pugna": 2
+    }
+  },
+  "nelly": {
+    "total": 2,
+    "forms": {
+      "nelly": 2
+    }
+  },
+  "kurry": {
+    "total": 2,
+    "forms": {
+      "kurry": 2
+    }
+  },
+  "pata": {
+    "total": 2,
+    "forms": {
+      "pata": 2
+    }
+  },
+  "queena": {
+    "total": 2,
+    "forms": {
+      "queena": 2
+    }
+  },
+  "telly": {
+    "total": 2,
+    "forms": {
+      "telly": 2
+    }
+  },
+  "tro": {
+    "total": 2,
+    "forms": {
+      "tro": 2
+    }
+  },
+  "simon": {
+    "total": 2,
+    "forms": {
+      "simon": 2
+    }
+  },
+  "adoo": {
+    "total": 2,
+    "forms": {
+      "adoo": 2
+    }
+  },
+  "makasi": {
+    "total": 2,
+    "forms": {
+      "makasi": 2
+    }
+  },
+  "excitement": {
+    "total": 2,
+    "forms": {
+      "excitement": 2
+    }
+  },
+  "valor": {
+    "total": 2,
+    "forms": {
+      "valor": 2
+    }
+  },
+  "koobaya": {
+    "total": 2,
+    "forms": {
+      "koobaya": 2
+    }
+  },
+  "lesaigneur": {
+    "total": 2,
+    "forms": {
+      "lesaigneur": 2
+    }
+  },
+  "fireman": {
+    "total": 2,
+    "forms": {
+      "fireman": 2
+    }
+  },
+  "pinball": {
+    "total": 2,
+    "forms": {
+      "pinball": 2
+    }
+  },
+  "creamy": {
+    "total": 2,
+    "forms": {
+      "creamy": 2
+    }
+  },
+  "application": {
+    "total": 2,
+    "forms": {
+      "application": 2
+    }
+  },
+  "mellow": {
+    "total": 2,
+    "forms": {
+      "mellow": 2
+    }
+  },
+  "aka": {
+    "total": 2,
+    "forms": {
+      "aka": 2
+    }
+  },
+  "tater": {
+    "total": 2,
+    "forms": {
+      "tater": 2
+    }
+  },
+  "proximity": {
+    "total": 2,
+    "forms": {
+      "proximity": 2
+    }
+  },
+  "viciouso": {
+    "total": 2,
+    "forms": {
+      "viciouso": 2
+    }
+  },
+  "josh": {
+    "total": 2,
+    "forms": {
+      "josh": 2
+    }
+  },
+  "trespasser": {
+    "total": 2,
+    "forms": {
+      "trespassers": 2
+    }
+  },
+  "rickles": {
+    "total": 2,
+    "forms": {
+      "rickles": 2
+    }
+  },
+  "frisco": {
+    "total": 2,
+    "forms": {
+      "frisco": 2
+    }
+  },
+  "thanksgiving": {
+    "total": 2,
+    "forms": {
+      "thanksgiving": 2
+    }
+  },
+  "gesundheit": {
+    "total": 2,
+    "forms": {
+      "gesundheit": 2
+    }
+  },
+  "frown": {
+    "total": 2,
+    "forms": {
+      "frown": 2
+    }
+  },
+  "yifymovies": {
+    "total": 2,
+    "forms": {
+      "yifymovies": 2
+    }
+  },
+  "tokuma": {
+    "total": 2,
+    "forms": {
+      "tokuma": 2
+    }
+  },
+  "shoten": {
+    "total": 2,
+    "forms": {
+      "shoten": 2
+    }
+  },
+  "nippon": {
+    "total": 2,
+    "forms": {
+      "nippon": 2
+    }
+  },
+  "dentsu": {
+    "total": 2,
+    "forms": {
+      "dentsu": 2
+    }
+  },
+  "rampage": {
+    "total": 2,
+    "forms": {
+      "rampage": 2
+    }
+  },
+  "yamato": {
+    "total": 2,
+    "forms": {
+      "yamato": 2
+    }
+  },
+  "domain": {
+    "total": 2,
+    "forms": {
+      "domain": 2
+    }
+  },
+  "comrade": {
+    "total": 2,
+    "forms": {
+      "comrade": 2
+    }
+  },
+  "escort": {
+    "total": 2,
+    "forms": {
+      "escort": 2
+    }
+  },
+  "gonza": {
+    "total": 2,
+    "forms": {
+      "gonza": 2
+    }
+  },
+  "defile": {
+    "total": 2,
+    "forms": {
+      "defiles": 1,
+      "defile": 1
+    }
+  },
+  "lightly": {
+    "total": 2,
+    "forms": {
+      "lightly": 2
+    }
+  },
+  "ravage": {
+    "total": 2,
+    "forms": {
+      "ravaging": 1,
+      "ravage": 1
+    }
+  },
+  "bandage": {
+    "total": 2,
+    "forms": {
+      "bandages": 1,
+      "bandage": 1
+    }
+  },
+  "bountiful": {
+    "total": 2,
+    "forms": {
+      "bountiful": 2
+    }
+  },
+  "stockade": {
+    "total": 2,
+    "forms": {
+      "stockade": 2
+    }
+  }
+}

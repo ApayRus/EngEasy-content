@@ -2,6 +2,7 @@
 type: lesson
 description: 'Master possessive pronouns in English - learn how to correctly use my, your, his, her, its, our, and their in everyday conversations. Perfect for beginners!'
 hideHelp: true
+newLexemeForm: pronouns/possessive-adj
 ---
 
 # 7. Possessive pronouns

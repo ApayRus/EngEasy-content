@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Визуализация частоты слов</title>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+
+		body {
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+			background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+			min-height: 100vh;
+			padding: 20px;
+		}
+
+		.container {
+			max-width: 1600px;
+			margin: 0 auto;
+			background: white;
+			border-radius: 20px;
+			box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+			padding: 40px;
+		}
+
+		h1 {
+			color: #667eea;
+			margin-bottom: 10px;
+			font-size: 2.5em;
+		}
+
+		.controls {
+			margin: 30px 0;
+			display: flex;
+			gap: 15px;
+			flex-wrap: wrap;
+			align-items: center;
+		}
+
+		.btn-group {
+			display: flex;
+			gap: 10px;
+			flex-wrap: wrap;
+		}
+
+		.nav-section {
+			margin: 20px 0;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			gap: 15px;
+		}
+
+		.btn {
+			padding: 12px 25px;
+			border: none;
+			border-radius: 8px;
+			font-size: 1em;
+			cursor: pointer;
+			background: #f0f0f0;
+			transition: all 0.3s;
+			font-weight: 600;
+		}
+
+		.btn:hover {
+			background: #e0e0e0;
+			transform: translateY(-2px);
+		}
+
+		.btn.active {
+			background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+			color: white;
+		}
+
+		.btn:disabled {
+			opacity: 0.5;
+			cursor: not-allowed;
+		}
+
+		.nav-controls {
+			display: flex;
+			gap: 10px;
+			align-items: center;
+		}
+
+		.nav-btn {
+			padding: 10px 20px;
+			background: #667eea;
+			color: white;
+			border: none;
+			border-radius: 8px;
+			cursor: pointer;
+			font-size: 1.2em;
+			font-weight: bold;
+			transition: all 0.3s;
+		}
+
+		.nav-btn:hover:not(:disabled) {
+			background: #5568d3;
+			transform: scale(1.05);
+		}
+
+		.nav-btn:disabled {
+			background: #ccc;
+			cursor: not-allowed;
+		}
+
+		.position-indicator {
+			padding: 10px 20px;
+			background: #f8f9fa;
+			border-radius: 8px;
+			font-weight: 600;
+			color: #333;
+		}
+
+		.chart-wrapper {
+			position: relative;
+			background: #f8f9fa;
+			border-radius: 12px;
+			padding: 20px;
+			margin: 20px 0;
+		}
+
+		.chart-container {
+			position: relative;
+			height: 700px;
+			width: 100%;
+		}
+
+		.word-details {
+			display: none;
+			background: #ffffff;
+			padding: 30px;
+			border-radius: 12px;
+			margin: 30px 0;
+			border: 3px solid #667eea;
+			animation: slideIn 0.3s ease;
+		}
+
+		@keyframes slideIn {
+			from {
+				opacity: 0;
+				transform: translateY(-10px);
+			}
+
+			to {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
+
+		.word-details.active {
+			display: block;
+		}
+
+		.word-details h2 {
+			color: #667eea;
+			margin-bottom: 20px;
+			font-size: 2.5em;
+		}
+
+		.stats {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+			gap: 20px;
+			margin: 25px 0;
+		}
+
+		.stat-card {
+			text-align: center;
+			padding: 25px;
+			background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+			border-radius: 12px;
+			border: 2px solid #667eea30;
+		}
+
+		.stat-value {
+			font-size: 2.5em;
+			font-weight: bold;
+			color: #667eea;
+		}
+
+		.stat-label {
+			color: #666;
+			margin-top: 5px;
+			font-weight: 600;
+		}
+
+		.detail-section {
+			margin: 30px 0;
+		}
+
+		.detail-section h3 {
+			color: #333;
+			margin-bottom: 15px;
+			font-size: 1.5em;
+		}
+
+		.forms-grid {
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+			gap: 15px;
+			margin-top: 15px;
+		}
+
+		.form-card {
+			background: #f8f9fa;
+			padding: 18px;
+			border-radius: 10px;
+			border-left: 5px solid #667eea;
+			transition: all 0.3s;
+		}
+
+		.form-card:hover {
+			transform: translateX(5px);
+			box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+		}
+
+		.form-word {
+			font-weight: 700;
+			font-size: 1.3em;
+			color: #333;
+			margin-bottom: 8px;
+		}
+
+		.form-count {
+			color: #888;
+			font-size: 1em;
+			margin-bottom: 8px;
+		}
+
+		.form-expansion {
+			color: white;
+			background: #667eea;
+			padding: 8px 12px;
+			border-radius: 6px;
+			font-size: 0.9em;
+			margin-top: 10px;
+			display: inline-block;
+		}
+
+		.close-btn {
+			float: right;
+			background: #ff6b6b;
+			color: white;
+			border: none;
+			padding: 12px 24px;
+			border-radius: 8px;
+			cursor: pointer;
+			font-size: 1em;
+			font-weight: 600;
+			transition: all 0.3s;
+		}
+
+		.close-btn:hover {
+			background: #ff5252;
+			transform: scale(1.05);
+		}
+
+		.search-box {
+			flex: 1;
+			min-width: 300px;
+		}
+
+		.search-box input {
+			width: 100%;
+			padding: 12px 20px;
+			border: 2px solid #e0e0e0;
+			border-radius: 8px;
+			font-size: 1em;
+			transition: border-color 0.3s;
+		}
+
+		.search-box input:focus {
+			outline: none;
+			border-color: #667eea;
+		}
+
+		.info-text {
+			color: #666;
+			font-size: 0.95em;
+			margin: 10px 0;
+		}
+
+		/* Адаптивный дизайн для мобильных */
+		@media (max-width: 768px) {
+			body {
+				padding: 10px;
+			}
+
+			.container {
+				padding: 20px;
+				border-radius: 15px;
+			}
+
+			h1 {
+				font-size: 1.8em;
+			}
+
+			.controls {
+				flex-direction: column;
+				align-items: stretch;
+			}
+
+			.btn-group {
+				width: 100%;
+				justify-content: center;
+			}
+
+			.btn {
+				flex: 1;
+				padding: 10px 15px;
+				font-size: 0.9em;
+			}
+
+			.search-box {
+				width: 100%;
+			}
+
+			.chart-container {
+				height: 500px;
+			}
+
+			.nav-section {
+				flex-wrap: wrap;
+				gap: 10px;
+			}
+
+			.nav-btn {
+				flex: 1;
+				min-width: 100px;
+				padding: 12px 15px;
+				font-size: 1em;
+			}
+
+			.position-indicator {
+				width: 100%;
+				text-align: center;
+				order: -1;
+			}
+
+			.forms-grid {
+				grid-template-columns: 1fr;
+			}
+
+			.word-details {
+				padding: 20px;
+			}
+
+			.word-details h2 {
+				font-size: 1.8em;
+			}
+
+			.stat-value {
+				font-size: 2em;
+			}
+		}
+
+		@media (max-width: 480px) {
+			.chart-container {
+				height: 400px;
+			}
+
+			h1 {
+				font-size: 1.5em;
+			}
+
+			.btn {
+				font-size: 0.85em;
+				padding: 8px 12px;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container">
+		<h1>📊 Визуализация частоты слов</h1>
+		<p style="color: #666; margin-bottom: 20px;">Кликните на столбец для подробной информации • Используйте стрелки
+			для навигации</p>
+
+		<div class="controls">
+			<div class="btn-group">
+				<button class="btn" onclick="setWordsPerPage(20)">20 слов</button>
+				<button class="btn active" onclick="setWordsPerPage(50)">50 слов</button>
+				<button class="btn" onclick="setWordsPerPage(100)">100 слов</button>
+			</div>
+
+			<div class="search-box">
+				<input type="text" id="searchWord" placeholder="🔍 Поиск слова...">
+			</div>
+		</div>
+
+		<p class="info-text" id="chartInfo">Загрузка данных...</p>
+
+		<div class="chart-wrapper">
+			<div class="chart-container">
+				<canvas id="wordChart"></canvas>
+			</div>
+		</div>
+
+		<div class="nav-section">
+			<button class="nav-btn" id="prevBtn" onclick="previousPage()">◄ Назад</button>
+			<span class="position-indicator" id="positionInfo">Загрузка...</span>
+			<button class="nav-btn" id="nextBtn" onclick="nextPage()">Вперёд ►</button>
+		</div>
+
+		<div class="word-details" id="wordDetails">
+			<button class="close-btn" onclick="closeDetails()">✕ Закрыть</button>
+			<div id="detailsContent"></div>
+		</div>
+	</div>
+
+	<script>
+		let wordsData = {};
+		let loadedChunks = new Set();
+		let indexData = null;
+		let chart = null;
+		let currentPage = 0;
+		let wordsPerPage = 50;
+		let isSearchMode = false;
+
+		// Определяем мобильное устройство
+		const isMobile = window.innerWidth <= 768;
+
+		// На мобильных по умолчанию показываем меньше слов
+		if (isMobile) {
+			wordsPerPage = 20;
+		}
+
+		// Загружаем индекс
+		fetch('chunks/index.json')
+			.then(response => response.json())
+			.then(index => {
+				indexData = index;
+
+				// Обновляем активную кнопку для мобильных
+				if (isMobile) {
+					document.querySelectorAll('.btn-group .btn').forEach(btn => {
+						btn.classList.remove('active');
+						if (btn.textContent.includes('20')) {
+							btn.classList.add('active');
+						}
+					});
+				}
+
+				// Загружаем первый чанк
+				loadChunksForPage(0);
+			});
+
+		async function setWordsPerPage(count) {
+			wordsPerPage = count;
+			currentPage = 0;
+			await loadChunksForPage(0);
+
+			// Обновляем активную кнопку
+			document.querySelectorAll('.btn-group .btn').forEach(btn => btn.classList.remove('active'));
+			event.target.classList.add('active');
+		}
+
+		async function previousPage() {
+			if (currentPage > 0) {
+				currentPage--;
+				await loadChunksForPage(currentPage);
+			}
+		}
+
+		async function nextPage() {
+			const maxPage = Math.ceil(indexData.totalWords / wordsPerPage) - 1;
+			if (currentPage < maxPage) {
+				currentPage++;
+				await loadChunksForPage(currentPage);
+			}
+		}
+
+		async function loadChunksForPage(page) {
+			const startIdx = page * wordsPerPage;
+			const endIdx = startIdx + wordsPerPage;
+
+			// Определяем какие чанки нужны
+			const startChunk = Math.floor(startIdx / 100);
+			const endChunk = Math.floor(endIdx / 100);
+
+			// Загружаем недостающие чанки
+			const loadPromises = [];
+			for (let chunkNum = startChunk; chunkNum <= endChunk; chunkNum++) {
+				if (!loadedChunks.has(chunkNum) && chunkNum < indexData.chunksCount) {
+					loadPromises.push(loadChunk(chunkNum));
+				}
+			}
+
+			if (loadPromises.length > 0) {
+				await Promise.all(loadPromises);
+			}
+
+			renderChart();
+		}
+
+		async function loadChunk(chunkNum) {
+			try {
+				const response = await fetch(`chunks/chunk-${chunkNum}.json`);
+				const chunkData = await response.json();
+
+				// Добавляем данные чанка в общий объект
+				Object.assign(wordsData, chunkData);
+				loadedChunks.add(chunkNum);
+
+				console.log(`Загружен чанк ${chunkNum}`);
+			} catch (error) {
+				console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
+			}
+		}
+
+		function renderChart() {
+			if (isSearchMode) return;
+
+			const startIdx = currentPage * wordsPerPage;
+			const endIdx = startIdx + wordsPerPage;
+
+			// Получаем слова для текущей страницы из индекса
+			const pageWords = indexData.words.slice(startIdx, endIdx);
+
+			// Создаем entries из загруженных данных
+			const entries = pageWords
+				.map(word => [word, wordsData[word]])
+				.filter(([word, data]) => data); // Только если данные загружены
+
+			updateChart(entries);
+			updateNavigation();
+		}
+
+		function updateChart(entries) {
+			const labels = entries.map(([word]) => word);
+			const values = entries.map(([, data]) => data.total);
+
+			// Генерируем градиент цветов от фиолетового к синему
+			const colors = entries.map((_, i) => {
+				const ratio = i / entries.length;
+				const hue = 250 - (ratio * 30); // От фиолетового (280) к синему (250)
+				const lightness = 55 + (ratio * 10); // Небольшое изменение яркости
+				return `hsla(${hue}, 70%, ${lightness}%, 0.85)`;
+			});
+
+			const ctx = document.getElementById('wordChart').getContext('2d');
+
+			if (chart) {
+				chart.destroy();
+			}
+
+			chart = new Chart(ctx, {
+				type: 'bar',
+				data: {
+					labels: labels,
+					datasets: [{
+						label: 'Частота',
+						data: values,
+						backgroundColor: colors,
+						borderColor: colors.map(c => c.replace('0.85', '1')),
+						borderWidth: 2,
+						borderRadius: 6,
+						hoverBackgroundColor: colors.map(c => c.replace('0.85', '0.95')),
+						barPercentage: 0.95,
+						categoryPercentage: 1.0
+					}]
+				},
+				options: {
+					responsive: true,
+					maintainAspectRatio: false,
+					onClick: (event, elements) => {
+						if (elements.length > 0) {
+							const index = elements[0].index;
+							const word = labels[index];
+							showWordDetails(word);
+						}
+					},
+					plugins: {
+						legend: {
+							display: false
+						},
+						tooltip: {
+							backgroundColor: 'rgba(0, 0, 0, 0.8)',
+							padding: 15,
+							titleFont: {
+								size: 16,
+								weight: 'bold'
+							},
+							bodyFont: {
+								size: 14
+							},
+							callbacks: {
+								title: function (context) {
+									return context[0].label;
+								},
+								label: function (context) {
+									const word = context.label;
+									const data = wordsData[word];
+									const formsCount = Object.keys(data.forms).length;
+									const forms = Object.keys(data.forms).slice(0, 3).join(', ');
+									return [
+										`Всего: ${context.parsed.y.toLocaleString()}`,
+										formsCount > 1 ? `Форм: ${formsCount} (${forms}...)` : '',
+										'',
+										'🖱️ Кликните для деталей'
+									].filter(Boolean);
+								}
+							}
+						}
+					},
+					scales: {
+						y: {
+							beginAtZero: true,
+							title: {
+								display: true,
+								text: 'Количество упоминаний',
+								font: {
+									size: 16,
+									weight: 'bold'
+								},
+								color: '#333'
+							},
+							ticks: {
+								font: {
+									size: 12
+								}
+							},
+							grid: {
+								color: 'rgba(0, 0, 0, 0.05)'
+							}
+						},
+						x: {
+							title: {
+								display: true,
+								text: 'Слова (используйте стрелки для навигации)',
+								font: {
+									size: 14,
+									weight: 'bold'
+								},
+								color: '#333'
+							},
+							ticks: {
+								font: {
+									size: isMobile ? 8 : 10,
+									weight: '500'
+								},
+								color: '#333',
+								maxRotation: 90,
+								minRotation: 90,
+								autoSkip: false,
+								maxTicksLimit: isMobile ? wordsPerPage : undefined
+							},
+							grid: {
+								display: false
+							}
+						}
+					},
+					animation: {
+						duration: 750,
+						easing: 'easeInOutQuart'
+					}
+				}
+			});
+		}
+
+		function updateNavigation() {
+			const totalWords = indexData.totalWords;
+			const maxPage = Math.ceil(totalWords / wordsPerPage) - 1;
+			const startIdx = currentPage * wordsPerPage + 1;
+			const endIdx = Math.min((currentPage + 1) * wordsPerPage, totalWords);
+
+			document.getElementById('prevBtn').disabled = currentPage === 0;
+			document.getElementById('nextBtn').disabled = currentPage >= maxPage;
+			document.getElementById('positionInfo').textContent =
+				`${startIdx}-${endIdx} из ${totalWords.toLocaleString()}`;
+
+			document.getElementById('chartInfo').textContent =
+				`Показаны слова с ${startIdx} по ${endIdx} ранг. Всего лексем: ${totalWords.toLocaleString()}`;
+		}
+
+		function showWordDetails(word) {
+			const data = wordsData[word];
+			if (!data) return;
+
+			const formsCount = Object.keys(data.forms).length;
+			const expansions = data.expansions || {};
+
+			// Вычисляем ранг слова
+			const rank = indexData.words.indexOf(word) + 1;
+
+			let html = `
+                <h2>#${rank} ${word}</h2>
+                <div class="stats">
+                    <div class="stat-card">
+                        <div class="stat-value">${data.total.toLocaleString()}</div>
+                        <div class="stat-label">Всего упоминаний</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value">${formsCount}</div>
+                        <div class="stat-label">Различных форм</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value">${Object.keys(expansions).length}</div>
+                        <div class="stat-label">Расшифровок</div>
+                    </div>
+                </div>
+                
+                <div class="detail-section">
+                    <h3>Все формы слова "${word}":</h3>
+                    <div class="forms-grid">
+            `;
+
+			// Сортируем формы по частоте
+			const sortedForms = Object.entries(data.forms).sort((a, b) => b[1] - a[1]);
+
+			sortedForms.forEach(([form, count]) => {
+				const expansion = expansions[form];
+				const percentage = ((count / data.total) * 100).toFixed(1);
+				html += `
+                    <div class="form-card">
+                        <div class="form-word">${form}</div>
+                        <div class="form-count">📊 ${count.toLocaleString()} (${percentage}%)</div>
+                        ${expansion ? `<div class="form-expansion">💬 ${expansion}</div>` : ''}
+                    </div>
+                `;
+			});
+
+			html += `
+                    </div>
+                </div>
+            `;
+
+			document.getElementById('detailsContent').innerHTML = html;
+			document.getElementById('wordDetails').classList.add('active');
+			document.getElementById('wordDetails').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+		}
+
+		function closeDetails() {
+			document.getElementById('wordDetails').classList.remove('active');
+		}
+
+		// Поиск
+		let searchTimeout;
+		document.getElementById('searchWord').addEventListener('input', (e) => {
+			clearTimeout(searchTimeout);
+			searchTimeout = setTimeout(async () => {
+				const query = e.target.value.toLowerCase().trim();
+
+				if (!query) {
+					isSearchMode = false;
+					await loadChunksForPage(currentPage);
+					return;
+				}
+
+				isSearchMode = true;
+
+				// Фильтруем слова по поиску из индекса (только слова, начинающиеся с введённого текста)
+				const matchedWords = indexData.words
+					.filter(word => word.toLowerCase().startsWith(query))
+					.slice(0, 100); // Максимум 100 результатов
+
+				if (matchedWords.length === 0) return;
+
+				// Загружаем нужные чанки для найденных слов
+				const chunksNeeded = new Set();
+				matchedWords.forEach(word => {
+					const idx = indexData.words.indexOf(word);
+					const chunkNum = Math.floor(idx / 100);
+					chunksNeeded.add(chunkNum);
+				});
+
+				// Загружаем недостающие чанки
+				const loadPromises = [];
+				for (const chunkNum of chunksNeeded) {
+					if (!loadedChunks.has(chunkNum)) {
+						loadPromises.push(loadChunk(chunkNum));
+					}
+				}
+
+				if (loadPromises.length > 0) {
+					await Promise.all(loadPromises);
+				}
+
+				// Создаем entries для найденных слов
+				const filtered = matchedWords
+					.map(word => [word, wordsData[word]])
+					.filter(([, data]) => data);
+
+				updateChart(filtered);
+
+				document.getElementById('chartInfo').textContent =
+					`Найдено: ${filtered.length} слов`;
+				document.getElementById('positionInfo').textContent = 'Поиск';
+				document.getElementById('prevBtn').disabled = true;
+				document.getElementById('nextBtn').disabled = true;
+			}, 300); // Задержка для производительности
+		});
+
+		// Навигация клавиатурой
+		document.addEventListener('keydown', (e) => {
+			if (isSearchMode || document.getElementById('searchWord') === document.activeElement) return;
+
+			if (e.key === 'ArrowLeft') {
+				previousPage();
+			} else if (e.key === 'ArrowRight') {
+				nextPage();
+			}
+		});
+
+		// Поддержка свайпов на мобильных
+		let touchStartX = 0;
+		let touchEndX = 0;
+
+		const chartWrapper = document.querySelector('.chart-wrapper');
+
+		chartWrapper.addEventListener('touchstart', (e) => {
+			touchStartX = e.changedTouches[0].screenX;
+		});
+
+		chartWrapper.addEventListener('touchend', (e) => {
+			touchEndX = e.changedTouches[0].screenX;
+			handleSwipe();
+		});
+
+		function handleSwipe() {
+			const swipeThreshold = 50; // минимальное расстояние для свайпа
+
+			if (touchEndX < touchStartX - swipeThreshold) {
+				// Свайп влево - следующая страница
+				nextPage();
+			}
+
+			if (touchEndX > touchStartX + swipeThreshold) {
+				// Свайп вправо - предыдущая страница
+				previousPage();
+			}
+		}
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,602 @@
+{
+  "ruffle": {
+    "total": 1,
+    "forms": {
+      "ruffles": 1
+    }
+  },
+  "bluntness": {
+    "total": 1,
+    "forms": {
+      "bluntness": 1
+    }
+  },
+  "hotly": {
+    "total": 1,
+    "forms": {
+      "hotly": 1
+    }
+  },
+  "gullible": {
+    "total": 1,
+    "forms": {
+      "gullible": 1
+    }
+  },
+  "recourse": {
+    "total": 1,
+    "forms": {
+      "recourse": 1
+    }
+  },
+  "medically": {
+    "total": 1,
+    "forms": {
+      "medically": 1
+    }
+  },
+  "untouched": {
+    "total": 1,
+    "forms": {
+      "untouched": 1
+    }
+  },
+  "inter": {
+    "total": 1,
+    "forms": {
+      "inter": 1
+    }
+  },
+  "zagging": {
+    "total": 1,
+    "forms": {
+      "zagging": 1
+    }
+  },
+  "viaduct": {
+    "total": 1,
+    "forms": {
+      "viaducts": 1
+    }
+  },
+  "athletic": {
+    "total": 1,
+    "forms": {
+      "athletic": 1
+    }
+  },
+  "spoke": {
+    "total": 1,
+    "forms": {
+      "spokes": 1
+    }
+  },
+  "kobe": {
+    "total": 1,
+    "forms": {
+      "kobe": 1
+    }
+  },
+  "rib": {
+    "total": 1,
+    "forms": {
+      "rib": 1
+    }
+  },
+  "yakitori": {
+    "total": 1,
+    "forms": {
+      "yakitori": 1
+    }
+  },
+  "toshiro": {
+    "total": 1,
+    "forms": {
+      "toshiro": 1
+    }
+  },
+  "hibachi": {
+    "total": 1,
+    "forms": {
+      "hibachi": 1
+    }
+  },
+  "fujimoto": {
+    "total": 1,
+    "forms": {
+      "fujimoto": 1
+    }
+  },
+  "unprecedented": {
+    "total": 1,
+    "forms": {
+      "unprecedented": 1
+    }
+  },
+  "deportation": {
+    "total": 1,
+    "forms": {
+      "deportation": 1
+    }
+  },
+  "uninhabitable": {
+    "total": 1,
+    "forms": {
+      "uninhabitable": 1
+    }
+  },
+  "kitano": {
+    "total": 1,
+    "forms": {
+      "kitano": 1
+    }
+  },
+  "robotics": {
+    "total": 1,
+    "forms": {
+      "robotics": 1
+    }
+  },
+  "yakuza": {
+    "total": 1,
+    "forms": {
+      "yakuza": 1
+    }
+  },
+  "nakamura": {
+    "total": 1,
+    "forms": {
+      "nakamura": 1
+    }
+  },
+  "opposition": {
+    "total": 1,
+    "forms": {
+      "opposition": 1
+    }
+  },
+  "bribery": {
+    "total": 1,
+    "forms": {
+      "bribery": 1
+    }
+  },
+  "intimidation": {
+    "total": 1,
+    "forms": {
+      "intimidation": 1
+    }
+  },
+  "monger": {
+    "total": 1,
+    "forms": {
+      "mongered": 1
+    }
+  },
+  "aviation": {
+    "total": 1,
+    "forms": {
+      "aviation": 1
+    }
+  },
+  "harken": {
+    "total": 1,
+    "forms": {
+      "harken": 1
+    }
+  },
+  "unscheduled": {
+    "total": 1,
+    "forms": {
+      "unscheduled": 1
+    }
+  },
+  "worldly": {
+    "total": 1,
+    "forms": {
+      "worldly": 1
+    }
+  },
+  "precede": {
+    "total": 1,
+    "forms": {
+      "preceded": 1
+    }
+  },
+  "crematory": {
+    "total": 1,
+    "forms": {
+      "crematory": 1
+    }
+  },
+  "furnace": {
+    "total": 1,
+    "forms": {
+      "furnace": 1
+    }
+  },
+  "turpentine": {
+    "total": 1,
+    "forms": {
+      "turpentine": 1
+    }
+  },
+  "brandy": {
+    "total": 1,
+    "forms": {
+      "brandy": 1
+    }
+  },
+  "depict": {
+    "total": 1,
+    "forms": {
+      "depicts": 1
+    }
+  },
+  "fringe": {
+    "total": 1,
+    "forms": {
+      "fringes": 1
+    }
+  },
+  "subsequent": {
+    "total": 1,
+    "forms": {
+      "subsequent": 1
+    }
+  },
+  "abduct": {
+    "total": 1,
+    "forms": {
+      "abducted": 1
+    }
+  },
+  "noxious": {
+    "total": 1,
+    "forms": {
+      "noxious": 1
+    }
+  },
+  "marsh": {
+    "total": 1,
+    "forms": {
+      "marsh": 1
+    }
+  },
+  "pollute": {
+    "total": 1,
+    "forms": {
+      "polluted": 1
+    }
+  },
+  "pagoda": {
+    "total": 1,
+    "forms": {
+      "pagoda": 1
+    }
+  },
+  "compact": {
+    "total": 1,
+    "forms": {
+      "compacted": 1
+    }
+  },
+  "procession": {
+    "total": 1,
+    "forms": {
+      "procession": 1
+    }
+  },
+  "thug": {
+    "total": 1,
+    "forms": {
+      "thugs": 1
+    }
+  },
+  "stooge": {
+    "total": 1,
+    "forms": {
+      "stooges": 1
+    }
+  },
+  "underling": {
+    "total": 1,
+    "forms": {
+      "underlings": 1
+    }
+  },
+  "wasabi": {
+    "total": 1,
+    "forms": {
+      "wasabi": 1
+    }
+  },
+  "excess": {
+    "total": 1,
+    "forms": {
+      "excess": 1
+    }
+  },
+  "dosage": {
+    "total": 1,
+    "forms": {
+      "dosage": 1
+    }
+  },
+  "xj": {
+    "total": 1,
+    "forms": {
+      "xj": 1
+    }
+  },
+  "radiator": {
+    "total": 1,
+    "forms": {
+      "radiator": 1
+    }
+  },
+  "velocity": {
+    "total": 1,
+    "forms": {
+      "velocity": 1
+    }
+  },
+  "auditory": {
+    "total": 1,
+    "forms": {
+      "auditory": 1
+    }
+  },
+  "privy": {
+    "total": 1,
+    "forms": {
+      "privy": 1
+    }
+  },
+  "confidential": {
+    "total": 1,
+    "forms": {
+      "confidential": 1
+    }
+  },
+  "butterscotch": {
+    "total": 1,
+    "forms": {
+      "butterscotch": 1
+    }
+  },
+  "compactor": {
+    "total": 1,
+    "forms": {
+      "compactor": 1
+    }
+  },
+  "notify": {
+    "total": 1,
+    "forms": {
+      "notified": 1
+    }
+  },
+  "mistreat": {
+    "total": 1,
+    "forms": {
+      "mistreated": 1
+    }
+  },
+  "radically": {
+    "total": 1,
+    "forms": {
+      "radically": 1
+    }
+  },
+  "sluice": {
+    "total": 1,
+    "forms": {
+      "sluice": 1
+    }
+  },
+  "originally": {
+    "total": 1,
+    "forms": {
+      "originally": 1
+    }
+  },
+  "incarcerate": {
+    "total": 1,
+    "forms": {
+      "incarcerated": 1
+    }
+  },
+  "cultiv": {
+    "total": 1,
+    "forms": {
+      "cultiv": 1
+    }
+  },
+  "inaugurate": {
+    "total": 1,
+    "forms": {
+      "inaugurated": 1
+    }
+  },
+  "extermination": {
+    "total": 1,
+    "forms": {
+      "extermination": 1
+    }
+  },
+  "voter": {
+    "total": 1,
+    "forms": {
+      "voters": 1
+    }
+  },
+  "yoko": {
+    "total": 1,
+    "forms": {
+      "yoko": 1
+    }
+  },
+  "ono": {
+    "total": 1,
+    "forms": {
+      "ono": 1
+    }
+  },
+  "humanely": {
+    "total": 1,
+    "forms": {
+      "humanely": 1
+    }
+  },
+  "protestors": {
+    "total": 1,
+    "forms": {
+      "protestors": 1
+    }
+  },
+  "minority": {
+    "total": 1,
+    "forms": {
+      "minority": 1
+    }
+  },
+  "overseas": {
+    "total": 1,
+    "forms": {
+      "overseas": 1
+    }
+  },
+  "anarchy": {
+    "total": 1,
+    "forms": {
+      "anarchy": 1
+    }
+  },
+  "nullify": {
+    "total": 1,
+    "forms": {
+      "nullify": 1
+    }
+  },
+  "visa": {
+    "total": 1,
+    "forms": {
+      "visa": 1
+    }
+  },
+  "ohio": {
+    "total": 1,
+    "forms": {
+      "ohio": 1
+    }
+  },
+  "equilibrium": {
+    "total": 1,
+    "forms": {
+      "equilibrium": 1
+    }
+  },
+  "inaccurately": {
+    "total": 1,
+    "forms": {
+      "inaccurately": 1
+    }
+  },
+  "subscription": {
+    "total": 1,
+    "forms": {
+      "subscription": 1
+    }
+  },
+  "enclose": {
+    "total": 1,
+    "forms": {
+      "enclose": 1
+    }
+  },
+  "unstamped": {
+    "total": 1,
+    "forms": {
+      "unstamped": 1
+    }
+  },
+  "protester": {
+    "total": 1,
+    "forms": {
+      "protesters": 1
+    }
+  },
+  "surgery": {
+    "total": 1,
+    "forms": {
+      "surgery": 1
+    }
+  },
+  "kun": {
+    "total": 1,
+    "forms": {
+      "kun": 1
+    }
+  },
+  "statute": {
+    "total": 1,
+    "forms": {
+      "statute": 1
+    }
+  },
+  "prosecution": {
+    "total": 1,
+    "forms": {
+      "prosecution": 1
+    }
+  },
+  "concurrent": {
+    "total": 1,
+    "forms": {
+      "concurrent": 1
+    }
+  },
+  "forthwith": {
+    "total": 1,
+    "forms": {
+      "forthwith": 1
+    }
+  },
+  "stagger": {
+    "total": 1,
+    "forms": {
+      "staggering": 1
+    }
+  },
+  "honda": {
+    "total": 1,
+    "forms": {
+      "honda": 1
+    }
+  },
+  "graft": {
+    "total": 1,
+    "forms": {
+      "graft": 1
+    }
+  },
+  "corruption": {
+    "total": 1,
+    "forms": {
+      "corruption": 1
+    }
+  },
+  "unconfirmed": {
+    "total": 1,
+    "forms": {
+      "unconfirmed": 1
+    }
+  },
+  "suzuki": {
+    "total": 1,
+    "forms": {
+      "suzuki": 1
+    }
+  }
+}

@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Анализ английских слов в мультфильмах</title>
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+
+		body {
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+			background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+			min-height: 100vh;
+			padding: 20px;
+			line-height: 1.6;
+		}
+
+		.container {
+			max-width: 1200px;
+			margin: 0 auto;
+			background: white;
+			border-radius: 20px;
+			box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+			padding: 60px;
+		}
+
+		h1 {
+			color: #667eea;
+			font-size: 3em;
+			margin-bottom: 20px;
+			text-align: center;
+		}
+
+		.intro {
+			font-size: 1.3em;
+			color: #333;
+			margin: 30px 0;
+			text-align: center;
+			line-height: 1.8;
+			max-width: 900px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		h2 {
+			color: #667eea;
+			font-size: 2em;
+			margin: 50px 0 20px 0;
+			border-bottom: 3px solid #667eea;
+			padding-bottom: 10px;
+		}
+
+		h3 {
+			color: #333;
+			font-size: 1.5em;
+			margin: 30px 0 15px 0;
+		}
+
+		.stats-grid {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+			gap: 25px;
+			margin: 40px 0;
+		}
+
+		.stat-card {
+			background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+			padding: 30px;
+			border-radius: 15px;
+			text-align: center;
+			border: 3px solid #667eea30;
+			transition: transform 0.3s, box-shadow 0.3s;
+		}
+
+		.stat-card:hover {
+			transform: translateY(-5px);
+			box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+		}
+
+		.stat-value {
+			font-size: 3em;
+			font-weight: bold;
+			color: #667eea;
+			margin-bottom: 10px;
+		}
+
+		.stat-label {
+			color: #666;
+			font-size: 1.1em;
+			font-weight: 600;
+		}
+
+		.features-list {
+			list-style: none;
+			margin: 20px 0;
+		}
+
+		.features-list li {
+			padding: 12px 0;
+			padding-left: 35px;
+			position: relative;
+			font-size: 1.1em;
+			color: #333;
+		}
+
+		.features-list li:before {
+			content: "✓";
+			position: absolute;
+			left: 0;
+			color: #667eea;
+			font-weight: bold;
+			font-size: 1.3em;
+		}
+
+		.action-buttons {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+			gap: 30px;
+			margin: 50px 0;
+		}
+
+		.action-btn {
+			display: block;
+			padding: 30px 40px;
+			background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+			color: white;
+			text-decoration: none;
+			border-radius: 15px;
+			text-align: center;
+			font-size: 1.3em;
+			font-weight: bold;
+			transition: all 0.3s;
+			box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+		}
+
+		.action-btn:hover {
+			transform: translateY(-5px);
+			box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+		}
+
+		.action-btn .icon {
+			font-size: 2em;
+			display: block;
+			margin-bottom: 10px;
+		}
+
+		.action-btn .desc {
+			font-size: 0.7em;
+			opacity: 0.9;
+			margin-top: 10px;
+		}
+
+		.movies-list {
+			columns: 3;
+			column-gap: 40px;
+			margin: 30px 0;
+		}
+
+		.movie-item {
+			break-inside: avoid;
+			padding: 8px 0;
+			font-size: 0.95em;
+			color: #333;
+			line-height: 1.6;
+		}
+
+		.movie-title {
+			font-weight: 500;
+		}
+
+		.movie-year {
+			color: #888;
+			font-weight: 400;
+			margin-left: 5px;
+		}
+
+		.work-section {
+			background: #f8f9fa;
+			padding: 30px;
+			border-radius: 15px;
+			margin: 30px 0;
+		}
+
+		.work-section h3 {
+			color: #667eea;
+		}
+
+		@media (max-width: 768px) {
+			.container {
+				padding: 30px 20px;
+			}
+
+			h1 {
+				font-size: 2em;
+			}
+
+			.intro {
+				font-size: 1.1em;
+			}
+
+			.stat-value {
+				font-size: 2.5em;
+			}
+
+			.movies-list {
+				columns: 1;
+			}
+		}
+
+		@media (min-width: 769px) and (max-width: 1024px) {
+			.movies-list {
+				columns: 2;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container">
+		<h1>🎬 Статистика английских слов в мультфильмах</h1>
+
+		<div class="intro">
+			В данном проекте собрана статистика использования английских слов в <strong id="introMovieCount">104
+				популярных современных мультфильмах</strong>.
+			Были скачаны все субтитры к ним и проведена комплексная обработка для получения качественных данных.
+		</div>
+
+		<h2>📊 Итоговая статистика</h2>
+
+		<div class="stats-grid" id="statsGrid">
+			<div class="stat-card">
+				<div class="stat-value" id="totalMovies">105</div>
+				<div class="stat-label">Мультфильмов</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-value" id="totalLemmas">-</div>
+				<div class="stat-label">Уникальных лексем</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-value" id="totalWords">-</div>
+				<div class="stat-label">Всего слов</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-value" id="totalForms">-</div>
+				<div class="stat-label">Различных форм</div>
+			</div>
+		</div>
+
+		<h2>🔧 Проделанная работа</h2>
+
+		<div class="work-section">
+			<h3>1. Обработка сокращений и разговорных форм</h3>
+			<ul class="features-list">
+				<li><strong>Сокращения:</strong> i'm→i, it's→it, don't→do, can't→can</li>
+				<li><strong>Разговорные формы:</strong> gonna→go, wanna→want, gotta→get</li>
+				<li><strong>Притяжательные:</strong> life's→life, boy's→boy</li>
+				<li><strong>Расшифровки:</strong> для каждого сокращения сохранена полная форма</li>
+			</ul>
+		</div>
+
+		<div class="work-section">
+			<h3>2. Лемматизация (приведение к базовой форме)</h3>
+			<ul class="features-list">
+				<li><strong>Глаголы:</strong> goes→go, went→go, knew→know, running→run</li>
+				<li><strong>Существительные:</strong> kids→kid, things→thing, children→child</li>
+				<li><strong>Прилагательные:</strong> better→good, bigger→big, fastest→fast</li>
+				<li><strong>Наречия:</strong> quickly→quick, really→real, actually→actual</li>
+				<li><strong>Библиотека:</strong> wink-lemmatizer + custom logic</li>
+			</ul>
+		</div>
+
+		<h2>🚀 Просмотр данных</h2>
+
+		<div class="action-buttons">
+			<a href="viewer.html" class="action-btn">
+				<span class="icon">📋</span>
+				Смотреть в виде списка
+				<div class="desc">Таблица с поиском и детальной информацией о каждом слове</div>
+			</a>
+
+			<a href="charts.html" class="action-btn">
+				<span class="icon">📊</span>
+				Смотреть в виде диаграммы
+				<div class="desc">Интерактивные графики с навигацией и визуализацией</div>
+			</a>
+		</div>
+
+		<h2>🎬 Список мультфильмов (<span id="movieCount">104</span>)</h2>
+
+		<div class="movies-list" id="moviesList">
+			<div class="movie-item">Загрузка...</div>
+		</div>
+	</div>
+
+	<script>
+		// Загружаем статистику
+		fetch('chunks/index.json')
+			.then(response => response.json())
+			.then(data => {
+				document.getElementById('totalLemmas').textContent = data.totalWords.toLocaleString();
+				document.getElementById('totalWords').textContent = data.totalOccurrences.toLocaleString();
+				document.getElementById('totalForms').textContent = data.totalForms.toLocaleString();
+			});
+
+		// Загружаем список мультфильмов
+		fetch('movies-list.json')
+			.then(response => response.json())
+			.then(data => {
+				const count = data.totalMovies;
+				document.getElementById('movieCount').textContent = count;
+				document.getElementById('totalMovies').textContent = count;
+
+				// Правильное склонение для intro
+				let movieWord = 'мультфильмах';
+				if (count % 10 === 1 && count % 100 !== 11) {
+					movieWord = 'мультфильме';
+				} else if ([2, 3, 4].includes(count % 10) && ![12, 13, 14].includes(count % 100)) {
+					movieWord = 'мультфильмах';
+				}
+				document.getElementById('introMovieCount').innerHTML =
+					`${count} популярных современных ${movieWord}`;
+
+				const moviesList = document.getElementById('moviesList');
+
+				// Сортируем: сначала по названию, потом по году
+				const movies = data.movies.sort((a, b) => {
+					const titleCompare = a.title.localeCompare(b.title);
+					if (titleCompare !== 0) return titleCompare;
+					return (a.year || 0) - (b.year || 0);
+				});
+
+				moviesList.innerHTML = movies.map((movie, index) => {
+					const yearStr = movie.year ? ` (${movie.year})` : '';
+
+					return `
+                        <div class="movie-item">
+                            ${index + 1}. ${movie.title}<span class="movie-year">${yearStr}</span>
+                        </div>
+                    `;
+				}).join('');
+			});
+	</script>
+</body>
+
+</html>

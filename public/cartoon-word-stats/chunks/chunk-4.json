@@ -1,0 +1,898 @@
+{
+  "room": {
+    "total": 204,
+    "forms": {
+      "room": 194,
+      "rooms": 9,
+      "room's": 1
+    },
+    "expansions": {
+      "room's": "room's (possessive)"
+    }
+  },
+  "while": {
+    "total": 204,
+    "forms": {
+      "while": 204
+    }
+  },
+  "school": {
+    "total": 204,
+    "forms": {
+      "school": 194,
+      "schools": 5,
+      "school's": 4,
+      "schooling": 1
+    },
+    "expansions": {
+      "school's": "school's (possessive)"
+    }
+  },
+  "cheer": {
+    "total": 203,
+    "forms": {
+      "cheering": 170,
+      "cheer": 19,
+      "cheers": 13,
+      "cheered": 1
+    }
+  },
+  "buddy": {
+    "total": 203,
+    "forms": {
+      "buddy": 179,
+      "buddies": 24
+    }
+  },
+  "daddy": {
+    "total": 203,
+    "forms": {
+      "daddy": 180,
+      "daddy's": 20,
+      "daddies": 3
+    },
+    "expansions": {
+      "daddy's": "daddy's (possessive)"
+    }
+  },
+  "train": {
+    "total": 203,
+    "forms": {
+      "train": 103,
+      "training": 72,
+      "trained": 22,
+      "train's": 4,
+      "trains": 2
+    },
+    "expansions": {
+      "train's": "train's (possessive)"
+    }
+  },
+  "tonight": {
+    "total": 202,
+    "forms": {
+      "tonight": 199,
+      "tonight's": 3
+    },
+    "expansions": {
+      "tonight's": "tonight's (possessive)"
+    }
+  },
+  "hang": {
+    "total": 201,
+    "forms": {
+      "hang": 173,
+      "hanging": 20,
+      "hung": 4,
+      "hangs": 3,
+      "hanged": 1
+    }
+  },
+  "queen": {
+    "total": 200,
+    "forms": {
+      "queen": 188,
+      "queens": 8,
+      "queen's": 4
+    },
+    "expansions": {
+      "queen's": "queen's (possessive)"
+    }
+  },
+  "hero": {
+    "total": 199,
+    "forms": {
+      "hero": 154,
+      "heroes": 37,
+      "hero's": 8
+    },
+    "expansions": {
+      "hero's": "hero's (possessive)"
+    }
+  },
+  "honey": {
+    "total": 198,
+    "forms": {
+      "honey": 198
+    }
+  },
+  "whimper": {
+    "total": 197,
+    "forms": {
+      "whimpers": 109,
+      "whimpering": 83,
+      "whimper": 5
+    }
+  },
+  "walk": {
+    "total": 197,
+    "forms": {
+      "walk": 104,
+      "walking": 60,
+      "walked": 17,
+      "walks": 16
+    }
+  },
+  "step": {
+    "total": 196,
+    "forms": {
+      "step": 159,
+      "steps": 23,
+      "stepped": 10,
+      "stepping": 4
+    }
+  },
+  "mile": {
+    "total": 195,
+    "forms": {
+      "miles": 182,
+      "mile": 10,
+      "miles's": 3
+    },
+    "expansions": {
+      "miles's": "miles's (possessive)"
+    }
+  },
+  "tim": {
+    "total": 193,
+    "forms": {
+      "tim": 191,
+      "tim's": 2
+    },
+    "expansions": {
+      "tim's": "tim's (possessive)"
+    }
+  },
+  "forever": {
+    "total": 192,
+    "forms": {
+      "forever": 192
+    }
+  },
+  "amaze": {
+    "total": 192,
+    "forms": {
+      "amazing": 187,
+      "amazed": 3,
+      "amaze": 2
+    }
+  },
+  "destroy": {
+    "total": 192,
+    "forms": {
+      "destroy": 119,
+      "destroyed": 53,
+      "destroying": 15,
+      "destroys": 5
+    }
+  },
+  "whatever": {
+    "total": 191,
+    "forms": {
+      "whatever": 189,
+      "whatever's": 2
+    },
+    "expansions": {
+      "whatever's": "whatever's (possessive)"
+    }
+  },
+  "such": {
+    "total": 191,
+    "forms": {
+      "such": 191
+    }
+  },
+  "different": {
+    "total": 191,
+    "forms": {
+      "different": 191
+    }
+  },
+  "special": {
+    "total": 190,
+    "forms": {
+      "special": 186,
+      "specials": 3,
+      "special's": 1
+    },
+    "expansions": {
+      "special's": "special's (possessive)"
+    }
+  },
+  "hiccup": {
+    "total": 190,
+    "forms": {
+      "hiccup": 189,
+      "hiccup's": 1
+    },
+    "expansions": {
+      "hiccup's": "hiccup's (possessive)"
+    }
+  },
+  "deal": {
+    "total": 189,
+    "forms": {
+      "deal": 173,
+      "dealing": 6,
+      "deal's": 4,
+      "deals": 4,
+      "dealt": 2
+    },
+    "expansions": {
+      "deal's": "deal's (possessive)"
+    }
+  },
+  "pick": {
+    "total": 189,
+    "forms": {
+      "pick": 128,
+      "picked": 36,
+      "picking": 19,
+      "picks": 6
+    }
+  },
+  "troll": {
+    "total": 189,
+    "forms": {
+      "trolls": 129,
+      "troll": 60
+    }
+  },
+  "almost": {
+    "total": 188,
+    "forms": {
+      "almost": 188
+    }
+  },
+  "afraid": {
+    "total": 188,
+    "forms": {
+      "afraid": 188
+    }
+  },
+  "myself": {
+    "total": 188,
+    "forms": {
+      "myself": 188
+    }
+  },
+  "point": {
+    "total": 188,
+    "forms": {
+      "point": 154,
+      "pointing": 19,
+      "points": 12,
+      "pointed": 3
+    }
+  },
+  "team": {
+    "total": 188,
+    "forms": {
+      "team": 175,
+      "teams": 10,
+      "team's": 1,
+      "teaming": 1,
+      "teamed": 1
+    },
+    "expansions": {
+      "team's": "team's (possessive)"
+    }
+  },
+  "panda": {
+    "total": 188,
+    "forms": {
+      "panda": 166,
+      "pandas": 19,
+      "panda's": 3
+    },
+    "expansions": {
+      "panda's": "panda's (possessive)"
+    }
+  },
+  "hate": {
+    "total": 186,
+    "forms": {
+      "hate": 162,
+      "hates": 24
+    }
+  },
+  "sweet": {
+    "total": 186,
+    "forms": {
+      "sweet": 176,
+      "sweetest": 7,
+      "sweeter": 3
+    }
+  },
+  "alive": {
+    "total": 186,
+    "forms": {
+      "alive": 186
+    }
+  },
+  "wake": {
+    "total": 185,
+    "forms": {
+      "wake": 161,
+      "woke": 15,
+      "wakes": 5,
+      "waking": 4
+    }
+  },
+  "demon": {
+    "total": 185,
+    "forms": {
+      "demon": 127,
+      "demons": 58
+    }
+  },
+  "swim": {
+    "total": 185,
+    "forms": {
+      "swim": 101,
+      "swimming": 69,
+      "swam": 9,
+      "swims": 5,
+      "swimming's": 1
+    },
+    "expansions": {
+      "swimming's": "swimming's (possessive)"
+    }
+  },
+  "shut": {
+    "total": 184,
+    "forms": {
+      "shut": 177,
+      "shutting": 6,
+      "shuts": 1
+    }
+  },
+  "touch": {
+    "total": 183,
+    "forms": {
+      "touch": 145,
+      "touched": 27,
+      "touching": 7,
+      "touches": 4
+    }
+  },
+  "ya": {
+    "total": 183,
+    "forms": {
+      "ya": 183
+    }
+  },
+  "since": {
+    "total": 183,
+    "forms": {
+      "since": 183
+    }
+  },
+  "warrior": {
+    "total": 182,
+    "forms": {
+      "warrior": 153,
+      "warriors": 24,
+      "warrior's": 5
+    },
+    "expansions": {
+      "warrior's": "warrior's (possessive)"
+    }
+  },
+  "continue": {
+    "total": 182,
+    "forms": {
+      "continues": 109,
+      "continue": 49,
+      "continued": 14,
+      "continuing": 10
+    }
+  },
+  "young": {
+    "total": 181,
+    "forms": {
+      "young": 163,
+      "younger": 15,
+      "youngest": 3
+    }
+  },
+  "five": {
+    "total": 181,
+    "forms": {
+      "five": 178,
+      "fives": 2,
+      "fiver": 1
+    }
+  },
+  "quick": {
+    "total": 180,
+    "forms": {
+      "quick": 119,
+      "quickly": 54,
+      "quicker": 4,
+      "quickest": 3
+    }
+  },
+  "throw": {
+    "total": 180,
+    "forms": {
+      "throw": 103,
+      "threw": 26,
+      "throwing": 26,
+      "thrown": 23,
+      "throws": 2
+    }
+  },
+  "pay": {
+    "total": 180,
+    "forms": {
+      "pay": 130,
+      "paid": 30,
+      "paying": 17,
+      "pays": 3
+    }
+  },
+  "car": {
+    "total": 180,
+    "forms": {
+      "car": 153,
+      "cars": 24,
+      "car's": 3
+    },
+    "expansions": {
+      "car's": "car's (possessive)"
+    }
+  },
+  "secret": {
+    "total": 180,
+    "forms": {
+      "secret": 154,
+      "secrets": 24,
+      "secret's": 2
+    },
+    "expansions": {
+      "secret's": "secret's (possessive)"
+    }
+  },
+  "blow": {
+    "total": 179,
+    "forms": {
+      "blow": 73,
+      "blows": 39,
+      "blowing": 30,
+      "blew": 21,
+      "blown": 16
+    }
+  },
+  "animal": {
+    "total": 178,
+    "forms": {
+      "animals": 105,
+      "animal": 72,
+      "animal's": 1
+    },
+    "expansions": {
+      "animal's": "animal's (possessive)"
+    }
+  },
+  "donkey": {
+    "total": 178,
+    "forms": {
+      "donkey": 165,
+      "donkeys": 12,
+      "donkey's": 1
+    },
+    "expansions": {
+      "donkey's": "donkey's (possessive)"
+    }
+  },
+  "em": {
+    "total": 176,
+    "forms": {
+      "em": 176
+    }
+  },
+  "shoot": {
+    "total": 176,
+    "forms": {
+      "shoot": 81,
+      "shot": 69,
+      "shooting": 18,
+      "shoots": 8
+    }
+  },
+  "foot": {
+    "total": 176,
+    "forms": {
+      "feet": 108,
+      "foot": 67,
+      "foot's": 1
+    },
+    "expansions": {
+      "foot's": "foot's (possessive)"
+    }
+  },
+  "tree": {
+    "total": 176,
+    "forms": {
+      "tree": 110,
+      "trees": 65,
+      "treed": 1
+    }
+  },
+  "riley": {
+    "total": 176,
+    "forms": {
+      "riley": 152,
+      "riley's": 24
+    },
+    "expansions": {
+      "riley's": "riley's (possessive)"
+    }
+  },
+  "rock": {
+    "total": 174,
+    "forms": {
+      "rock": 143,
+      "rocks": 24,
+      "rocking": 4,
+      "rocked": 3
+    }
+  },
+  "woman": {
+    "total": 173,
+    "forms": {
+      "woman": 132,
+      "women": 39,
+      "women's": 2
+    },
+    "expansions": {
+      "women's": "women's (possessive)"
+    }
+  },
+  "fish": {
+    "total": 173,
+    "forms": {
+      "fish": 143,
+      "fishing": 26,
+      "fishes": 4
+    }
+  },
+  "order": {
+    "total": 173,
+    "forms": {
+      "order": 110,
+      "orders": 44,
+      "ordered": 12,
+      "ordering": 6,
+      "order's": 1
+    },
+    "expansions": {
+      "order's": "order's (possessive)"
+    }
+  },
+  "anymore": {
+    "total": 172,
+    "forms": {
+      "anymore": 172
+    }
+  },
+  "aw": {
+    "total": 172,
+    "forms": {
+      "aw": 172
+    }
+  },
+  "captain": {
+    "total": 172,
+    "forms": {
+      "captain": 166,
+      "captain's": 5,
+      "captains": 1
+    },
+    "expansions": {
+      "captain's": "captain's (possessive)"
+    }
+  },
+  "also": {
+    "total": 171,
+    "forms": {
+      "also": 171
+    }
+  },
+  "weird": {
+    "total": 171,
+    "forms": {
+      "weird": 164,
+      "weirder": 6,
+      "weirdest": 1
+    }
+  },
+  "hoo": {
+    "total": 170,
+    "forms": {
+      "hoo": 170
+    }
+  },
+  "return": {
+    "total": 170,
+    "forms": {
+      "return": 113,
+      "returned": 37,
+      "returning": 13,
+      "returns": 7
+    }
+  },
+  "fiona": {
+    "total": 170,
+    "forms": {
+      "fiona": 159,
+      "fiona's": 11
+    },
+    "expansions": {
+      "fiona's": "fiona's (possessive)"
+    }
+  },
+  "pop": {
+    "total": 169,
+    "forms": {
+      "pop": 110,
+      "pops": 40,
+      "popping": 12,
+      "popped": 6,
+      "pop's": 1
+    },
+    "expansions": {
+      "pop's": "pop's (possessive)"
+    }
+  },
+  "growl": {
+    "total": 168,
+    "forms": {
+      "growling": 94,
+      "growls": 67,
+      "growl": 7
+    }
+  },
+  "moment": {
+    "total": 168,
+    "forms": {
+      "moment": 153,
+      "moments": 11,
+      "moment's": 4
+    },
+    "expansions": {
+      "moment's": "moment's (possessive)"
+    }
+  },
+  "spider": {
+    "total": 168,
+    "forms": {
+      "spider": 156,
+      "spiders": 9,
+      "spider's": 3
+    },
+    "expansions": {
+      "spider's": "spider's (possessive)"
+    }
+  },
+  "ralph": {
+    "total": 168,
+    "forms": {
+      "ralph": 163,
+      "ralph's": 5
+    },
+    "expansions": {
+      "ralph's": "ralph's (possessive)"
+    }
+  },
+  "under": {
+    "total": 166,
+    "forms": {
+      "under": 166
+    }
+  },
+  "full": {
+    "total": 166,
+    "forms": {
+      "full": 164,
+      "fuller": 2
+    }
+  },
+  "nobody": {
+    "total": 166,
+    "forms": {
+      "nobody": 141,
+      "nobody's": 24,
+      "nobodies": 1
+    },
+    "expansions": {
+      "nobody's": "nobody's (possessive)"
+    }
+  },
+  "each": {
+    "total": 165,
+    "forms": {
+      "each": 165
+    }
+  },
+  "pal": {
+    "total": 164,
+    "forms": {
+      "pal": 157,
+      "pals": 7
+    }
+  },
+  "strong": {
+    "total": 163,
+    "forms": {
+      "strong": 113,
+      "stronger": 41,
+      "strongest": 9
+    }
+  },
+  "sit": {
+    "total": 163,
+    "forms": {
+      "sit": 118,
+      "sitting": 34,
+      "sat": 9,
+      "sits": 2
+    }
+  },
+  "teach": {
+    "total": 162,
+    "forms": {
+      "teach": 92,
+      "taught": 51,
+      "teaching": 19
+    }
+  },
+  "probably": {
+    "total": 162,
+    "forms": {
+      "probably": 162
+    }
+  },
+  "cut": {
+    "total": 162,
+    "forms": {
+      "cut": 128,
+      "cutting": 19,
+      "cutest": 11,
+      "cuts": 4
+    }
+  },
+  "stupid": {
+    "total": 161,
+    "forms": {
+      "stupid": 158,
+      "stupidest": 2,
+      "stupids": 1
+    }
+  },
+  "hot": {
+    "total": 160,
+    "forms": {
+      "hot": 156,
+      "hotter": 3,
+      "hottest": 1
+    }
+  },
+  "anyway": {
+    "total": 160,
+    "forms": {
+      "anyway": 160
+    }
+  },
+  "body": {
+    "total": 160,
+    "forms": {
+      "body": 141,
+      "bodies": 12,
+      "body's": 7
+    },
+    "expansions": {
+      "body's": "body's (possessive)"
+    }
+  },
+  "lord": {
+    "total": 159,
+    "forms": {
+      "lord": 148,
+      "lords": 8,
+      "lord's": 3
+    },
+    "expansions": {
+      "lord's": "lord's (possessive)"
+    }
+  },
+  "magic": {
+    "total": 159,
+    "forms": {
+      "magic": 158,
+      "magic's": 1
+    },
+    "expansions": {
+      "magic's": "magic's (possessive)"
+    }
+  },
+  "lead": {
+    "total": 159,
+    "forms": {
+      "lead": 98,
+      "led": 29,
+      "leading": 16,
+      "leads": 16
+    }
+  },
+  "joe": {
+    "total": 159,
+    "forms": {
+      "joe": 154,
+      "joe's": 4,
+      "joes": 1
+    },
+    "expansions": {
+      "joe's": "joe's (possessive)"
+    }
+  },
+  "smell": {
+    "total": 158,
+    "forms": {
+      "smell": 118,
+      "smells": 32,
+      "smelled": 5,
+      "smelling": 3
+    }
+  },
+  "rest": {
+    "total": 157,
+    "forms": {
+      "rest": 149,
+      "resting": 4,
+      "rests": 3,
+      "rested": 1
+    }
+  },
+  "monkey": {
+    "total": 157,
+    "forms": {
+      "monkey": 124,
+      "monkeys": 30,
+      "monkey's": 2,
+      "monkeying": 1
+    },
+    "expansions": {
+      "monkey's": "monkey's (possessive)"
+    }
+  },
+  "funny": {
+    "total": 157,
+    "forms": {
+      "funny": 155,
+      "funniest": 1,
+      "funnier": 1
+    }
+  }
+}

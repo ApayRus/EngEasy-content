@@ -1,0 +1,612 @@
+{
+  "roster": {
+    "total": 3,
+    "forms": {
+      "roster": 3
+    }
+  },
+  "fungeon": {
+    "total": 3,
+    "forms": {
+      "fungeon": 3
+    }
+  },
+  "repellent": {
+    "total": 3,
+    "forms": {
+      "repellent": 3
+    }
+  },
+  "jumbo": {
+    "total": 3,
+    "forms": {
+      "jumbo": 3
+    }
+  },
+  "warrant": {
+    "total": 3,
+    "forms": {
+      "warrant": 3
+    }
+  },
+  "gram": {
+    "total": 3,
+    "forms": {
+      "gram": 3
+    }
+  },
+  "tujunga": {
+    "total": 3,
+    "forms": {
+      "tujunga": 3
+    }
+  },
+  "revert": {
+    "total": 3,
+    "forms": {
+      "reverting": 2,
+      "reverted": 1
+    }
+  },
+  "lah": {
+    "total": 3,
+    "forms": {
+      "lah": 3
+    }
+  },
+  "singsongy": {
+    "total": 3,
+    "forms": {
+      "singsongy": 3
+    }
+  },
+  "glug": {
+    "total": 3,
+    "forms": {
+      "glugs": 3
+    }
+  },
+  "oomph": {
+    "total": 3,
+    "forms": {
+      "oomph": 3
+    }
+  },
+  "zombielike": {
+    "total": 3,
+    "forms": {
+      "zombielike": 3
+    }
+  },
+  "caravan": {
+    "total": 2,
+    "forms": {
+      "caravan": 2
+    }
+  },
+  "salaam": {
+    "total": 2,
+    "forms": {
+      "salaam": 2
+    }
+  },
+  "tupperware": {
+    "total": 2,
+    "forms": {
+      "tupperware": 2
+    }
+  },
+  "exceptionally": {
+    "total": 2,
+    "forms": {
+      "exceptionally": 2
+    }
+  },
+  "commonplace": {
+    "total": 2,
+    "forms": {
+      "commonplace": 2
+    }
+  },
+  "gazeem": {
+    "total": 2,
+    "forms": {
+      "gazeem": 2
+    }
+  },
+  "riffraff": {
+    "total": 2,
+    "forms": {
+      "riffraff": 2
+    }
+  },
+  "scandal": {
+    "total": 2,
+    "forms": {
+      "scandal": 2
+    }
+  },
+  "grimace": {
+    "total": 2,
+    "forms": {
+      "grimacing": 1,
+      "grimace": 1
+    }
+  },
+  "mourn": {
+    "total": 2,
+    "forms": {
+      "mourn": 2
+    }
+  },
+  "siree": {
+    "total": 2,
+    "forms": {
+      "siree": 2
+    }
+  },
+  "confound": {
+    "total": 2,
+    "forms": {
+      "confound": 2
+    }
+  },
+  "overdress": {
+    "total": 2,
+    "forms": {
+      "overdressed": 2
+    }
+  },
+  "brass": {
+    "total": 2,
+    "forms": {
+      "brass": 2
+    }
+  },
+  "valet": {
+    "total": 2,
+    "forms": {
+      "valets": 1,
+      "valet": 1
+    }
+  },
+  "exceedingly": {
+    "total": 2,
+    "forms": {
+      "exceedingly": 2
+    }
+  },
+  "scold": {
+    "total": 2,
+    "forms": {
+      "scolding": 2
+    }
+  },
+  "wager": {
+    "total": 2,
+    "forms": {
+      "wager": 2
+    }
+  },
+  "dyin": {
+    "total": 2,
+    "forms": {
+      "dyin": 2
+    }
+  },
+  "maniacal": {
+    "total": 2,
+    "forms": {
+      "maniacal": 2
+    }
+  },
+  "c'mon": {
+    "total": 2,
+    "forms": {
+      "c'mon": 2
+    }
+  },
+  "singe": {
+    "total": 2,
+    "forms": {
+      "singe": 2
+    }
+  },
+  "rugman": {
+    "total": 2,
+    "forms": {
+      "rugman": 2
+    }
+  },
+  "fulfillment": {
+    "total": 2,
+    "forms": {
+      "fulfillment": 2
+    }
+  },
+  "ixnay": {
+    "total": 2,
+    "forms": {
+      "ixnay": 2
+    }
+  },
+  "substitution": {
+    "total": 2,
+    "forms": {
+      "substitutions": 1,
+      "substitution": 1
+    }
+  },
+  "abracadabra": {
+    "total": 2,
+    "forms": {
+      "abracadabra": 2
+    }
+  },
+  "fide": {
+    "total": 2,
+    "forms": {
+      "fide": 2
+    }
+  },
+  "proviso": {
+    "total": 2,
+    "forms": {
+      "provisos": 2
+    }
+  },
+  "quid": {
+    "total": 2,
+    "forms": {
+      "quid": 2
+    }
+  },
+  "quos": {
+    "total": 2,
+    "forms": {
+      "quos": 2
+    }
+  },
+  "limitation": {
+    "total": 2,
+    "forms": {
+      "limitations": 2
+    }
+  },
+  "abject": {
+    "total": 2,
+    "forms": {
+      "abject": 2
+    }
+  },
+  "merit": {
+    "total": 2,
+    "forms": {
+      "merit": 2
+    }
+  },
+  "dost": {
+    "total": 2,
+    "forms": {
+      "dost": 2
+    }
+  },
+  "c'est": {
+    "total": 2,
+    "forms": {
+      "c'est": 2
+    }
+  },
+  "combo": {
+    "total": 2,
+    "forms": {
+      "combo": 2
+    }
+  },
+  "beggar": {
+    "total": 2,
+    "forms": {
+      "beggar": 1,
+      "beggars": 1
+    }
+  },
+  "transportation": {
+    "total": 2,
+    "forms": {
+      "transportation": 2
+    }
+  },
+  "vizier": {
+    "total": 2,
+    "forms": {
+      "vizier": 2
+    }
+  },
+  "gallop": {
+    "total": 2,
+    "forms": {
+      "galloping": 2
+    }
+  },
+  "june": {
+    "total": 2,
+    "forms": {
+      "june": 2
+    }
+  },
+  "menagerie": {
+    "total": 2,
+    "forms": {
+      "menagerie": 2
+    }
+  },
+  "physique": {
+    "total": 2,
+    "forms": {
+      "physique": 2
+    }
+  },
+  "grovel": {
+    "total": 2,
+    "forms": {
+      "grovel": 1,
+      "groveling": 1
+    }
+  },
+  "knack": {
+    "total": 2,
+    "forms": {
+      "knack": 2
+    }
+  },
+  "sideways": {
+    "total": 2,
+    "forms": {
+      "sideways": 2
+    }
+  },
+  "indescribable": {
+    "total": 2,
+    "forms": {
+      "indescribable": 2
+    }
+  },
+  "royalty": {
+    "total": 2,
+    "forms": {
+      "royalty": 2
+    }
+  },
+  "speechless": {
+    "total": 2,
+    "forms": {
+      "speechless": 2
+    }
+  },
+  "betrayer": {
+    "total": 2,
+    "forms": {
+      "betrayer": 2
+    }
+  },
+  "finder": {
+    "total": 2,
+    "forms": {
+      "finders": 2
+    }
+  },
+  "cower": {
+    "total": 2,
+    "forms": {
+      "cower": 2
+    }
+  },
+  "adequate": {
+    "total": 2,
+    "forms": {
+      "adequate": 2
+    }
+  },
+  "asset": {
+    "total": 2,
+    "forms": {
+      "assets": 2
+    }
+  },
+  "venue": {
+    "total": 2,
+    "forms": {
+      "venue": 1,
+      "venues": 1
+    }
+  },
+  "lout": {
+    "total": 2,
+    "forms": {
+      "lout": 2
+    }
+  },
+  "pussycat": {
+    "total": 2,
+    "forms": {
+      "pussycat": 2
+    }
+  },
+  "psychopath": {
+    "total": 2,
+    "forms": {
+      "psychopath": 2
+    }
+  },
+  "snakelike": {
+    "total": 2,
+    "forms": {
+      "snakelike": 2
+    }
+  },
+  "gleefully": {
+    "total": 2,
+    "forms": {
+      "gleefully": 2
+    }
+  },
+  "hittin": {
+    "total": 2,
+    "forms": {
+      "hittin": 2
+    }
+  },
+  "npr": {
+    "total": 2,
+    "forms": {
+      "npr": 2
+    }
+  },
+  "hubert": {
+    "total": 2,
+    "forms": {
+      "hubert": 2
+    }
+  },
+  "harris": {
+    "total": 2,
+    "forms": {
+      "harris": 2
+    }
+  },
+  "shalt": {
+    "total": 2,
+    "forms": {
+      "shalt": 2
+    }
+  },
+  "naught": {
+    "total": 2,
+    "forms": {
+      "naught": 2
+    }
+  },
+  "gob": {
+    "total": 2,
+    "forms": {
+      "gob": 2
+    }
+  },
+  "haggis": {
+    "total": 2,
+    "forms": {
+      "haggis": 2
+    }
+  },
+  "manky": {
+    "total": 2,
+    "forms": {
+      "manky": 2
+    }
+  },
+  "pillar": {
+    "total": 2,
+    "forms": {
+      "pillars": 2
+    }
+  },
+  "glen": {
+    "total": 2,
+    "forms": {
+      "glen": 2
+    }
+  },
+  "scuttle": {
+    "total": 2,
+    "forms": {
+      "scuttled": 1,
+      "scuttles": 1
+    }
+  },
+  "besiege": {
+    "total": 2,
+    "forms": {
+      "besieged": 2
+    }
+  },
+  "armada": {
+    "total": 2,
+    "forms": {
+      "armada": 1,
+      "armadas": 1
+    }
+  },
+  "singlehandedly": {
+    "total": 2,
+    "forms": {
+      "singlehandedly": 2
+    }
+  },
+  "mus": {
+    "total": 2,
+    "forms": {
+      "muss": 1,
+      "mus": 1
+    }
+  },
+  "heritage": {
+    "total": 2,
+    "forms": {
+      "heritage": 2
+    }
+  },
+  "broch": {
+    "total": 2,
+    "forms": {
+      "broch": 2
+    }
+  },
+  "feat": {
+    "total": 2,
+    "forms": {
+      "feats": 2
+    }
+  },
+  "dank": {
+    "total": 2,
+    "forms": {
+      "dank": 2
+    }
+  },
+  "unsatisfied": {
+    "total": 2,
+    "forms": {
+      "unsatisfied": 2
+    }
+  },
+  "conjure": {
+    "total": 2,
+    "forms": {
+      "conjure": 2
+    }
+  },
+  "dearie": {
+    "total": 2,
+    "forms": {
+      "dearie": 2
+    }
+  },
+  "fortnight": {
+    "total": 2,
+    "forms": {
+      "fortnight": 2
+    }
+  },
+  "woozy": {
+    "total": 2,
+    "forms": {
+      "woozy": 2
+    }
+  },
+  "gammy": {
+    "total": 2,
+    "forms": {
+      "gammy": 2
+    }
+  }
+}

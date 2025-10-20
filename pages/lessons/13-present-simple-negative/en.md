@@ -10,13 +10,13 @@ hideHelp: true
 
 don't
 doesn't
-sunday
-monday
-tuesday
-wednesday
-thursday
-friday
-saturday
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
 a weekend
 a weekday
 on

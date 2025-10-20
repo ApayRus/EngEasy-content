@@ -1,0 +1,830 @@
+{
+  "totalMovies": 103,
+  "totalFiles": 103,
+  "movies": [
+    {
+      "title": "Aladdin",
+      "year": 1992,
+      "files": [
+        "Aladdin 1992-en.srt"
+      ],
+      "originalFilename": "Aladdin 1992-en.srt"
+    },
+    {
+      "title": "Anastasia",
+      "year": 1997,
+      "files": [
+        "Anastasia.1997.1080p.BluRay.x264-.YTS.AM-en.srt"
+      ],
+      "originalFilename": "Anastasia.1997.1080p.BluRay.x264-.YTS.AM-en.srt"
+    },
+    {
+      "title": "Bee Movie",
+      "year": 2007,
+      "files": [
+        "Bee Movie (2007) Untitled video-en.srt"
+      ],
+      "originalFilename": "Bee Movie (2007) Untitled video-en.srt"
+    },
+    {
+      "title": "Brave",
+      "year": 2012,
+      "files": [
+        "Brave.2012-en.srt"
+      ],
+      "originalFilename": "Brave.2012-en.srt"
+    },
+    {
+      "title": "Cloudy with a Chance of Meatballs",
+      "year": 2009,
+      "files": [
+        "Cloudy with a Chance of Meatballs.2009.-en.srt"
+      ],
+      "originalFilename": "Cloudy with a Chance of Meatballs.2009.-en.srt"
+    },
+    {
+      "title": "Cloudy with a Chance of Meatballs 2",
+      "year": 2013,
+      "files": [
+        "Cloudy.with.a.Chance.of.Meatballs.2.2013.1080p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Cloudy.with.a.Chance.of.Meatballs.2.2013.1080p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Coco",
+      "year": 2017,
+      "files": [
+        "Coco.2017.1080p.BluRay.x264-[YTS.AG]-en.srt"
+      ],
+      "originalFilename": "Coco.2017.1080p.BluRay.x264-[YTS.AG]-en.srt"
+    },
+    {
+      "title": "Coraline",
+      "year": 2009,
+      "files": [
+        "Coraline.2009.1080p.BluRay.H264.AAC-RARBG-en.srt"
+      ],
+      "originalFilename": "Coraline.2009.1080p.BluRay.H264.AAC-RARBG-en.srt"
+    },
+    {
+      "title": "Despicable Me 1",
+      "year": 2010,
+      "files": [
+        "Despicable Me.1.2010-en.srt"
+      ],
+      "originalFilename": "Despicable Me.1.2010-en.srt"
+    },
+    {
+      "title": "Despicable Me 2",
+      "year": 2013,
+      "files": [
+        "Despicable.Me.2.2013.1080p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Despicable.Me.2.2013.1080p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "files": [
+        "Despicable Me 3 (2017).1080p.en-en.srt"
+      ],
+      "originalFilename": "Despicable Me 3 (2017).1080p.en-en.srt"
+    },
+    {
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "files": [
+        "Despicable Me 4 (2024)-en.srt"
+      ],
+      "originalFilename": "Despicable Me 4 (2024)-en.srt"
+    },
+    {
+      "title": "Elemental",
+      "year": 2023,
+      "files": [
+        "Elemental.2023.1080p.srt - eng(2)-en.srt"
+      ],
+      "originalFilename": "Elemental.2023.1080p.srt - eng(2)-en.srt"
+    },
+    {
+      "title": "Encanto",
+      "year": 2021,
+      "files": [
+        "Encanto.2021.1080p.WEB-DL-HI-en.srt"
+      ],
+      "originalFilename": "Encanto.2021.1080p.WEB-DL-HI-en.srt"
+    },
+    {
+      "title": "Fantastic Mr Fox",
+      "year": 2009,
+      "files": [
+        "Fantastic.Mr.Fox.2009.1080p.BrRip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Fantastic.Mr.Fox.2009.1080p.BrRip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Ferdinand",
+      "year": 2017,
+      "files": [
+        "Ferdinand.2017.1080p.BluRay-en.srt"
+      ],
+      "originalFilename": "Ferdinand.2017.1080p.BluRay-en.srt"
+    },
+    {
+      "title": "Finding Dory",
+      "year": 2016,
+      "files": [
+        "Finding.Dory.2016.1080p.BluRay.H264.AAC-RARBG-en.srt"
+      ],
+      "originalFilename": "Finding.Dory.2016.1080p.BluRay.H264.AAC-RARBG-en.srt"
+    },
+    {
+      "title": "Finding Nemo",
+      "year": 2003,
+      "files": [
+        "Finding.Nemo.2003.1080p.BluRay.x264.YIFY-en-en.srt"
+      ],
+      "originalFilename": "Finding.Nemo.2003.1080p.BluRay.x264.YIFY-en-en.srt"
+    },
+    {
+      "title": "Frozen",
+      "year": 2013,
+      "files": [
+        "Frozen.2013.720p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Frozen.2013.720p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Frozen II",
+      "year": 2019,
+      "files": [
+        "Frozen II (2019)-en-en.srt"
+      ],
+      "originalFilename": "Frozen II (2019)-en-en.srt"
+    },
+    {
+      "title": "Guillermo Del Toros Pinocchio Handcarved Cinema",
+      "year": 2022,
+      "files": [
+        "Guillermo.Del.Toros.Pinocchio.Handcarved.Cinema.2022.720p.NF.WEB-DL.DDP5.1.H.264-SMURF-subrip-en.srt"
+      ],
+      "originalFilename": "Guillermo.Del.Toros.Pinocchio.Handcarved.Cinema.2022.720p.NF.WEB-DL.DDP5.1.H.264-SMURF-subrip-en.srt"
+    },
+    {
+      "title": "Hotel Transylvania",
+      "year": 2012,
+      "files": [
+        "Hotel.Transylvania.2012-en.srt"
+      ],
+      "originalFilename": "Hotel.Transylvania.2012-en.srt"
+    },
+    {
+      "title": "Hotel Transylvania 2",
+      "year": 2015,
+      "files": [
+        "Hotel.Transylvania.2.2015.1080p.BluRay.x264.[YTS.AG]-en.srt"
+      ],
+      "originalFilename": "Hotel.Transylvania.2.2015.1080p.BluRay.x264.[YTS.AG]-en.srt"
+    },
+    {
+      "title": "Hotel Transylvania 3 Summer Vacation",
+      "year": 2018,
+      "files": [
+        "Hotel.Transylvania.3.Summer.Vacation.2018-en.srt"
+      ],
+      "originalFilename": "Hotel.Transylvania.3.Summer.Vacation.2018-en.srt"
+    },
+    {
+      "title": "Hotel Transylvania 4 Transformania",
+      "year": 2022,
+      "files": [
+        "Hotel.Transylvania.4.Transformania.2022.720p.BluRay.x264.AAC-[YTS.MX] (Eng)-en.srt"
+      ],
+      "originalFilename": "Hotel.Transylvania.4.Transformania.2022.720p.BluRay.x264.AAC-[YTS.MX] (Eng)-en.srt"
+    },
+    {
+      "title": "How To Train Your Dragon",
+      "year": 2010,
+      "files": [
+        "How.To.Train.Your.Dragon.2010.1080p.BrRip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "How.To.Train.Your.Dragon.2010.1080p.BrRip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "year": 2014,
+      "files": [
+        "How.to.Train.Your.Dragon.2.2014.720p.Bluray.x264.DTS-EVO-en.srt"
+      ],
+      "originalFilename": "How.to.Train.Your.Dragon.2.2014.720p.Bluray.x264.DTS-EVO-en.srt"
+    },
+    {
+      "title": "How To Train Your Dragon 3 The Hidden World",
+      "year": 2019,
+      "files": [
+        "How.To.Train.Your.Dragon.3.The.Hidden.World.2019.1080p.BluRay.x264-[YTS.AM]-en.srt"
+      ],
+      "originalFilename": "How.To.Train.Your.Dragon.3.The.Hidden.World.2019.1080p.BluRay.x264-[YTS.AM]-en.srt"
+    },
+    {
+      "title": "How To Train Your Dragon 4",
+      "year": 2025,
+      "files": [
+        "How To Train Your Dragon.4..2025-en.srt"
+      ],
+      "originalFilename": "How To Train Your Dragon.4..2025-en.srt"
+    },
+    {
+      "title": "Inside Out",
+      "year": 2015,
+      "files": [
+        "Inside.Out.2015.720p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Inside.Out.2015.720p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Inside Out 2",
+      "year": 2024,
+      "files": [
+        "Inside.Out.2.2024.1080p.TELESYNC.x264.COLLECTiVE-eng.-en.srt"
+      ],
+      "originalFilename": "Inside.Out.2.2024.1080p.TELESYNC.x264.COLLECTiVE-eng.-en.srt"
+    },
+    {
+      "title": "Isle Of Dogs",
+      "year": 2018,
+      "files": [
+        "Isle.Of.Dogs.2018.1080p.WEBRip.x264-[YTS.AM]-eng-en.srt"
+      ],
+      "originalFilename": "Isle.Of.Dogs.2018.1080p.WEBRip.x264-[YTS.AM]-eng-en.srt"
+    },
+    {
+      "title": "KPop Demon Hunters",
+      "year": 2025,
+      "files": [
+        "KPop.Demon.Hunters.2025-en.srt"
+      ],
+      "originalFilename": "KPop.Demon.Hunters.2025-en.srt"
+    },
+    {
+      "title": "Kubo And The Two Strings",
+      "year": 2016,
+      "files": [
+        "Kubo.And.The.Two.Strings.2016.1080p.BluRay.x264-.YTS.AG-en.srt"
+      ],
+      "originalFilename": "Kubo.And.The.Two.Strings.2016.1080p.BluRay.x264-.YTS.AG-en.srt"
+    },
+    {
+      "title": "Kung Fu Panda",
+      "year": null,
+      "files": [
+        "Kung.Fu.Panda.BluRay.1080p.x264.5.1.Judas-en-en.srt"
+      ],
+      "originalFilename": "Kung.Fu.Panda.BluRay.1080p.x264.5.1.Judas-en-en.srt"
+    },
+    {
+      "title": "Kung Fu Panda 2",
+      "year": null,
+      "files": [
+        "Kung Fu Panda 2.x264.BrRip.YIFY-en.srt"
+      ],
+      "originalFilename": "Kung Fu Panda 2.x264.BrRip.YIFY-en.srt"
+    },
+    {
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "files": [
+        "Kung.Fu.Panda.3.2016.720p.BluRay.x264-[YTS.AG]-en.srt"
+      ],
+      "originalFilename": "Kung.Fu.Panda.3.2016.720p.BluRay.x264-[YTS.AG]-en.srt"
+    },
+    {
+      "title": "Kung Fu Panda 4",
+      "year": 2024,
+      "files": [
+        "Kung.Fu.Panda.4.2024.720p1080p.WEBRip.x264.AAC-[YTS.MX]-English-en.srt"
+      ],
+      "originalFilename": "Kung.Fu.Panda.4.2024.720p1080p.WEBRip.x264.AAC-[YTS.MX]-English-en.srt"
+    },
+    {
+      "title": "Luca",
+      "year": 2021,
+      "files": [
+        "Luca.2021.720p.BluRay.x264.AAC-[YTS.MX]-en.srt"
+      ],
+      "originalFilename": "Luca.2021.720p.BluRay.x264.AAC-[YTS.MX]-en.srt"
+    },
+    {
+      "title": "Madagascar",
+      "year": 2005,
+      "files": [
+        "Madagascar 2005.1080p.BrRip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Madagascar 2005.1080p.BrRip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Madagascar 2 Escape Africa",
+      "year": 2008,
+      "files": [
+        "Madagascar.2.Escape.Africa.2008.1080p.BRrip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Madagascar.2.Escape.Africa.2008.1080p.BRrip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Madagascar 3 Europes Most Wanted",
+      "year": 2012,
+      "files": [
+        "Madagascar.3.Europes.Most.Wanted.2012.720p.BRrip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Madagascar.3.Europes.Most.Wanted.2012.720p.BRrip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Megamind",
+      "year": 2010,
+      "files": [
+        "Megamind  2010-en.srt"
+      ],
+      "originalFilename": "Megamind  2010-en.srt"
+    },
+    {
+      "title": "Minions",
+      "year": 2015,
+      "files": [
+        "Minions.2015.720p.BluRay.x264-GECKOS-en.srt"
+      ],
+      "originalFilename": "Minions.2015.720p.BluRay.x264-GECKOS-en.srt"
+    },
+    {
+      "title": "Minions The Rise of Gru",
+      "year": 2022,
+      "files": [
+        "Minions.The.Rise.of.Gru.2022.1080p.BluRay.x264.DTS-MT-en.srt"
+      ],
+      "originalFilename": "Minions.The.Rise.of.Gru.2022.1080p.BluRay.x264.DTS-MT-en.srt"
+    },
+    {
+      "title": "Moana",
+      "year": 2016,
+      "files": [
+        "Moana.2016.srt"
+      ],
+      "originalFilename": "Moana.2016.srt"
+    },
+    {
+      "title": "Mononoke hime [Princess Mononoke]",
+      "year": 1997,
+      "files": [
+        "Mononoke.hime.[Princess.Mononoke].1997.HDTVRip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Mononoke.hime.[Princess.Mononoke].1997.HDTVRip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Monsters Inc",
+      "year": 2001,
+      "files": [
+        "Monsters.Inc.2001.720p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Monsters.Inc.2001.720p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Monsters University",
+      "year": 2013,
+      "files": [
+        "Monsters.University.2013.720p.BluRay.x264.YIFY.english-en.srt"
+      ],
+      "originalFilename": "Monsters.University.2013.720p.BluRay.x264.YIFY.english-en.srt"
+    },
+    {
+      "title": "Mulan",
+      "year": 1998,
+      "files": [
+        "Mulan (1998)-en.srt"
+      ],
+      "originalFilename": "Mulan (1998)-en.srt"
+    },
+    {
+      "title": "Ne Zha",
+      "year": 2019,
+      "files": [
+        "Ne.Zha.2019.1080p.BluRay.x264.AAC5.1-.YTS.MX-en.srt"
+      ],
+      "originalFilename": "Ne.Zha.2019.1080p.BluRay.x264.AAC5.1-.YTS.MX-en.srt"
+    },
+    {
+      "title": "Ne Zha 2 English subs",
+      "year": null,
+      "files": [
+        "Ne Zha 2 English subs-en.srt"
+      ],
+      "originalFilename": "Ne Zha 2 English subs-en.srt"
+    },
+    {
+      "title": "Penguins of Madagascar",
+      "year": 2014,
+      "files": [
+        "Penguins.of.Madagascar.2014.720p.BluRay.x264.[YTS.MX]-English-en.srt"
+      ],
+      "originalFilename": "Penguins.of.Madagascar.2014.720p.BluRay.x264.[YTS.MX]-English-en.srt"
+    },
+    {
+      "title": "Puss In Boots",
+      "year": 2011,
+      "files": [
+        "Puss In Boots (2011)-en.srt"
+      ],
+      "originalFilename": "Puss In Boots (2011)-en.srt"
+    },
+    {
+      "title": "Puss in Boots The Last Wish",
+      "year": 2022,
+      "files": [
+        "Puss.in.Boots.The.Last.Wish.2022.WEBRip_English-en.srt"
+      ],
+      "originalFilename": "Puss.in.Boots.The.Last.Wish.2022.WEBRip_English-en.srt"
+    },
+    {
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "files": [
+        "Ralph.Breaks.the.Internet.2018.HDRip.XviD.AC3-EVO-en.srt"
+      ],
+      "originalFilename": "Ralph.Breaks.the.Internet.2018.HDRip.XviD.AC3-EVO-en.srt"
+    },
+    {
+      "title": "Ralph Wreck-It",
+      "year": 2012,
+      "files": [
+        "Ralph.Wreck-It.2012.srt"
+      ],
+      "originalFilename": "Ralph.Wreck-It.2012.srt"
+    },
+    {
+      "title": "Ratatouille",
+      "year": 2007,
+      "files": [
+        "Ratatouille.2007.1080p.BrRip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Ratatouille.2007.1080p.BrRip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Raya And The Last Dragon",
+      "year": 2021,
+      "files": [
+        "Raya.And.The.Last.Dragon.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX]-en.srt"
+      ],
+      "originalFilename": "Raya.And.The.Last.Dragon.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX]-en.srt"
+    },
+    {
+      "title": "Rio",
+      "year": 2011,
+      "files": [
+        "Rio.2011.720p.BluRay.x264.YIFY.english-en.srt"
+      ],
+      "originalFilename": "Rio.2011.720p.BluRay.x264.YIFY.english-en.srt"
+    },
+    {
+      "title": "Rio 2",
+      "year": 2014,
+      "files": [
+        "Rio.2.2014.720p.BluRay.x264-YIFY-en.srt"
+      ],
+      "originalFilename": "Rio.2.2014.720p.BluRay.x264-YIFY-en.srt"
+    },
+    {
+      "title": "Shrek",
+      "year": 2001,
+      "files": [
+        "Shrek.2001.1080p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Shrek.2001.1080p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Shrek 2",
+      "year": 2004,
+      "files": [
+        "Shrek.2.2004.1080p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Shrek.2.2004.1080p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Shrek 3 Shrek The Third",
+      "year": 2007,
+      "files": [
+        "Shrek 3 Shrek The Third (2007)-en.srt"
+      ],
+      "originalFilename": "Shrek 3 Shrek The Third (2007)-en.srt"
+    },
+    {
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "files": [
+        "Shrek Forever After.2010.srt"
+      ],
+      "originalFilename": "Shrek Forever After.2010.srt"
+    },
+    {
+      "title": "Soul",
+      "year": 2020,
+      "files": [
+        "Soul.2020.720p.WEBRip.x264.AAC-[YTS.MX]-en.srt"
+      ],
+      "originalFilename": "Soul.2020.720p.WEBRip.x264.AAC-[YTS.MX]-en.srt"
+    },
+    {
+      "title": "Spider-Man Across the Spider-Verse",
+      "year": 2023,
+      "files": [
+        "Spider-Man.Across.the.Spider-Verse.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]-English-en.srt"
+      ],
+      "originalFilename": "Spider-Man.Across.the.Spider-Verse.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]-English-en.srt"
+    },
+    {
+      "title": "Spider-Man Into the Spider-Verse",
+      "year": 2019,
+      "files": [
+        "Spider-Man.Into.the.Spider-Verse.2019.-en.srt"
+      ],
+      "originalFilename": "Spider-Man.Into.the.Spider-Verse.2019.-en.srt"
+    },
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "files": [
+        "Spirited.Away.2001.720p.BluRay.x264-[YTS.AM]-en.srt"
+      ],
+      "originalFilename": "Spirited.Away.2001.720p.BluRay.x264-[YTS.AM]-en.srt"
+    },
+    {
+      "title": "The Bad Guys",
+      "year": 2022,
+      "files": [
+        "The.Bad.Guys.2022.-en.srt"
+      ],
+      "originalFilename": "The.Bad.Guys.2022.-en.srt"
+    },
+    {
+      "title": "The Boss Baby",
+      "year": 2017,
+      "files": [
+        "The.Boss.Baby.2017.720p.BluRay.x264-SPARKS-en.srt"
+      ],
+      "originalFilename": "The.Boss.Baby.2017.720p.BluRay.x264-SPARKS-en.srt"
+    },
+    {
+      "title": "The Boss Baby Family Business",
+      "year": 2021,
+      "files": [
+        "The.Boss.Baby.Family.Business.2021-en.srt"
+      ],
+      "originalFilename": "The.Boss.Baby.Family.Business.2021-en.srt"
+    },
+    {
+      "title": "The Boy And The Heron",
+      "year": 2023,
+      "files": [
+        "The.Boy.And.The.Heron.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]-en.srt"
+      ],
+      "originalFilename": "The.Boy.And.The.Heron.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]-en.srt"
+    },
+    {
+      "title": "The Croods",
+      "year": 2013,
+      "files": [
+        "The.Croods.2013.720p.BluRay.x264.YIFY.english-en.srt"
+      ],
+      "originalFilename": "The.Croods.2013.720p.BluRay.x264.YIFY.english-en.srt"
+    },
+    {
+      "title": "The Croods - A New Age",
+      "year": 2020,
+      "files": [
+        "The Croods - A New Age (2020)-en.srt"
+      ],
+      "originalFilename": "The Croods - A New Age (2020)-en.srt"
+    },
+    {
+      "title": "The Good Dinosaur",
+      "year": 2015,
+      "files": [
+        "The.Good.Dinosaur.2015.1080p.BluRay.x264-SPARKS-en.srt"
+      ],
+      "originalFilename": "The.Good.Dinosaur.2015.1080p.BluRay.x264-SPARKS-en.srt"
+    },
+    {
+      "title": "The Incredibles 1",
+      "year": 2004,
+      "files": [
+        "The Incredibles 1 (2004).English-en.srt"
+      ],
+      "originalFilename": "The Incredibles 1 (2004).English-en.srt"
+    },
+    {
+      "title": "The Incredibles 2",
+      "year": 2018,
+      "files": [
+        "The Incredibles 2 (2018)-en.srt"
+      ],
+      "originalFilename": "The Incredibles 2 (2018)-en.srt"
+    },
+    {
+      "title": "The Iron Giant",
+      "year": 1999,
+      "files": [
+        "The Iron Giant  1999-en.srt"
+      ],
+      "originalFilename": "The Iron Giant  1999-en.srt"
+    },
+    {
+      "title": "The Lego Movie",
+      "year": 2014,
+      "files": [
+        "The.Lego.Movie.2014.BluRay.720p.x264.DTS-HDWinG-en.srt"
+      ],
+      "originalFilename": "The.Lego.Movie.2014.BluRay.720p.x264.DTS-HDWinG-en.srt"
+    },
+    {
+      "title": "The Lego Movie 2 The Second Part",
+      "year": 2019,
+      "files": [
+        "The.Lego.Movie.2.The.Second.Part.2019.1080p.BluRay.x264-[YTS.AM]-en.srt"
+      ],
+      "originalFilename": "The.Lego.Movie.2.The.Second.Part.2019.1080p.BluRay.x264-[YTS.AM]-en.srt"
+    },
+    {
+      "title": "The Little Prince",
+      "year": 2015,
+      "files": [
+        "The.Little.Prince.2015.720p.BRRip.MkvCage.srt"
+      ],
+      "originalFilename": "The.Little.Prince.2015.720p.BRRip.MkvCage.srt"
+    },
+    {
+      "title": "The Lorax",
+      "year": 2012,
+      "files": [
+        "The.Lorax.2012.720p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "The.Lorax.2012.720p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "The Mitchells vs the Machines",
+      "year": 2021,
+      "files": [
+        "The.Mitchells.vs.the.Machines.2021.1080p.BluRay.H264.AAC-RARBG-English-en.srt"
+      ],
+      "originalFilename": "The.Mitchells.vs.the.Machines.2021.1080p.BluRay.H264.AAC-RARBG-English-en.srt"
+    },
+    {
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "files": [
+        "The.Nightmare.Before.Christmas.1993.1080p.BluRay.x265-RARBG-en.srt"
+      ],
+      "originalFilename": "The.Nightmare.Before.Christmas.1993.1080p.BluRay.x265-RARBG-en.srt"
+    },
+    {
+      "title": "The Prince Of Egypt",
+      "year": 1998,
+      "files": [
+        "The Prince Of Egypt (1998).English-en.srt"
+      ],
+      "originalFilename": "The Prince Of Egypt (1998).English-en.srt"
+    },
+    {
+      "title": "The Sea Beast",
+      "year": 2022,
+      "files": [
+        "The Sea Beast.2022.srt"
+      ],
+      "originalFilename": "The Sea Beast.2022.srt"
+    },
+    {
+      "title": "The Secret Life Of Pets",
+      "year": 2016,
+      "files": [
+        "The Secret Life Of Pets.2016.srt"
+      ],
+      "originalFilename": "The Secret Life Of Pets.2016.srt"
+    },
+    {
+      "title": "The Secret Life Of Pets 2",
+      "year": 2019,
+      "files": [
+        "The Secret Life Of Pets 2 (2019).srt"
+      ],
+      "originalFilename": "The Secret Life Of Pets 2 (2019).srt"
+    },
+    {
+      "title": "The Secret of Kells",
+      "year": 2009,
+      "files": [
+        "The.Secret.of.Kells.2009.Shout!.Factory.BluRay.No-SDH.SRT.en-en.srt"
+      ],
+      "originalFilename": "The.Secret.of.Kells.2009.Shout!.Factory.BluRay.No-SDH.SRT.en-en.srt"
+    },
+    {
+      "title": "The Super Mario Bros Movie",
+      "year": 2023,
+      "files": [
+        "The.Super.Mario.Bros.Movie.2023-en.srt"
+      ],
+      "originalFilename": "The.Super.Mario.Bros.Movie.2023-en.srt"
+    },
+    {
+      "title": "The wild Robot",
+      "year": 2024,
+      "files": [
+        "The wild Robot (2024)-en.srt"
+      ],
+      "originalFilename": "The wild Robot (2024)-en.srt"
+    },
+    {
+      "title": "Toy Story",
+      "year": 1995,
+      "files": [
+        "Toy.Story.1995.1080p.BRrip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Toy.Story.1995.1080p.BRrip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Toy Story 2",
+      "year": 1999,
+      "files": [
+        "Toy.Story.2.1999.720p.BluRay.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "Toy.Story.2.1999.720p.BluRay.x264.YIFY-en.srt"
+    },
+    {
+      "title": "Toy Story 3",
+      "year": 2010,
+      "files": [
+        "Toy.Story.3.2010.BrRip.x264.720p.YIFY.english-en.srt"
+      ],
+      "originalFilename": "Toy.Story.3.2010.BrRip.x264.720p.YIFY.english-en.srt"
+    },
+    {
+      "title": "Toy Story 4",
+      "year": 2019,
+      "files": [
+        "Toy.Story.4.2019.1080p.BluRay.x264-[YTS.LT]-en.srt"
+      ],
+      "originalFilename": "Toy.Story.4.2019.1080p.BluRay.x264-[YTS.LT]-en.srt"
+    },
+    {
+      "title": "Trolls",
+      "year": 2016,
+      "files": [
+        "Trolls.2016.720p.BluRay.x264-SPARKS.HI-en.srt"
+      ],
+      "originalFilename": "Trolls.2016.720p.BluRay.x264-SPARKS.HI-en.srt"
+    },
+    {
+      "title": "Trolls World Tour",
+      "year": 2020,
+      "files": [
+        "Trolls.World.Tour.2020.720p.BluRay.x264.AAC-[YTS.MX]-en.srt"
+      ],
+      "originalFilename": "Trolls.World.Tour.2020.720p.BluRay.x264.AAC-[YTS.MX]-en.srt"
+    },
+    {
+      "title": "Turning Red",
+      "year": 2022,
+      "files": [
+        "Turning Red.2022.srt"
+      ],
+      "originalFilename": "Turning Red.2022.srt"
+    },
+    {
+      "title": "Up",
+      "year": 2009,
+      "files": [
+        "Up (2009)-en.srt"
+      ],
+      "originalFilename": "Up (2009)-en.srt"
+    },
+    {
+      "title": "WALL-E",
+      "year": 2008,
+      "files": [
+        "WALL-E.2008.1080p.BrRip.x264.YIFY-en.srt"
+      ],
+      "originalFilename": "WALL-E.2008.1080p.BrRip.x264.YIFY-en.srt"
+    },
+    {
+      "title": "WolfWalkers",
+      "year": 2020,
+      "files": [
+        "WolfWalkers.2020.NORDiC.1080p.BluRay.x264.DD+5.1-TWA.en-en.srt"
+      ],
+      "originalFilename": "WolfWalkers.2020.NORDiC.1080p.BluRay.x264.DD+5.1-TWA.en-en.srt"
+    },
+    {
+      "title": "Zootopia",
+      "year": 2016,
+      "files": [
+        "Zootopia.2016.1080p.BluRay.H264.AAC-RARBG-en.srt"
+      ],
+      "originalFilename": "Zootopia.2016.1080p.BluRay.H264.AAC-RARBG-en.srt"
+    }
+  ]
+}

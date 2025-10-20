@@ -1,0 +1,602 @@
+{
+  "dupla": {
+    "total": 1,
+    "forms": {
+      "dupla": 1
+    }
+  },
+  "hooligan": {
+    "total": 1,
+    "forms": {
+      "hooligans": 1
+    }
+  },
+  "taboka": {
+    "total": 1,
+    "forms": {
+      "taboka": 1
+    }
+  },
+  "oula": {
+    "total": 1,
+    "forms": {
+      "oula": 1
+    }
+  },
+  "delato": {
+    "total": 1,
+    "forms": {
+      "delato": 1
+    }
+  },
+  "hyde": {
+    "total": 1,
+    "forms": {
+      "hyde": 1
+    }
+  },
+  "labas": {
+    "total": 1,
+    "forms": {
+      "labas": 1
+    }
+  },
+  "opla": {
+    "total": 1,
+    "forms": {
+      "opla": 1
+    }
+  },
+  "pasteka": {
+    "total": 1,
+    "forms": {
+      "pasteka": 1
+    }
+  },
+  "mache": {
+    "total": 1,
+    "forms": {
+      "mache": 1
+    }
+  },
+  "laro": {
+    "total": 1,
+    "forms": {
+      "laro": 1
+    }
+  },
+  "zenpao": {
+    "total": 1,
+    "forms": {
+      "zenpao": 1
+    }
+  },
+  "boke": {
+    "total": 1,
+    "forms": {
+      "boke": 1
+    }
+  },
+  "lato": {
+    "total": 1,
+    "forms": {
+      "lato": 1
+    }
+  },
+  "pachi": {
+    "total": 1,
+    "forms": {
+      "pachi": 1
+    }
+  },
+  "pela": {
+    "total": 1,
+    "forms": {
+      "pela": 1
+    }
+  },
+  "chobi": {
+    "total": 1,
+    "forms": {
+      "chobi": 1
+    }
+  },
+  "machi": {
+    "total": 1,
+    "forms": {
+      "machi": 1
+    }
+  },
+  "lapoy": {
+    "total": 1,
+    "forms": {
+      "lapoy": 1
+    }
+  },
+  "chib": {
+    "total": 1,
+    "forms": {
+      "chib": 1
+    }
+  },
+  "pinko": {
+    "total": 1,
+    "forms": {
+      "pinko": 1
+    }
+  },
+  "kab": {
+    "total": 1,
+    "forms": {
+      "kab": 1
+    }
+  },
+  "bochi": {
+    "total": 1,
+    "forms": {
+      "bochi": 1
+    }
+  },
+  "bachi": {
+    "total": 1,
+    "forms": {
+      "bachi": 1
+    }
+  },
+  "tuchiba": {
+    "total": 1,
+    "forms": {
+      "tuchiba": 1
+    }
+  },
+  "chipuchi": {
+    "total": 1,
+    "forms": {
+      "chipuchi": 1
+    }
+  },
+  "machola": {
+    "total": 1,
+    "forms": {
+      "machola": 1
+    }
+  },
+  "bachopa": {
+    "total": 1,
+    "forms": {
+      "bachopa": 1
+    }
+  },
+  "buklab": {
+    "total": 1,
+    "forms": {
+      "buklab": 1
+    }
+  },
+  "chalola": {
+    "total": 1,
+    "forms": {
+      "chalola": 1
+    }
+  },
+  "lachi": {
+    "total": 1,
+    "forms": {
+      "lachi": 1
+    }
+  },
+  "lacha": {
+    "total": 1,
+    "forms": {
+      "lacha": 1
+    }
+  },
+  "bachoma": {
+    "total": 1,
+    "forms": {
+      "bachoma": 1
+    }
+  },
+  "chola": {
+    "total": 1,
+    "forms": {
+      "chola": 1
+    }
+  },
+  "sikab": {
+    "total": 1,
+    "forms": {
+      "sikab": 1
+    }
+  },
+  "bacho": {
+    "total": 1,
+    "forms": {
+      "bacho": 1
+    }
+  },
+  "bacha": {
+    "total": 1,
+    "forms": {
+      "bacha": 1
+    }
+  },
+  "makalola": {
+    "total": 1,
+    "forms": {
+      "makalola": 1
+    }
+  },
+  "pestop": {
+    "total": 1,
+    "forms": {
+      "pestop": 1
+    }
+  },
+  "bak": {
+    "total": 1,
+    "forms": {
+      "bak": 1
+    }
+  },
+  "topilano": {
+    "total": 1,
+    "forms": {
+      "topilano": 1
+    }
+  },
+  "i'onion": {
+    "total": 1,
+    "forms": {
+      "i'onion": 1
+    }
+  },
+  "plano": {
+    "total": 1,
+    "forms": {
+      "plano": 1
+    }
+  },
+  "palat": {
+    "total": 1,
+    "forms": {
+      "palat": 1
+    }
+  },
+  "spila": {
+    "total": 1,
+    "forms": {
+      "spila": 1
+    }
+  },
+  "ayoobo": {
+    "total": 1,
+    "forms": {
+      "ayoobo": 1
+    }
+  },
+  "prakash": {
+    "total": 1,
+    "forms": {
+      "prakash": 1
+    }
+  },
+  "comeriga": {
+    "total": 1,
+    "forms": {
+      "comeriga": 1
+    }
+  },
+  "gve": {
+    "total": 1,
+    "forms": {
+      "gve": 1
+    }
+  },
+  "blighter": {
+    "total": 1,
+    "forms": {
+      "blighter": 1
+    }
+  },
+  "cor": {
+    "total": 1,
+    "forms": {
+      "cor": 1
+    }
+  },
+  "jaundice": {
+    "total": 1,
+    "forms": {
+      "jaundiced": 1
+    }
+  },
+  "lapicachi": {
+    "total": 1,
+    "forms": {
+      "lapicachi": 1
+    }
+  },
+  "picalata": {
+    "total": 1,
+    "forms": {
+      "picalata": 1
+    }
+  },
+  "buckingham": {
+    "total": 1,
+    "forms": {
+      "buckingham": 1
+    }
+  },
+  "maca": {
+    "total": 1,
+    "forms": {
+      "maca": 1
+    }
+  },
+  "machoul": {
+    "total": 1,
+    "forms": {
+      "machoul": 1
+    }
+  },
+  "spida": {
+    "total": 1,
+    "forms": {
+      "spida": 1
+    }
+  },
+  "salamanko": {
+    "total": 1,
+    "forms": {
+      "salamanko": 1
+    }
+  },
+  "poto": {
+    "total": 1,
+    "forms": {
+      "poto": 1
+    }
+  },
+  "lelaci": {
+    "total": 1,
+    "forms": {
+      "lelaci": 1
+    }
+  },
+  "medit": {
+    "total": 1,
+    "forms": {
+      "medit": 1
+    }
+  },
+  "locola": {
+    "total": 1,
+    "forms": {
+      "locola": 1
+    }
+  },
+  "lakino": {
+    "total": 1,
+    "forms": {
+      "lakino": 1
+    }
+  },
+  "lapa": {
+    "total": 1,
+    "forms": {
+      "lapa": 1
+    }
+  },
+  "lemaki": {
+    "total": 1,
+    "forms": {
+      "lemaki": 1
+    }
+  },
+  "apouket": {
+    "total": 1,
+    "forms": {
+      "apouket": 1
+    }
+  },
+  "layo": {
+    "total": 1,
+    "forms": {
+      "layo": 1
+    }
+  },
+  "labidiba": {
+    "total": 1,
+    "forms": {
+      "labidiba": 1
+    }
+  },
+  "babooka": {
+    "total": 1,
+    "forms": {
+      "babooka": 1
+    }
+  },
+  "iso": {
+    "total": 1,
+    "forms": {
+      "iso": 1
+    }
+  },
+  "bito": {
+    "total": 1,
+    "forms": {
+      "bito": 1
+    }
+  },
+  "dandu": {
+    "total": 1,
+    "forms": {
+      "dandu": 1
+    }
+  },
+  "lapat": {
+    "total": 1,
+    "forms": {
+      "lapat": 1
+    }
+  },
+  "patoot": {
+    "total": 1,
+    "forms": {
+      "patoot": 1
+    }
+  },
+  "kitori": {
+    "total": 1,
+    "forms": {
+      "kitori": 1
+    }
+  },
+  "humm": {
+    "total": 1,
+    "forms": {
+      "humm": 1
+    }
+  },
+  "bellas": {
+    "total": 1,
+    "forms": {
+      "bellas": 1
+    }
+  },
+  "elegance": {
+    "total": 1,
+    "forms": {
+      "elegance": 1
+    }
+  },
+  "pinhead": {
+    "total": 1,
+    "forms": {
+      "pinheads": 1
+    }
+  },
+  "abdicate": {
+    "total": 1,
+    "forms": {
+      "abdicate": 1
+    }
+  },
+  "keena": {
+    "total": 1,
+    "forms": {
+      "keena": 1
+    }
+  },
+  "pota": {
+    "total": 1,
+    "forms": {
+      "pota": 1
+    }
+  },
+  "papeil": {
+    "total": 1,
+    "forms": {
+      "papeil": 1
+    }
+  },
+  "coronate": {
+    "total": 1,
+    "forms": {
+      "coronated": 1
+    }
+  },
+  "westminster": {
+    "total": 1,
+    "forms": {
+      "westminster": 1
+    }
+  },
+  "shana": {
+    "total": 1,
+    "forms": {
+      "shana": 1
+    }
+  },
+  "tova": {
+    "total": 1,
+    "forms": {
+      "tova": 1
+    }
+  },
+  "lookati": {
+    "total": 1,
+    "forms": {
+      "lookati": 1
+    }
+  },
+  "pado": {
+    "total": 1,
+    "forms": {
+      "pado": 1
+    }
+  },
+  "kunapa": {
+    "total": 1,
+    "forms": {
+      "kunapa": 1
+    }
+  },
+  "latupa": {
+    "total": 1,
+    "forms": {
+      "latupa": 1
+    }
+  },
+  "cigung": {
+    "total": 1,
+    "forms": {
+      "cigung": 1
+    }
+  },
+  "moca": {
+    "total": 1,
+    "forms": {
+      "moca": 1
+    }
+  },
+  "blesse": {
+    "total": 1,
+    "forms": {
+      "blesse": 1
+    }
+  },
+  "buena": {
+    "total": 1,
+    "forms": {
+      "buena": 1
+    }
+  },
+  "neckline": {
+    "total": 1,
+    "forms": {
+      "neckline": 1
+    }
+  },
+  "taffeta": {
+    "total": 1,
+    "forms": {
+      "taffeta": 1
+    }
+  },
+  "lapoleco": {
+    "total": 1,
+    "forms": {
+      "lapoleco": 1
+    }
+  },
+  "taka": {
+    "total": 1,
+    "forms": {
+      "taka": 1
+    }
+  }
+}

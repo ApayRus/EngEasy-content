@@ -1,0 +1,605 @@
+{
+  "turbotime": {
+    "total": 1,
+    "forms": {
+      "turbotime": 1
+    }
+  },
+  "roadblasters": {
+    "total": 1,
+    "forms": {
+      "roadblasters": 1
+    }
+  },
+  "graphic": {
+    "total": 1,
+    "forms": {
+      "graphics": 1
+    }
+  },
+  "cautionary": {
+    "total": 1,
+    "forms": {
+      "cautionary": 1
+    }
+  },
+  "nesquik": {
+    "total": 1,
+    "forms": {
+      "nesquik": 1
+    }
+  },
+  "quicksand": {
+    "total": 1,
+    "forms": {
+      "quicksand": 1
+    }
+  },
+  "thrash": {
+    "total": 1,
+    "forms": {
+      "thrashing": 1
+    }
+  },
+  "laffy": {
+    "total": 1,
+    "forms": {
+      "laffy": 1
+    }
+  },
+  "ord": {
+    "total": 1,
+    "forms": {
+      "ord": 1
+    }
+  },
+  "jeeves": {
+    "total": 1,
+    "forms": {
+      "jeeves": 1
+    }
+  },
+  "hairbrush": {
+    "total": 1,
+    "forms": {
+      "hairbrush": 1
+    }
+  },
+  "unhygienic": {
+    "total": 1,
+    "forms": {
+      "unhygienic": 1
+    }
+  },
+  "mentos": {
+    "total": 1,
+    "forms": {
+      "mentos": 1
+    }
+  },
+  "stopper": {
+    "total": 1,
+    "forms": {
+      "stopper": 1
+    }
+  },
+  "joystick": {
+    "total": 1,
+    "forms": {
+      "joystick": 1
+    }
+  },
+  "sunroof": {
+    "total": 1,
+    "forms": {
+      "sunroof": 1
+    }
+  },
+  "ralphie": {
+    "total": 1,
+    "forms": {
+      "ralphie": 1
+    }
+  },
+  "blunt": {
+    "total": 1,
+    "forms": {
+      "blunt": 1
+    }
+  },
+  "wastin": {
+    "total": 1,
+    "forms": {
+      "wastin": 1
+    }
+  },
+  "vurp": {
+    "total": 1,
+    "forms": {
+      "vurp": 1
+    }
+  },
+  "unarm": {
+    "total": 1,
+    "forms": {
+      "unarmed": 1
+    }
+  },
+  "molasses": {
+    "total": 1,
+    "forms": {
+      "molasses": 1
+    }
+  },
+  "sandpaper": {
+    "total": 1,
+    "forms": {
+      "sandpaper": 1
+    }
+  },
+  "saccharine": {
+    "total": 1,
+    "forms": {
+      "saccharine": 1
+    }
+  },
+  "armageddon": {
+    "total": 1,
+    "forms": {
+      "armageddon": 1
+    }
+  },
+  "higgledy": {
+    "total": 1,
+    "forms": {
+      "higgledy": 1
+    }
+  },
+  "piggledy": {
+    "total": 1,
+    "forms": {
+      "piggledy": 1
+    }
+  },
+  "rebuff": {
+    "total": 1,
+    "forms": {
+      "rebuffed": 1
+    }
+  },
+  "numskull": {
+    "total": 1,
+    "forms": {
+      "numskull": 1
+    }
+  },
+  "stinkiest": {
+    "total": 1,
+    "forms": {
+      "stinkiest": 1
+    }
+  },
+  "hesitation": {
+    "total": 1,
+    "forms": {
+      "hesitation": 1
+    }
+  },
+  "junkpile": {
+    "total": 1,
+    "forms": {
+      "junkpile": 1
+    }
+  },
+  "bullroar": {
+    "total": 1,
+    "forms": {
+      "bullroar": 1
+    }
+  },
+  "reprogram": {
+    "total": 1,
+    "forms": {
+      "reprogram": 1
+    }
+  },
+  "constitutional": {
+    "total": 1,
+    "forms": {
+      "constitutional": 1
+    }
+  },
+  "nnderpants": {
+    "total": 1,
+    "forms": {
+      "nnderpants": 1
+    }
+  },
+  "baroness": {
+    "total": 1,
+    "forms": {
+      "baroness": 1
+    }
+  },
+  "boogerface": {
+    "total": 1,
+    "forms": {
+      "boogerface": 1
+    }
+  },
+  "odor": {
+    "total": 1,
+    "forms": {
+      "odor": 1
+    }
+  },
+  "ust": {
+    "total": 1,
+    "forms": {
+      "ust": 1
+    }
+  },
+  "michi": {
+    "total": 1,
+    "forms": {
+      "michi": 1
+    }
+  },
+  "datte": {
+    "total": 1,
+    "forms": {
+      "datte": 1
+    }
+  },
+  "massugu": {
+    "total": 1,
+    "forms": {
+      "massugu": 1
+    }
+  },
+  "janai": {
+    "total": 1,
+    "forms": {
+      "janai": 1
+    }
+  },
+  "darou": {
+    "total": 1,
+    "forms": {
+      "darou": 1
+    }
+  },
+  "magarikunette": {
+    "total": 1,
+    "forms": {
+      "magarikunette": 1
+    }
+  },
+  "windy": {
+    "total": 1,
+    "forms": {
+      "windy": 1
+    }
+  },
+  "dekoboko": {
+    "total": 1,
+    "forms": {
+      "dekoboko": 1
+    }
+  },
+  "shiteru": {
+    "total": 1,
+    "forms": {
+      "shiteru": 1
+    }
+  },
+  "hazusa": {
+    "total": 1,
+    "forms": {
+      "hazusa": 1
+    }
+  },
+  "tsurai": {
+    "total": 1,
+    "forms": {
+      "tsurai": 1
+    }
+  },
+  "koto": {
+    "total": 1,
+    "forms": {
+      "koto": 1
+    }
+  },
+  "tokiniwa": {
+    "total": 1,
+    "forms": {
+      "tokiniwa": 1
+    }
+  },
+  "aruyone": {
+    "total": 1,
+    "forms": {
+      "aruyone": 1
+    }
+  },
+  "soredemo": {
+    "total": 1,
+    "forms": {
+      "soredemo": 1
+    }
+  },
+  "hashiruyo": {
+    "total": 1,
+    "forms": {
+      "hashiruyo": 1
+    }
+  },
+  "amai": {
+    "total": 1,
+    "forms": {
+      "amai": 1
+    }
+  },
+  "kanashiku": {
+    "total": 1,
+    "forms": {
+      "kanashiku": 1
+    }
+  },
+  "nattara": {
+    "total": 1,
+    "forms": {
+      "nattara": 1
+    }
+  },
+  "mabuta": {
+    "total": 1,
+    "forms": {
+      "mabuta": 1
+    }
+  },
+  "tojite": {
+    "total": 1,
+    "forms": {
+      "tojite": 1
+    }
+  },
+  "goran": {
+    "total": 1,
+    "forms": {
+      "goran": 1
+    }
+  },
+  "hora": {
+    "total": 1,
+    "forms": {
+      "hora": 1
+    }
+  },
+  "yume": {
+    "total": 1,
+    "forms": {
+      "yume": 1
+    }
+  },
+  "naka": {
+    "total": 1,
+    "forms": {
+      "naka": 1
+    }
+  },
+  "nara": {
+    "total": 1,
+    "forms": {
+      "nara": 1
+    }
+  },
+  "namida": {
+    "total": 1,
+    "forms": {
+      "namida": 1
+    }
+  },
+  "wasurerareru": {
+    "total": 1,
+    "forms": {
+      "wasurerareru": 1
+    }
+  },
+  "moshi": {
+    "total": 1,
+    "forms": {
+      "moshi": 1
+    }
+  },
+  "kokode": {
+    "total": 1,
+    "forms": {
+      "kokode": 1
+    }
+  },
+  "ensuto": {
+    "total": 1,
+    "forms": {
+      "ensuto": 1
+    }
+  },
+  "shitatte": {
+    "total": 1,
+    "forms": {
+      "shitatte": 1
+    }
+  },
+  "awatetari": {
+    "total": 1,
+    "forms": {
+      "awatetari": 1
+    }
+  },
+  "shinai": {
+    "total": 1,
+    "forms": {
+      "shinai": 1
+    }
+  },
+  "amaimono": {
+    "total": 1,
+    "forms": {
+      "amaimono": 1
+    }
+  },
+  "kakemeguruyo": {
+    "total": 1,
+    "forms": {
+      "kakemeguruyo": 1
+    }
+  },
+  "genki": {
+    "total": 1,
+    "forms": {
+      "genki": 1
+    }
+  },
+  "eminent": {
+    "total": 1,
+    "forms": {
+      "eminent": 1
+    }
+  },
+  "turbocharged": {
+    "total": 1,
+    "forms": {
+      "turbocharged": 1
+    }
+  },
+  "superintendent": {
+    "total": 1,
+    "forms": {
+      "superintendent": 1
+    }
+  },
+  "unglued": {
+    "total": 1,
+    "forms": {
+      "unglued": 1
+    }
+  },
+  "treachery": {
+    "total": 1,
+    "forms": {
+      "treachery": 1
+    }
+  },
+  "bloodlust": {
+    "total": 1,
+    "forms": {
+      "bloodlust": 1
+    }
+  },
+  "uncontrollable": {
+    "total": 1,
+    "forms": {
+      "uncontrollable": 1
+    }
+  },
+  "multitudinous": {
+    "total": 1,
+    "forms": {
+      "multitudinous": 1
+    }
+  },
+  "exemption": {
+    "total": 1,
+    "forms": {
+      "exemptions": 1
+    }
+  },
+  "actuary": {
+    "total": 1,
+    "forms": {
+      "actuary": 1
+    }
+  },
+  "complacency": {
+    "total": 1,
+    "forms": {
+      "complacency": 1
+    }
+  },
+  "dunnah": {
+    "total": 1,
+    "forms": {
+      "dunnah": 1
+    }
+  },
+  "travis": {
+    "total": 1,
+    "forms": {
+      "travis": 1
+    }
+  },
+  "bumpkin": {
+    "total": 1,
+    "forms": {
+      "bumpkin": 1
+    }
+  },
+  "valedictorian": {
+    "total": 1,
+    "forms": {
+      "valedictorian": 1
+    }
+  },
+  "precinct": {
+    "total": 1,
+    "forms": {
+      "precinct": 1
+    }
+  },
+  "cribbage": {
+    "total": 1,
+    "forms": {
+      "cribbage": 1
+    }
+  },
+  "waterworks": {
+    "total": 1,
+    "forms": {
+      "waterworks": 1
+    }
+  },
+  "delouse": {
+    "total": 1,
+    "forms": {
+      "delousing": 1
+    }
+  },
+  "bullpen": {
+    "total": 1,
+    "forms": {
+      "bullpen's": 1
+    },
+    "expansions": {
+      "bullpen's": "bullpen's (possessive)"
+    }
+  },
+  "atten": {
+    "total": 1,
+    "forms": {
+      "atten": 1
+    }
+  },
+  "docket": {
+    "total": 1,
+    "forms": {
+      "docket": 1
+    }
+  },
+  "rhinowitz": {
+    "total": 1,
+    "forms": {
+      "rhinowitz": 1
+    }
+  }
+}

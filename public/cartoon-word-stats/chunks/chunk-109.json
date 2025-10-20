@@ -1,0 +1,608 @@
+{
+  "parasite": {
+    "total": 1,
+    "forms": {
+      "parasite": 1
+    }
+  },
+  "anaemia": {
+    "total": 1,
+    "forms": {
+      "anaemia": 1
+    }
+  },
+  "mli": {
+    "total": 1,
+    "forms": {
+      "mli": 1
+    }
+  },
+  "thi": {
+    "total": 1,
+    "forms": {
+      "thi": 1
+    }
+  },
+  "echolocate": {
+    "total": 1,
+    "forms": {
+      "echolocate": 1
+    }
+  },
+  "roundish": {
+    "total": 1,
+    "forms": {
+      "roundish": 1
+    }
+  },
+  "locomotion": {
+    "total": 1,
+    "forms": {
+      "locomotion": 1
+    }
+  },
+  "pecky": {
+    "total": 1,
+    "forms": {
+      "pecky": 1
+    }
+  },
+  "rebecca": {
+    "total": 1,
+    "forms": {
+      "rebecca": 1
+    }
+  },
+  "imp": {
+    "total": 1,
+    "forms": {
+      "imp": 1
+    }
+  },
+  "shimmy": {
+    "total": 1,
+    "forms": {
+      "shimmy": 1
+    }
+  },
+  "scuff": {
+    "total": 1,
+    "forms": {
+      "scuff": 1
+    }
+  },
+  "septo": {
+    "total": 1,
+    "forms": {
+      "septo": 1
+    }
+  },
+  "evaluate": {
+    "total": 1,
+    "forms": {
+      "evaluate": 1
+    }
+  },
+  "analyse": {
+    "total": 1,
+    "forms": {
+      "analyse": 1
+    }
+  },
+  "shelley": {
+    "total": 1,
+    "forms": {
+      "shelley": 1
+    }
+  },
+  "zzz": {
+    "total": 1,
+    "forms": {
+      "zzz": 1
+    }
+  },
+  "neptune": {
+    "total": 1,
+    "forms": {
+      "neptune": 1
+    }
+  },
+  "overjoy": {
+    "total": 1,
+    "forms": {
+      "overjoyed": 1
+    }
+  },
+  "mollusc": {
+    "total": 1,
+    "forms": {
+      "mollusc": 1
+    }
+  },
+  "dest": {
+    "total": 1,
+    "forms": {
+      "dest": 1
+    }
+  },
+  "merge": {
+    "total": 1,
+    "forms": {
+      "merging": 1
+    }
+  },
+  "cheeky": {
+    "total": 1,
+    "forms": {
+      "cheeky": 1
+    }
+  },
+  "dor": {
+    "total": 1,
+    "forms": {
+      "dor": 1
+    }
+  },
+  "biped": {
+    "total": 1,
+    "forms": {
+      "bipeds": 1
+    }
+  },
+  "ashby": {
+    "total": 1,
+    "forms": {
+      "ashby": 1
+    }
+  },
+  "powell": {
+    "total": 1,
+    "forms": {
+      "powell": 1
+    }
+  },
+  "veer": {
+    "total": 1,
+    "forms": {
+      "veer": 1
+    }
+  },
+  "haha": {
+    "total": 1,
+    "forms": {
+      "haha": 1
+    }
+  },
+  "desirable": {
+    "total": 1,
+    "forms": {
+      "desirable": 1
+    }
+  },
+  "misconception": {
+    "total": 1,
+    "forms": {
+      "misconception": 1
+    }
+  },
+  "clownie": {
+    "total": 1,
+    "forms": {
+      "clownie": 1
+    }
+  },
+  "sheldon": {
+    "total": 1,
+    "forms": {
+      "sheldon": 1
+    }
+  },
+  "johannsen": {
+    "total": 1,
+    "forms": {
+      "johannsen's": 1
+    },
+    "expansions": {
+      "johannsen's": "johannsen's (possessive)"
+    }
+  },
+  "mesopelagic": {
+    "total": 1,
+    "forms": {
+      "mesopelagic": 1
+    }
+  },
+  "bathyal": {
+    "total": 1,
+    "forms": {
+      "bathyal": 1
+    }
+  },
+  "abyssalpelagic": {
+    "total": 1,
+    "forms": {
+      "abyssalpelagic": 1
+    }
+  },
+  "empirical": {
+    "total": 1,
+    "forms": {
+      "empirical": 1
+    }
+  },
+  "anemon": {
+    "total": 1,
+    "forms": {
+      "anemon": 1
+    }
+  },
+  "nemenem": {
+    "total": 1,
+    "forms": {
+      "nemenem": 1
+    }
+  },
+  "menome": {
+    "total": 1,
+    "forms": {
+      "menome": 1
+    }
+  },
+  "supraesophogeal": {
+    "total": 1,
+    "forms": {
+      "supraesophogeal": 1
+    }
+  },
+  "ganglion": {
+    "total": 1,
+    "forms": {
+      "ganglion": 1
+    }
+  },
+  "gastropoda": {
+    "total": 1,
+    "forms": {
+      "gastropoda": 1
+    }
+  },
+  "arthropoda": {
+    "total": 1,
+    "forms": {
+      "arthropoda": 1
+    }
+  },
+  "echinoderma": {
+    "total": 1,
+    "forms": {
+      "echinoderma": 1
+    }
+  },
+  "stromalitic": {
+    "total": 1,
+    "forms": {
+      "stromalitic": 1
+    }
+  },
+  "cyanobacteria": {
+    "total": 1,
+    "forms": {
+      "cyanobacteria": 1
+    }
+  },
+  "infinitesimal": {
+    "total": 1,
+    "forms": {
+      "infinitesimal": 1
+    }
+  },
+  "morsel": {
+    "total": 1,
+    "forms": {
+      "morsels": 1
+    }
+  },
+  "dodgy": {
+    "total": 1,
+    "forms": {
+      "dodgy": 1
+    }
+  },
+  "flippin": {
+    "total": 1,
+    "forms": {
+      "flippin": 1
+    }
+  },
+  "testimony": {
+    "total": 1,
+    "forms": {
+      "testimonies": 1
+    }
+  },
+  "sheila": {
+    "total": 1,
+    "forms": {
+      "sheila": 1
+    }
+  },
+  "g'day": {
+    "total": 1,
+    "forms": {
+      "g'day": 1
+    }
+  },
+  "brucey": {
+    "total": 1,
+    "forms": {
+      "brucey": 1
+    }
+  },
+  "anterior": {
+    "total": 1,
+    "forms": {
+      "anterior": 1
+    }
+  },
+  "novocaine": {
+    "total": 1,
+    "forms": {
+      "novocaine": 1
+    }
+  },
+  "decontaminate": {
+    "total": 1,
+    "forms": {
+      "decontaminated": 1
+    }
+  },
+  "mer": {
+    "total": 1,
+    "forms": {
+      "mer": 1
+    }
+  },
+  "deb": {
+    "total": 1,
+    "forms": {
+      "deb": 1
+    }
+  },
+  "clamp": {
+    "total": 1,
+    "forms": {
+      "clamp": 1
+    }
+  },
+  "schilder": {
+    "total": 1,
+    "forms": {
+      "schilder": 1
+    }
+  },
+  "deflate": {
+    "total": 1,
+    "forms": {
+      "deflate": 1
+    }
+  },
+  "doozy": {
+    "total": 1,
+    "forms": {
+      "doozy": 1
+    }
+  },
+  "sealer": {
+    "total": 1,
+    "forms": {
+      "sealer": 1
+    }
+  },
+  "terminus": {
+    "total": 1,
+    "forms": {
+      "terminus": 1
+    }
+  },
+  "outie": {
+    "total": 1,
+    "forms": {
+      "outie": 1
+    }
+  },
+  "tucker": {
+    "total": 1,
+    "forms": {
+      "tucker": 1
+    }
+  },
+  "haah": {
+    "total": 1,
+    "forms": {
+      "haah": 1
+    }
+  },
+  "suivez": {
+    "total": 1,
+    "forms": {
+      "suivez": 1
+    }
+  },
+  "wahee": {
+    "total": 1,
+    "forms": {
+      "wahee": 1
+    }
+  },
+  "fraternal": {
+    "total": 1,
+    "forms": {
+      "fraternal": 1
+    }
+  },
+  "tankhood": {
+    "total": 1,
+    "forms": {
+      "tankhood": 1
+    }
+  },
+  "dentist'll": {
+    "total": 1,
+    "forms": {
+      "dentist'll": 1
+    }
+  },
+  "baggies": {
+    "total": 1,
+    "forms": {
+      "baggies": 1
+    }
+  },
+  "swordfish": {
+    "total": 1,
+    "forms": {
+      "swordfish": 1
+    }
+  },
+  "fabio": {
+    "total": 1,
+    "forms": {
+      "fabio": 1
+    }
+  },
+  "ptoo": {
+    "total": 1,
+    "forms": {
+      "ptoo": 1
+    }
+  },
+  "wedge": {
+    "total": 1,
+    "forms": {
+      "wedge": 1
+    }
+  },
+  "hurlin": {
+    "total": 1,
+    "forms": {
+      "hurlin": 1
+    }
+  },
+  "cachoo": {
+    "total": 1,
+    "forms": {
+      "cachoo": 1
+    }
+  },
+  "vague": {
+    "total": 1,
+    "forms": {
+      "vague": 1
+    }
+  },
+  "bloke": {
+    "total": 1,
+    "forms": {
+      "bloke's": 1
+    },
+    "expansions": {
+      "bloke's": "bloke's (possessive)"
+    }
+  },
+  "whoooa": {
+    "total": 1,
+    "forms": {
+      "whoooa": 1
+    }
+  },
+  "extraction": {
+    "total": 1,
+    "forms": {
+      "extraction": 1
+    }
+  },
+  "periodontal": {
+    "total": 1,
+    "forms": {
+      "periodontal": 1
+    }
+  },
+  "ligament": {
+    "total": 1,
+    "forms": {
+      "ligament": 1
+    }
+  },
+  "trout": {
+    "total": 1,
+    "forms": {
+      "trout": 1
+    }
+  },
+  "tank'll": {
+    "total": 1,
+    "forms": {
+      "tank'll": 1
+    }
+  },
+  "rundown": {
+    "total": 1,
+    "forms": {
+      "rundown": 1
+    }
+  },
+  "smartypants": {
+    "total": 1,
+    "forms": {
+      "smartypants": 1
+    }
+  },
+  "ingest": {
+    "total": 1,
+    "forms": {
+      "ingest": 1
+    }
+  },
+  "mooo": {
+    "total": 1,
+    "forms": {
+      "mooo": 1
+    }
+  },
+  "weee": {
+    "total": 1,
+    "forms": {
+      "weee": 1
+    }
+  },
+  "neeed": {
+    "total": 1,
+    "forms": {
+      "neeed": 1
+    }
+  },
+  "tooo": {
+    "total": 1,
+    "forms": {
+      "tooo": 1
+    }
+  },
+  "fiind": {
+    "total": 1,
+    "forms": {
+      "fiind": 1
+    }
+  },
+  "youuuu": {
+    "total": 1,
+    "forms": {
+      "youuuu": 1
+    }
+  },
+  "diiirectionsss": {
+    "total": 1,
+    "forms": {
+      "diiirectionsss": 1
+    }
+  }
+}
