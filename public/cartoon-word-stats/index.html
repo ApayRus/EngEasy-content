@@ -277,13 +277,13 @@
 		<h2>🚀 Просмотр данных</h2>
 
 		<div class="action-buttons">
-			<a href="./viewer.html" class="action-btn">
+			<a href="/cartoon-word-stats/viewer.html" class="action-btn">
 				<span class="icon">📋</span>
 				Смотреть в виде списка
 				<div class="desc">Таблица с поиском и детальной информацией о каждом слове</div>
 			</a>
 
-			<a href="./charts.html" class="action-btn">
+			<a href="/cartoon-word-stats/charts.html" class="action-btn">
 				<span class="icon">📊</span>
 				Смотреть в виде диаграммы
 				<div class="desc">Интерактивные графики с навигацией и визуализацией</div>
@@ -299,7 +299,7 @@
 
 	<script>
 		// Загружаем статистику
-		fetch('./chunks/index.json')
+		fetch('/cartoon-word-stats/chunks/index.json')
 			.then(response => response.json())
 			.then(data => {
 				document.getElementById('totalLemmas').textContent = data.totalWords.toLocaleString();
@@ -308,7 +308,7 @@
 			});
 
 		// Загружаем список мультфильмов
-		fetch('./movies-list.json')
+		fetch('/cartoon-word-stats/movies-list.json')
 			.then(response => response.json())
 			.then(data => {
 				const count = data.totalMovies;

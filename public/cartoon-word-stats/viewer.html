@@ -168,7 +168,7 @@
 		let loadedChunks = new Set();
 
 	// Загружаем индекс
-	fetch('./chunks/index.json')
+	fetch('/cartoon-word-stats/chunks/index.json')
 		.then(response => response.json())
 		.then(index => {
 			indexData = index;
@@ -188,7 +188,7 @@
 		if (loadedChunks.has(chunkNum)) return;
 
 		try {
-			const response = await fetch(`./chunks/chunk-${chunkNum}.json`);
+			const response = await fetch(`/cartoon-word-stats/chunks/chunk-${chunkNum}.json`);
 			const chunkData = await response.json();
 			Object.assign(wordsData, chunkData);
 			loadedChunks.add(chunkNum);
