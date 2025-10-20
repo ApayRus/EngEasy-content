@@ -191,12 +191,33 @@
 		}
 
 		@media (max-width: 768px) {
+			body {
+				padding: 5px;
+			}
+
 			.container {
-				padding: 30px 20px;
+				padding: 20px 15px;
+				border-radius: 15px;
 			}
 
 			h1 {
 				font-size: 2em;
+				margin: 0 0 15px 0;
+			}
+
+			h2 {
+				font-size: 1.5rem;
+				line-height: 1;
+				margin: 0;
+				margin-top: 30px;
+				margin-bottom: 15px;
+			}
+
+			h3 {
+				font-size: 1.25rem;
+				line-height: 1;
+				margin: 0;
+				margin-bottom: 10px;
 			}
 
 			.intro {
@@ -205,6 +226,15 @@
 
 			.stat-value {
 				font-size: 2.5em;
+			}
+
+			.work-section {
+				padding: 15px;
+				margin: 15px 0;
+			}
+
+			.action-buttons {
+				margin: 20px 0;
 			}
 
 			.movies-list {
@@ -230,7 +260,7 @@
 			Были скачаны все субтитры к ним и проведена комплексная обработка для получения качественных данных.
 		</div>
 
-		<h2>📊 Итоговая статистика</h2>
+		<h2>📊 Статистика</h2>
 
 		<div class="stats-grid" id="statsGrid">
 			<div class="stat-card">
@@ -249,6 +279,22 @@
 				<div class="stat-value" id="totalForms">-</div>
 				<div class="stat-label">Различных форм</div>
 			</div>
+		</div>
+
+		<h2>🚀 Просмотр данных</h2>
+
+		<div class="action-buttons">
+			<a href="/cartoon-word-stats/viewer.html" class="action-btn">
+				<span class="icon">📋</span>
+				Смотреть в виде списка
+				<div class="desc">Таблица с поиском и детальной информацией о каждом слове</div>
+			</a>
+
+			<a href="/cartoon-word-stats/charts.html" class="action-btn">
+				<span class="icon">📊</span>
+				Смотреть в виде диаграммы
+				<div class="desc">Интерактивные графики с навигацией и визуализацией</div>
+			</a>
 		</div>
 
 		<h2>🔧 Проделанная работа</h2>
@@ -272,22 +318,6 @@
 				<li><strong>Наречия:</strong> quickly→quick, really→real, actually→actual</li>
 				<li><strong>Библиотека:</strong> wink-lemmatizer + custom logic</li>
 			</ul>
-		</div>
-
-		<h2>🚀 Просмотр данных</h2>
-
-		<div class="action-buttons">
-			<a href="/cartoon-word-stats/viewer.html" class="action-btn">
-				<span class="icon">📋</span>
-				Смотреть в виде списка
-				<div class="desc">Таблица с поиском и детальной информацией о каждом слове</div>
-			</a>
-
-			<a href="/cartoon-word-stats/charts.html" class="action-btn">
-				<span class="icon">📊</span>
-				Смотреть в виде диаграммы
-				<div class="desc">Интерактивные графики с навигацией и визуализацией</div>
-			</a>
 		</div>
 
 		<h2>🎬 Список мультфильмов (<span id="movieCount">104</span>)</h2>

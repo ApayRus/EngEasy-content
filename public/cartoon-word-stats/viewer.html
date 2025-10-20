@@ -146,6 +146,31 @@
 			color: #999;
 			font-size: 1.2em;
 		}
+
+		/* Адаптивный дизайн для мобильных */
+		@media (max-width: 768px) {
+			body {
+				padding: 5px;
+			}
+
+			.container {
+				padding: 15px;
+				border-radius: 15px;
+			}
+
+			h1 {
+				font-size: 2em;
+				margin-bottom: 20px;
+			}
+
+			.word-lemma {
+				font-size: 1.2em;
+			}
+
+			.word-item {
+				padding: 15px;
+			}
+		}
 	</style>
 </head>
 
@@ -167,14 +192,14 @@
 		let indexData = null;
 		let loadedChunks = new Set();
 
-	// Загружаем индекс
-	fetch('/cartoon-word-stats/chunks/index.json')
-		.then(response => response.json())
-		.then(index => {
-			indexData = index;
-			// Загружаем первый чанк
-			return loadChunk(0);
-		})
+		// Загружаем индекс
+		fetch('/cartoon-word-stats/chunks/index.json')
+			.then(response => response.json())
+			.then(index => {
+				indexData = index;
+				// Загружаем первый чанк
+				return loadChunk(0);
+			})
 			.then(() => {
 				renderWords();
 			})
@@ -184,104 +209,104 @@
 					'<div class="no-results">Ошибка загрузки данных</div>';
 			});
 
-	async function loadChunk(chunkNum) {
-		if (loadedChunks.has(chunkNum)) return;
+		async function loadChunk(chunkNum) {
+			if (loadedChunks.has(chunkNum)) return;
 
-		try {
-			const response = await fetch(`/cartoon-word-stats/chunks/chunk-${chunkNum}.json`);
-			const chunkData = await response.json();
-			Object.assign(wordsData, chunkData);
-			loadedChunks.add(chunkNum);
-		} catch (error) {
-			console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
+			try {
+				const response = await fetch(`/cartoon-word-stats/chunks/chunk-${chunkNum}.json`);
+				const chunkData = await response.json();
+				Object.assign(wordsData, chunkData);
+				loadedChunks.add(chunkNum);
+			} catch (error) {
+				console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
+			}
 		}
-	}
 
 		let currentLimit = 100;
 
-	async function renderWords(filter = '', limit = currentLimit) {
-		const wordList = document.getElementById('wordList');
+		async function renderWords(filter = '', limit = currentLimit) {
+			const wordList = document.getElementById('wordList');
 
-		if (!indexData) return;
+			if (!indexData) return;
 
-		let wordsToShow;
-		let needLoadAll = false;
+			let wordsToShow;
+			let needLoadAll = false;
 
-		if (filter) {
-			const lowerFilter = filter.toLowerCase();
-			
-			// Сначала ищем леммы, которые начинаются с введённого текста
-			const matchingLemmas = indexData.words.filter(word =>
-				word.toLowerCase().startsWith(lowerFilter)
-			);
-
-			// Если нашли леммы - используем их
-			if (matchingLemmas.length > 0) {
-				wordsToShow = matchingLemmas;
-			} else {
-				// Если не нашли - нужно загрузить все чанки и искать по формам
-				needLoadAll = true;
-				wordsToShow = indexData.words;
-			}
-		} else {
-			// Берем первые N слов
-			wordsToShow = indexData.words.slice(0, limit);
-		}
-
-		// Определяем какие чанки нужно загрузить
-		const chunksNeeded = new Set();
-		
-		if (needLoadAll || filter) {
-			// При поиске загружаем все чанки
-			const totalChunks = indexData.chunksCount;
-			for (let i = 0; i < totalChunks; i++) {
-				chunksNeeded.add(i);
-			}
-		} else {
-			// Без поиска - только нужные чанки
-			wordsToShow.forEach(word => {
-				const idx = indexData.words.indexOf(word);
-				const chunkNum = Math.floor(idx / indexData.chunkSize);
-				chunksNeeded.add(chunkNum);
-			});
-		}
-
-		// Загружаем недостающие чанки
-		const loadPromises = [];
-		for (const chunkNum of chunksNeeded) {
-			if (!loadedChunks.has(chunkNum)) {
-				loadPromises.push(loadChunk(chunkNum));
-			}
-		}
-
-		if (loadPromises.length > 0) {
-			await Promise.all(loadPromises);
-		}
-
-		// Фильтруем: ищем по леммам И по всем формам
-		const filtered = indexData.words
-			.filter(word => {
-				const data = wordsData[word];
-				if (!data) return false;
-				if (!filter) return indexData.words.indexOf(word) < limit;
-				
+			if (filter) {
 				const lowerFilter = filter.toLowerCase();
-				// Проверяем лемму
-				if (word.toLowerCase().startsWith(lowerFilter)) return true;
-				// Проверяем все формы
-				return Object.keys(data.forms).some(form => 
-					form.toLowerCase().startsWith(lowerFilter)
+
+				// Сначала ищем леммы, которые начинаются с введённого текста
+				const matchingLemmas = indexData.words.filter(word =>
+					word.toLowerCase().startsWith(lowerFilter)
 				);
-			});
 
-		if (filtered.length === 0) {
-			wordList.innerHTML = '<div class="no-results">Ничего не найдено</div>';
-			const listInfo = document.getElementById('listInfo');
-			listInfo.textContent = 'Ничего не найдено';
-			return;
-		}
+				// Если нашли леммы - используем их
+				if (matchingLemmas.length > 0) {
+					wordsToShow = matchingLemmas;
+				} else {
+					// Если не нашли - нужно загрузить все чанки и искать по формам
+					needLoadAll = true;
+					wordsToShow = indexData.words;
+				}
+			} else {
+				// Берем первые N слов
+				wordsToShow = indexData.words.slice(0, limit);
+			}
 
-		const html = filtered.map(word => {
+			// Определяем какие чанки нужно загрузить
+			const chunksNeeded = new Set();
+
+			if (needLoadAll || filter) {
+				// При поиске загружаем все чанки
+				const totalChunks = indexData.chunksCount;
+				for (let i = 0; i < totalChunks; i++) {
+					chunksNeeded.add(i);
+				}
+			} else {
+				// Без поиска - только нужные чанки
+				wordsToShow.forEach(word => {
+					const idx = indexData.words.indexOf(word);
+					const chunkNum = Math.floor(idx / indexData.chunkSize);
+					chunksNeeded.add(chunkNum);
+				});
+			}
+
+			// Загружаем недостающие чанки
+			const loadPromises = [];
+			for (const chunkNum of chunksNeeded) {
+				if (!loadedChunks.has(chunkNum)) {
+					loadPromises.push(loadChunk(chunkNum));
+				}
+			}
+
+			if (loadPromises.length > 0) {
+				await Promise.all(loadPromises);
+			}
+
+			// Фильтруем: ищем по леммам И по всем формам
+			const filtered = indexData.words
+				.filter(word => {
+					const data = wordsData[word];
+					if (!data) return false;
+					if (!filter) return indexData.words.indexOf(word) < limit;
+
+					const lowerFilter = filter.toLowerCase();
+					// Проверяем лемму
+					if (word.toLowerCase().startsWith(lowerFilter)) return true;
+					// Проверяем все формы
+					return Object.keys(data.forms).some(form =>
+						form.toLowerCase().startsWith(lowerFilter)
+					);
+				});
+
+			if (filtered.length === 0) {
+				wordList.innerHTML = '<div class="no-results">Ничего не найдено</div>';
+				const listInfo = document.getElementById('listInfo');
+				listInfo.textContent = 'Ничего не найдено';
+				return;
+			}
+
+			const html = filtered.map(word => {
 				const data = wordsData[word];
 				const lemma = word;
 				const formsCount = Object.keys(data.forms).length;

@@ -291,19 +291,28 @@
 		/* Адаптивный дизайн для мобильных */
 		@media (max-width: 768px) {
 			body {
-				padding: 10px;
+				padding: 5px;
 			}
 
 			.container {
-				padding: 20px;
-				border-radius: 15px;
+				padding: 10px 5px;
+				border-radius: 10px;
 			}
 
 			h1 {
 				font-size: 1.8em;
 			}
 
-			.controls {
+	.subtitle-text {
+		font-size: 0.75em !important;
+		margin-bottom: 15px !important;
+	}
+
+	.arrows-hint {
+		display: none;
+	}
+
+	.controls {
 				flex-direction: column;
 				align-items: stretch;
 			}
@@ -319,12 +328,23 @@
 				font-size: 0.9em;
 			}
 
+			.btn-100 {
+				display: none;
+			}
+
 			.search-box {
 				width: 100%;
 			}
 
 			.chart-container {
 				height: 500px;
+				margin: 0;
+				padding: 0;
+			}
+
+			.chart-wrapper {
+				margin: 0;
+				padding: 0;
 			}
 
 			.nav-section {
@@ -382,14 +402,14 @@
 <body>
 	<div class="container">
 		<h1>📊 Визуализация частоты слов</h1>
-		<p style="color: #666; margin-bottom: 20px;">Кликните на столбец для подробной информации • Используйте стрелки
-			для навигации</p>
+		<p class="subtitle-text" style="color: #666; margin-bottom: 20px;">Кликните на столбец для подробной информации<span class="arrows-hint"> • Используйте стрелки
+			для навигации</span></p>
 
 		<div class="controls">
 			<div class="btn-group">
 				<button class="btn" onclick="setWordsPerPage(20)">20 слов</button>
 				<button class="btn active" onclick="setWordsPerPage(50)">50 слов</button>
-				<button class="btn" onclick="setWordsPerPage(100)">100 слов</button>
+				<button class="btn btn-100" onclick="setWordsPerPage(100)">100 слов</button>
 			</div>
 
 			<div class="search-box">
@@ -434,8 +454,8 @@
 			wordsPerPage = 20;
 		}
 
-	// Загружаем индекс
-	fetch('/cartoon-word-stats/chunks/index.json')
+		// Загружаем индекс
+		fetch('/cartoon-word-stats/chunks/index.json')
 			.then(response => response.json())
 			.then(index => {
 				indexData = index;
@@ -502,20 +522,20 @@
 			renderChart();
 		}
 
-	async function loadChunk(chunkNum) {
-		try {
-			const response = await fetch(`/cartoon-word-stats/chunks/chunk-${chunkNum}.json`);
-			const chunkData = await response.json();
+		async function loadChunk(chunkNum) {
+			try {
+				const response = await fetch(`/cartoon-word-stats/chunks/chunk-${chunkNum}.json`);
+				const chunkData = await response.json();
 
-			// Добавляем данные чанка в общий объект
-			Object.assign(wordsData, chunkData);
-			loadedChunks.add(chunkNum);
+				// Добавляем данные чанка в общий объект
+				Object.assign(wordsData, chunkData);
+				loadedChunks.add(chunkNum);
 
-			console.log(`Загружен чанк ${chunkNum}`);
-		} catch (error) {
-			console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
+				console.log(`Загружен чанк ${chunkNum}`);
+			} catch (error) {
+				console.error(`Ошибка загрузки чанка ${chunkNum}:`, error);
+			}
 		}
-	}
 
 		function renderChart() {
 			if (isSearchMode) return;
@@ -616,7 +636,7 @@
 						y: {
 							beginAtZero: true,
 							title: {
-								display: true,
+								display: !isMobile,
 								text: 'Количество упоминаний',
 								font: {
 									size: 16,
@@ -627,6 +647,13 @@
 							ticks: {
 								font: {
 									size: 12
+								},
+								callback: function (value) {
+									// Форматируем большие числа: 2500 -> 2.5k, 1000 -> 1k
+									if (value >= 1000) {
+										return (value / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+									}
+									return value;
 								}
 							},
 							grid: {
@@ -635,7 +662,7 @@
 						},
 						x: {
 							title: {
-								display: true,
+								display: !isMobile,
 								text: 'Слова (используйте стрелки для навигации)',
 								font: {
 									size: 14,
@@ -645,7 +672,16 @@
 							},
 							ticks: {
 								font: {
-									size: isMobile ? 8 : 10,
+									size: (() => {
+										// Размер шрифта зависит от количества слов
+										if (wordsPerPage === 20) {
+											return isMobile ? 11 : 14;
+										} else if (wordsPerPage === 50) {
+											return isMobile ? 8 : 10;
+										} else {
+											return isMobile ? 7 : 8;
+										}
+									})(),
 									weight: '500'
 								},
 								color: '#333',
