@@ -88,7 +88,7 @@
 
 	<script>
 		// Загружаем статистику
-		fetch('./chunks/index.json')
+		fetch('/cartoon-word-stats/chunks/index.json')
 			.then(response => response.json())
 			.then(data => {
 				document.getElementById('totalLemmas').textContent = data.totalWords.toLocaleString();
@@ -97,7 +97,7 @@
 			});
 
 		// Загружаем список мультфильмов
-		fetch('./movies-list.json')
+		fetch('/cartoon-word-stats/movies-list.json')
 			.then(response => response.json())
 			.then(data => {
 				const count = data.totalMovies;
