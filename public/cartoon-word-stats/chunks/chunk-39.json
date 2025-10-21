@@ -1,102 +1,4 @@
 {
-  "del": {
-    "total": 9,
-    "forms": {
-      "del": 9
-    }
-  },
-  "multiply": {
-    "total": 9,
-    "forms": {
-      "multiplied": 3,
-      "multiply": 3,
-      "multiplying": 3
-    }
-  },
-  "morro": {
-    "total": 9,
-    "forms": {
-      "morro": 9
-    }
-  },
-  "squirt": {
-    "total": 9,
-    "forms": {
-      "squirt": 8,
-      "squirting": 1
-    }
-  },
-  "female": {
-    "total": 9,
-    "forms": {
-      "female": 9
-    }
-  },
-  "tang": {
-    "total": 9,
-    "forms": {
-      "tang": 7,
-      "tangs": 2
-    }
-  },
-  "consume": {
-    "total": 9,
-    "forms": {
-      "consumed": 4,
-      "consumes": 2,
-      "consume": 2,
-      "consuming": 1
-    }
-  },
-  "recess": {
-    "total": 9,
-    "forms": {
-      "recess": 9
-    }
-  },
-  "unforgettable": {
-    "total": 9,
-    "forms": {
-      "unforgettable": 9
-    }
-  },
-  "darla": {
-    "total": 9,
-    "forms": {
-      "darla": 8,
-      "darla's": 1
-    },
-    "expansions": {
-      "darla's": "darla's (possessive)"
-    }
-  },
-  "gee": {
-    "total": 9,
-    "forms": {
-      "gee": 9
-    }
-  },
-  "raar": {
-    "total": 9,
-    "forms": {
-      "raar": 9
-    }
-  },
-  "impression": {
-    "total": 9,
-    "forms": {
-      "impression": 6,
-      "impressions": 3
-    }
-  },
-  "trench": {
-    "total": 9,
-    "forms": {
-      "trench": 6,
-      "trenches": 2,
-      "trenching": 1
-    }
-  },
   "bounce": {
     "total": 9,
     "forms": {
@@ -352,91 +254,8 @@
     "total": 9,
     "forms": {
       "soil": 7,
-      "soiling": 1,
-      "soiled": 1
-    }
-  },
-  "dicker": {
-    "total": 9,
-    "forms": {
-      "dicker": 8,
-      "dicker's": 1
-    },
-    "expansions": {
-      "dicker's": "dicker's (possessive)"
-    }
-  },
-  "sector": {
-    "total": 9,
-    "forms": {
-      "sector": 9
-    }
-  },
-  "winston": {
-    "total": 9,
-    "forms": {
-      "winston": 9
-    }
-  },
-  "injure": {
-    "total": 9,
-    "forms": {
-      "injured": 8,
-      "injuring": 1
-    }
-  },
-  "monitor": {
-    "total": 9,
-    "forms": {
-      "monitor": 5,
-      "monitors": 4
-    }
-  },
-  "origin": {
-    "total": 9,
-    "forms": {
-      "origin": 8,
-      "origins": 1
-    }
-  },
-  "clip": {
-    "total": 9,
-    "forms": {
-      "clip": 9
-    }
-  },
-  "incredibile": {
-    "total": 9,
-    "forms": {
-      "incredibile": 9
-    }
-  },
-  "hack": {
-    "total": 9,
-    "forms": {
-      "hacked": 4,
-      "hack": 3,
-      "hacking": 2
-    }
-  },
-  "elevator": {
-    "total": 9,
-    "forms": {
-      "elevator": 9
-    }
-  },
-  "tender": {
-    "total": 9,
-    "forms": {
-      "tender": 8,
-      "tenders": 1
-    }
-  },
-  "pun": {
-    "total": 9,
-    "forms": {
-      "pun": 5,
-      "puns": 4
+      "soiled": 1,
+      "soiling": 1
     }
   },
   "console": {
@@ -454,6 +273,12 @@
     "forms": {
       "palm": 6,
       "palms": 3
+    }
+  },
+  "clip": {
+    "total": 9,
+    "forms": {
+      "clip": 9
     }
   },
   "fanny": {
@@ -620,6 +445,13 @@
       "messengers": 4
     }
   },
+  "tender": {
+    "total": 9,
+    "forms": {
+      "tender": 8,
+      "tenders": 1
+    }
+  },
   "average": {
     "total": 9,
     "forms": {
@@ -644,12 +476,6 @@
       "su": 9
     }
   },
-  "polka": {
-    "total": 9,
-    "forms": {
-      "polka": 9
-    }
-  },
   "chunky": {
     "total": 9,
     "forms": {
@@ -660,6 +486,19 @@
     "total": 9,
     "forms": {
       "george": 9
+    }
+  },
+  "polka": {
+    "total": 9,
+    "forms": {
+      "polka": 9
+    }
+  },
+  "monitor": {
+    "total": 9,
+    "forms": {
+      "monitor": 5,
+      "monitors": 4
     }
   },
   "metrocity": {
@@ -682,6 +521,157 @@
     "total": 9,
     "forms": {
       "bouncy": 9
+    }
+  },
+  "stopa": {
+    "total": 9,
+    "forms": {
+      "stopa": 9
+    }
+  },
+  "critic": {
+    "total": 9,
+    "forms": {
+      "critic": 7,
+      "critics": 1,
+      "critic's": 1
+    },
+    "expansions": {
+      "critic's": "critic's (possessive)"
+    }
+  },
+  "pinch": {
+    "total": 9,
+    "forms": {
+      "pinch": 8,
+      "pinching": 1
+    }
+  },
+  "origin": {
+    "total": 9,
+    "forms": {
+      "origin": 8,
+      "origins": 1
+    }
+  },
+  "pork": {
+    "total": 9,
+    "forms": {
+      "pork": 9
+    }
+  },
+  "japan": {
+    "total": 9,
+    "forms": {
+      "japan": 9
+    }
+  },
+  "injure": {
+    "total": 9,
+    "forms": {
+      "injured": 8,
+      "injuring": 1
+    }
+  },
+  "imperial": {
+    "total": 9,
+    "forms": {
+      "imperial": 9
+    }
+  },
+  "university": {
+    "total": 9,
+    "forms": {
+      "university": 9
+    }
+  },
+  "charity": {
+    "total": 9,
+    "forms": {
+      "charity": 8,
+      "charities": 1
+    }
+  },
+  "ling": {
+    "total": 9,
+    "forms": {
+      "ling": 9
+    }
+  },
+  "shang": {
+    "total": 9,
+    "forms": {
+      "shang": 9
+    }
+  },
+  "elixir": {
+    "total": 9,
+    "forms": {
+      "elixir": 9
+    }
+  },
+  "formation": {
+    "total": 9,
+    "forms": {
+      "formation": 9
+    }
+  },
+  "hack": {
+    "total": 9,
+    "forms": {
+      "hacked": 4,
+      "hack": 3,
+      "hacking": 2
+    }
+  },
+  "district": {
+    "total": 9,
+    "forms": {
+      "district": 9
+    }
+  },
+  "outlaw": {
+    "total": 9,
+    "forms": {
+      "outlaw": 7,
+      "outlaws": 2
+    }
+  },
+  "gaga": {
+    "total": 9,
+    "forms": {
+      "gaga": 9
+    }
+  },
+  "trim": {
+    "total": 9,
+    "forms": {
+      "trim": 7,
+      "trimming": 2
+    }
+  },
+  "therapy": {
+    "total": 9,
+    "forms": {
+      "therapy": 9
+    }
+  },
+  "perro": {
+    "total": 9,
+    "forms": {
+      "perro": 9
+    }
+  },
+  "pew": {
+    "total": 9,
+    "forms": {
+      "pew": 9
+    }
+  },
+  "taffyta": {
+    "total": 9,
+    "forms": {
+      "taffyta": 9
     }
   }
 }

@@ -1,96 +1,4 @@
 {
-  "hitch": {
-    "total": 4,
-    "forms": {
-      "hitched": 3,
-      "hitch": 1
-    }
-  },
-  "doot": {
-    "total": 4,
-    "forms": {
-      "doot": 4
-    }
-  },
-  "waah": {
-    "total": 4,
-    "forms": {
-      "waah": 4
-    }
-  },
-  "shirley": {
-    "total": 4,
-    "forms": {
-      "shirley": 4
-    }
-  },
-  "hwa": {
-    "total": 4,
-    "forms": {
-      "hwa": 4
-    }
-  },
-  "summit": {
-    "total": 4,
-    "forms": {
-      "summit": 4
-    }
-  },
-  "individual": {
-    "total": 4,
-    "forms": {
-      "individual": 4
-    }
-  },
-  "counter": {
-    "total": 4,
-    "forms": {
-      "counter": 4
-    }
-  },
-  "disqualify": {
-    "total": 4,
-    "forms": {
-      "disqualified": 2,
-      "disqualify": 2
-    }
-  },
-  "reader": {
-    "total": 4,
-    "forms": {
-      "reader": 2,
-      "reader's": 1,
-      "readers": 1
-    },
-    "expansions": {
-      "reader's": "reader's (possessive)"
-    }
-  },
-  "parry": {
-    "total": 4,
-    "forms": {
-      "parry": 4
-    }
-  },
-  "germ": {
-    "total": 4,
-    "forms": {
-      "germs": 3,
-      "germ": 1
-    }
-  },
-  "maintenance": {
-    "total": 4,
-    "forms": {
-      "maintenance": 4
-    }
-  },
-  "agnarr": {
-    "total": 4,
-    "forms": {
-      "agnarr": 4
-    }
-  },
   "doesn": {
     "total": 4,
     "forms": {
@@ -642,6 +550,98 @@
     "forms": {
       "exam": 3,
       "exams": 1
+    }
+  },
+  "parrot": {
+    "total": 4,
+    "forms": {
+      "parrots": 3,
+      "parrot": 1
+    }
+  },
+  "colorful": {
+    "total": 4,
+    "forms": {
+      "colorful": 4
+    }
+  },
+  "slobber": {
+    "total": 4,
+    "forms": {
+      "slobbering": 2,
+      "slobber": 2
+    }
+  },
+  "hiccy": {
+    "total": 4,
+    "forms": {
+      "hiccy": 4
+    }
+  },
+  "grump": {
+    "total": 4,
+    "forms": {
+      "grump": 4
+    }
+  },
+  "bliss": {
+    "total": 4,
+    "forms": {
+      "bliss": 4
+    }
+  },
+  "rocker": {
+    "total": 4,
+    "forms": {
+      "rockers": 3,
+      "rocker": 1
+    }
+  },
+  "apron": {
+    "total": 4,
+    "forms": {
+      "apron": 4
+    }
+  },
+  "drug": {
+    "total": 4,
+    "forms": {
+      "drugs": 2,
+      "drugged": 1,
+      "drug": 1
+    }
+  },
+  "knucklehead": {
+    "total": 4,
+    "forms": {
+      "knucklehead": 2,
+      "knuckleheads": 2
+    }
+  },
+  "faithful": {
+    "total": 4,
+    "forms": {
+      "faithful": 4
+    }
+  },
+  "stable": {
+    "total": 4,
+    "forms": {
+      "stables": 2,
+      "stable": 2
+    }
+  },
+  "itch": {
+    "total": 4,
+    "forms": {
+      "itching": 3,
+      "itch": 1
+    }
+  },
+  "cradle": {
+    "total": 4,
+    "forms": {
+      "cradle": 4
     }
   }
 }

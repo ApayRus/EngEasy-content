@@ -1,12 +1,35 @@
 {
+  "i": {
+    "total": 42014,
+    "forms": {
+      "i": 20745,
+      "me": 7025,
+      "my": 5985,
+      "i'm": 5451,
+      "i'll": 1300,
+      "i've": 914,
+      "i'd": 327,
+      "mine": 260,
+      "mine's": 7
+    },
+    "expansions": {
+      "i'm": "I am",
+      "i'll": "I will",
+      "i'd": "I would / I had",
+      "i've": "I have",
+      "mine's": "mine's (possessive)"
+    }
+  },
   "you": {
-    "total": 30434,
+    "total": 35937,
     "forms": {
       "you": 26078,
+      "your": 5390,
       "you're": 3209,
       "you've": 514,
       "you'll": 468,
       "you'd": 164,
+      "yours": 113,
       "you's": 1
     },
     "expansions": {
@@ -15,22 +38,6 @@
       "you've": "you have",
       "you'd": "you would / you had",
       "you's": "you's (possessive)"
-    }
-  },
-  "i": {
-    "total": 28737,
-    "forms": {
-      "i": 20745,
-      "i'm": 5451,
-      "i'll": 1300,
-      "i've": 914,
-      "i'd": 327
-    },
-    "expansions": {
-      "i'm": "I am",
-      "i'll": "I will",
-      "i'd": "I would / I had",
-      "i've": "I have"
     }
   },
   "be": {
@@ -70,10 +77,11 @@
     }
   },
   "it": {
-    "total": 14580,
+    "total": 14723,
     "forms": {
       "it": 9756,
-      "it's": 4824
+      "it's": 4824,
+      "its": 143
     },
     "expansions": {
       "it's": "it is / it has"
@@ -105,6 +113,27 @@
       "do's": "do's (possessive)"
     }
   },
+  "we": {
+    "total": 12361,
+    "forms": {
+      "we": 6439,
+      "us": 1765,
+      "we're": 1694,
+      "our": 1494,
+      "we'll": 556,
+      "we've": 328,
+      "we'd": 51,
+      "ours": 33,
+      "we's": 1
+    },
+    "expansions": {
+      "we're": "we are",
+      "we'll": "we will",
+      "we'd": "we would / we had",
+      "we've": "we have",
+      "we's": "we's (possessive)"
+    }
+  },
   "and": {
     "total": 10177,
     "forms": {
@@ -119,24 +148,6 @@
     },
     "expansions": {
       "that's": "that is / that has"
-    }
-  },
-  "we": {
-    "total": 9069,
-    "forms": {
-      "we": 6439,
-      "we're": 1694,
-      "we'll": 556,
-      "we've": 328,
-      "we'd": 51,
-      "we's": 1
-    },
-    "expansions": {
-      "we're": "we are",
-      "we'll": "we will",
-      "we'd": "we would / we had",
-      "we've": "we have",
-      "we's": "we's (possessive)"
     }
   },
   "what": {
@@ -189,10 +200,20 @@
       "gotta": "got to / have to"
     }
   },
-  "me": {
-    "total": 7025,
+  "he": {
+    "total": 6857,
     "forms": {
-      "me": 7025
+      "he": 2571,
+      "him": 1860,
+      "he's": 1268,
+      "his": 1027,
+      "he'll": 104,
+      "he'd": 27
+    },
+    "expansions": {
+      "he's": "he is / he has",
+      "he'd": "he would / he had",
+      "he'll": "he will"
     }
   },
   "this": {
@@ -236,22 +257,10 @@
       "hadn't": "had not"
     }
   },
-  "my": {
-    "total": 5985,
-    "forms": {
-      "my": 5985
-    }
-  },
   "in": {
     "total": 5855,
     "forms": {
       "in": 5855
-    }
-  },
-  "your": {
-    "total": 5390,
-    "forms": {
-      "your": 5390
     }
   },
   "on": {
@@ -282,6 +291,27 @@
       "all's": "all's (possessive)"
     }
   },
+  "they": {
+    "total": 4475,
+    "forms": {
+      "they": 1817,
+      "them": 1379,
+      "they're": 638,
+      "their": 465,
+      "they'll": 107,
+      "they've": 43,
+      "they'd": 21,
+      "theirs": 4,
+      "them's": 1
+    },
+    "expansions": {
+      "they're": "they are",
+      "they'd": "they would / they had",
+      "they've": "they have",
+      "they'll": "they will",
+      "them's": "them's (possessive)"
+    }
+  },
   "for": {
     "total": 4457,
     "forms": {
@@ -306,20 +336,6 @@
     "total": 4091,
     "forms": {
       "just": 4091
-    }
-  },
-  "he": {
-    "total": 3970,
-    "forms": {
-      "he": 2571,
-      "he's": 1268,
-      "he'll": 104,
-      "he'd": 27
-    },
-    "expansions": {
-      "he's": "he is / he has",
-      "he'd": "he would / he had",
-      "he'll": "he will"
     }
   },
   "but": {
@@ -388,6 +404,22 @@
       "right": 3213,
       "rights": 14,
       "righted": 1
+    }
+  },
+  "she": {
+    "total": 3189,
+    "forms": {
+      "her": 1420,
+      "she": 1141,
+      "she's": 535,
+      "she'll": 68,
+      "she'd": 22,
+      "hers": 3
+    },
+    "expansions": {
+      "she's": "she is / she has",
+      "she'll": "she will",
+      "she'd": "she would / she had"
     }
   },
   "good": {
@@ -470,22 +502,6 @@
       "saw": 214,
       "seeing": 42,
       "sees": 38
-    }
-  },
-  "they": {
-    "total": 2626,
-    "forms": {
-      "they": 1817,
-      "they're": 638,
-      "they'll": 107,
-      "they've": 43,
-      "they'd": 21
-    },
-    "expansions": {
-      "they're": "they are",
-      "they'd": "they would / they had",
-      "they've": "they have",
-      "they'll": "they will"
     }
   },
   "look": {
@@ -610,12 +626,6 @@
       "wells": 1
     }
   },
-  "him": {
-    "total": 1860,
-    "forms": {
-      "him": 1860
-    }
-  },
   "time": {
     "total": 1843,
     "forms": {
@@ -653,26 +663,6 @@
     },
     "expansions": {
       "who's": "who is / who has"
-    }
-  },
-  "she": {
-    "total": 1766,
-    "forms": {
-      "she": 1141,
-      "she's": 535,
-      "she'll": 68,
-      "she'd": 22
-    },
-    "expansions": {
-      "she's": "she is / she has",
-      "she'll": "she will",
-      "she'd": "she would / she had"
-    }
-  },
-  "us": {
-    "total": 1765,
-    "forms": {
-      "us": 1765
     }
   },
   "real": {
@@ -728,12 +718,6 @@
       "needing": 4
     }
   },
-  "our": {
-    "total": 1494,
-    "forms": {
-      "our": 1494
-    }
-  },
   "little": {
     "total": 1462,
     "forms": {
@@ -756,12 +740,6 @@
     },
     "expansions": {
       "way's": "way's (possessive)"
-    }
-  },
-  "her": {
-    "total": 1420,
-    "forms": {
-      "her": 1420
     }
   },
   "uh": {
@@ -802,16 +780,6 @@
     },
     "expansions": {
       "why's": "why's (possessive)"
-    }
-  },
-  "them": {
-    "total": 1380,
-    "forms": {
-      "them": 1379,
-      "them's": 1
-    },
-    "expansions": {
-      "them's": "them's (possessive)"
     }
   },
   "tell": {
@@ -954,6 +922,69 @@
     },
     "expansions": {
       "gimme": "give me"
+    }
+  },
+  "sorry": {
+    "total": 1043,
+    "forms": {
+      "sorry": 1043
+    }
+  },
+  "then": {
+    "total": 1037,
+    "forms": {
+      "then": 1037
+    }
+  },
+  "more": {
+    "total": 1030,
+    "forms": {
+      "more": 1030
+    }
+  },
+  "something": {
+    "total": 1029,
+    "forms": {
+      "something": 979,
+      "something's": 50
+    },
+    "expansions": {
+      "something's": "something's (possessive)"
+    }
+  },
+  "great": {
+    "total": 1012,
+    "forms": {
+      "great": 908,
+      "greatest": 84,
+      "greater": 18,
+      "greats": 2
+    }
+  },
+  "dad": {
+    "total": 1002,
+    "forms": {
+      "dad": 945,
+      "dad's": 47,
+      "dads": 10
+    },
+    "expansions": {
+      "dad's": "dad's (possessive)"
+    }
+  },
+  "please": {
+    "total": 977,
+    "forms": {
+      "please": 961,
+      "pleased": 13,
+      "pleasing": 2,
+      "pleases": 1
+    }
+  },
+  "by": {
+    "total": 972,
+    "forms": {
+      "by": 972
     }
   }
 }

@@ -1,111 +1,4 @@
 {
-  "medal": {
-    "total": 57,
-    "forms": {
-      "medal": 51,
-      "medals": 6
-    }
-  },
-  "charm": {
-    "total": 57,
-    "forms": {
-      "charming": 32,
-      "charm": 20,
-      "charmed": 3,
-      "charming's": 1,
-      "charms": 1
-    },
-    "expansions": {
-      "charming's": "charming's (possessive)"
-    }
-  },
-  "near": {
-    "total": 57,
-    "forms": {
-      "near": 51,
-      "nearest": 5,
-      "nears": 1
-    }
-  },
-  "north": {
-    "total": 57,
-    "forms": {
-      "north": 57
-    }
-  },
-  "bergen": {
-    "total": 57,
-    "forms": {
-      "bergen": 37,
-      "bergens": 18,
-      "bergen's": 2
-    },
-    "expansions": {
-      "bergen's": "bergen's (possessive)"
-    }
-  },
-  "self": {
-    "total": 56,
-    "forms": {
-      "self": 55,
-      "selves": 1
-    }
-  },
-  "action": {
-    "total": 56,
-    "forms": {
-      "action": 42,
-      "actions": 14
-    }
-  },
-  "se": {
-    "total": 56,
-    "forms": {
-      "se": 56
-    }
-  },
-  "genius": {
-    "total": 56,
-    "forms": {
-      "genius": 52,
-      "geniuses": 4
-    }
-  },
-  "pretend": {
-    "total": 56,
-    "forms": {
-      "pretend": 37,
-      "pretending": 15,
-      "pretended": 3,
-      "pretends": 1
-    }
-  },
-  "realize": {
-    "total": 56,
-    "forms": {
-      "realize": 40,
-      "realized": 16
-    }
-  },
-  "plane": {
-    "total": 56,
-    "forms": {
-      "plane": 54,
-      "planes": 1,
-      "plane's": 1
-    },
-    "expansions": {
-      "plane's": "plane's (possessive)"
-    }
-  },
-  "note": {
-    "total": 56,
-    "forms": {
-      "note": 27,
-      "notes": 24,
-      "noted": 5
-    }
-  },
   "string": {
     "total": 56,
     "forms": {
@@ -844,6 +737,106 @@
     "total": 49,
     "forms": {
       "instead": 49
+    }
+  },
+  "finger": {
+    "total": 49,
+    "forms": {
+      "fingers": 30,
+      "finger": 19
+    }
+  },
+  "suffer": {
+    "total": 49,
+    "forms": {
+      "suffer": 29,
+      "suffering": 15,
+      "suffered": 5
+    }
+  },
+  "shape": {
+    "total": 49,
+    "forms": {
+      "shape": 32,
+      "shaped": 16,
+      "shaping": 1
+    }
+  },
+  "predator": {
+    "total": 49,
+    "forms": {
+      "predators": 27,
+      "predator": 22
+    }
+  },
+  "energy": {
+    "total": 49,
+    "forms": {
+      "energy": 49
+    }
+  },
+  "arendelle": {
+    "total": 49,
+    "forms": {
+      "arendelle": 44,
+      "arendelle's": 5
+    },
+    "expansions": {
+      "arendelle's": "arendelle's (possessive)"
+    }
+  },
+  "halloween": {
+    "total": 49,
+    "forms": {
+      "halloween": 48,
+      "halloween's": 1
+    },
+    "expansions": {
+      "halloween's": "halloween's (possessive)"
+    }
+  },
+  "savage": {
+    "total": 49,
+    "forms": {
+      "savage": 40,
+      "savages": 9
+    }
+  },
+  "metro": {
+    "total": 49,
+    "forms": {
+      "metro": 49
+    }
+  },
+  "sulley": {
+    "total": 49,
+    "forms": {
+      "sulley": 49
+    }
+  },
+  "natsuko": {
+    "total": 49,
+    "forms": {
+      "natsuko": 45,
+      "natsuko's": 4
+    },
+    "expansions": {
+      "natsuko's": "natsuko's (possessive)"
+    }
+  },
+  "within": {
+    "total": 48,
+    "forms": {
+      "within": 48
+    }
+  },
+  "dress": {
+    "total": 48,
+    "forms": {
+      "dress": 23,
+      "dressed": 21,
+      "dressing": 2,
+      "dresses": 2
     }
   }
 }

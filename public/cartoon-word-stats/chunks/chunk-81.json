@@ -1,103 +1,4 @@
 {
-  "hanky": {
-    "total": 2,
-    "forms": {
-      "hanky": 2
-    }
-  },
-  "remedy": {
-    "total": 2,
-    "forms": {
-      "remedies": 1,
-      "remedy": 1
-    }
-  },
-  "arepa": {
-    "total": 2,
-    "forms": {
-      "arepa": 2
-    }
-  },
-  "donna": {
-    "total": 2,
-    "forms": {
-      "donna": 2
-    }
-  },
-  "tiple": {
-    "total": 2,
-    "forms": {
-      "tiple": 2
-    }
-  },
-  "nursery": {
-    "total": 2,
-    "forms": {
-      "nursery": 2
-    }
-  },
-  "pepi": {
-    "total": 2,
-    "forms": {
-      "pepi": 2
-    }
-  },
-  "melancholy": {
-    "total": 2,
-    "forms": {
-      "melancholy": 2
-    }
-  },
-  "bailar": {
-    "total": 2,
-    "forms": {
-      "bailar": 2
-    }
-  },
-  "effortlessly": {
-    "total": 2,
-    "forms": {
-      "effortlessly": 2
-    }
-  },
-  "tightrope": {
-    "total": 2,
-    "forms": {
-      "tightrope": 2
-    }
-  },
-  "preserve": {
-    "total": 2,
-    "forms": {
-      "preserve": 2
-    }
-  },
-  "domino": {
-    "total": 2,
-    "forms": {
-      "dominos": 1,
-      "domino": 1
-    }
-  },
-  "bray": {
-    "total": 2,
-    "forms": {
-      "brays": 1,
-      "braying": 1
-    }
-  },
-  "frustratedly": {
-    "total": 2,
-    "forms": {
-      "frustratedly": 2
-    }
-  },
-  "shakily": {
-    "total": 2,
-    "forms": {
-      "shakily": 2
-    }
-  },
   "drizzle": {
     "total": 2,
     "forms": {
@@ -611,6 +512,105 @@
     "total": 2,
     "forms": {
       "detachable": 2
+    }
+  },
+  "flatter": {
+    "total": 2,
+    "forms": {
+      "flattering": 2
+    }
+  },
+  "affair": {
+    "total": 2,
+    "forms": {
+      "affair": 2
+    }
+  },
+  "headbutt": {
+    "total": 2,
+    "forms": {
+      "headbutting": 1,
+      "headbutt": 1
+    }
+  },
+  "hurl": {
+    "total": 2,
+    "forms": {
+      "hurl": 2
+    }
+  },
+  "overrate": {
+    "total": 2,
+    "forms": {
+      "overrated": 2
+    }
+  },
+  "juan": {
+    "total": 2,
+    "forms": {
+      "juan": 2
+    }
+  },
+  "toll": {
+    "total": 2,
+    "forms": {
+      "tolling": 2
+    }
+  },
+  "expertise": {
+    "total": 2,
+    "forms": {
+      "expertise": 2
+    }
+  },
+  "modesty": {
+    "total": 2,
+    "forms": {
+      "modesty": 2
+    }
+  },
+  "hugeness": {
+    "total": 2,
+    "forms": {
+      "hugeness": 2
+    }
+  },
+  "franken": {
+    "total": 2,
+    "forms": {
+      "franken": 2
+    }
+  },
+  "correction": {
+    "total": 2,
+    "forms": {
+      "correction": 1,
+      "corrections": 1
+    }
+  },
+  "feminine": {
+    "total": 2,
+    "forms": {
+      "feminine": 2
+    }
+  },
+  "beady": {
+    "total": 2,
+    "forms": {
+      "beady": 2
+    }
+  },
+  "quill": {
+    "total": 2,
+    "forms": {
+      "quills": 2
+    }
+  },
+  "ponder": {
+    "total": 2,
+    "forms": {
+      "ponder": 1,
+      "pondered": 1
     }
   }
 }

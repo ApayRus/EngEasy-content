@@ -1,104 +1,4 @@
 {
-  "buffet": {
-    "total": 10,
-    "forms": {
-      "buffet": 9,
-      "buffets": 1
-    }
-  },
-  "amuse": {
-    "total": 10,
-    "forms": {
-      "amusing": 5,
-      "amuse": 4,
-      "amused": 1
-    }
-  },
-  "massive": {
-    "total": 10,
-    "forms": {
-      "massive": 10
-    }
-  },
-  "voyage": {
-    "total": 10,
-    "forms": {
-      "voyage": 10
-    }
-  },
-  "society": {
-    "total": 10,
-    "forms": {
-      "society": 10
-    }
-  },
-  "extraordinary": {
-    "total": 10,
-    "forms": {
-      "extraordinary": 10
-    }
-  },
-  "gesture": {
-    "total": 10,
-    "forms": {
-      "gesture": 5,
-      "gestured": 5
-    }
-  },
-  "mop": {
-    "total": 10,
-    "forms": {
-      "mop": 5,
-      "moping": 2,
-      "moped": 1,
-      "mopped": 1,
-      "mopping": 1
-    }
-  },
-  "recently": {
-    "total": 10,
-    "forms": {
-      "recently": 10
-    }
-  },
-  "frost": {
-    "total": 10,
-    "forms": {
-      "frost": 5,
-      "frosting": 4,
-      "frosted": 1
-    }
-  },
-  "mango": {
-    "total": 10,
-    "forms": {
-      "mango": 8,
-      "mangos": 1,
-      "mangoes": 1
-    }
-  },
-  "theory": {
-    "total": 10,
-    "forms": {
-      "theory": 9,
-      "theories": 1
-    }
-  },
-  "fuse": {
-    "total": 10,
-    "forms": {
-      "fuse": 9,
-      "fused": 1
-    }
-  },
-  "beam": {
-    "total": 10,
-    "forms": {
-      "beam": 8,
-      "beaming": 1,
-      "beams": 1
-    }
-  },
   "dice": {
     "total": 10,
     "forms": {
@@ -705,6 +605,94 @@
     "forms": {
       "beverages": 7,
       "beverage": 3
+    }
+  },
+  "airport": {
+    "total": 10,
+    "forms": {
+      "airport": 10
+    }
+  },
+  "bit": {
+    "total": 10,
+    "forms": {
+      "bits": 10
+    }
+  },
+  "sexy": {
+    "total": 10,
+    "forms": {
+      "sexy": 10
+    }
+  },
+  "zippleback": {
+    "total": 10,
+    "forms": {
+      "zippleback": 10
+    }
+  },
+  "link": {
+    "total": 10,
+    "forms": {
+      "link": 10
+    }
+  },
+  "salmon": {
+    "total": 10,
+    "forms": {
+      "salmon": 10
+    }
+  },
+  "grimmel": {
+    "total": 10,
+    "forms": {
+      "grimmel": 10
+    }
+  },
+  "runt": {
+    "total": 10,
+    "forms": {
+      "runt": 8,
+      "runts": 2
+    }
+  },
+  "equal": {
+    "total": 10,
+    "forms": {
+      "equals": 5,
+      "equal": 5
+    }
+  },
+  "unlike": {
+    "total": 10,
+    "forms": {
+      "unlike": 10
+    }
+  },
+  "bitter": {
+    "total": 10,
+    "forms": {
+      "bitter": 10
+    }
+  },
+  "goof": {
+    "total": 10,
+    "forms": {
+      "goof": 6,
+      "goofing": 4
+    }
+  },
+  "storage": {
+    "total": 10,
+    "forms": {
+      "storage": 10
+    }
+  },
+  "teenager": {
+    "total": 10,
+    "forms": {
+      "teenager": 5,
+      "teenagers": 5
     }
   }
 }

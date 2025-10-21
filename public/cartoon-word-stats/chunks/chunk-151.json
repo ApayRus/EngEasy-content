@@ -1,605 +1,602 @@
 {
-  "freakface": {
+  "maze": {
     "total": 1,
     "forms": {
-      "freakface": 1
+      "maze": 1
     }
   },
-  "snazzypants": {
+  "fluster": {
     "total": 1,
     "forms": {
-      "snazzypants": 1
+      "flustered": 1
     }
   },
-  "foiler": {
+  "saipan": {
     "total": 1,
     "forms": {
-      "foiler": 1
+      "saipan": 1
     }
   },
-  "ujjayi": {
+  "datsun": {
     "total": 1,
     "forms": {
-      "ujjayi": 1
+      "datsun": 1
     }
   },
-  "prodigiously": {
+  "railway": {
     "total": 1,
     "forms": {
-      "prodigiously": 1
+      "railways": 1
     }
   },
-  "dagnabit": {
+  "bedpan": {
     "total": 1,
     "forms": {
-      "dagnabit": 1
+      "bedpan": 1
     }
   },
-  "owie": {
+  "knotweed": {
     "total": 1,
     "forms": {
-      "owie": 1
+      "knotweed": 1
     }
   },
-  "subwoofer": {
+  "arrowhead": {
     "total": 1,
     "forms": {
-      "subwoofers": 1
+      "arrowheads": 1
     }
   },
-  "dubbledore": {
+  "cigarette": {
     "total": 1,
     "forms": {
-      "dubbledore": 1
+      "cigarettes": 1
     }
   },
-  "eloquent": {
+  "groundskeeper": {
     "total": 1,
     "forms": {
-      "eloquent": 1
+      "groundskeeper": 1
     }
   },
-  "infinityeth": {
+  "wrinkly": {
     "total": 1,
     "forms": {
-      "infinityeth": 1
+      "wrinkly": 1
     }
   },
-  "imaginable": {
+  "remake": {
     "total": 1,
     "forms": {
-      "imaginable": 1
+      "remake": 1
     }
   },
-  "entrap": {
+  "fearsomeness": {
     "total": 1,
     "forms": {
-      "entrap": 1
+      "fearsomeness": 1
     }
   },
-  "ruh": {
+  "skewer": {
     "total": 1,
     "forms": {
-      "ruh": 1
+      "skewer": 1
     }
   },
-  "roh": {
+  "concede": {
     "total": 1,
     "forms": {
-      "roh": 1
+      "concede": 1
     }
   },
-  "shaq": {
+  "hellscape": {
     "total": 1,
     "forms": {
-      "shaq": 1
+      "hellscape": 1
     }
   },
-  "stabilizer": {
+  "pushover": {
     "total": 1,
     "forms": {
-      "stabilizers": 1
+      "pushover": 1
     }
   },
-  "pending": {
+  "occurrence": {
     "total": 1,
     "forms": {
-      "pending": 1
+      "occurrences": 1
     }
   },
-  "razzleberry": {
+  "meiji": {
     "total": 1,
     "forms": {
-      "razzleberry": 1
+      "meiji": 1
     }
   },
-  "cooler": {
+  "nasally": {
     "total": 1,
     "forms": {
-      "coolers": 1
+      "nasally": 1
     }
   },
-  "everybod": {
+  "straddle": {
     "total": 1,
     "forms": {
-      "everybod": 1
+      "straddle": 1
     }
   },
-  "shaquille": {
+  "budgie": {
     "total": 1,
     "forms": {
-      "shaquille": 1
+      "budgie": 1
     }
   },
-  "o'neal": {
+  "originate": {
     "total": 1,
     "forms": {
-      "o'neal": 1
+      "originates": 1
     }
   },
-  "mateys": {
+  "abomination": {
     "total": 1,
     "forms": {
-      "mateys": 1
+      "abomination": 1
     }
   },
-  "naboo": {
+  "harmonious": {
     "total": 1,
     "forms": {
-      "naboo": 1
+      "harmonious": 1
     }
   },
-  "perturb": {
+  "gravestone": {
     "total": 1,
     "forms": {
-      "perturbed": 1
+      "gravestones": 1
     }
   },
-  "droid": {
+  "absence": {
     "total": 1,
     "forms": {
-      "droid's": 1
-    },
-    "expansions": {
-      "droid's": "droid's (possessive)"
+      "absence": 1
     }
   },
-  "vivants": {
+  "nevertheless": {
     "total": 1,
     "forms": {
-      "vivants": 1
+      "nevertheless": 1
     }
   },
-  "boardroom": {
+  "debris": {
     "total": 1,
     "forms": {
-      "boardroom": 1
+      "debris": 1
     }
   },
-  "serial": {
+  "kenshi": {
     "total": 1,
     "forms": {
-      "serial": 1
+      "kenshi": 1
     }
   },
-  "albanian": {
+  "yonezu": {
     "total": 1,
     "forms": {
-      "albanian": 1
+      "yonezu": 1
     }
   },
-  "underline": {
+  "gorts": {
     "total": 1,
     "forms": {
-      "underline": 1
+      "gorts": 1
     }
   },
-  "junebug": {
+  "mammoth": {
     "total": 1,
     "forms": {
-      "junebug": 1
+      "mammoth": 1
     }
   },
-  "corrupt": {
+  "horks": {
     "total": 1,
     "forms": {
-      "corrupted": 1
+      "horks": 1
     }
   },
-  "purity": {
+  "erfs": {
     "total": 1,
     "forms": {
-      "purity": 1
+      "erfs": 1
     }
   },
-  "imagina": {
+  "throgs": {
     "total": 1,
     "forms": {
-      "imagina": 1
+      "throgs": 1
     }
   },
-  "unspecial": {
+  "ledge": {
     "total": 1,
     "forms": {
-      "unspecial": 1
+      "ledge": 1
     }
   },
-  "monolith": {
+  "ide": {
     "total": 1,
     "forms": {
-      "monolith": 1
+      "ide": 1
     }
   },
-  "missi": {
+  "iconcun": {
     "total": 1,
     "forms": {
-      "missi": 1
+      "iconcun": 1
     }
   },
-  "groundbreaker": {
+  "iwin": {
     "total": 1,
     "forms": {
-      "groundbreaker": 1
+      "iwin": 1
     }
   },
-  "rouse": {
+  "hunfing": {
     "total": 1,
     "forms": {
-      "roused": 1
+      "hunfing": 1
     }
   },
-  "condo": {
+  "sucky": {
     "total": 1,
     "forms": {
-      "condo": 1
+      "sucky": 1
     }
   },
-  "interlock": {
+  "shamble": {
     "total": 1,
     "forms": {
-      "interlocking": 1
+      "shamble": 1
     }
   },
-  "kragles": {
+  "torg": {
     "total": 1,
     "forms": {
-      "kragles": 1
+      "torg": 1
     }
   },
-  "hodgepodge": {
+  "snapshot": {
     "total": 1,
     "forms": {
-      "hodgepodge": 1
+      "snapshot": 1
     }
   },
-  "gunk": {
+  "lifterator": {
     "total": 1,
     "forms": {
-      "gunk": 1
+      "lifterator": 1
     }
   },
-  "zealand": {
+  "counterproductive": {
     "total": 1,
     "forms": {
-      "zealand": 1
+      "counterproductive": 1
     }
   },
-  "intrud": {
+  "countermeasure": {
     "total": 1,
     "forms": {
-      "intrud": 1
+      "countermeasures": 1
     }
   },
-  "skeletrons": {
+  "generator": {
     "total": 1,
     "forms": {
-      "skeletrons": 1
+      "generator": 1
     }
   },
-  "dorky": {
+  "sincerity": {
     "total": 1,
     "forms": {
-      "dorky": 1
+      "sincerity": 1
     }
   },
-  "kragler": {
+  "lunkhead": {
     "total": 1,
     "forms": {
-      "kragler": 1
+      "lunkhead": 1
     }
   },
-  "duplon": {
+  "ihaveu": {
     "total": 1,
     "forms": {
-      "duplon": 1
+      "ihaveu": 1
     }
   },
-  "sdh": {
+  "anidea": {
     "total": 1,
     "forms": {
-      "sdh": 1
+      "anidea": 1
     }
   },
-  "primeval": {
+  "suntan": {
     "total": 1,
     "forms": {
-      "primeval": 1
+      "suntans": 1
     }
   },
-  "boa": {
+  "eustice": {
     "total": 1,
     "forms": {
-      "boa": 1
+      "eustice": 1
     }
   },
-  "constrictor": {
+  "henrietta": {
     "total": 1,
     "forms": {
-      "constrictors": 1
+      "henrietta": 1
     }
   },
-  "arithmetic": {
+  "footless": {
     "total": 1,
     "forms": {
-      "arithmetic": 1
+      "footless": 1
     }
   },
-  "grammar": {
+  "cluckers": {
     "total": 1,
     "forms": {
-      "grammar": 1
+      "cluckers": 1
     }
   },
-  "statistic": {
+  "destructor": {
     "total": 1,
     "forms": {
-      "statistics": 1
+      "destructor": 1
     }
   },
-  "acceptance": {
+  "planner": {
     "total": 1,
     "forms": {
-      "acceptance": 1
+      "planner": 1
     }
   },
-  "transformative": {
+  "cootie": {
     "total": 1,
     "forms": {
-      "transformative": 1
+      "cootie": 1
     }
   },
-  "affordable": {
+  "hemorrhoid": {
     "total": 1,
     "forms": {
-      "affordable": 1
+      "hemorrhoid": 1
     }
   },
-  "microscope": {
+  "coldfront": {
     "total": 1,
     "forms": {
-      "microscope": 1
+      "coldfront": 1
     }
   },
-  "davis": {
+  "crawdad": {
     "total": 1,
     "forms": {
-      "davis": 1
+      "crawdads": 1
     }
   },
-  "audit": {
+  "sidle": {
     "total": 1,
     "forms": {
-      "audit": 1
+      "sidle": 1
     }
   },
-  "miller": {
+  "loblolly": {
     "total": 1,
     "forms": {
-      "miller": 1
+      "loblolly": 1
     }
   },
-  "problematic": {
+  "hornheads": {
     "total": 1,
     "forms": {
-      "problematic": 1
+      "hornheads": 1
     }
   },
-  "fisher": {
+  "lurleane": {
     "total": 1,
     "forms": {
-      "fisher": 1
+      "lurleane": 1
     }
   },
-  "vp": {
+  "bubbha": {
     "total": 1,
     "forms": {
-      "vp": 1
+      "bubbha": 1
     }
   },
-  "immerse": {
+  "pervis": {
     "total": 1,
     "forms": {
-      "immersed": 1
+      "pervis": 1
     }
   },
-  "documentation": {
+  "harmonica": {
     "total": 1,
     "forms": {
-      "documentation": 1
+      "harmonica": 1
     }
   },
-  "resound": {
+  "stegos": {
     "total": 1,
     "forms": {
-      "resounded": 1
+      "stegos": 1
     }
   },
-  "sickly": {
+  "spikey": {
     "total": 1,
     "forms": {
-      "sickly": 1
+      "spikey": 1
     }
   },
-  "drawback": {
+  "crocs": {
     "total": 1,
     "forms": {
-      "drawbacks": 1
+      "crocs": 1
     }
   },
-  "dishevel": {
+  "goosies": {
     "total": 1,
     "forms": {
-      "dishevelled": 1
+      "goosies": 1
     }
   },
-  "vanity": {
+  "outrun": {
     "total": 1,
     "forms": {
-      "vanity": 1
+      "outrun": 1
     }
   },
-  "tolerate": {
+  "relevated": {
     "total": 1,
     "forms": {
-      "tolerate": 1
+      "relevated": 1
     }
   },
-  "indiscipline": {
+  "adorably": {
     "total": 1,
     "forms": {
-      "indiscipline": 1
+      "adorably": 1
     }
   },
-  "acclaim": {
+  "standalone": {
     "total": 1,
     "forms": {
-      "acclaim": 1
+      "standalone": 1
     }
   },
-  "recount": {
+  "heckish": {
     "total": 1,
     "forms": {
-      "recount": 1
+      "heckish": 1
     }
   },
-  "amputate": {
+  "sean": {
     "total": 1,
     "forms": {
-      "amputate": 1
+      "sean": 1
     }
   },
-  "decrease": {
+  "connery": {
     "total": 1,
     "forms": {
-      "decreased": 1
+      "connery": 1
     }
   },
-  "conceited": {
+  "moore": {
     "total": 1,
     "forms": {
-      "conceited": 1
+      "moore": 1
     }
   },
-  "succinct": {
+  "brosnan": {
     "total": 1,
     "forms": {
-      "succinct": 1
+      "brosnan": 1
     }
   },
-  "accelerate": {
+  "lazenby": {
     "total": 1,
     "forms": {
-      "accelerated": 1
+      "lazenby": 1
     }
   },
-  "dismemberment": {
+  "scribble": {
     "total": 1,
     "forms": {
-      "dismemberment": 1
+      "scribble": 1
     }
   },
-  "centralise": {
+  "sherry": {
     "total": 1,
     "forms": {
-      "centralising": 1
+      "sherry": 1
     }
   },
-  "bumble": {
+  "laserbeam": {
     "total": 1,
     "forms": {
-      "bumble": 1
+      "laserbeam": 1
     }
   },
-  "snowboard": {
+  "toxintoes": {
     "total": 1,
     "forms": {
-      "snowboard": 1
+      "toxintoes": 1
     }
   },
-  "zillionaire": {
+  "loner": {
     "total": 1,
     "forms": {
-      "zillionaire": 1
+      "loner": 1
     }
   },
-  "amatic": {
+  "terse": {
     "total": 1,
     "forms": {
-      "amatic": 1
+      "terse": 1
     }
   },
-  "fable": {
+  "semblance": {
     "total": 1,
     "forms": {
-      "fables": 1
+      "semblance": 1
     }
   },
-  "purify": {
+  "goshness": {
     "total": 1,
     "forms": {
-      "purified": 1
+      "goshness": 1
     }
   },
-  "responsibly": {
+  "sesh": {
     "total": 1,
     "forms": {
-      "responsibly": 1
+      "sesh": 1
     }
   },
-  "optimism": {
+  "cul": {
     "total": 1,
     "forms": {
-      "optimism": 1
+      "cul": 1
     }
   },
-  "vacate": {
+  "lunchtime": {
     "total": 1,
     "forms": {
-      "vacate": 1
+      "lunchtime": 1
     }
   },
-  "newsflash": {
+  "goth": {
     "total": 1,
     "forms": {
-      "newsflash": 1
+      "goth": 1
     }
   },
-  "tedster": {
+  "aggro": {
     "total": 1,
     "forms": {
-      "tedster": 1
+      "aggro": 1
     }
   },
-  "undeterred": {
+  "blinker": {
     "total": 1,
     "forms": {
-      "undeterred": 1
+      "blinker": 1
     }
   },
-  "fishies": {
+  "spiky": {
     "total": 1,
     "forms": {
-      "fishies": 1
+      "spiky": 1
     }
   }
 }

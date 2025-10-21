@@ -1,102 +1,4 @@
 {
-  "litwak": {
-    "total": 13,
-    "forms": {
-      "litwak": 9,
-      "litwak's": 4
-    },
-    "expansions": {
-      "litwak's": "litwak's (possessive)"
-    }
-  },
-  "boun": {
-    "total": 13,
-    "forms": {
-      "boun": 12,
-      "boun's": 1
-    },
-    "expansions": {
-      "boun's": "boun's (possessive)"
-    }
-  },
-  "joey": {
-    "total": 13,
-    "forms": {
-      "joey": 13
-    }
-  },
-  "ritual": {
-    "total": 13,
-    "forms": {
-      "ritual": 13
-    }
-  },
-  "kingpin": {
-    "total": 13,
-    "forms": {
-      "kingpin": 8,
-      "kingpin's": 5
-    },
-    "expansions": {
-      "kingpin's": "kingpin's (possessive)"
-    }
-  },
-  "mansley": {
-    "total": 13,
-    "forms": {
-      "mansley": 13
-    }
-  },
-  "warawara": {
-    "total": 13,
-    "forms": {
-      "warawara": 13
-    }
-  },
-  "systar": {
-    "total": 13,
-    "forms": {
-      "systar": 13
-    }
-  },
-  "watevra": {
-    "total": 13,
-    "forms": {
-      "watevra": 13
-    }
-  },
-  "masterbuilders": {
-    "total": 13,
-    "forms": {
-      "masterbuilders": 13
-    }
-  },
-  "o'hare": {
-    "total": 13,
-    "forms": {
-      "o'hare": 13
-    }
-  },
-  "crom": {
-    "total": 13,
-    "forms": {
-      "crom": 13
-    }
-  },
-  "aisling": {
-    "total": 13,
-    "forms": {
-      "aisling": 13
-    }
-  },
-  "antique": {
-    "total": 13,
-    "forms": {
-      "antique": 9,
-      "antiques": 3,
-      "antiquing": 1
-    }
-  },
   "scullery": {
     "total": 13,
     "forms": {
@@ -179,8 +81,8 @@
     "forms": {
       "exchange": 8,
       "exchanges": 2,
-      "exchanged": 1,
-      "exchanging": 1
+      "exchanging": 1,
+      "exchanged": 1
     }
   },
   "realise": {
@@ -693,6 +595,103 @@
     "forms": {
       "element": 9,
       "elements": 3
+    }
+  },
+  "luckily": {
+    "total": 12,
+    "forms": {
+      "luckily": 12
+    }
+  },
+  "canal": {
+    "total": 12,
+    "forms": {
+      "canal": 9,
+      "canals": 3
+    }
+  },
+  "ton": {
+    "total": 12,
+    "forms": {
+      "tons": 6,
+      "ton": 6
+    }
+  },
+  "collection": {
+    "total": 12,
+    "forms": {
+      "collection": 12
+    }
+  },
+  "casita": {
+    "total": 12,
+    "forms": {
+      "casita": 12
+    }
+  },
+  "stubborn": {
+    "total": 12,
+    "forms": {
+      "stubborn": 12
+    }
+  },
+  "boggis": {
+    "total": 12,
+    "forms": {
+      "boggis": 11,
+      "boggis's": 1
+    },
+    "expansions": {
+      "boggis's": "boggis's (possessive)"
+    }
+  },
+  "diet": {
+    "total": 12,
+    "forms": {
+      "diet": 12
+    }
+  },
+  "peel": {
+    "total": 12,
+    "forms": {
+      "peel": 7,
+      "peeled": 4,
+      "peels": 1
+    }
+  },
+  "exclalmlng": {
+    "total": 12,
+    "forms": {
+      "exclalmlng": 12
+    }
+  },
+  "improve": {
+    "total": 12,
+    "forms": {
+      "improved": 8,
+      "improve": 3,
+      "improving": 1
+    }
+  },
+  "clang": {
+    "total": 12,
+    "forms": {
+      "clanging": 6,
+      "clangs": 5,
+      "clang": 1
+    }
+  },
+  "lizard": {
+    "total": 12,
+    "forms": {
+      "lizard": 10,
+      "lizards": 2
+    }
+  },
+  "nor": {
+    "total": 12,
+    "forms": {
+      "nor": 12
     }
   }
 }

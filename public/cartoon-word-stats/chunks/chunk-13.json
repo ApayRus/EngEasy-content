@@ -1,111 +1,4 @@
 {
-  "ouch": {
-    "total": 44,
-    "forms": {
-      "ouch": 44
-    }
-  },
-  "abuela": {
-    "total": 44,
-    "forms": {
-      "abuela": 44
-    }
-  },
-  "dash": {
-    "total": 44,
-    "forms": {
-      "dash": 40,
-      "dashing": 4
-    }
-  },
-  "program": {
-    "total": 44,
-    "forms": {
-      "program": 31,
-      "programming": 7,
-      "programmed": 5,
-      "program's": 1
-    },
-    "expansions": {
-      "program's": "program's (possessive)"
-    }
-  },
-  "noodle": {
-    "total": 44,
-    "forms": {
-      "noodles": 28,
-      "noodle": 16
-    }
-  },
-  "scarlet": {
-    "total": 44,
-    "forms": {
-      "scarlet": 44
-    }
-  },
-  "eboshi": {
-    "total": 44,
-    "forms": {
-      "eboshi": 39,
-      "eboshi's": 5
-    },
-    "expansions": {
-      "eboshi's": "eboshi's (possessive)"
-    }
-  },
-  "sullivan": {
-    "total": 44,
-    "forms": {
-      "sullivan": 43,
-      "sullivan's": 1
-    },
-    "expansions": {
-      "sullivan's": "sullivan's (possessive)"
-    }
-  },
-  "echo": {
-    "total": 43,
-    "forms": {
-      "echoing": 29,
-      "echo": 9,
-      "echoes": 5
-    }
-  },
-  "devil": {
-    "total": 43,
-    "forms": {
-      "devil": 37,
-      "devils": 4,
-      "deviled": 1,
-      "devil's": 1
-    },
-    "expansions": {
-      "devil's": "devil's (possessive)"
-    }
-  },
-  "gather": {
-    "total": 43,
-    "forms": {
-      "gather": 23,
-      "gathering": 11,
-      "gathered": 9
-    }
-  },
-  "shush": {
-    "total": 43,
-    "forms": {
-      "shushing": 17,
-      "shush": 16,
-      "shushes": 9,
-      "shushed": 1
-    }
-  },
-  "chocolate": {
-    "total": 43,
-    "forms": {
-      "chocolate": 43
-    }
-  },
   "message": {
     "total": 43,
     "forms": {
@@ -232,6 +125,12 @@
       "lung's": "lung's (possessive)"
     }
   },
+  "afinelzi": {
+    "total": 43,
+    "forms": {
+      "afinelzi": 43
+    }
+  },
   "elastigirl": {
     "total": 43,
     "forms": {
@@ -240,12 +139,6 @@
     },
     "expansions": {
       "elastigirl's": "elastigirl's (possessive)"
-    }
-  },
-  "afinelzi": {
-    "total": 43,
-    "forms": {
-      "afinelzi": 43
     }
   },
   "consider": {
@@ -780,6 +673,103 @@
     "forms": {
       "zero": 38,
       "zeroes": 2
+    }
+  },
+  "musician": {
+    "total": 40,
+    "forms": {
+      "musician": 30,
+      "musicians": 7,
+      "musician's": 3
+    },
+    "expansions": {
+      "musician's": "musician's (possessive)"
+    }
+  },
+  "favor": {
+    "total": 40,
+    "forms": {
+      "favor": 34,
+      "favors": 4,
+      "favoring": 1,
+      "favored": 1
+    }
+  },
+  "cup": {
+    "total": 40,
+    "forms": {
+      "cup": 35,
+      "cups": 5
+    }
+  },
+  "wha": {
+    "total": 40,
+    "forms": {
+      "wha": 40
+    }
+  },
+  "margo": {
+    "total": 40,
+    "forms": {
+      "margo": 40
+    }
+  },
+  "peep": {
+    "total": 40,
+    "forms": {
+      "peep": 21,
+      "peeps": 11,
+      "peeping": 8
+    }
+  },
+  "store": {
+    "total": 40,
+    "forms": {
+      "store": 37,
+      "stores": 2,
+      "stored": 1
+    }
+  },
+  "pill": {
+    "total": 40,
+    "forms": {
+      "pill": 25,
+      "pills": 15
+    }
+  },
+  "th": {
+    "total": 40,
+    "forms": {
+      "th": 40
+    }
+  },
+  "teacher": {
+    "total": 40,
+    "forms": {
+      "teacher": 27,
+      "teachers": 7,
+      "teacher's": 6
+    },
+    "expansions": {
+      "teacher's": "teacher's (possessive)"
+    }
+  },
+  "tai": {
+    "total": 40,
+    "forms": {
+      "tai": 40
+    }
+  },
+  "templeton": {
+    "total": 40,
+    "forms": {
+      "templeton": 40
+    }
+  },
+  "brendan": {
+    "total": 40,
+    "forms": {
+      "brendan": 40
     }
   }
 }

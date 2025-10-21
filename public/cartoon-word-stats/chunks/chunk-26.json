@@ -1,103 +1,4 @@
 {
-  "corn": {
-    "total": 17,
-    "forms": {
-      "corn": 16,
-      "corned": 1
-    }
-  },
-  "underground": {
-    "total": 17,
-    "forms": {
-      "underground": 17
-    }
-  },
-  "account": {
-    "total": 17,
-    "forms": {
-      "account": 11,
-      "accounting": 3,
-      "accounted": 3
-    }
-  },
-  "location": {
-    "total": 17,
-    "forms": {
-      "location": 15,
-      "locations": 2
-    }
-  },
-  "stew": {
-    "total": 17,
-    "forms": {
-      "stew": 16,
-      "stews": 1
-    }
-  },
-  "hola": {
-    "total": 17,
-    "forms": {
-      "hola": 17
-    }
-  },
-  "seize": {
-    "total": 17,
-    "forms": {
-      "seize": 16,
-      "seizing": 1
-    }
-  },
-  "grandson": {
-    "total": 17,
-    "forms": {
-      "grandson": 17
-    }
-  },
-  "wander": {
-    "total": 17,
-    "forms": {
-      "wander": 12,
-      "wandered": 3,
-      "wandering": 2
-    }
-  },
-  "nerve": {
-    "total": 17,
-    "forms": {
-      "nerve": 9,
-      "nerves": 8
-    }
-  },
-  "threat": {
-    "total": 17,
-    "forms": {
-      "threat": 16,
-      "threats": 1
-    }
-  },
-  "explore": {
-    "total": 17,
-    "forms": {
-      "explore": 12,
-      "exploring": 4,
-      "explored": 1
-    }
-  },
-  "burp": {
-    "total": 17,
-    "forms": {
-      "burps": 11,
-      "burp": 5,
-      "burping": 1
-    }
-  },
-  "bay": {
-    "total": 17,
-    "forms": {
-      "bay": 16,
-      "baying": 1
-    }
-  },
   "spy": {
     "total": 17,
     "forms": {
@@ -335,18 +236,6 @@
       "port": 17
     }
   },
-  "parr": {
-    "total": 17,
-    "forms": {
-      "parr": 17
-    }
-  },
-  "useful": {
-    "total": 17,
-    "forms": {
-      "useful": 17
-    }
-  },
   "thumb": {
     "total": 17,
     "forms": {
@@ -364,6 +253,12 @@
     "total": 17,
     "forms": {
       "fa": 17
+    }
+  },
+  "useful": {
+    "total": 17,
+    "forms": {
+      "useful": 17
     }
   },
   "spine": {
@@ -467,10 +362,22 @@
       "government's": "government's (possessive)"
     }
   },
+  "parr": {
+    "total": 17,
+    "forms": {
+      "parr": 17
+    }
+  },
   "maisie": {
     "total": 17,
     "forms": {
       "maisie": 17
+    }
+  },
+  "babycorp": {
+    "total": 17,
+    "forms": {
+      "babycorp": 17
     }
   },
   "granduncle": {
@@ -489,12 +396,6 @@
     "total": 17,
     "forms": {
       "muntz": 17
-    }
-  },
-  "babycorp": {
-    "total": 17,
-    "forms": {
-      "babycorp": 17
     }
   },
   "east": {
@@ -714,6 +615,105 @@
     "total": 16,
     "forms": {
       "sally": 16
+    }
+  },
+  "slice": {
+    "total": 16,
+    "forms": {
+      "slice": 12,
+      "sliced": 2,
+      "slices": 2
+    }
+  },
+  "product": {
+    "total": 16,
+    "forms": {
+      "product": 11,
+      "products": 5
+    }
+  },
+  "llorona": {
+    "total": 16,
+    "forms": {
+      "llorona": 16
+    }
+  },
+  "relate": {
+    "total": 16,
+    "forms": {
+      "related": 9,
+      "relate": 7
+    }
+  },
+  "downstairs": {
+    "total": 16,
+    "forms": {
+      "downstairs": 16
+    }
+  },
+  "why'd": {
+    "total": 16,
+    "forms": {
+      "why'd": 16
+    }
+  },
+  "creep": {
+    "total": 16,
+    "forms": {
+      "creep": 8,
+      "creeping": 5,
+      "creeps": 2,
+      "creeped": 1
+    }
+  },
+  "fart": {
+    "total": 16,
+    "forms": {
+      "fart": 11,
+      "farts": 3,
+      "farting": 2
+    }
+  },
+  "online": {
+    "total": 16,
+    "forms": {
+      "online": 16
+    }
+  },
+  "lately": {
+    "total": 16,
+    "forms": {
+      "lately": 16
+    }
+  },
+  "kong": {
+    "total": 16,
+    "forms": {
+      "kong": 16
+    }
+  },
+  "boyfriend": {
+    "total": 16,
+    "forms": {
+      "boyfriend": 14,
+      "boyfriend's": 2
+    },
+    "expansions": {
+      "boyfriend's": "boyfriend's (possessive)"
+    }
+  },
+  "vibe": {
+    "total": 16,
+    "forms": {
+      "vibe": 12,
+      "vibes": 4
+    }
+  },
+  "gentle": {
+    "total": 16,
+    "forms": {
+      "gentle": 15,
+      "gentlest": 1
     }
   }
 }

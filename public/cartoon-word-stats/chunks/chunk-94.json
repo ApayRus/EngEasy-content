@@ -1,179 +1,4 @@
 {
-  "uncertainty": {
-    "total": 2,
-    "forms": {
-      "uncertainty": 2
-    }
-  },
-  "fester": {
-    "total": 2,
-    "forms": {
-      "festering": 2
-    }
-  },
-  "merlin": {
-    "total": 2,
-    "forms": {
-      "merlin": 2
-    }
-  },
-  "therapist": {
-    "total": 2,
-    "forms": {
-      "therapist": 2
-    }
-  },
-  "terrorize": {
-    "total": 2,
-    "forms": {
-      "terrorize": 2
-    }
-  },
-  "primal": {
-    "total": 2,
-    "forms": {
-      "primal": 2
-    }
-  },
-  "arch": {
-    "total": 2,
-    "forms": {
-      "arch": 2
-    }
-  },
-  "jefe": {
-    "total": 2,
-    "forms": {
-      "jefe": 2
-    }
-  },
-  "crumpet": {
-    "total": 2,
-    "forms": {
-      "crumpets": 2
-    }
-  },
-  "loganberry": {
-    "total": 2,
-    "forms": {
-      "loganberries": 2
-    }
-  },
-  "theatre": {
-    "total": 2,
-    "forms": {
-      "theatre": 2
-    }
-  },
-  "oool": {
-    "total": 2,
-    "forms": {
-      "oool": 2
-    }
-  },
-  "flute": {
-    "total": 2,
-    "forms": {
-      "flute": 2
-    }
-  },
-  "stiff": {
-    "total": 2,
-    "forms": {
-      "stiff": 2
-    }
-  },
-  "centaur": {
-    "total": 2,
-    "forms": {
-      "centaur": 2
-    }
-  },
-  "origami": {
-    "total": 2,
-    "forms": {
-      "origami": 2
-    }
-  },
-  "retrace": {
-    "total": 2,
-    "forms": {
-      "retrace": 2
-    }
-  },
-  "poi": {
-    "total": 2,
-    "forms": {
-      "poi": 2
-    }
-  },
-  "brogan": {
-    "total": 2,
-    "forms": {
-      "brogan": 2
-    }
-  },
-  "goblet": {
-    "total": 2,
-    "forms": {
-      "goblet": 2
-    }
-  },
-  "chimichanga": {
-    "total": 2,
-    "forms": {
-      "chimichanga": 2
-    }
-  },
-  "chimichangas": {
-    "total": 2,
-    "forms": {
-      "chimichangas": 2
-    }
-  },
-  "tension": {
-    "total": 2,
-    "forms": {
-      "tension": 2
-    }
-  },
-  "op": {
-    "total": 2,
-    "forms": {
-      "op": 2
-    }
-  },
-  "ri": {
-    "total": 2,
-    "forms": {
-      "ri": 2
-    }
-  },
-  "radiant": {
-    "total": 2,
-    "forms": {
-      "radiant": 2
-    }
-  },
-  "blardy": {
-    "total": 2,
-    "forms": {
-      "blardy": 2
-    }
-  },
-  "cupboard": {
-    "total": 2,
-    "forms": {
-      "cupboard": 2
-    }
-  },
-  "catalogue": {
-    "total": 2,
-    "forms": {
-      "catalogue": 1,
-      "cataloguing": 1
-    }
-  },
   "farkle": {
     "total": 2,
     "forms": {
@@ -232,6 +57,12 @@
     "total": 2,
     "forms": {
       "fab": 2
+    }
+  },
+  "drowsy": {
+    "total": 2,
+    "forms": {
+      "drowsy": 2
     }
   },
   "oblige": {
@@ -391,12 +222,6 @@
     "total": 2,
     "forms": {
       "unsuccessful": 2
-    }
-  },
-  "pint": {
-    "total": 2,
-    "forms": {
-      "pint": 2
     }
   },
   "dense": {
@@ -606,6 +431,181 @@
     "total": 2,
     "forms": {
       "yolo": 2
+    }
+  },
+  "cab": {
+    "total": 2,
+    "forms": {
+      "cab": 2
+    }
+  },
+  "pepperoni": {
+    "total": 2,
+    "forms": {
+      "pepperoni": 2
+    }
+  },
+  "sleepily": {
+    "total": 2,
+    "forms": {
+      "sleepily": 2
+    }
+  },
+  "curriculum": {
+    "total": 2,
+    "forms": {
+      "curriculum": 2
+    }
+  },
+  "trombone": {
+    "total": 2,
+    "forms": {
+      "trombone": 2
+    }
+  },
+  "terrytime": {
+    "total": 2,
+    "forms": {
+      "terrytime": 2
+    }
+  },
+  "ian": {
+    "total": 2,
+    "forms": {
+      "ian": 2
+    }
+  },
+  "havin": {
+    "total": 2,
+    "forms": {
+      "havin": 2
+    }
+  },
+  "randb": {
+    "total": 2,
+    "forms": {
+      "randb": 2
+    }
+  },
+  "truthful": {
+    "total": 2,
+    "forms": {
+      "truthful": 2
+    }
+  },
+  "cray": {
+    "total": 2,
+    "forms": {
+      "cray": 2
+    }
+  },
+  "tommy": {
+    "total": 2,
+    "forms": {
+      "tommy": 2
+    }
+  },
+  "stylin": {
+    "total": 2,
+    "forms": {
+      "stylin": 2
+    }
+  },
+  "manhunt": {
+    "total": 2,
+    "forms": {
+      "manhunt": 2
+    }
+  },
+  "guggenheim": {
+    "total": 2,
+    "forms": {
+      "guggenheim": 2
+    }
+  },
+  "wingspan": {
+    "total": 2,
+    "forms": {
+      "wingspan": 2
+    }
+  },
+  "timey": {
+    "total": 2,
+    "forms": {
+      "timey": 2
+    }
+  },
+  "leonardo": {
+    "total": 2,
+    "forms": {
+      "leonardo": 2
+    }
+  },
+  "meta": {
+    "total": 2,
+    "forms": {
+      "meta": 2
+    }
+  },
+  "garfield": {
+    "total": 2,
+    "forms": {
+      "garfield": 2
+    }
+  },
+  "banksy": {
+    "total": 2,
+    "forms": {
+      "banksy": 2
+    }
+  },
+  "attorney": {
+    "total": 2,
+    "forms": {
+      "attorney": 2
+    }
+  },
+  "patty": {
+    "total": 2,
+    "forms": {
+      "patty": 2
+    }
+  },
+  "apologise": {
+    "total": 2,
+    "forms": {
+      "apologised": 1,
+      "apologise": 1
+    }
+  },
+  "grader": {
+    "total": 2,
+    "forms": {
+      "grader": 2
+    }
+  },
+  "spanglish": {
+    "total": 2,
+    "forms": {
+      "spanglish": 2
+    }
+  },
+  "princeton": {
+    "total": 2,
+    "forms": {
+      "princeton": 2
+    }
+  },
+  "electron": {
+    "total": 2,
+    "forms": {
+      "electrons": 2
+    }
+  },
+  "gutierrez": {
+    "total": 2,
+    "forms": {
+      "gutierrez": 2
     }
   }
 }

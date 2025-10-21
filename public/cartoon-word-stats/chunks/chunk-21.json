@@ -1,111 +1,4 @@
 {
-  "butter": {
-    "total": 23,
-    "forms": {
-      "butter": 21,
-      "buttered": 2
-    }
-  },
-  "press": {
-    "total": 23,
-    "forms": {
-      "press": 15,
-      "pressed": 4,
-      "pressing": 4
-    }
-  },
-  "barbie": {
-    "total": 23,
-    "forms": {
-      "barbie": 22,
-      "barbie's": 1
-    },
-    "expansions": {
-      "barbie's": "barbie's (possessive)"
-    }
-  },
-  "clever": {
-    "total": 23,
-    "forms": {
-      "clever": 23
-    }
-  },
-  "bill": {
-    "total": 23,
-    "forms": {
-      "bill": 20,
-      "bills": 3
-    }
-  },
-  "diaper": {
-    "total": 23,
-    "forms": {
-      "diaper": 16,
-      "diapers": 7
-    }
-  },
-  "tape": {
-    "total": 23,
-    "forms": {
-      "tape": 22,
-      "tapes": 1
-    }
-  },
-  "california": {
-    "total": 23,
-    "forms": {
-      "california": 21,
-      "california's": 2
-    },
-    "expansions": {
-      "california's": "california's (possessive)"
-    }
-  },
-  "succeed": {
-    "total": 23,
-    "forms": {
-      "succeed": 17,
-      "succeeded": 4,
-      "succeeds": 2
-    }
-  },
-  "flap": {
-    "total": 23,
-    "forms": {
-      "flap": 10,
-      "flapping": 7,
-      "flaps": 6
-    }
-  },
-  "barry": {
-    "total": 23,
-    "forms": {
-      "barry": 23
-    }
-  },
-  "illegal": {
-    "total": 23,
-    "forms": {
-      "illegal": 23
-    }
-  },
-  "prefer": {
-    "total": 23,
-    "forms": {
-      "prefer": 18,
-      "prefers": 3,
-      "preferred": 2
-    }
-  },
-  "pound": {
-    "total": 23,
-    "forms": {
-      "pound": 10,
-      "pounds": 6,
-      "pounding": 5,
-      "pounded": 2
-    }
-  },
   "creepy": {
     "total": 23,
     "forms": {
@@ -537,8 +430,8 @@
     "total": 22,
     "forms": {
       "opportunity": 20,
-      "opportunities": 1,
-      "opportunity's": 1
+      "opportunity's": 1,
+      "opportunities": 1
     },
     "expansions": {
       "opportunity's": "opportunity's (possessive)"
@@ -742,6 +635,113 @@
     "total": 22,
     "forms": {
       "pepa": 22
+    }
+  },
+  "advice": {
+    "total": 22,
+    "forms": {
+      "advice": 22
+    }
+  },
+  "footstep": {
+    "total": 22,
+    "forms": {
+      "footsteps": 22
+    }
+  },
+  "prophecy": {
+    "total": 22,
+    "forms": {
+      "prophecy": 19,
+      "prophecies": 2,
+      "prophecy's": 1
+    },
+    "expansions": {
+      "prophecy's": "prophecy's (possessive)"
+    }
+  },
+  "aunt": {
+    "total": 22,
+    "forms": {
+      "aunt": 20,
+      "aunts": 1,
+      "aunt's": 1
+    },
+    "expansions": {
+      "aunt's": "aunt's (possessive)"
+    }
+  },
+  "cure": {
+    "total": 22,
+    "forms": {
+      "cure": 14,
+      "cured": 5,
+      "cures": 2,
+      "curing": 1
+    }
+  },
+  "specie": {
+    "total": 22,
+    "forms": {
+      "species": 22
+    }
+  },
+  "farmer": {
+    "total": 22,
+    "forms": {
+      "farmers": 14,
+      "farmer": 8
+    }
+  },
+  "phase": {
+    "total": 22,
+    "forms": {
+      "phase": 22
+    }
+  },
+  "poppa": {
+    "total": 22,
+    "forms": {
+      "poppa": 22
+    }
+  },
+  "goin": {
+    "total": 22,
+    "forms": {
+      "goin": 22
+    }
+  },
+  "moo": {
+    "total": 22,
+    "forms": {
+      "moo": 11,
+      "mooing": 7,
+      "moos": 4
+    }
+  },
+  "pony": {
+    "total": 22,
+    "forms": {
+      "pony": 16,
+      "ponies": 5,
+      "pony's": 1
+    },
+    "expansions": {
+      "pony's": "pony's (possessive)"
+    }
+  },
+  "jenny": {
+    "total": 22,
+    "forms": {
+      "jenny": 22
+    }
+  },
+  "honour": {
+    "total": 22,
+    "forms": {
+      "honour": 19,
+      "honoured": 2,
+      "honouring": 1
     }
   }
 }

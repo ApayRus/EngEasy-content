@@ -1,93 +1,4 @@
 {
-  "tasties": {
-    "total": 5,
-    "forms": {
-      "tasties": 5
-    }
-  },
-  "gamers": {
-    "total": 5,
-    "forms": {
-      "gamers": 5
-    }
-  },
-  "gazelle": {
-    "total": 5,
-    "forms": {
-      "gazelle": 5
-    }
-  },
-  "intact": {
-    "total": 4,
-    "forms": {
-      "intact": 4
-    }
-  },
-  "allah": {
-    "total": 4,
-    "forms": {
-      "allah": 4
-    }
-  },
-  "slowpoke": {
-    "total": 4,
-    "forms": {
-      "slowpokes": 2,
-      "slowpoke": 2
-    }
-  },
-  "vandal": {
-    "total": 4,
-    "forms": {
-      "vandal": 2,
-      "vandals": 2
-    }
-  },
-  "polly": {
-    "total": 4,
-    "forms": {
-      "polly": 4
-    }
-  },
-  "gracious": {
-    "total": 4,
-    "forms": {
-      "gracious": 4
-    }
-  },
-  "liege": {
-    "total": 4,
-    "forms": {
-      "liege": 4
-    }
-  },
-  "taunt": {
-    "total": 4,
-    "forms": {
-      "taunting": 2,
-      "taunt": 1,
-      "taunts": 1
-    }
-  },
-  "fig": {
-    "total": 4,
-    "forms": {
-      "figs": 3,
-      "fig": 1
-    }
-  },
-  "necklace": {
-    "total": 4,
-    "forms": {
-      "necklace": 4
-    }
-  },
-  "waitin": {
-    "total": 4,
-    "forms": {
-      "waitin": 4
-    }
-  },
   "learner": {
     "total": 4,
     "forms": {
@@ -654,6 +565,96 @@
     "forms": {
       "ecosystem": 2,
       "ecosystems": 2
+    }
+  },
+  "upsy": {
+    "total": 4,
+    "forms": {
+      "upsy": 4
+    }
+  },
+  "proverb": {
+    "total": 4,
+    "forms": {
+      "proverb": 2,
+      "proverbs": 2
+    }
+  },
+  "fiber": {
+    "total": 4,
+    "forms": {
+      "fiber": 3,
+      "fibers": 1
+    }
+  },
+  "deadline": {
+    "total": 4,
+    "forms": {
+      "deadline": 4
+    }
+  },
+  "syrup": {
+    "total": 4,
+    "forms": {
+      "syrup": 4
+    }
+  },
+  "bog": {
+    "total": 4,
+    "forms": {
+      "bog": 4
+    }
+  },
+  "misjudge": {
+    "total": 4,
+    "forms": {
+      "misjudged": 4
+    }
+  },
+  "unfinished": {
+    "total": 4,
+    "forms": {
+      "unfinished": 4
+    }
+  },
+  "dismiss": {
+    "total": 4,
+    "forms": {
+      "dismissed": 4
+    }
+  },
+  "singer": {
+    "total": 4,
+    "forms": {
+      "singer": 4
+    }
+  },
+  "cecilia": {
+    "total": 4,
+    "forms": {
+      "cecilia": 3,
+      "cecilia's": 1
+    },
+    "expansions": {
+      "cecilia's": "cecilia's (possessive)"
+    }
+  },
+  "bien": {
+    "total": 4,
+    "forms": {
+      "bien": 4
+    }
+  },
+  "dios": {
+    "total": 4,
+    "forms": {
+      "dios": 4
+    }
+  },
+  "padre": {
+    "total": 4,
+    "forms": {
+      "padre": 4
     }
   }
 }

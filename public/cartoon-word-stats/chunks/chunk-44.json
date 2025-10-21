@@ -1,95 +1,4 @@
 {
-  "bun": {
-    "total": 7,
-    "forms": {
-      "buns": 7
-    }
-  },
-  "blessing": {
-    "total": 7,
-    "forms": {
-      "blessings": 7
-    }
-  },
-  "backstage": {
-    "total": 7,
-    "forms": {
-      "backstage": 7
-    }
-  },
-  "footprint": {
-    "total": 7,
-    "forms": {
-      "footprint": 6,
-      "footprints": 1
-    }
-  },
-  "fiesta": {
-    "total": 7,
-    "forms": {
-      "fiesta": 7
-    }
-  },
-  "differently": {
-    "total": 7,
-    "forms": {
-      "differently": 7
-    }
-  },
-  "stalk": {
-    "total": 7,
-    "forms": {
-      "stalk": 3,
-      "stalking": 2,
-      "stalked": 1,
-      "stalks": 1
-    }
-  },
-  "lovat": {
-    "total": 7,
-    "forms": {
-      "lovat": 7
-    }
-  },
-  "wyborne": {
-    "total": 7,
-    "forms": {
-      "wyborne": 7
-    }
-  },
-  "saddle": {
-    "total": 7,
-    "forms": {
-      "saddles": 3,
-      "saddled": 2,
-      "saddle": 2
-    }
-  },
-  "jones": {
-    "total": 7,
-    "forms": {
-      "jones": 7
-    }
-  },
-  "slime": {
-    "total": 7,
-    "forms": {
-      "slime": 7
-    }
-  },
-  "april": {
-    "total": 7,
-    "forms": {
-      "april": 7
-    }
-  },
-  "giraffe": {
-    "total": 7,
-    "forms": {
-      "giraffe": 6,
-      "giraffes": 1
-    }
-  },
   "gentleman": {
     "total": 7,
     "forms": {
@@ -670,6 +579,105 @@
     "total": 7,
     "forms": {
       "kelp": 7
+    }
+  },
+  "eyeball": {
+    "total": 7,
+    "forms": {
+      "eyeball": 4,
+      "eyeballs": 2,
+      "eyeballed": 1
+    }
+  },
+  "tyre": {
+    "total": 7,
+    "forms": {
+      "tyres": 7
+    }
+  },
+  "seagull": {
+    "total": 7,
+    "forms": {
+      "seagulls": 6,
+      "seagull": 1
+    }
+  },
+  "wiggle": {
+    "total": 7,
+    "forms": {
+      "wiggle": 4,
+      "wiggling": 2,
+      "wiggles": 1
+    }
+  },
+  "auntie": {
+    "total": 7,
+    "forms": {
+      "auntie": 5,
+      "aunties": 2
+    }
+  },
+  "frustrate": {
+    "total": 7,
+    "forms": {
+      "frustrating": 6,
+      "frustrated": 1
+    }
+  },
+  "meanwhile": {
+    "total": 7,
+    "forms": {
+      "meanwhile": 7
+    }
+  },
+  "shi": {
+    "total": 7,
+    "forms": {
+      "shi": 7
+    }
+  },
+  "homeward": {
+    "total": 7,
+    "forms": {
+      "homeward": 7
+    }
+  },
+  "isle": {
+    "total": 7,
+    "forms": {
+      "isles": 4,
+      "isle": 3
+    }
+  },
+  "leather": {
+    "total": 7,
+    "forms": {
+      "leather": 6,
+      "leathers": 1
+    }
+  },
+  "sore": {
+    "total": 7,
+    "forms": {
+      "sore": 5,
+      "sores": 2
+    }
+  },
+  "ler": {
+    "total": 7,
+    "forms": {
+      "ler": 6,
+      "ler's": 1
+    },
+    "expansions": {
+      "ler's": "ler's (possessive)"
+    }
+  },
+  "judgment": {
+    "total": 7,
+    "forms": {
+      "judgment": 6,
+      "judgments": 1
     }
   }
 }

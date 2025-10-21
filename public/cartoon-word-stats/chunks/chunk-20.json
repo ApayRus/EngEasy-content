@@ -1,120 +1,4 @@
 {
-  "bike": {
-    "total": 25,
-    "forms": {
-      "bike": 21,
-      "bikes": 2,
-      "biking": 2
-    }
-  },
-  "explorer": {
-    "total": 25,
-    "forms": {
-      "explorer": 14,
-      "explorers": 9,
-      "explorer's": 2
-    },
-    "expansions": {
-      "explorer's": "explorer's (possessive)"
-    }
-  },
-  "edge": {
-    "total": 25,
-    "forms": {
-      "edge": 22,
-      "edges": 2,
-      "edged": 1
-    }
-  },
-  "turtle": {
-    "total": 25,
-    "forms": {
-      "turtles": 13,
-      "turtle": 12
-    }
-  },
-  "vocalise": {
-    "total": 25,
-    "forms": {
-      "vocalising": 23,
-      "vocalises": 2
-    }
-  },
-  "amazon": {
-    "total": 25,
-    "forms": {
-      "amazon": 25
-    }
-  },
-  "ground": {
-    "total": 25,
-    "forms": {
-      "grounded": 17,
-      "grounds": 8
-    }
-  },
-  "cone": {
-    "total": 25,
-    "forms": {
-      "cone": 21,
-      "cones": 4
-    }
-  },
-  "subject": {
-    "total": 25,
-    "forms": {
-      "subject": 19,
-      "subjects": 6
-    }
-  },
-  "tame": {
-    "total": 25,
-    "forms": {
-      "tame": 12,
-      "tamed": 10,
-      "taming": 3
-    }
-  },
-  "huntrix": {
-    "total": 25,
-    "forms": {
-      "huntrix": 24,
-      "huntrix's": 1
-    },
-    "expansions": {
-      "huntrix's": "huntrix's (possessive)"
-    }
-  },
-  "temple": {
-    "total": 25,
-    "forms": {
-      "temple": 22,
-      "temples": 2,
-      "temple's": 1
-    },
-    "expansions": {
-      "temple's": "temple's (possessive)"
-    }
-  },
-  "momma": {
-    "total": 25,
-    "forms": {
-      "momma": 22,
-      "momma's": 3
-    },
-    "expansions": {
-      "momma's": "momma's (possessive)"
-    }
-  },
-  "mentor": {
-    "total": 25,
-    "forms": {
-      "mentor": 16,
-      "mentors": 6,
-      "mentoring": 2,
-      "mentored": 1
-    }
-  },
   "england": {
     "total": 25,
     "forms": {
@@ -526,16 +410,6 @@
       "gobber's": "gobber's (possessive)"
     }
   },
-  "violet": {
-    "total": 24,
-    "forms": {
-      "violet": 21,
-      "violet's": 3
-    },
-    "expansions": {
-      "violet's": "violet's (possessive)"
-    }
-  },
   "core": {
     "total": 24,
     "forms": {
@@ -591,6 +465,16 @@
     "total": 24,
     "forms": {
       "infinity": 24
+    }
+  },
+  "violet": {
+    "total": 24,
+    "forms": {
+      "violet": 21,
+      "violet's": 3
+    },
+    "expansions": {
+      "violet's": "violet's (possessive)"
     }
   },
   "zootopia": {
@@ -761,6 +645,113 @@
       "humiliated": 8,
       "humiliate": 3,
       "humiliates": 1
+    }
+  },
+  "butter": {
+    "total": 23,
+    "forms": {
+      "butter": 21,
+      "buttered": 2
+    }
+  },
+  "press": {
+    "total": 23,
+    "forms": {
+      "press": 15,
+      "pressed": 4,
+      "pressing": 4
+    }
+  },
+  "barbie": {
+    "total": 23,
+    "forms": {
+      "barbie": 22,
+      "barbie's": 1
+    },
+    "expansions": {
+      "barbie's": "barbie's (possessive)"
+    }
+  },
+  "clever": {
+    "total": 23,
+    "forms": {
+      "clever": 23
+    }
+  },
+  "bill": {
+    "total": 23,
+    "forms": {
+      "bill": 20,
+      "bills": 3
+    }
+  },
+  "diaper": {
+    "total": 23,
+    "forms": {
+      "diaper": 16,
+      "diapers": 7
+    }
+  },
+  "tape": {
+    "total": 23,
+    "forms": {
+      "tape": 22,
+      "tapes": 1
+    }
+  },
+  "california": {
+    "total": 23,
+    "forms": {
+      "california": 21,
+      "california's": 2
+    },
+    "expansions": {
+      "california's": "california's (possessive)"
+    }
+  },
+  "succeed": {
+    "total": 23,
+    "forms": {
+      "succeed": 17,
+      "succeeded": 4,
+      "succeeds": 2
+    }
+  },
+  "flap": {
+    "total": 23,
+    "forms": {
+      "flap": 10,
+      "flapping": 7,
+      "flaps": 6
+    }
+  },
+  "barry": {
+    "total": 23,
+    "forms": {
+      "barry": 23
+    }
+  },
+  "illegal": {
+    "total": 23,
+    "forms": {
+      "illegal": 23
+    }
+  },
+  "prefer": {
+    "total": 23,
+    "forms": {
+      "prefer": 18,
+      "prefers": 3,
+      "preferred": 2
+    }
+  },
+  "pound": {
+    "total": 23,
+    "forms": {
+      "pound": 10,
+      "pounds": 6,
+      "pounding": 5,
+      "pounded": 2
     }
   }
 }

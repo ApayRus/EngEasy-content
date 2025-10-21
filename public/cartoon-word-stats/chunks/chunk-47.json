@@ -1,98 +1,4 @@
 {
-  "nicker": {
-    "total": 6,
-    "forms": {
-      "nickers": 6
-    }
-  },
-  "slumber": {
-    "total": 6,
-    "forms": {
-      "slumber": 6
-    }
-  },
-  "scoundrel": {
-    "total": 6,
-    "forms": {
-      "scoundrel": 6
-    }
-  },
-  "wit": {
-    "total": 6,
-    "forms": {
-      "wit's": 2,
-      "wit": 2,
-      "wits": 2
-    },
-    "expansions": {
-      "wit's": "wit's (possessive)"
-    }
-  },
-  "cart": {
-    "total": 6,
-    "forms": {
-      "cart": 5,
-      "carting": 1
-    }
-  },
-  "penalty": {
-    "total": 6,
-    "forms": {
-      "penalty": 6
-    }
-  },
-  "tres": {
-    "total": 6,
-    "forms": {
-      "tres": 6
-    }
-  },
-  "possibility": {
-    "total": 6,
-    "forms": {
-      "possibilities": 4,
-      "possibility": 2
-    }
-  },
-  "gawk": {
-    "total": 6,
-    "forms": {
-      "gawk": 5,
-      "gawking": 1
-    }
-  },
-  "warble": {
-    "total": 6,
-    "forms": {
-      "warbling": 3,
-      "warble": 2,
-      "warbles": 1
-    }
-  },
-  "remarkable": {
-    "total": 6,
-    "forms": {
-      "remarkable": 6
-    }
-  },
-  "youth": {
-    "total": 6,
-    "forms": {
-      "youth": 6
-    }
-  },
-  "huzzah": {
-    "total": 6,
-    "forms": {
-      "huzzah": 6
-    }
-  },
-  "goofy": {
-    "total": 6,
-    "forms": {
-      "goofy": 6
-    }
-  },
   "gap": {
     "total": 6,
     "forms": {
@@ -663,6 +569,97 @@
     "total": 6,
     "forms": {
       "mayflower": 6
+    }
+  },
+  "bazooka": {
+    "total": 6,
+    "forms": {
+      "bazooka": 6
+    }
+  },
+  "margot": {
+    "total": 6,
+    "forms": {
+      "margot": 6
+    }
+  },
+  "priority": {
+    "total": 6,
+    "forms": {
+      "priority": 4,
+      "priorities": 2
+    }
+  },
+  "pond": {
+    "total": 6,
+    "forms": {
+      "pond": 6
+    }
+  },
+  "buttock": {
+    "total": 6,
+    "forms": {
+      "buttocks": 6
+    }
+  },
+  "hiyah": {
+    "total": 6,
+    "forms": {
+      "hiyah": 6
+    }
+  },
+  "notch": {
+    "total": 6,
+    "forms": {
+      "notch": 6
+    }
+  },
+  "lump": {
+    "total": 6,
+    "forms": {
+      "lump": 4,
+      "lumps": 2
+    }
+  },
+  "lenny": {
+    "total": 6,
+    "forms": {
+      "lenny": 6
+    }
+  },
+  "coincidence": {
+    "total": 6,
+    "forms": {
+      "coincidence": 6
+    }
+  },
+  "instrumental": {
+    "total": 6,
+    "forms": {
+      "instrumental": 6
+    }
+  },
+  "hattie": {
+    "total": 6,
+    "forms": {
+      "hattie": 5,
+      "hattie's": 1
+    },
+    "expansions": {
+      "hattie's": "hattie's (possessive)"
+    }
+  },
+  "penny": {
+    "total": 6,
+    "forms": {
+      "penny": 4,
+      "pennies": 2
+    }
+  },
+  "leap": {
+    "total": 6,
+    "forms": {
+      "leap": 6
     }
   }
 }

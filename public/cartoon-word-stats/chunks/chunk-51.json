@@ -1,67 +1,4 @@
 {
-  "essay": {
-    "total": 6,
-    "forms": {
-      "essay": 6
-    }
-  },
-  "jess": {
-    "total": 6,
-    "forms": {
-      "jess": 6
-    }
-  },
-  "india": {
-    "total": 6,
-    "forms": {
-      "india": 6
-    }
-  },
-  "puberty": {
-    "total": 6,
-    "forms": {
-      "puberty": 6
-    }
-  },
-  "syndrome": {
-    "total": 6,
-    "forms": {
-      "syndrome": 3,
-      "syndrome's": 3
-    },
-    "expansions": {
-      "syndrome's": "syndrome's (possessive)"
-    }
-  },
-  "probe": {
-    "total": 6,
-    "forms": {
-      "probe": 4,
-      "probe's": 2
-    },
-    "expansions": {
-      "probe's": "probe's (possessive)"
-    }
-  },
-  "disengage": {
-    "total": 6,
-    "forms": {
-      "disengage": 6
-    }
-  },
-  "hebrew": {
-    "total": 6,
-    "forms": {
-      "hebrews": 4,
-      "hebrew": 2
-    }
-  },
-  "yar": {
-    "total": 6,
-    "forms": {
-      "yar": 6
-    }
-  },
   "smidge": {
     "total": 6,
     "forms": {
@@ -129,27 +66,10 @@
       "galactic": 6
     }
   },
-  "spaceman": {
-    "total": 6,
-    "forms": {
-      "spaceman": 5,
-      "spaceman's": 1
-    },
-    "expansions": {
-      "spaceman's": "spaceman's (possessive)"
-    }
-  },
   "hyperdrive": {
     "total": 6,
     "forms": {
       "hyperdrive": 6
-    }
-  },
-  "asteroid": {
-    "total": 6,
-    "forms": {
-      "asteroid": 3,
-      "asteroids": 3
     }
   },
   "oncie": {
@@ -164,12 +84,6 @@
       "rv": 6
     }
   },
-  "highway": {
-    "total": 6,
-    "forms": {
-      "highway": 6
-    }
-  },
   "thunderstruck": {
     "total": 6,
     "forms": {
@@ -180,12 +94,6 @@
     "total": 6,
     "forms": {
       "bart": 6
-    }
-  },
-  "shuttle": {
-    "total": 6,
-    "forms": {
-      "shuttle": 6
     }
   },
   "hannah": {
@@ -236,12 +144,6 @@
     },
     "expansions": {
       "nangi's": "nangi's (possessive)"
-    }
-  },
-  "pang": {
-    "total": 6,
-    "forms": {
-      "pang": 6
     }
   },
   "arabian": {
@@ -654,6 +556,100 @@
     "forms": {
       "vent": 3,
       "vents": 2
+    }
+  },
+  "mustard": {
+    "total": 5,
+    "forms": {
+      "mustard": 5
+    }
+  },
+  "ideal": {
+    "total": 5,
+    "forms": {
+      "ideals": 3,
+      "ideal": 2
+    }
+  },
+  "evolve": {
+    "total": 5,
+    "forms": {
+      "evolved": 4,
+      "evolving": 1
+    }
+  },
+  "thinkquanauts": {
+    "total": 5,
+    "forms": {
+      "thinkquanauts": 5
+    }
+  },
+  "containment": {
+    "total": 5,
+    "forms": {
+      "containment": 5
+    }
+  },
+  "skedaddle": {
+    "total": 5,
+    "forms": {
+      "skedaddle": 5
+    }
+  },
+  "fret": {
+    "total": 5,
+    "forms": {
+      "fret": 5
+    }
+  },
+  "beginner": {
+    "total": 5,
+    "forms": {
+      "beginner": 2,
+      "beginner's": 2,
+      "beginners": 1
+    },
+    "expansions": {
+      "beginner's": "beginner's (possessive)"
+    }
+  },
+  "pod": {
+    "total": 5,
+    "forms": {
+      "pod": 4,
+      "pods": 1
+    }
+  },
+  "cube": {
+    "total": 5,
+    "forms": {
+      "cube": 3,
+      "cubes": 2
+    }
+  },
+  "deliverator": {
+    "total": 5,
+    "forms": {
+      "deliverator": 5
+    }
+  },
+  "photograph": {
+    "total": 5,
+    "forms": {
+      "photograph": 5
+    }
+  },
+  "juicy": {
+    "total": 5,
+    "forms": {
+      "juicy": 5
+    }
+  },
+  "melon": {
+    "total": 5,
+    "forms": {
+      "melon": 3,
+      "melons": 2
     }
   }
 }

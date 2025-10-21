@@ -1,101 +1,4 @@
 {
-  "pea": {
-    "total": 9,
-    "forms": {
-      "pea": 5,
-      "peas": 4
-    }
-  },
-  "jell": {
-    "total": 9,
-    "forms": {
-      "jell": 9
-    }
-  },
-  "fold": {
-    "total": 9,
-    "forms": {
-      "fold": 4,
-      "folded": 3,
-      "folding": 1,
-      "folds": 1
-    }
-  },
-  "gummi": {
-    "total": 9,
-    "forms": {
-      "gummi": 9
-    }
-  },
-  "activity": {
-    "total": 9,
-    "forms": {
-      "activity": 8,
-      "activities": 1
-    }
-  },
-  "bail": {
-    "total": 9,
-    "forms": {
-      "bail": 7,
-      "bailing": 2
-    }
-  },
-  "pasta": {
-    "total": 9,
-    "forms": {
-      "pasta": 9
-    }
-  },
-  "several": {
-    "total": 9,
-    "forms": {
-      "several": 9
-    }
-  },
-  "doc": {
-    "total": 9,
-    "forms": {
-      "doc": 9
-    }
-  },
-  "upside": {
-    "total": 9,
-    "forms": {
-      "upside": 7,
-      "upsides": 2
-    }
-  },
-  "unusual": {
-    "total": 9,
-    "forms": {
-      "unusual": 9
-    }
-  },
-  "talented": {
-    "total": 9,
-    "forms": {
-      "talented": 9
-    }
-  },
-  "dynamic": {
-    "total": 9,
-    "forms": {
-      "dynamics": 8,
-      "dynamic": 1
-    }
-  },
-  "nation": {
-    "total": 9,
-    "forms": {
-      "nation": 7,
-      "nations": 1,
-      "nation's": 1
-    },
-    "expansions": {
-      "nation's": "nation's (possessive)"
-    }
-  },
   "thinkquanaut": {
     "total": 9,
     "forms": {
@@ -684,6 +587,104 @@
     "total": 9,
     "forms": {
       "klaus": 9
+    }
+  },
+  "del": {
+    "total": 9,
+    "forms": {
+      "del": 9
+    }
+  },
+  "multiply": {
+    "total": 9,
+    "forms": {
+      "multiplied": 3,
+      "multiply": 3,
+      "multiplying": 3
+    }
+  },
+  "morro": {
+    "total": 9,
+    "forms": {
+      "morro": 9
+    }
+  },
+  "squirt": {
+    "total": 9,
+    "forms": {
+      "squirt": 8,
+      "squirting": 1
+    }
+  },
+  "female": {
+    "total": 9,
+    "forms": {
+      "female": 9
+    }
+  },
+  "tang": {
+    "total": 9,
+    "forms": {
+      "tang": 7,
+      "tangs": 2
+    }
+  },
+  "consume": {
+    "total": 9,
+    "forms": {
+      "consumed": 4,
+      "consumes": 2,
+      "consume": 2,
+      "consuming": 1
+    }
+  },
+  "recess": {
+    "total": 9,
+    "forms": {
+      "recess": 9
+    }
+  },
+  "unforgettable": {
+    "total": 9,
+    "forms": {
+      "unforgettable": 9
+    }
+  },
+  "darla": {
+    "total": 9,
+    "forms": {
+      "darla": 8,
+      "darla's": 1
+    },
+    "expansions": {
+      "darla's": "darla's (possessive)"
+    }
+  },
+  "gee": {
+    "total": 9,
+    "forms": {
+      "gee": 9
+    }
+  },
+  "raar": {
+    "total": 9,
+    "forms": {
+      "raar": 9
+    }
+  },
+  "impression": {
+    "total": 9,
+    "forms": {
+      "impression": 6,
+      "impressions": 3
+    }
+  },
+  "trench": {
+    "total": 9,
+    "forms": {
+      "trench": 6,
+      "trenches": 2,
+      "trenching": 1
     }
   }
 }

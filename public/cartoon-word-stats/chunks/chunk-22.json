@@ -1,111 +1,4 @@
 {
-  "advice": {
-    "total": 22,
-    "forms": {
-      "advice": 22
-    }
-  },
-  "footstep": {
-    "total": 22,
-    "forms": {
-      "footsteps": 22
-    }
-  },
-  "prophecy": {
-    "total": 22,
-    "forms": {
-      "prophecy": 19,
-      "prophecies": 2,
-      "prophecy's": 1
-    },
-    "expansions": {
-      "prophecy's": "prophecy's (possessive)"
-    }
-  },
-  "aunt": {
-    "total": 22,
-    "forms": {
-      "aunt": 20,
-      "aunts": 1,
-      "aunt's": 1
-    },
-    "expansions": {
-      "aunt's": "aunt's (possessive)"
-    }
-  },
-  "cure": {
-    "total": 22,
-    "forms": {
-      "cure": 14,
-      "cured": 5,
-      "cures": 2,
-      "curing": 1
-    }
-  },
-  "specie": {
-    "total": 22,
-    "forms": {
-      "species": 22
-    }
-  },
-  "farmer": {
-    "total": 22,
-    "forms": {
-      "farmers": 14,
-      "farmer": 8
-    }
-  },
-  "phase": {
-    "total": 22,
-    "forms": {
-      "phase": 22
-    }
-  },
-  "poppa": {
-    "total": 22,
-    "forms": {
-      "poppa": 22
-    }
-  },
-  "goin": {
-    "total": 22,
-    "forms": {
-      "goin": 22
-    }
-  },
-  "moo": {
-    "total": 22,
-    "forms": {
-      "moo": 11,
-      "mooing": 7,
-      "moos": 4
-    }
-  },
-  "pony": {
-    "total": 22,
-    "forms": {
-      "pony": 16,
-      "ponies": 5,
-      "pony's": 1
-    },
-    "expansions": {
-      "pony's": "pony's (possessive)"
-    }
-  },
-  "jenny": {
-    "total": 22,
-    "forms": {
-      "jenny": 22
-    }
-  },
-  "honour": {
-    "total": 22,
-    "forms": {
-      "honour": 19,
-      "honoured": 2,
-      "honouring": 1
-    }
-  },
   "fin": {
     "total": 22,
     "forms": {
@@ -135,17 +28,6 @@
       "naps": 1
     }
   },
-  "battery": {
-    "total": 22,
-    "forms": {
-      "batteries": 16,
-      "battery": 4,
-      "battery's": 2
-    },
-    "expansions": {
-      "battery's": "battery's (possessive)"
-    }
-  },
   "concert": {
     "total": 22,
     "forms": {
@@ -161,6 +43,17 @@
     "total": 22,
     "forms": {
       "rio": 22
+    }
+  },
+  "battery": {
+    "total": 22,
+    "forms": {
+      "batteries": 16,
+      "battery": 4,
+      "battery's": 2
+    },
+    "expansions": {
+      "battery's": "battery's (possessive)"
     }
   },
   "mantis": {
@@ -180,6 +73,12 @@
     "forms": {
       "male": 21,
       "males": 1
+    }
+  },
+  "moana": {
+    "total": 22,
+    "forms": {
+      "moana": 22
     }
   },
   "mushu": {
@@ -243,6 +142,12 @@
       "wizzie": 22
     }
   },
+  "marcos": {
+    "total": 22,
+    "forms": {
+      "marcos": 22
+    }
+  },
   "arlo": {
     "total": 22,
     "forms": {
@@ -276,18 +181,6 @@
     "total": 22,
     "forms": {
       "pangur": 22
-    }
-  },
-  "moana": {
-    "total": 22,
-    "forms": {
-      "moana": 22
-    }
-  },
-  "marcos": {
-    "total": 22,
-    "forms": {
-      "marcos": 22
     }
   },
   "nearly": {
@@ -758,6 +651,107 @@
     },
     "expansions": {
       "randall's": "randall's (possessive)"
+    }
+  },
+  "oozma": {
+    "total": 21,
+    "forms": {
+      "oozma": 21
+    }
+  },
+  "ch": {
+    "total": 21,
+    "forms": {
+      "ch": 21
+    }
+  },
+  "talon": {
+    "total": 21,
+    "forms": {
+      "talon": 18,
+      "talons": 3
+    }
+  },
+  "slink": {
+    "total": 21,
+    "forms": {
+      "slink": 21
+    }
+  },
+  "bluster": {
+    "total": 21,
+    "forms": {
+      "bluster": 19,
+      "bluster's": 2
+    },
+    "expansions": {
+      "bluster's": "bluster's (possessive)"
+    }
+  },
+  "unikitty": {
+    "total": 21,
+    "forms": {
+      "unikitty": 21
+    }
+  },
+  "otterton": {
+    "total": 21,
+    "forms": {
+      "otterton": 20,
+      "otterton's": 1
+    },
+    "expansions": {
+      "otterton's": "otterton's (possessive)"
+    }
+  },
+  "reward": {
+    "total": 20,
+    "forms": {
+      "reward": 18,
+      "rewarded": 2
+    }
+  },
+  "humble": {
+    "total": 20,
+    "forms": {
+      "humble": 16,
+      "humblest": 2,
+      "humbling": 2
+    }
+  },
+  "grumble": {
+    "total": 20,
+    "forms": {
+      "grumbles": 11,
+      "grumbling": 8,
+      "grumble": 1
+    }
+  },
+  "desperate": {
+    "total": 20,
+    "forms": {
+      "desperate": 20
+    }
+  },
+  "whine": {
+    "total": 20,
+    "forms": {
+      "whines": 11,
+      "whining": 7,
+      "whine": 2
+    }
+  },
+  "official": {
+    "total": 20,
+    "forms": {
+      "official": 19,
+      "officials": 1
+    }
+  },
+  "sire": {
+    "total": 20,
+    "forms": {
+      "sire": 20
     }
   }
 }

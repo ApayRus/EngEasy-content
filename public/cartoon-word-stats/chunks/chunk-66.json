@@ -1,97 +1,4 @@
 {
-  "crivens": {
-    "total": 3,
-    "forms": {
-      "crivens": 3
-    }
-  },
-  "noggin": {
-    "total": 3,
-    "forms": {
-      "noggin": 3
-    }
-  },
-  "carver": {
-    "total": 3,
-    "forms": {
-      "carver": 3
-    }
-  },
-  "topper": {
-    "total": 3,
-    "forms": {
-      "topper": 2,
-      "toppers": 1
-    }
-  },
-  "cellar": {
-    "total": 3,
-    "forms": {
-      "cellar": 3
-    }
-  },
-  "shoelace": {
-    "total": 3,
-    "forms": {
-      "shoelace": 2,
-      "shoelaces": 1
-    }
-  },
-  "translator": {
-    "total": 3,
-    "forms": {
-      "translator": 3
-    }
-  },
-  "ratbirds": {
-    "total": 3,
-    "forms": {
-      "ratbirds": 3
-    }
-  },
-  "atlantic": {
-    "total": 3,
-    "forms": {
-      "atlantic": 3
-    }
-  },
-  "mutation": {
-    "total": 3,
-    "forms": {
-      "mutation": 3
-    }
-  },
-  "thingies": {
-    "total": 3,
-    "forms": {
-      "thingies": 3
-    }
-  },
-  "lens": {
-    "total": 3,
-    "forms": {
-      "lens": 3
-    }
-  },
-  "forecast": {
-    "total": 3,
-    "forms": {
-      "forecast": 2,
-      "forecasting": 1
-    }
-  },
-  "jellybeans": {
-    "total": 3,
-    "forms": {
-      "jellybeans": 3
-    }
-  },
-  "fisherman": {
-    "total": 3,
-    "forms": {
-      "fisherman": 3
-    }
-  },
   "overwork": {
     "total": 3,
     "forms": {
@@ -634,6 +541,98 @@
     "forms": {
       "mush": 2,
       "mushed": 1
+    }
+  },
+  "transition": {
+    "total": 3,
+    "forms": {
+      "transition": 2,
+      "transitioning": 1
+    }
+  },
+  "smug": {
+    "total": 3,
+    "forms": {
+      "smug": 3
+    }
+  },
+  "gym": {
+    "total": 3,
+    "forms": {
+      "gym": 3
+    }
+  },
+  "vinci": {
+    "total": 3,
+    "forms": {
+      "vinci": 3
+    }
+  },
+  "snuggle": {
+    "total": 3,
+    "forms": {
+      "snuggle": 3
+    }
+  },
+  "gurgle": {
+    "total": 3,
+    "forms": {
+      "gurgling": 2,
+      "gurgle": 1
+    }
+  },
+  "metallic": {
+    "total": 3,
+    "forms": {
+      "metallic": 3
+    }
+  },
+  "nuclear": {
+    "total": 3,
+    "forms": {
+      "nuclear": 3
+    }
+  },
+  "freedonian": {
+    "total": 3,
+    "forms": {
+      "freedonian": 3
+    }
+  },
+  "policemen": {
+    "total": 3,
+    "forms": {
+      "policemen": 3
+    }
+  },
+  "geronimo": {
+    "total": 3,
+    "forms": {
+      "geronimo": 3
+    }
+  },
+  "getaway": {
+    "total": 3,
+    "forms": {
+      "getaway": 3
+    }
+  },
+  "crucial": {
+    "total": 3,
+    "forms": {
+      "crucial": 3
+    }
+  },
+  "chihuahua": {
+    "total": 3,
+    "forms": {
+      "chihuahua": 3
+    }
+  },
+  "suitcase": {
+    "total": 3,
+    "forms": {
+      "suitcases": 3
     }
   }
 }

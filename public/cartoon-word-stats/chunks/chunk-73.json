@@ -1,211 +1,4 @@
 {
-  "kobaya": {
-    "total": 3,
-    "forms": {
-      "kobaya": 3
-    }
-  },
-  "william": {
-    "total": 3,
-    "forms": {
-      "william": 3
-    }
-  },
-  "blimey": {
-    "total": 3,
-    "forms": {
-      "blimey": 3
-    }
-  },
-  "wavy": {
-    "total": 3,
-    "forms": {
-      "wavy": 3
-    }
-  },
-  "tortilla": {
-    "total": 3,
-    "forms": {
-      "tortilla": 3
-    }
-  },
-  "noisy": {
-    "total": 3,
-    "forms": {
-      "noisy": 3
-    }
-  },
-  "labato": {
-    "total": 3,
-    "forms": {
-      "labato": 3
-    }
-  },
-  "duper": {
-    "total": 3,
-    "forms": {
-      "duper": 3
-    }
-  },
-  "zodiac": {
-    "total": 3,
-    "forms": {
-      "zodiac": 3
-    }
-  },
-  "rewrite": {
-    "total": 3,
-    "forms": {
-      "rewrite": 3
-    }
-  },
-  "wreak": {
-    "total": 3,
-    "forms": {
-      "wreak": 2,
-      "wreaked": 1
-    }
-  },
-  "havoc": {
-    "total": 3,
-    "forms": {
-      "havoc": 3
-    }
-  },
-  "francisco": {
-    "total": 3,
-    "forms": {
-      "francisco": 3
-    }
-  },
-  "pisco": {
-    "total": 3,
-    "forms": {
-      "pisco": 3
-    }
-  },
-  "hermano": {
-    "total": 3,
-    "forms": {
-      "hermano": 3
-    }
-  },
-  "vvhoa": {
-    "total": 3,
-    "forms": {
-      "vvhoa": 3
-    }
-  },
-  "poindexter": {
-    "total": 3,
-    "forms": {
-      "poindexter": 3
-    }
-  },
-  "forgiveness": {
-    "total": 3,
-    "forms": {
-      "forgiveness": 3
-    }
-  },
-  "spurn": {
-    "total": 3,
-    "forms": {
-      "spurn": 2,
-      "spurned": 1
-    }
-  },
-  "kaya": {
-    "total": 3,
-    "forms": {
-      "kaya": 3
-    }
-  },
-  "unclouded": {
-    "total": 3,
-    "forms": {
-      "unclouded": 3
-    }
-  },
-  "sickness": {
-    "total": 3,
-    "forms": {
-      "sickness": 3
-    }
-  },
-  "elk": {
-    "total": 3,
-    "forms": {
-      "elk": 3
-    }
-  },
-  "kodama": {
-    "total": 3,
-    "forms": {
-      "kodama": 3
-    }
-  },
-  "similar": {
-    "total": 3,
-    "forms": {
-      "similar": 3
-    }
-  },
-  "jibashiri": {
-    "total": 3,
-    "forms": {
-      "jibashiri": 3
-    }
-  },
-  "futile": {
-    "total": 3,
-    "forms": {
-      "futile": 3
-    }
-  },
-  "punish": {
-    "total": 3,
-    "forms": {
-      "punished": 3
-    }
-  },
-  "muck": {
-    "total": 3,
-    "forms": {
-      "muck": 2,
-      "mucking": 1
-    }
-  },
-  "plaque": {
-    "total": 3,
-    "forms": {
-      "plaque": 3
-    }
-  },
-  "mornin": {
-    "total": 3,
-    "forms": {
-      "mornin": 3
-    }
-  },
-  "jury": {
-    "total": 3,
-    "forms": {
-      "jury": 3
-    }
-  },
-  "careless": {
-    "total": 3,
-    "forms": {
-      "careless": 3
-    }
-  },
-  "puce": {
-    "total": 3,
-    "forms": {
-      "puce": 3
-    }
-  },
   "insert": {
     "total": 3,
     "forms": {
@@ -242,6 +35,12 @@
     "total": 3,
     "forms": {
       "improv": 3
+    }
+  },
+  "mediocre": {
+    "total": 3,
+    "forms": {
+      "mediocre": 3
     }
   },
   "textbook": {
@@ -339,6 +138,13 @@
     "total": 3,
     "forms": {
       "shao": 3
+    }
+  },
+  "discipline": {
+    "total": 3,
+    "forms": {
+      "discipline": 2,
+      "disciplined": 1
     }
   },
   "chien": {
@@ -484,12 +290,6 @@
       "puxian": 3
     }
   },
-  "vain": {
-    "total": 3,
-    "forms": {
-      "vain": 3
-    }
-  },
   "atrocity": {
     "total": 3,
     "forms": {
@@ -622,6 +422,216 @@
     "total": 3,
     "forms": {
       "ludicrous": 3
+    }
+  },
+  "purge": {
+    "total": 3,
+    "forms": {
+      "purge": 2,
+      "purged": 1
+    }
+  },
+  "deactivate": {
+    "total": 3,
+    "forms": {
+      "deactivate": 2,
+      "deactivating": 1
+    }
+  },
+  "freshly": {
+    "total": 3,
+    "forms": {
+      "freshly": 3
+    }
+  },
+  "doris": {
+    "total": 3,
+    "forms": {
+      "doris": 3
+    }
+  },
+  "despise": {
+    "total": 3,
+    "forms": {
+      "despise": 3
+    }
+  },
+  "immeasurable": {
+    "total": 3,
+    "forms": {
+      "immeasurable": 3
+    }
+  },
+  "majestic": {
+    "total": 3,
+    "forms": {
+      "majestic": 3
+    }
+  },
+  "irrelevant": {
+    "total": 3,
+    "forms": {
+      "irrelevant": 3
+    }
+  },
+  "flamenco": {
+    "total": 3,
+    "forms": {
+      "flamenco": 3
+    }
+  },
+  "frijol": {
+    "total": 3,
+    "forms": {
+      "frijoles": 3
+    }
+  },
+  "aa": {
+    "total": 3,
+    "forms": {
+      "aa": 3
+    }
+  },
+  "beanstalk": {
+    "total": 3,
+    "forms": {
+      "beanstalk": 3
+    }
+  },
+  "playful": {
+    "total": 3,
+    "forms": {
+      "playful": 3
+    }
+  },
+  "ihuevos": {
+    "total": 3,
+    "forms": {
+      "ihuevos": 3
+    }
+  },
+  "catnip": {
+    "total": 3,
+    "forms": {
+      "catnip": 3
+    }
+  },
+  "peasant": {
+    "total": 3,
+    "forms": {
+      "peasant": 2,
+      "peasants": 1
+    }
+  },
+  "convenient": {
+    "total": 3,
+    "forms": {
+      "convenient": 3
+    }
+  },
+  "leech": {
+    "total": 3,
+    "forms": {
+      "leeches": 3
+    }
+  },
+  "gazpacho": {
+    "total": 3,
+    "forms": {
+      "gazpacho": 3
+    }
+  },
+  "tabby": {
+    "total": 3,
+    "forms": {
+      "tabby": 2,
+      "tabby's": 1
+    },
+    "expansions": {
+      "tabby's": "tabby's (possessive)"
+    }
+  },
+  "centipede": {
+    "total": 3,
+    "forms": {
+      "centipede": 2,
+      "centipedes": 1
+    }
+  },
+  "doke": {
+    "total": 3,
+    "forms": {
+      "doke": 3
+    }
+  },
+  "missus": {
+    "total": 3,
+    "forms": {
+      "missus": 3
+    }
+  },
+  "poofy": {
+    "total": 3,
+    "forms": {
+      "poofy": 3
+    }
+  },
+  "rebirth": {
+    "total": 3,
+    "forms": {
+      "rebirth": 3
+    }
+  },
+  "jumpy": {
+    "total": 3,
+    "forms": {
+      "jumpy": 3
+    }
+  },
+  "cinderella": {
+    "total": 3,
+    "forms": {
+      "cinderella": 3
+    }
+  },
+  "lottery": {
+    "total": 3,
+    "forms": {
+      "lottery": 3
+    }
+  },
+  "hasta": {
+    "total": 3,
+    "forms": {
+      "hasta": 3
+    }
+  },
+  "chomper": {
+    "total": 3,
+    "forms": {
+      "chomper": 3
+    }
+  },
+  "tron": {
+    "total": 3,
+    "forms": {
+      "tron": 3
+    }
+  },
+  "calhoun": {
+    "total": 3,
+    "forms": {
+      "calhoun": 2,
+      "calhoun's": 1
+    },
+    "expansions": {
+      "calhoun's": "calhoun's (possessive)"
+    }
+  },
+  "swati": {
+    "total": 3,
+    "forms": {
+      "swati": 3
     }
   }
 }

@@ -1,102 +1,4 @@
 {
-  "reveal": {
-    "total": 19,
-    "forms": {
-      "reveal": 9,
-      "reveals": 4,
-      "revealing": 3,
-      "revealed": 3
-    }
-  },
-  "court": {
-    "total": 19,
-    "forms": {
-      "court": 18,
-      "courts": 1
-    }
-  },
-  "ye": {
-    "total": 19,
-    "forms": {
-      "ye": 19
-    }
-  },
-  "conversation": {
-    "total": 19,
-    "forms": {
-      "conversation": 17,
-      "conversations": 2
-    }
-  },
-  "sunrise": {
-    "total": 19,
-    "forms": {
-      "sunrise": 19
-    }
-  },
-  "threaten": {
-    "total": 19,
-    "forms": {
-      "threatening": 8,
-      "threatened": 5,
-      "threaten": 4,
-      "threatens": 2
-    }
-  },
-  "grade": {
-    "total": 19,
-    "forms": {
-      "grade": 15,
-      "grades": 4
-    }
-  },
-  "gray": {
-    "total": 19,
-    "forms": {
-      "gray": 19
-    }
-  },
-  "steak": {
-    "total": 19,
-    "forms": {
-      "steak": 18,
-      "steaks": 1
-    }
-  },
-  "connect": {
-    "total": 19,
-    "forms": {
-      "connected": 11,
-      "connect": 6,
-      "connecting": 2
-    }
-  },
-  "favourite": {
-    "total": 19,
-    "forms": {
-      "favourite": 16,
-      "favourites": 3
-    }
-  },
-  "public": {
-    "total": 19,
-    "forms": {
-      "public": 19
-    }
-  },
-  "greeting": {
-    "total": 19,
-    "forms": {
-      "greetings": 19
-    }
-  },
-  "bucket": {
-    "total": 19,
-    "forms": {
-      "bucket": 18,
-      "buckets": 1
-    }
-  },
   "french": {
     "total": 19,
     "forms": {
@@ -495,6 +397,12 @@
       "quartered": 2
     }
   },
+  "crane": {
+    "total": 19,
+    "forms": {
+      "crane": 19
+    }
+  },
   "jet": {
     "total": 19,
     "forms": {
@@ -504,12 +412,6 @@
     },
     "expansions": {
       "jet's": "jet's (possessive)"
-    }
-  },
-  "crane": {
-    "total": 19,
-    "forms": {
-      "crane": 19
     }
   },
   "dummy": {
@@ -711,6 +613,112 @@
       "gobble": 7,
       "gobbles": 6,
       "gobbling": 5
+    }
+  },
+  "clan": {
+    "total": 18,
+    "forms": {
+      "clan": 13,
+      "clans": 4,
+      "clan's": 1
+    },
+    "expansions": {
+      "clan's": "clan's (possessive)"
+    }
+  },
+  "dessert": {
+    "total": 18,
+    "forms": {
+      "dessert": 17,
+      "desserts": 1
+    }
+  },
+  "naked": {
+    "total": 18,
+    "forms": {
+      "naked": 18
+    }
+  },
+  "reserve": {
+    "total": 18,
+    "forms": {
+      "reserve": 14,
+      "reserved": 3,
+      "reserves": 1
+    }
+  },
+  "exhibit": {
+    "total": 18,
+    "forms": {
+      "exhibit": 15,
+      "exhibits": 3
+    }
+  },
+  "motion": {
+    "total": 18,
+    "forms": {
+      "motion": 16,
+      "motions": 2
+    }
+  },
+  "turkey": {
+    "total": 18,
+    "forms": {
+      "turkey": 17,
+      "turkeys": 1
+    }
+  },
+  "earl": {
+    "total": 18,
+    "forms": {
+      "earl": 18
+    }
+  },
+  "nail": {
+    "total": 18,
+    "forms": {
+      "nailed": 11,
+      "nails": 4,
+      "nail": 3
+    }
+  },
+  "mount": {
+    "total": 18,
+    "forms": {
+      "mount": 13,
+      "mounts": 3,
+      "mounting": 2
+    }
+  },
+  "eastern": {
+    "total": 18,
+    "forms": {
+      "eastern": 18
+    }
+  },
+  "pilot": {
+    "total": 18,
+    "forms": {
+      "pilot": 16,
+      "pilot's": 1,
+      "piloting": 1
+    },
+    "expansions": {
+      "pilot's": "pilot's (possessive)"
+    }
+  },
+  "crap": {
+    "total": 18,
+    "forms": {
+      "crap": 18
+    }
+  },
+  "assist": {
+    "total": 18,
+    "forms": {
+      "assist": 13,
+      "assisting": 4,
+      "assisted": 1
     }
   }
 }

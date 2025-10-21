@@ -1,94 +1,4 @@
 {
-  "sister": {
-    "total": 156,
-    "forms": {
-      "sister": 105,
-      "sisters": 36,
-      "sister's": 15
-    },
-    "expansions": {
-      "sister's": "sister's (possessive)"
-    }
-  },
-  "protect": {
-    "total": 156,
-    "forms": {
-      "protect": 117,
-      "protecting": 15,
-      "protects": 13,
-      "protected": 11
-    }
-  },
-  "bos": {
-    "total": 155,
-    "forms": {
-      "boss": 155
-    }
-  },
-  "cute": {
-    "total": 155,
-    "forms": {
-      "cute": 152,
-      "cuter": 3
-    }
-  },
-  "mess": {
-    "total": 154,
-    "forms": {
-      "mess": 97,
-      "messed": 31,
-      "messing": 20,
-      "messes": 6
-    }
-  },
-  "bark": {
-    "total": 154,
-    "forms": {
-      "barking": 98,
-      "bark": 28,
-      "barks": 28
-    }
-  },
-  "po": {
-    "total": 154,
-    "forms": {
-      "po": 148,
-      "po's": 6
-    },
-    "expansions": {
-      "po's": "po's (possessive)"
-    }
-  },
-  "few": {
-    "total": 152,
-    "forms": {
-      "few": 151,
-      "fewer": 1
-    }
-  },
-  "wonder": {
-    "total": 152,
-    "forms": {
-      "wonder": 96,
-      "wondering": 32,
-      "wonders": 20,
-      "wondered": 4
-    }
-  },
-  "aah": {
-    "total": 152,
-    "forms": {
-      "aah": 152
-    }
-  },
-  "top": {
-    "total": 152,
-    "forms": {
-      "top": 145,
-      "tops": 5,
-      "topped": 2
-    }
-  },
   "trouble": {
     "total": 151,
     "forms": {
@@ -312,12 +222,6 @@
       "slowly": 21,
       "slower": 5,
       "slowing": 2
-    }
-  },
-  "its": {
-    "total": 143,
-    "forms": {
-      "its": 143
     }
   },
   "boot": {
@@ -863,6 +767,101 @@
     "forms": {
       "joy": 120,
       "joys": 1
+    }
+  },
+  "fox": {
+    "total": 121,
+    "forms": {
+      "fox": 111,
+      "foxes": 10
+    }
+  },
+  "johnny": {
+    "total": 121,
+    "forms": {
+      "johnny": 114,
+      "johnny's": 7
+    },
+    "expansions": {
+      "johnny's": "johnny's (possessive)"
+    }
+  },
+  "peace": {
+    "total": 120,
+    "forms": {
+      "peace": 120
+    }
+  },
+  "it'll": {
+    "total": 120,
+    "forms": {
+      "it'll": 120
+    }
+  },
+  "somebody": {
+    "total": 120,
+    "forms": {
+      "somebody": 99,
+      "somebody's": 21
+    },
+    "expansions": {
+      "somebody's": "somebody's (possessive)"
+    }
+  },
+  "scary": {
+    "total": 120,
+    "forms": {
+      "scary": 109,
+      "scariest": 9,
+      "scarier": 2
+    }
+  },
+  "shh": {
+    "total": 119,
+    "forms": {
+      "shh": 119
+    }
+  },
+  "beast": {
+    "total": 119,
+    "forms": {
+      "beast": 82,
+      "beasts": 37
+    }
+  },
+  "drop": {
+    "total": 119,
+    "forms": {
+      "drop": 96,
+      "dropped": 15,
+      "dropping": 5,
+      "drops": 3
+    }
+  },
+  "count": {
+    "total": 118,
+    "forms": {
+      "count": 76,
+      "counting": 24,
+      "counts": 10,
+      "count's": 5,
+      "counted": 3
+    },
+    "expansions": {
+      "count's": "count's (possessive)"
+    }
+  },
+  "scare": {
+    "total": 118,
+    "forms": {
+      "scare": 113,
+      "scares": 5
+    }
+  },
+  "ugh": {
+    "total": 118,
+    "forms": {
+      "ugh": 118
     }
   }
 }

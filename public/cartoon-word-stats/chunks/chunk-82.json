@@ -1,103 +1,4 @@
 {
-  "flatter": {
-    "total": 2,
-    "forms": {
-      "flattering": 2
-    }
-  },
-  "affair": {
-    "total": 2,
-    "forms": {
-      "affair": 2
-    }
-  },
-  "headbutt": {
-    "total": 2,
-    "forms": {
-      "headbutting": 1,
-      "headbutt": 1
-    }
-  },
-  "hurl": {
-    "total": 2,
-    "forms": {
-      "hurl": 2
-    }
-  },
-  "overrate": {
-    "total": 2,
-    "forms": {
-      "overrated": 2
-    }
-  },
-  "juan": {
-    "total": 2,
-    "forms": {
-      "juan": 2
-    }
-  },
-  "toll": {
-    "total": 2,
-    "forms": {
-      "tolling": 2
-    }
-  },
-  "expertise": {
-    "total": 2,
-    "forms": {
-      "expertise": 2
-    }
-  },
-  "modesty": {
-    "total": 2,
-    "forms": {
-      "modesty": 2
-    }
-  },
-  "hugeness": {
-    "total": 2,
-    "forms": {
-      "hugeness": 2
-    }
-  },
-  "franken": {
-    "total": 2,
-    "forms": {
-      "franken": 2
-    }
-  },
-  "correction": {
-    "total": 2,
-    "forms": {
-      "correction": 1,
-      "corrections": 1
-    }
-  },
-  "feminine": {
-    "total": 2,
-    "forms": {
-      "feminine": 2
-    }
-  },
-  "beady": {
-    "total": 2,
-    "forms": {
-      "beady": 2
-    }
-  },
-  "quill": {
-    "total": 2,
-    "forms": {
-      "quills": 2
-    }
-  },
-  "ponder": {
-    "total": 2,
-    "forms": {
-      "ponder": 1,
-      "pondered": 1
-    }
-  },
   "flexibility": {
     "total": 2,
     "forms": {
@@ -623,6 +524,111 @@
     "total": 2,
     "forms": {
       "arendellian": 2
+    }
+  },
+  "yelena": {
+    "total": 2,
+    "forms": {
+      "yelena": 2
+    }
+  },
+  "restrict": {
+    "total": 2,
+    "forms": {
+      "restricting": 1,
+      "restricted": 1
+    }
+  },
+  "pulse": {
+    "total": 2,
+    "forms": {
+      "pulses": 1,
+      "pulse": 1
+    }
+  },
+  "unfreeze": {
+    "total": 2,
+    "forms": {
+      "unfreezes": 1,
+      "unfreeze": 1
+    }
+  },
+  "sor": {
+    "total": 2,
+    "forms": {
+      "sor": 2
+    }
+  },
+  "ryder": {
+    "total": 2,
+    "forms": {
+      "ryder": 2
+    }
+  },
+  "complexity": {
+    "total": 2,
+    "forms": {
+      "complexity": 2
+    }
+  },
+  "halima": {
+    "total": 2,
+    "forms": {
+      "halima's": 1,
+      "halima": 1
+    },
+    "expansions": {
+      "halima's": "halima's (possessive)"
+    }
+  },
+  "pitchy": {
+    "total": 2,
+    "forms": {
+      "pitchy": 2
+    }
+  },
+  "iduna": {
+    "total": 2,
+    "forms": {
+      "iduna": 2
+    }
+  },
+  "listener": {
+    "total": 2,
+    "forms": {
+      "listener": 2
+    }
+  },
+  "glacier": {
+    "total": 2,
+    "forms": {
+      "glaciers": 1,
+      "glacier": 1
+    }
+  },
+  "author": {
+    "total": 2,
+    "forms": {
+      "author": 2
+    }
+  },
+  "entitle": {
+    "total": 2,
+    "forms": {
+      "entitled": 2
+    }
+  },
+  "weaken": {
+    "total": 2,
+    "forms": {
+      "weaken": 2
+    }
+  },
+  "wield": {
+    "total": 2,
+    "forms": {
+      "wields": 1,
+      "wield": 1
     }
   }
 }

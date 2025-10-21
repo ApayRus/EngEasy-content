@@ -1,94 +1,4 @@
 {
-  "residential": {
-    "total": 1,
-    "forms": {
-      "residential": 1
-    }
-  },
-  "repossess": {
-    "total": 1,
-    "forms": {
-      "repossessed": 1
-    }
-  },
-  "respectful": {
-    "total": 1,
-    "forms": {
-      "respectful": 1
-    }
-  },
-  "monsterfication": {
-    "total": 1,
-    "forms": {
-      "monsterfication": 1
-    }
-  },
-  "humanness": {
-    "total": 1,
-    "forms": {
-      "humanness": 1
-    }
-  },
-  "locator": {
-    "total": 1,
-    "forms": {
-      "locator": 1
-    }
-  },
-  "spelunk": {
-    "total": 1,
-    "forms": {
-      "spelunking": 1
-    }
-  },
-  "norwegian": {
-    "total": 1,
-    "forms": {
-      "norwegian": 1
-    }
-  },
-  "doubtful": {
-    "total": 1,
-    "forms": {
-      "doubtful": 1
-    }
-  },
-  "gif": {
-    "total": 1,
-    "forms": {
-      "gif": 1
-    }
-  },
-  "turbulence": {
-    "total": 1,
-    "forms": {
-      "turbulence": 1
-    }
-  },
-  "splendor": {
-    "total": 1,
-    "forms": {
-      "splendor": 1
-    }
-  },
-  "monsterness": {
-    "total": 1,
-    "forms": {
-      "monsterness": 1
-    }
-  },
-  "katmatchka": {
-    "total": 1,
-    "forms": {
-      "katmatchka": 1
-    }
-  },
-  "thailand": {
-    "total": 1,
-    "forms": {
-      "thailand": 1
-    }
-  },
   "sunburn": {
     "total": 1,
     "forms": {
@@ -597,6 +507,96 @@
     "total": 1,
     "forms": {
       "conquerors": 1
+    }
+  },
+  "manliness": {
+    "total": 1,
+    "forms": {
+      "manliness": 1
+    }
+  },
+  "norse": {
+    "total": 1,
+    "forms": {
+      "norse": 1
+    }
+  },
+  "craze": {
+    "total": 1,
+    "forms": {
+      "crazed": 1
+    }
+  },
+  "snip": {
+    "total": 1,
+    "forms": {
+      "snip": 1
+    }
+  },
+  "prosthetic": {
+    "total": 1,
+    "forms": {
+      "prosthetic": 1
+    }
+  },
+  "parasitic": {
+    "total": 1,
+    "forms": {
+      "parasitic": 1
+    }
+  },
+  "spank": {
+    "total": 1,
+    "forms": {
+      "spanked": 1
+    }
+  },
+  "harem": {
+    "total": 1,
+    "forms": {
+      "harem": 1
+    }
+  },
+  "forgo": {
+    "total": 1,
+    "forms": {
+      "forgo": 1
+    }
+  },
+  "spook": {
+    "total": 1,
+    "forms": {
+      "spook": 1
+    }
+  },
+  "chieftess": {
+    "total": 1,
+    "forms": {
+      "chieftess": 1
+    }
+  },
+  "clifftops": {
+    "total": 1,
+    "forms": {
+      "clifftops": 1
+    }
+  },
+  "scuttly": {
+    "total": 1,
+    "forms": {
+      "scuttly": 1
+    }
+  },
+  "preposterously": {
+    "total": 1,
+    "forms": {
+      "preposterously": 1
+    }
+  },
+  "folktale": {
+    "total": 1,
+    "forms": {
+      "folktales": 1
     }
   }
 }

@@ -1,111 +1,4 @@
 {
-  "fur": {
-    "total": 28,
-    "forms": {
-      "fur": 28
-    }
-  },
-  "royal": {
-    "total": 28,
-    "forms": {
-      "royal": 26,
-      "royals": 2
-    }
-  },
-  "brush": {
-    "total": 28,
-    "forms": {
-      "brush": 18,
-      "brushed": 6,
-      "brushing": 3,
-      "brushes": 1
-    }
-  },
-  "desert": {
-    "total": 28,
-    "forms": {
-      "desert": 24,
-      "deserted": 3,
-      "deserts": 1
-    }
-  },
-  "clatter": {
-    "total": 28,
-    "forms": {
-      "clattering": 21,
-      "clatters": 7
-    }
-  },
-  "damage": {
-    "total": 28,
-    "forms": {
-      "damage": 18,
-      "damaged": 9,
-      "damages": 1
-    }
-  },
-  "divide": {
-    "total": 28,
-    "forms": {
-      "divided": 21,
-      "divide": 7
-    }
-  },
-  "sake": {
-    "total": 28,
-    "forms": {
-      "sake": 25,
-      "sakes": 3
-    }
-  },
-  "spring": {
-    "total": 28,
-    "forms": {
-      "spring": 23,
-      "springs": 4,
-      "sprung": 1
-    }
-  },
-  "scratch": {
-    "total": 28,
-    "forms": {
-      "scratch": 18,
-      "scratching": 5,
-      "scratched": 3,
-      "scratches": 2
-    }
-  },
-  "paint": {
-    "total": 28,
-    "forms": {
-      "painting": 15,
-      "paint": 8,
-      "painted": 4,
-      "paints": 1
-    }
-  },
-  "van": {
-    "total": 28,
-    "forms": {
-      "van": 27,
-      "vans": 1
-    }
-  },
-  "supreme": {
-    "total": 28,
-    "forms": {
-      "supreme": 28
-    }
-  },
-  "suggest": {
-    "total": 28,
-    "forms": {
-      "suggest": 20,
-      "suggesting": 5,
-      "suggested": 2,
-      "suggests": 1
-    }
-  },
   "grandfather": {
     "total": 28,
     "forms": {
@@ -278,16 +171,6 @@
       "ping": 28
     }
   },
-  "tony": {
-    "total": 28,
-    "forms": {
-      "tony": 27,
-      "tony's": 1
-    },
-    "expansions": {
-      "tony's": "tony's (possessive)"
-    }
-  },
   "dinosaur": {
     "total": 28,
     "forms": {
@@ -316,6 +199,16 @@
     "forms": {
       "glitch": 25,
       "glitches": 3
+    }
+  },
+  "tony": {
+    "total": 28,
+    "forms": {
+      "tony": 27,
+      "tony's": 1
+    },
+    "expansions": {
+      "tony's": "tony's (possessive)"
     }
   },
   "thunk": {
@@ -748,6 +641,112 @@
     "forms": {
       "common": 25,
       "commoner": 1
+    }
+  },
+  "lip": {
+    "total": 26,
+    "forms": {
+      "lips": 22,
+      "lip": 4
+    }
+  },
+  "onto": {
+    "total": 26,
+    "forms": {
+      "onto": 26
+    }
+  },
+  "wee": {
+    "total": 26,
+    "forms": {
+      "wee": 26
+    }
+  },
+  "ancient": {
+    "total": 26,
+    "forms": {
+      "ancient": 26
+    }
+  },
+  "suddenly": {
+    "total": 26,
+    "forms": {
+      "suddenly": 26
+    }
+  },
+  "sardine": {
+    "total": 26,
+    "forms": {
+      "sardine": 14,
+      "sardines": 11,
+      "sardine's": 1
+    },
+    "expansions": {
+      "sardine's": "sardine's (possessive)"
+    }
+  },
+  "weirdo": {
+    "total": 26,
+    "forms": {
+      "weirdo": 21,
+      "weirdos": 5
+    }
+  },
+  "hook": {
+    "total": 26,
+    "forms": {
+      "hook": 18,
+      "hooked": 4,
+      "hooks": 3,
+      "hooking": 1
+    }
+  },
+  "local": {
+    "total": 26,
+    "forms": {
+      "local": 20,
+      "locals": 6
+    }
+  },
+  "whip": {
+    "total": 26,
+    "forms": {
+      "whip": 18,
+      "whipped": 6,
+      "whipping": 2
+    }
+  },
+  "indeed": {
+    "total": 26,
+    "forms": {
+      "indeed": 26
+    }
+  },
+  "rainbow": {
+    "total": 26,
+    "forms": {
+      "rainbow": 16,
+      "rainbows": 10
+    }
+  },
+  "coward": {
+    "total": 26,
+    "forms": {
+      "coward": 21,
+      "cowards": 4,
+      "coward's": 1
+    },
+    "expansions": {
+      "coward's": "coward's (possessive)"
+    }
+  },
+  "tickle": {
+    "total": 26,
+    "forms": {
+      "tickle": 14,
+      "tickles": 8,
+      "tickling": 2,
+      "tickled": 2
     }
   }
 }

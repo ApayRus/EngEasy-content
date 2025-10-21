@@ -1,95 +1,4 @@
 {
-  "bazooka": {
-    "total": 6,
-    "forms": {
-      "bazooka": 6
-    }
-  },
-  "margot": {
-    "total": 6,
-    "forms": {
-      "margot": 6
-    }
-  },
-  "priority": {
-    "total": 6,
-    "forms": {
-      "priority": 4,
-      "priorities": 2
-    }
-  },
-  "pond": {
-    "total": 6,
-    "forms": {
-      "pond": 6
-    }
-  },
-  "buttock": {
-    "total": 6,
-    "forms": {
-      "buttocks": 6
-    }
-  },
-  "hiyah": {
-    "total": 6,
-    "forms": {
-      "hiyah": 6
-    }
-  },
-  "notch": {
-    "total": 6,
-    "forms": {
-      "notch": 6
-    }
-  },
-  "lump": {
-    "total": 6,
-    "forms": {
-      "lump": 4,
-      "lumps": 2
-    }
-  },
-  "lenny": {
-    "total": 6,
-    "forms": {
-      "lenny": 6
-    }
-  },
-  "coincidence": {
-    "total": 6,
-    "forms": {
-      "coincidence": 6
-    }
-  },
-  "instrumental": {
-    "total": 6,
-    "forms": {
-      "instrumental": 6
-    }
-  },
-  "hattie": {
-    "total": 6,
-    "forms": {
-      "hattie": 5,
-      "hattie's": 1
-    },
-    "expansions": {
-      "hattie's": "hattie's (possessive)"
-    }
-  },
-  "penny": {
-    "total": 6,
-    "forms": {
-      "penny": 4,
-      "pennies": 2
-    }
-  },
-  "leap": {
-    "total": 6,
-    "forms": {
-      "leap": 6
-    }
-  },
   "demonstration": {
     "total": 6,
     "forms": {
@@ -643,6 +552,94 @@
     "total": 6,
     "forms": {
       "plankton": 6
+    }
+  },
+  "mollusk": {
+    "total": 6,
+    "forms": {
+      "mollusk": 6
+    }
+  },
+  "seaweed": {
+    "total": 6,
+    "forms": {
+      "seaweed": 6
+    }
+  },
+  "install": {
+    "total": 6,
+    "forms": {
+      "installed": 4,
+      "install": 2
+    }
+  },
+  "gator": {
+    "total": 6,
+    "forms": {
+      "gator": 6
+    }
+  },
+  "takin": {
+    "total": 6,
+    "forms": {
+      "takin": 6
+    }
+  },
+  "intro": {
+    "total": 6,
+    "forms": {
+      "intro": 6
+    }
+  },
+  "jellyman": {
+    "total": 6,
+    "forms": {
+      "jellyman": 6
+    }
+  },
+  "tuna": {
+    "total": 6,
+    "forms": {
+      "tuna": 6
+    }
+  },
+  "righty": {
+    "total": 6,
+    "forms": {
+      "righty": 6
+    }
+  },
+  "appointment": {
+    "total": 6,
+    "forms": {
+      "appointment": 6
+    }
+  },
+  "goblin": {
+    "total": 6,
+    "forms": {
+      "goblin": 4,
+      "goblins": 2
+    }
+  },
+  "sloth": {
+    "total": 6,
+    "forms": {
+      "sloth": 5,
+      "sloths": 1
+    }
+  },
+  "scarf": {
+    "total": 6,
+    "forms": {
+      "scarf": 6
+    }
+  },
+  "fjord": {
+    "total": 6,
+    "forms": {
+      "fjord": 4,
+      "fjords": 2
     }
   }
 }

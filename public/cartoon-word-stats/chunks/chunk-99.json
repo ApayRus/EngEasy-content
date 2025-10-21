@@ -1,4 +1,125 @@
 {
+  "callin": {
+    "total": 2,
+    "forms": {
+      "callin": 2
+    }
+  },
+  "cork": {
+    "total": 2,
+    "forms": {
+      "cork": 2
+    }
+  },
+  "burnin": {
+    "total": 2,
+    "forms": {
+      "burnin": 2
+    }
+  },
+  "konishi": {
+    "total": 2,
+    "forms": {
+      "konishi": 2
+    }
+  },
+  "unload": {
+    "total": 2,
+    "forms": {
+      "unload": 1,
+      "unloading": 1
+    }
+  },
+  "corvette": {
+    "total": 2,
+    "forms": {
+      "corvette": 2
+    }
+  },
+  "fax": {
+    "total": 2,
+    "forms": {
+      "fax": 2
+    }
+  },
+  "rippin": {
+    "total": 2,
+    "forms": {
+      "rippin": 2
+    }
+  },
+  "fallin": {
+    "total": 2,
+    "forms": {
+      "fallin": 2
+    }
+  },
+  "antigravity": {
+    "total": 2,
+    "forms": {
+      "antigravity": 2
+    }
+  },
+  "springy": {
+    "total": 2,
+    "forms": {
+      "springy": 2
+    }
+  },
+  "upstart": {
+    "total": 2,
+    "forms": {
+      "upstart": 2
+    }
+  },
+  "landfill": {
+    "total": 2,
+    "forms": {
+      "landfill": 2
+    }
+  },
+  "racecar": {
+    "total": 2,
+    "forms": {
+      "racecar": 2
+    }
+  },
+  "headin": {
+    "total": 2,
+    "forms": {
+      "headin": 2
+    }
+  },
+  "cockleshell": {
+    "total": 2,
+    "forms": {
+      "cockleshells": 2
+    }
+  },
+  "buttercup": {
+    "total": 2,
+    "forms": {
+      "buttercup": 2
+    }
+  },
+  "trixie": {
+    "total": 2,
+    "forms": {
+      "trixie": 2
+    }
+  },
+  "sycamore": {
+    "total": 2,
+    "forms": {
+      "sycamore": 2
+    }
+  },
+  "yid": {
+    "total": 2,
+    "forms": {
+      "yid": 2
+    }
+  },
   "elm": {
     "total": 2,
     "forms": {
@@ -15,12 +136,6 @@
     "total": 2,
     "forms": {
       "nehru": 2
-    }
-  },
-  "intent": {
-    "total": 2,
-    "forms": {
-      "intent": 2
     }
   },
   "derive": {
@@ -52,12 +167,6 @@
     "total": 2,
     "forms": {
       "ain": 2
-    }
-  },
-  "wisely": {
-    "total": 2,
-    "forms": {
-      "wisely": 2
     }
   },
   "barnabus": {
@@ -175,12 +284,6 @@
       "grissy": 2
     }
   },
-  "enterprising": {
-    "total": 2,
-    "forms": {
-      "enterprising": 2
-    }
-  },
   "scholar": {
     "total": 2,
     "forms": {
@@ -203,12 +306,6 @@
     "total": 2,
     "forms": {
       "cuz": 2
-    }
-  },
-  "flake": {
-    "total": 2,
-    "forms": {
-      "flake": 2
     }
   },
   "crass": {
@@ -246,12 +343,6 @@
     "total": 2,
     "forms": {
       "snipey": 2
-    }
-  },
-  "helium": {
-    "total": 2,
-    "forms": {
-      "helium": 2
     }
   },
   "denture": {
@@ -351,66 +442,6 @@
     "total": 2,
     "forms": {
       "seoth": 2
-    }
-  },
-  "horribly": {
-    "total": 2,
-    "forms": {
-      "horribly": 2
-    }
-  },
-  "jiminey": {
-    "total": 2,
-    "forms": {
-      "jiminey": 2
-    }
-  },
-  "jaminey": {
-    "total": 2,
-    "forms": {
-      "jaminey": 2
-    }
-  },
-  "doy": {
-    "total": 2,
-    "forms": {
-      "doy": 2
-    }
-  },
-  "halitosis": {
-    "total": 2,
-    "forms": {
-      "halitosis": 2
-    }
-  },
-  "limousine": {
-    "total": 2,
-    "forms": {
-      "limousine": 2
-    }
-  },
-  "tut": {
-    "total": 2,
-    "forms": {
-      "tut": 2
-    }
-  },
-  "grandeur": {
-    "total": 2,
-    "forms": {
-      "grandeur": 2
-    }
-  },
-  "bokutachi": {
-    "total": 2,
-    "forms": {
-      "bokutachi": 2
-    }
-  },
-  "ikaga": {
-    "total": 2,
-    "forms": {
-      "ikaga": 2
     }
   },
   "meek": {
@@ -575,39 +606,6 @@
     "total": 2,
     "forms": {
       "trier": 2
-    }
-  },
-  "gid": {
-    "total": 2,
-    "forms": {
-      "gid's": 2
-    },
-    "expansions": {
-      "gid's": "gid's (possessive)"
-    }
-  },
-  "weaselton": {
-    "total": 2,
-    "forms": {
-      "weaselton": 2
-    }
-  },
-  "fuck": {
-    "total": 2,
-    "forms": {
-      "fuck": 2
-    }
-  },
-  "derivative": {
-    "total": 2,
-    "forms": {
-      "derivative": 2
-    }
-  },
-  "kita": {
-    "total": 2,
-    "forms": {
-      "kita": 2
     }
   }
 }

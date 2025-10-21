@@ -1,101 +1,4 @@
 {
-  "luckily": {
-    "total": 12,
-    "forms": {
-      "luckily": 12
-    }
-  },
-  "canal": {
-    "total": 12,
-    "forms": {
-      "canal": 9,
-      "canals": 3
-    }
-  },
-  "ton": {
-    "total": 12,
-    "forms": {
-      "tons": 6,
-      "ton": 6
-    }
-  },
-  "collection": {
-    "total": 12,
-    "forms": {
-      "collection": 12
-    }
-  },
-  "casita": {
-    "total": 12,
-    "forms": {
-      "casita": 12
-    }
-  },
-  "stubborn": {
-    "total": 12,
-    "forms": {
-      "stubborn": 12
-    }
-  },
-  "boggis": {
-    "total": 12,
-    "forms": {
-      "boggis": 11,
-      "boggis's": 1
-    },
-    "expansions": {
-      "boggis's": "boggis's (possessive)"
-    }
-  },
-  "diet": {
-    "total": 12,
-    "forms": {
-      "diet": 12
-    }
-  },
-  "peel": {
-    "total": 12,
-    "forms": {
-      "peel": 7,
-      "peeled": 4,
-      "peels": 1
-    }
-  },
-  "exclalmlng": {
-    "total": 12,
-    "forms": {
-      "exclalmlng": 12
-    }
-  },
-  "improve": {
-    "total": 12,
-    "forms": {
-      "improved": 8,
-      "improve": 3,
-      "improving": 1
-    }
-  },
-  "clang": {
-    "total": 12,
-    "forms": {
-      "clanging": 6,
-      "clangs": 5,
-      "clang": 1
-    }
-  },
-  "lizard": {
-    "total": 12,
-    "forms": {
-      "lizard": 10,
-      "lizards": 2
-    }
-  },
-  "nor": {
-    "total": 12,
-    "forms": {
-      "nor": 12
-    }
-  },
   "estate": {
     "total": 12,
     "forms": {
@@ -301,34 +204,17 @@
       "beside": 12
     }
   },
-  "frozone": {
+  "belief": {
     "total": 12,
     "forms": {
-      "frozone": 11,
-      "frozone's": 1
-    },
-    "expansions": {
-      "frozone's": "frozone's (possessive)"
+      "beliefs": 7,
+      "belief": 5
     }
   },
   "multiple": {
     "total": 12,
     "forms": {
       "multiple": 12
-    }
-  },
-  "attract": {
-    "total": 12,
-    "forms": {
-      "attract": 6,
-      "attracted": 6
-    }
-  },
-  "belief": {
-    "total": 12,
-    "forms": {
-      "beliefs": 7,
-      "belief": 5
     }
   },
   "canine": {
@@ -341,6 +227,13 @@
     "total": 12,
     "forms": {
       "ward": 12
+    }
+  },
+  "attract": {
+    "total": 12,
+    "forms": {
+      "attracted": 6,
+      "attract": 6
     }
   },
   "awaken": {
@@ -400,18 +293,6 @@
       "empire": 12
     }
   },
-  "contract": {
-    "total": 12,
-    "forms": {
-      "contract": 12
-    }
-  },
-  "ra": {
-    "total": 12,
-    "forms": {
-      "ra": 12
-    }
-  },
   "foofie": {
     "total": 12,
     "forms": {
@@ -422,6 +303,18 @@
     "total": 12,
     "forms": {
       "swish": 12
+    }
+  },
+  "contract": {
+    "total": 12,
+    "forms": {
+      "contract": 12
+    }
+  },
+  "ra": {
+    "total": 12,
+    "forms": {
+      "ra": 12
     }
   },
   "bot": {
@@ -436,6 +329,12 @@
     "forms": {
       "collar": 9,
       "collars": 3
+    }
+  },
+  "silent": {
+    "total": 12,
+    "forms": {
+      "silent": 12
     }
   },
   "tatari": {
@@ -454,12 +353,6 @@
     "total": 12,
     "forms": {
       "campus": 12
-    }
-  },
-  "silent": {
-    "total": 12,
-    "forms": {
-      "silent": 12
     }
   },
   "describe": {
@@ -526,6 +419,16 @@
     "total": 12,
     "forms": {
       "bettermans": 12
+    }
+  },
+  "frozone": {
+    "total": 12,
+    "forms": {
+      "frozone": 11,
+      "frozone's": 1
+    },
+    "expansions": {
+      "frozone's": "frozone's (possessive)"
     }
   },
   "hoot": {
@@ -677,6 +580,104 @@
     "total": 11,
     "forms": {
       "behalf": 11
+    }
+  },
+  "magnificent": {
+    "total": 11,
+    "forms": {
+      "magnificent": 11
+    }
+  },
+  "traitor": {
+    "total": 11,
+    "forms": {
+      "traitor": 7,
+      "traitors": 4
+    }
+  },
+  "rag": {
+    "total": 11,
+    "forms": {
+      "raging": 6,
+      "rag": 4,
+      "ragged": 1
+    }
+  },
+  "dip": {
+    "total": 11,
+    "forms": {
+      "dip": 6,
+      "dipped": 5
+    }
+  },
+  "improvise": {
+    "total": 11,
+    "forms": {
+      "improvised": 6,
+      "improvise": 4,
+      "improvising": 1
+    }
+  },
+  "thou": {
+    "total": 11,
+    "forms": {
+      "thou": 11
+    }
+  },
+  "dingwall": {
+    "total": 11,
+    "forms": {
+      "dingwall": 10,
+      "dingwall's": 1
+    },
+    "expansions": {
+      "dingwall's": "dingwall's (possessive)"
+    }
+  },
+  "disrespect": {
+    "total": 11,
+    "forms": {
+      "disrespect": 7,
+      "disrespected": 4
+    }
+  },
+  "thus": {
+    "total": 11,
+    "forms": {
+      "thus": 11
+    }
+  },
+  "attractive": {
+    "total": 11,
+    "forms": {
+      "attractive": 11
+    }
+  },
+  "theme": {
+    "total": 11,
+    "forms": {
+      "theme": 9,
+      "themed": 2
+    }
+  },
+  "metaphor": {
+    "total": 11,
+    "forms": {
+      "metaphor": 8,
+      "metaphors": 3
+    }
+  },
+  "career": {
+    "total": 11,
+    "forms": {
+      "career": 11
+    }
+  },
+  "tingle": {
+    "total": 11,
+    "forms": {
+      "tingle": 8,
+      "tingling": 3
     }
   }
 }

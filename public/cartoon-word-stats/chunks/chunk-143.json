@@ -1,4 +1,220 @@
 {
+  "welgum": {
+    "total": 1,
+    "forms": {
+      "welgum": 1
+    }
+  },
+  "yez": {
+    "total": 1,
+    "forms": {
+      "yez": 1
+    }
+  },
+  "wud": {
+    "total": 1,
+    "forms": {
+      "wud": 1
+    }
+  },
+  "diz": {
+    "total": 1,
+    "forms": {
+      "diz": 1
+    }
+  },
+  "refill": {
+    "total": 1,
+    "forms": {
+      "refill": 1
+    }
+  },
+  "transparent": {
+    "total": 1,
+    "forms": {
+      "transparent": 1
+    }
+  },
+  "wench": {
+    "total": 1,
+    "forms": {
+      "wench": 1
+    }
+  },
+  "fragment": {
+    "total": 1,
+    "forms": {
+      "fragments": 1
+    }
+  },
+  "attagirl": {
+    "total": 1,
+    "forms": {
+      "attagirl": 1
+    }
+  },
+  "apprenticeship": {
+    "total": 1,
+    "forms": {
+      "apprenticeship": 1
+    }
+  },
+  "seventy": {
+    "total": 1,
+    "forms": {
+      "seventy": 1
+    }
+  },
+  "tablet": {
+    "total": 1,
+    "forms": {
+      "tablet": 1
+    }
+  },
+  "groin": {
+    "total": 1,
+    "forms": {
+      "groin": 1
+    }
+  },
+  "kangadillos": {
+    "total": 1,
+    "forms": {
+      "kangadillos": 1
+    }
+  },
+  "forage": {
+    "total": 1,
+    "forms": {
+      "forage": 1
+    }
+  },
+  "heyying": {
+    "total": 1,
+    "forms": {
+      "heyying": 1
+    }
+  },
+  "amber": {
+    "total": 1,
+    "forms": {
+      "amber": 1
+    }
+  },
+  "crood": {
+    "total": 1,
+    "forms": {
+      "crood": 1
+    }
+  },
+  "ro": {
+    "total": 1,
+    "forms": {
+      "ro": 1
+    }
+  },
+  "gnash": {
+    "total": 1,
+    "forms": {
+      "gnashing": 1
+    }
+  },
+  "condescension": {
+    "total": 1,
+    "forms": {
+      "condescension": 1
+    }
+  },
+  "emphasis": {
+    "total": 1,
+    "forms": {
+      "emphasis": 1
+    }
+  },
+  "sash": {
+    "total": 1,
+    "forms": {
+      "sash": 1
+    }
+  },
+  "vertebra": {
+    "total": 1,
+    "forms": {
+      "vertebrae": 1
+    }
+  },
+  "houseguest": {
+    "total": 1,
+    "forms": {
+      "houseguests": 1
+    }
+  },
+  "moommoth": {
+    "total": 1,
+    "forms": {
+      "moommoth": 1
+    }
+  },
+  "meep": {
+    "total": 1,
+    "forms": {
+      "meep": 1
+    }
+  },
+  "saver": {
+    "total": 1,
+    "forms": {
+      "saver": 1
+    }
+  },
+  "moss": {
+    "total": 1,
+    "forms": {
+      "moss": 1
+    }
+  },
+  "thorned": {
+    "total": 1,
+    "forms": {
+      "thorned": 1
+    }
+  },
+  "gruggers": {
+    "total": 1,
+    "forms": {
+      "gruggers": 1
+    }
+  },
+  "lush": {
+    "total": 1,
+    "forms": {
+      "lush": 1
+    }
+  },
+  "compost": {
+    "total": 1,
+    "forms": {
+      "compost": 1
+    }
+  },
+  "susceptible": {
+    "total": 1,
+    "forms": {
+      "susceptible": 1
+    }
+  },
+  "initially": {
+    "total": 1,
+    "forms": {
+      "initially": 1
+    }
+  },
+  "towel": {
+    "total": 1,
+    "forms": {
+      "towel": 1
+    }
+  },
   "strangler": {
     "total": 1,
     "forms": {
@@ -381,225 +597,6 @@
     "total": 1,
     "forms": {
       "workings": 1
-    }
-  },
-  "loophole": {
-    "total": 1,
-    "forms": {
-      "loophole": 1
-    }
-  },
-  "bureaucracy": {
-    "total": 1,
-    "forms": {
-      "bureaucracy": 1
-    }
-  },
-  "stockholder": {
-    "total": 1,
-    "forms": {
-      "stockholders": 1
-    }
-  },
-  "lubricate": {
-    "total": 1,
-    "forms": {
-      "lubricated": 1
-    }
-  },
-  "cooperative": {
-    "total": 1,
-    "forms": {
-      "cooperative": 1
-    }
-  },
-  "taxpayer": {
-    "total": 1,
-    "forms": {
-      "taxpayer's": 1
-    },
-    "expansions": {
-      "taxpayer's": "taxpayer's (possessive)"
-    }
-  },
-  "experimental": {
-    "total": 1,
-    "forms": {
-      "experimental": 1
-    }
-  },
-  "incalculable": {
-    "total": 1,
-    "forms": {
-      "incalculable": 1
-    }
-  },
-  "enable": {
-    "total": 1,
-    "forms": {
-      "enables": 1
-    }
-  },
-  "necessitate": {
-    "total": 1,
-    "forms": {
-      "necessitate": 1
-    }
-  },
-  "anonymity": {
-    "total": 1,
-    "forms": {
-      "anonymity": 1
-    }
-  },
-  "fertile": {
-    "total": 1,
-    "forms": {
-      "fertile": 1
-    }
-  },
-  "prayge": {
-    "total": 1,
-    "forms": {
-      "prayge": 1
-    }
-  },
-  "prague": {
-    "total": 1,
-    "forms": {
-      "prague": 1
-    }
-  },
-  "supermodel": {
-    "total": 1,
-    "forms": {
-      "supermodels": 1
-    }
-  },
-  "feh": {
-    "total": 1,
-    "forms": {
-      "feh": 1
-    }
-  },
-  "megamesh": {
-    "total": 1,
-    "forms": {
-      "megamesh": 1
-    }
-  },
-  "outmode": {
-    "total": 1,
-    "forms": {
-      "outmoded": 1
-    }
-  },
-  "stratogale": {
-    "total": 1,
-    "forms": {
-      "stratogale": 1
-    }
-  },
-  "turbine": {
-    "total": 1,
-    "forms": {
-      "turbine": 1
-    }
-  },
-  "generalize": {
-    "total": 1,
-    "forms": {
-      "generalize": 1
-    }
-  },
-  "splashdown": {
-    "total": 1,
-    "forms": {
-      "splashdown": 1
-    }
-  },
-  "mimosa": {
-    "total": 1,
-    "forms": {
-      "mimosa": 1
-    }
-  },
-  "nomanisan": {
-    "total": 1,
-    "forms": {
-      "nomanisan": 1
-    }
-  },
-  "badder": {
-    "total": 1,
-    "forms": {
-      "badder": 1
-    }
-  },
-  "modification": {
-    "total": 1,
-    "forms": {
-      "modifications": 1
-    }
-  },
-  "kronos": {
-    "total": 1,
-    "forms": {
-      "kronos": 1
-    }
-  },
-  "bulletproof": {
-    "total": 1,
-    "forms": {
-      "bulletproof": 1
-    }
-  },
-  "washable": {
-    "total": 1,
-    "forms": {
-      "washable": 1
-    }
-  },
-  "friction": {
-    "total": 1,
-    "forms": {
-      "friction": 1
-    }
-  },
-  "retain": {
-    "total": 1,
-    "forms": {
-      "retain": 1
-    }
-  },
-  "virtually": {
-    "total": 1,
-    "forms": {
-      "virtually": 1
-    }
-  },
-  "vfr": {
-    "total": 1,
-    "forms": {
-      "vfr": 1
-    }
-  },
-  "geeking": {
-    "total": 1,
-    "forms": {
-      "geeking": 1
-    }
-  },
-  "allyours": {
-    "total": 1,
-    "forms": {
-      "allyours": 1
-    }
-  },
-  "cpr": {
-    "total": 1,
-    "forms": {
-      "cpr": 1
     }
   }
 }

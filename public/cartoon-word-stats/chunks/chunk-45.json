@@ -1,103 +1,4 @@
 {
-  "eyeball": {
-    "total": 7,
-    "forms": {
-      "eyeball": 4,
-      "eyeballs": 2,
-      "eyeballed": 1
-    }
-  },
-  "tyre": {
-    "total": 7,
-    "forms": {
-      "tyres": 7
-    }
-  },
-  "seagull": {
-    "total": 7,
-    "forms": {
-      "seagulls": 6,
-      "seagull": 1
-    }
-  },
-  "wiggle": {
-    "total": 7,
-    "forms": {
-      "wiggle": 4,
-      "wiggling": 2,
-      "wiggles": 1
-    }
-  },
-  "auntie": {
-    "total": 7,
-    "forms": {
-      "auntie": 5,
-      "aunties": 2
-    }
-  },
-  "frustrate": {
-    "total": 7,
-    "forms": {
-      "frustrating": 6,
-      "frustrated": 1
-    }
-  },
-  "meanwhile": {
-    "total": 7,
-    "forms": {
-      "meanwhile": 7
-    }
-  },
-  "shi": {
-    "total": 7,
-    "forms": {
-      "shi": 7
-    }
-  },
-  "homeward": {
-    "total": 7,
-    "forms": {
-      "homeward": 7
-    }
-  },
-  "isle": {
-    "total": 7,
-    "forms": {
-      "isles": 4,
-      "isle": 3
-    }
-  },
-  "leather": {
-    "total": 7,
-    "forms": {
-      "leather": 6,
-      "leathers": 1
-    }
-  },
-  "sore": {
-    "total": 7,
-    "forms": {
-      "sore": 5,
-      "sores": 2
-    }
-  },
-  "ler": {
-    "total": 7,
-    "forms": {
-      "ler": 6,
-      "ler's": 1
-    },
-    "expansions": {
-      "ler's": "ler's (possessive)"
-    }
-  },
-  "judgment": {
-    "total": 7,
-    "forms": {
-      "judgment": 6,
-      "judgments": 1
-    }
-  },
   "cloak": {
     "total": 7,
     "forms": {
@@ -317,49 +218,6 @@
       "irresponsible": 7
     }
   },
-  "perimeter": {
-    "total": 7,
-    "forms": {
-      "perimeter": 7
-    }
-  },
-  "evelyn": {
-    "total": 7,
-    "forms": {
-      "evelyn": 7
-    }
-  },
-  "medical": {
-    "total": 7,
-    "forms": {
-      "medical": 7
-    }
-  },
-  "council": {
-    "total": 7,
-    "forms": {
-      "council": 7
-    }
-  },
-  "uncool": {
-    "total": 7,
-    "forms": {
-      "uncool": 7
-    }
-  },
-  "what're": {
-    "total": 7,
-    "forms": {
-      "what're": 7
-    }
-  },
-  "height": {
-    "total": 7,
-    "forms": {
-      "height": 4,
-      "heights": 3
-    }
-  },
   "lighten": {
     "total": 7,
     "forms": {
@@ -385,6 +243,12 @@
       "freshman": 7
     }
   },
+  "uncool": {
+    "total": 7,
+    "forms": {
+      "uncool": 7
+    }
+  },
   "loop": {
     "total": 7,
     "forms": {
@@ -403,6 +267,12 @@
     "forms": {
       "notebook": 5,
       "notebooks": 2
+    }
+  },
+  "council": {
+    "total": 7,
+    "forms": {
+      "council": 7
     }
   },
   "tripledent": {
@@ -614,6 +484,13 @@
       "squadrons": 1
     }
   },
+  "height": {
+    "total": 7,
+    "forms": {
+      "height": 4,
+      "heights": 3
+    }
+  },
   "loneliness": {
     "total": 7,
     "forms": {
@@ -666,6 +543,12 @@
       "refining": 1
     }
   },
+  "medical": {
+    "total": 7,
+    "forms": {
+      "medical": 7
+    }
+  },
   "beacon": {
     "total": 7,
     "forms": {
@@ -677,6 +560,114 @@
     "forms": {
       "dreaded": 6,
       "dread": 1
+    }
+  },
+  "instant": {
+    "total": 7,
+    "forms": {
+      "instant": 7
+    }
+  },
+  "makunga": {
+    "total": 7,
+    "forms": {
+      "makunga": 7
+    }
+  },
+  "lackin": {
+    "total": 7,
+    "forms": {
+      "lackin": 7
+    }
+  },
+  "hmph": {
+    "total": 7,
+    "forms": {
+      "hmph": 7
+    }
+  },
+  "rhythmic": {
+    "total": 7,
+    "forms": {
+      "rhythmic": 7
+    }
+  },
+  "stool": {
+    "total": 7,
+    "forms": {
+      "stool": 6,
+      "stools": 1
+    }
+  },
+  "countless": {
+    "total": 7,
+    "forms": {
+      "countless": 7
+    }
+  },
+  "reset": {
+    "total": 7,
+    "forms": {
+      "reset": 7
+    }
+  },
+  "management": {
+    "total": 7,
+    "forms": {
+      "management": 7
+    }
+  },
+  "para": {
+    "total": 7,
+    "forms": {
+      "para": 7
+    }
+  },
+  "pati": {
+    "total": 7,
+    "forms": {
+      "pati": 7
+    }
+  },
+  "helpa": {
+    "total": 7,
+    "forms": {
+      "helpa": 7
+    }
+  },
+  "disco": {
+    "total": 7,
+    "forms": {
+      "disco": 7
+    }
+  },
+  "particular": {
+    "total": 7,
+    "forms": {
+      "particular": 6,
+      "particulars": 1
+    }
+  },
+  "lu": {
+    "total": 7,
+    "forms": {
+      "lu": 7
+    }
+  },
+  "hii": {
+    "total": 7,
+    "forms": {
+      "hii": 7
+    }
+  },
+  "sama": {
+    "total": 7,
+    "forms": {
+      "sama": 6,
+      "sama's": 1
+    },
+    "expansions": {
+      "sama's": "sama's (possessive)"
     }
   }
 }

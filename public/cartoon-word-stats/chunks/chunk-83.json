@@ -1,109 +1,4 @@
 {
-  "yelena": {
-    "total": 2,
-    "forms": {
-      "yelena": 2
-    }
-  },
-  "restrict": {
-    "total": 2,
-    "forms": {
-      "restricting": 1,
-      "restricted": 1
-    }
-  },
-  "pulse": {
-    "total": 2,
-    "forms": {
-      "pulses": 1,
-      "pulse": 1
-    }
-  },
-  "unfreeze": {
-    "total": 2,
-    "forms": {
-      "unfreezes": 1,
-      "unfreeze": 1
-    }
-  },
-  "sor": {
-    "total": 2,
-    "forms": {
-      "sor": 2
-    }
-  },
-  "ryder": {
-    "total": 2,
-    "forms": {
-      "ryder": 2
-    }
-  },
-  "complexity": {
-    "total": 2,
-    "forms": {
-      "complexity": 2
-    }
-  },
-  "halima": {
-    "total": 2,
-    "forms": {
-      "halima's": 1,
-      "halima": 1
-    },
-    "expansions": {
-      "halima's": "halima's (possessive)"
-    }
-  },
-  "pitchy": {
-    "total": 2,
-    "forms": {
-      "pitchy": 2
-    }
-  },
-  "iduna": {
-    "total": 2,
-    "forms": {
-      "iduna": 2
-    }
-  },
-  "listener": {
-    "total": 2,
-    "forms": {
-      "listener": 2
-    }
-  },
-  "glacier": {
-    "total": 2,
-    "forms": {
-      "glaciers": 1,
-      "glacier": 1
-    }
-  },
-  "author": {
-    "total": 2,
-    "forms": {
-      "author": 2
-    }
-  },
-  "entitle": {
-    "total": 2,
-    "forms": {
-      "entitled": 2
-    }
-  },
-  "weaken": {
-    "total": 2,
-    "forms": {
-      "weaken": 2
-    }
-  },
-  "wield": {
-    "total": 2,
-    "forms": {
-      "wields": 1,
-      "wield": 1
-    }
-  },
   "succumb": {
     "total": 2,
     "forms": {
@@ -120,6 +15,12 @@
     "total": 2,
     "forms": {
       "presume": 2
+    }
+  },
+  "mine": {
+    "total": 2,
+    "forms": {
+      "mining": 2
     }
   },
   "sheer": {
@@ -614,6 +515,98 @@
     "total": 2,
     "forms": {
       "uptight": 2
+    }
+  },
+  "interchangeable": {
+    "total": 2,
+    "forms": {
+      "interchangeable": 2
+    }
+  },
+  "livestock": {
+    "total": 2,
+    "forms": {
+      "livestock": 2
+    }
+  },
+  "brigade": {
+    "total": 2,
+    "forms": {
+      "brigade": 2
+    }
+  },
+  "shouldn": {
+    "total": 2,
+    "forms": {
+      "shouldn": 2
+    }
+  },
+  "infinitely": {
+    "total": 2,
+    "forms": {
+      "infinitely": 2
+    }
+  },
+  "spitelout": {
+    "total": 2,
+    "forms": {
+      "spitelout": 2
+    }
+  },
+  "blot": {
+    "total": 2,
+    "forms": {
+      "blotting": 1,
+      "blot": 1
+    }
+  },
+  "gothi": {
+    "total": 2,
+    "forms": {
+      "gothi": 2
+    }
+  },
+  "couldn": {
+    "total": 2,
+    "forms": {
+      "couldn": 2
+    }
+  },
+  "touchy": {
+    "total": 2,
+    "forms": {
+      "touchy": 2
+    }
+  },
+  "snot": {
+    "total": 2,
+    "forms": {
+      "snot": 2
+    }
+  },
+  "grueling": {
+    "total": 2,
+    "forms": {
+      "grueling": 2
+    }
+  },
+  "tidbit": {
+    "total": 2,
+    "forms": {
+      "tidbit": 1,
+      "tidbits": 1
+    }
+  },
+  "elimination": {
+    "total": 2,
+    "forms": {
+      "elimination": 2
+    }
+  },
+  "mistime": {
+    "total": 2,
+    "forms": {
+      "mistimed": 2
     }
   }
 }

@@ -1,358 +1,4 @@
 {
-  "lofty": {
-    "total": 2,
-    "forms": {
-      "lofty": 2
-    }
-  },
-  "incense": {
-    "total": 2,
-    "forms": {
-      "incense": 2
-    }
-  },
-  "bonehead": {
-    "total": 2,
-    "forms": {
-      "boneheads": 1,
-      "bonehead": 1
-    }
-  },
-  "newborn": {
-    "total": 2,
-    "forms": {
-      "newborn": 1,
-      "newborns": 1
-    }
-  },
-  "rejection": {
-    "total": 2,
-    "forms": {
-      "rejection": 2
-    }
-  },
-  "shuttlecock": {
-    "total": 2,
-    "forms": {
-      "shuttlecock": 2
-    }
-  },
-  "predecessor": {
-    "total": 2,
-    "forms": {
-      "predecessor": 2
-    }
-  },
-  "vitality": {
-    "total": 2,
-    "forms": {
-      "vitality": 2
-    }
-  },
-  "radical": {
-    "total": 2,
-    "forms": {
-      "radical": 2
-    }
-  },
-  "immune": {
-    "total": 2,
-    "forms": {
-      "immune": 2
-    }
-  },
-  "prejudice": {
-    "total": 2,
-    "forms": {
-      "prejudice": 2
-    }
-  },
-  "podium": {
-    "total": 2,
-    "forms": {
-      "podium": 2
-    }
-  },
-  "deification": {
-    "total": 2,
-    "forms": {
-      "deification": 2
-    }
-  },
-  "guangcheng": {
-    "total": 2,
-    "forms": {
-      "guangcheng": 2
-    }
-  },
-  "chijing": {
-    "total": 2,
-    "forms": {
-      "chijing": 2
-    }
-  },
-  "horny": {
-    "total": 2,
-    "forms": {
-      "horny": 2
-    }
-  },
-  "mucus": {
-    "total": 2,
-    "forms": {
-      "mucus": 2
-    }
-  },
-  "yuding": {
-    "total": 2,
-    "forms": {
-      "yuding": 2
-    }
-  },
-  "righteousness": {
-    "total": 2,
-    "forms": {
-      "righteousness": 2
-    }
-  },
-  "justness": {
-    "total": 2,
-    "forms": {
-      "justness": 2
-    }
-  },
-  "diligence": {
-    "total": 2,
-    "forms": {
-      "diligence": 2
-    }
-  },
-  "godly": {
-    "total": 2,
-    "forms": {
-      "godly": 2
-    }
-  },
-  "ambition": {
-    "total": 2,
-    "forms": {
-      "ambition": 2
-    }
-  },
-  "disrespectful": {
-    "total": 2,
-    "forms": {
-      "disrespectful": 2
-    }
-  },
-  "pseudo": {
-    "total": 2,
-    "forms": {
-      "pseudo": 2
-    }
-  },
-  "virtue": {
-    "total": 2,
-    "forms": {
-      "virtue": 2
-    }
-  },
-  "shieldos": {
-    "total": 2,
-    "forms": {
-      "shieldos": 2
-    }
-  },
-  "impulsive": {
-    "total": 2,
-    "forms": {
-      "impulsive": 2
-    }
-  },
-  "unforgivable": {
-    "total": 2,
-    "forms": {
-      "unforgivable": 2
-    }
-  },
-  "piss": {
-    "total": 2,
-    "forms": {
-      "piss": 1,
-      "pissed": 1
-    }
-  },
-  "collude": {
-    "total": 2,
-    "forms": {
-      "colluded": 1,
-      "collude": 1
-    }
-  },
-  "boundless": {
-    "total": 2,
-    "forms": {
-      "boundless": 2
-    }
-  },
-  "bias": {
-    "total": 2,
-    "forms": {
-      "bias": 1,
-      "biases": 1
-    }
-  },
-  "imprisonment": {
-    "total": 2,
-    "forms": {
-      "imprisonment": 2
-    }
-  },
-  "clueless": {
-    "total": 2,
-    "forms": {
-      "clueless": 2
-    }
-  },
-  "reform": {
-    "total": 2,
-    "forms": {
-      "reformed": 1,
-      "reform": 1
-    }
-  },
-  "seashell": {
-    "total": 2,
-    "forms": {
-      "seashells": 2
-    }
-  },
-  "restoration": {
-    "total": 2,
-    "forms": {
-      "restoration": 2
-    }
-  },
-  "lowlife": {
-    "total": 2,
-    "forms": {
-      "lowlife": 2
-    }
-  },
-  "yunxiao": {
-    "total": 2,
-    "forms": {
-      "yunxiao": 2
-    }
-  },
-  "jiugong": {
-    "total": 2,
-    "forms": {
-      "jiugong": 2
-    }
-  },
-  "egret": {
-    "total": 2,
-    "forms": {
-      "egret": 2
-    }
-  },
-  "zhenren": {
-    "total": 2,
-    "forms": {
-      "zhenren": 2
-    }
-  },
-  "rune": {
-    "total": 2,
-    "forms": {
-      "rune": 2
-    }
-  },
-  "endanger": {
-    "total": 2,
-    "forms": {
-      "endanger": 1,
-      "endangered": 1
-    }
-  },
-  "relay": {
-    "total": 2,
-    "forms": {
-      "relay": 2
-    }
-  },
-  "hornet": {
-    "total": 2,
-    "forms": {
-      "hornets": 1,
-      "hornet's": 1
-    },
-    "expansions": {
-      "hornet's": "hornet's (possessive)"
-    }
-  },
-  "resign": {
-    "total": 2,
-    "forms": {
-      "resign": 2
-    }
-  },
-  "dragonscale": {
-    "total": 2,
-    "forms": {
-      "dragonscale": 2
-    }
-  },
-  "shroud": {
-    "total": 2,
-    "forms": {
-      "shroud": 1,
-      "shrouded": 1
-    }
-  },
-  "gonggong": {
-    "total": 2,
-    "forms": {
-      "gonggong": 2
-    }
-  },
-  "bao": {
-    "total": 2,
-    "forms": {
-      "bao": 2
-    }
-  },
-  "chariot": {
-    "total": 2,
-    "forms": {
-      "chariot": 2
-    }
-  },
-  "calamity": {
-    "total": 2,
-    "forms": {
-      "calamity": 2
-    }
-  },
-  "ultimately": {
-    "total": 2,
-    "forms": {
-      "ultimately": 2
-    }
-  },
-  "incompetent": {
-    "total": 2,
-    "forms": {
-      "incompetent": 2
-    }
-  },
-  "multi": {
-    "total": 2,
-    "forms": {
-      "multi": 2
-    }
-  },
   "whereas": {
     "total": 2,
     "forms": {
@@ -448,6 +94,12 @@
     "total": 2,
     "forms": {
       "dirk": 2
+    }
+  },
+  "hurray": {
+    "total": 2,
+    "forms": {
+      "hurray": 2
     }
   },
   "hindsight": {
@@ -587,6 +239,12 @@
       "exterminators": 2
     }
   },
+  "momentum": {
+    "total": 2,
+    "forms": {
+      "momentum": 2
+    }
+  },
   "stealer": {
     "total": 2,
     "forms": {
@@ -621,6 +279,345 @@
     "total": 2,
     "forms": {
       "complimentary": 2
+    }
+  },
+  "hablo": {
+    "total": 2,
+    "forms": {
+      "hablo": 2
+    }
+  },
+  "ingl": {
+    "total": 2,
+    "forms": {
+      "ingl": 2
+    }
+  },
+  "quicken": {
+    "total": 2,
+    "forms": {
+      "quickens": 2
+    }
+  },
+  "greasy": {
+    "total": 2,
+    "forms": {
+      "greasy": 2
+    }
+  },
+  "teeny": {
+    "total": 2,
+    "forms": {
+      "teeny": 2
+    }
+  },
+  "silencio": {
+    "total": 2,
+    "forms": {
+      "silencio": 2
+    }
+  },
+  "intrigue": {
+    "total": 2,
+    "forms": {
+      "intrigued": 1,
+      "intriguing": 1
+    }
+  },
+  "partnership": {
+    "total": 2,
+    "forms": {
+      "partnership": 2
+    }
+  },
+  "hamhock": {
+    "total": 2,
+    "forms": {
+      "hamhock's": 1,
+      "hamhock": 1
+    },
+    "expansions": {
+      "hamhock's": "hamhock's (possessive)"
+    }
+  },
+  "bugger": {
+    "total": 2,
+    "forms": {
+      "bugger": 2
+    }
+  },
+  "babysit": {
+    "total": 2,
+    "forms": {
+      "babysit": 2
+    }
+  },
+  "hyperventilate": {
+    "total": 2,
+    "forms": {
+      "hyperventilating": 2
+    }
+  },
+  "magnetism": {
+    "total": 2,
+    "forms": {
+      "magnetism": 2
+    }
+  },
+  "bribe": {
+    "total": 2,
+    "forms": {
+      "bribe": 2
+    }
+  },
+  "corinthian": {
+    "total": 2,
+    "forms": {
+      "corinthian": 2
+    }
+  },
+  "catlike": {
+    "total": 2,
+    "forms": {
+      "catlike": 2
+    }
+  },
+  "luna": {
+    "total": 2,
+    "forms": {
+      "luna": 2
+    }
+  },
+  "stabby": {
+    "total": 2,
+    "forms": {
+      "stabby": 2
+    }
+  },
+  "squeezy": {
+    "total": 2,
+    "forms": {
+      "squeezy": 2
+    }
+  },
+  "icon": {
+    "total": 2,
+    "forms": {
+      "icons": 1,
+      "icon": 1
+    }
+  },
+  "bobble": {
+    "total": 2,
+    "forms": {
+      "bobbles": 2
+    }
+  },
+  "midas": {
+    "total": 2,
+    "forms": {
+      "midas": 2
+    }
+  },
+  "posy": {
+    "total": 2,
+    "forms": {
+      "posies": 2
+    }
+  },
+  "littermates": {
+    "total": 2,
+    "forms": {
+      "littermates": 2
+    }
+  },
+  "excali": {
+    "total": 2,
+    "forms": {
+      "excali": 2
+    }
+  },
+  "ficus": {
+    "total": 2,
+    "forms": {
+      "ficus": 2
+    }
+  },
+  "grasshopper": {
+    "total": 2,
+    "forms": {
+      "grasshopper": 1,
+      "grasshoppers": 1
+    }
+  },
+  "hernia": {
+    "total": 2,
+    "forms": {
+      "hernia": 2
+    }
+  },
+  "gatito": {
+    "total": 2,
+    "forms": {
+      "gatito": 2
+    }
+  },
+  "crimed": {
+    "total": 2,
+    "forms": {
+      "crimed": 2
+    }
+  },
+  "ese": {
+    "total": 2,
+    "forms": {
+      "ese": 2
+    }
+  },
+  "syndicate": {
+    "total": 2,
+    "forms": {
+      "syndicate": 2
+    }
+  },
+  "chatty": {
+    "total": 2,
+    "forms": {
+      "chatty": 2
+    }
+  },
+  "innit": {
+    "total": 2,
+    "forms": {
+      "innit": 2
+    }
+  },
+  "trouser": {
+    "total": 2,
+    "forms": {
+      "trousers": 2
+    }
+  },
+  "workshopping": {
+    "total": 2,
+    "forms": {
+      "workshopping": 2
+    }
+  },
+  "daft": {
+    "total": 2,
+    "forms": {
+      "daft": 2
+    }
+  },
+  "dingleberries": {
+    "total": 2,
+    "forms": {
+      "dingleberries": 2
+    }
+  },
+  "snooter": {
+    "total": 2,
+    "forms": {
+      "snooter": 2
+    }
+  },
+  "oafish": {
+    "total": 2,
+    "forms": {
+      "oafish": 2
+    }
+  },
+  "jib": {
+    "total": 2,
+    "forms": {
+      "jib": 2
+    }
+  },
+  "theoretically": {
+    "total": 2,
+    "forms": {
+      "theoretically": 2
+    }
+  },
+  "absurd": {
+    "total": 2,
+    "forms": {
+      "absurd": 2
+    }
+  },
+  "duly": {
+    "total": 2,
+    "forms": {
+      "duly": 2
+    }
+  },
+  "melodramatic": {
+    "total": 2,
+    "forms": {
+      "melodramatic": 2
+    }
+  },
+  "vulnerability": {
+    "total": 2,
+    "forms": {
+      "vulnerability": 2
+    }
+  },
+  "resignation": {
+    "total": 2,
+    "forms": {
+      "resignation": 2
+    }
+  },
+  "accomplice": {
+    "total": 2,
+    "forms": {
+      "accomplice": 2
+    }
+  },
+  "tronny": {
+    "total": 2,
+    "forms": {
+      "tronny": 2
+    }
+  },
+  "detour": {
+    "total": 2,
+    "forms": {
+      "detour": 1,
+      "detours": 1
+    }
+  },
+  "yurt": {
+    "total": 2,
+    "forms": {
+      "yurt": 2
+    }
+  },
+  "igloo": {
+    "total": 2,
+    "forms": {
+      "igloo": 2
+    }
+  },
+  "bellyache": {
+    "total": 2,
+    "forms": {
+      "bellyaching": 1,
+      "bellyache": 1
+    }
+  },
+  "marvelous": {
+    "total": 2,
+    "forms": {
+      "marvelous": 2
+    }
+  },
+  "nary": {
+    "total": 2,
+    "forms": {
+      "nary": 2
     }
   }
 }

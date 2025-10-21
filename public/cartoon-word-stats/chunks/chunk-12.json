@@ -1,104 +1,4 @@
 {
-  "finger": {
-    "total": 49,
-    "forms": {
-      "fingers": 30,
-      "finger": 19
-    }
-  },
-  "suffer": {
-    "total": 49,
-    "forms": {
-      "suffer": 29,
-      "suffering": 15,
-      "suffered": 5
-    }
-  },
-  "shape": {
-    "total": 49,
-    "forms": {
-      "shape": 32,
-      "shaped": 16,
-      "shaping": 1
-    }
-  },
-  "predator": {
-    "total": 49,
-    "forms": {
-      "predators": 27,
-      "predator": 22
-    }
-  },
-  "energy": {
-    "total": 49,
-    "forms": {
-      "energy": 49
-    }
-  },
-  "arendelle": {
-    "total": 49,
-    "forms": {
-      "arendelle": 44,
-      "arendelle's": 5
-    },
-    "expansions": {
-      "arendelle's": "arendelle's (possessive)"
-    }
-  },
-  "halloween": {
-    "total": 49,
-    "forms": {
-      "halloween": 48,
-      "halloween's": 1
-    },
-    "expansions": {
-      "halloween's": "halloween's (possessive)"
-    }
-  },
-  "savage": {
-    "total": 49,
-    "forms": {
-      "savage": 40,
-      "savages": 9
-    }
-  },
-  "metro": {
-    "total": 49,
-    "forms": {
-      "metro": 49
-    }
-  },
-  "sulley": {
-    "total": 49,
-    "forms": {
-      "sulley": 49
-    }
-  },
-  "natsuko": {
-    "total": 49,
-    "forms": {
-      "natsuko": 45,
-      "natsuko's": 4
-    },
-    "expansions": {
-      "natsuko's": "natsuko's (possessive)"
-    }
-  },
-  "within": {
-    "total": 48,
-    "forms": {
-      "within": 48
-    }
-  },
-  "dress": {
-    "total": 48,
-    "forms": {
-      "dress": 23,
-      "dressed": 21,
-      "dressing": 2,
-      "dresses": 2
-    }
-  },
   "bee": {
     "total": 48,
     "forms": {
@@ -700,8 +600,8 @@
     "forms": {
       "bang": 30,
       "banging": 12,
-      "bangs": 1,
-      "banged": 1
+      "banged": 1,
+      "bangs": 1
     }
   },
   "handsome": {
@@ -781,6 +681,113 @@
       "blinded": 8,
       "blinds": 2,
       "blinding": 1
+    }
+  },
+  "ouch": {
+    "total": 44,
+    "forms": {
+      "ouch": 44
+    }
+  },
+  "abuela": {
+    "total": 44,
+    "forms": {
+      "abuela": 44
+    }
+  },
+  "dash": {
+    "total": 44,
+    "forms": {
+      "dash": 40,
+      "dashing": 4
+    }
+  },
+  "program": {
+    "total": 44,
+    "forms": {
+      "program": 31,
+      "programming": 7,
+      "programmed": 5,
+      "program's": 1
+    },
+    "expansions": {
+      "program's": "program's (possessive)"
+    }
+  },
+  "noodle": {
+    "total": 44,
+    "forms": {
+      "noodles": 28,
+      "noodle": 16
+    }
+  },
+  "scarlet": {
+    "total": 44,
+    "forms": {
+      "scarlet": 44
+    }
+  },
+  "eboshi": {
+    "total": 44,
+    "forms": {
+      "eboshi": 39,
+      "eboshi's": 5
+    },
+    "expansions": {
+      "eboshi's": "eboshi's (possessive)"
+    }
+  },
+  "sullivan": {
+    "total": 44,
+    "forms": {
+      "sullivan": 43,
+      "sullivan's": 1
+    },
+    "expansions": {
+      "sullivan's": "sullivan's (possessive)"
+    }
+  },
+  "echo": {
+    "total": 43,
+    "forms": {
+      "echoing": 29,
+      "echo": 9,
+      "echoes": 5
+    }
+  },
+  "devil": {
+    "total": 43,
+    "forms": {
+      "devil": 37,
+      "devils": 4,
+      "deviled": 1,
+      "devil's": 1
+    },
+    "expansions": {
+      "devil's": "devil's (possessive)"
+    }
+  },
+  "gather": {
+    "total": 43,
+    "forms": {
+      "gather": 23,
+      "gathering": 11,
+      "gathered": 9
+    }
+  },
+  "shush": {
+    "total": 43,
+    "forms": {
+      "shushing": 17,
+      "shush": 16,
+      "shushes": 9,
+      "shushed": 1
+    }
+  },
+  "chocolate": {
+    "total": 43,
+    "forms": {
+      "chocolate": 43
     }
   }
 }

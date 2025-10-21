@@ -1,123 +1,4 @@
 {
-  "dih": {
-    "total": 8,
-    "forms": {
-      "dih": 8
-    }
-  },
-  "tootin": {
-    "total": 8,
-    "forms": {
-      "tootin": 8
-    }
-  },
-  "ham": {
-    "total": 8,
-    "forms": {
-      "ham": 8
-    }
-  },
-  "mitten": {
-    "total": 8,
-    "forms": {
-      "mittens": 8
-    }
-  },
-  "coloma": {
-    "total": 8,
-    "forms": {
-      "coloma": 8
-    }
-  },
-  "burrito": {
-    "total": 8,
-    "forms": {
-      "burritos": 5,
-      "burrito": 3
-    }
-  },
-  "loot": {
-    "total": 8,
-    "forms": {
-      "loot": 6,
-      "loots": 1,
-      "looting": 1
-    }
-  },
-  "youtube": {
-    "total": 8,
-    "forms": {
-      "youtube": 7,
-      "youtube's": 1
-    },
-    "expansions": {
-      "youtube's": "youtube's (possessive)"
-    }
-  },
-  "magically": {
-    "total": 8,
-    "forms": {
-      "magically": 8
-    }
-  },
-  "reboot": {
-    "total": 8,
-    "forms": {
-      "reboot": 5,
-      "rebooting": 3
-    }
-  },
-  "server": {
-    "total": 8,
-    "forms": {
-      "server": 6,
-      "servers": 2
-    }
-  },
-  "plague": {
-    "total": 8,
-    "forms": {
-      "plague": 7,
-      "plagued": 1
-    }
-  },
-  "pointless": {
-    "total": 8,
-    "forms": {
-      "pointless": 8
-    }
-  },
-  "rainforest": {
-    "total": 8,
-    "forms": {
-      "rainforest": 8
-    }
-  },
-  "recalculate": {
-    "total": 8,
-    "forms": {
-      "recalculating": 8
-    }
-  },
-  "cockatoo": {
-    "total": 8,
-    "forms": {
-      "cockatoo": 8
-    }
-  },
-  "samba": {
-    "total": 8,
-    "forms": {
-      "samba": 8
-    }
-  },
-  "ducky": {
-    "total": 8,
-    "forms": {
-      "ducky": 7,
-      "duckies": 1
-    }
-  },
   "toad": {
     "total": 8,
     "forms": {
@@ -129,6 +10,14 @@
     "total": 8,
     "forms": {
       "livin": 8
+    }
+  },
+  "override": {
+    "total": 8,
+    "forms": {
+      "override": 6,
+      "overrode": 1,
+      "overriding": 1
     }
   },
   "missile": {
@@ -143,6 +32,29 @@
     "forms": {
       "golf": 7,
       "golfing": 1
+    }
+  },
+  "underminer": {
+    "total": 8,
+    "forms": {
+      "underminer": 7,
+      "underminer's": 1
+    },
+    "expansions": {
+      "underminer's": "underminer's (possessive)"
+    }
+  },
+  "accessory": {
+    "total": 8,
+    "forms": {
+      "accessories": 5,
+      "accessory": 3
+    }
+  },
+  "chad": {
+    "total": 8,
+    "forms": {
+      "chad": 8
     }
   },
   "saith": {
@@ -197,6 +109,18 @@
     "total": 8,
     "forms": {
       "argh": 8
+    }
+  },
+  "lightspeed": {
+    "total": 8,
+    "forms": {
+      "lightspeed": 8
+    }
+  },
+  "meghan": {
+    "total": 8,
+    "forms": {
+      "meghan": 8
     }
   },
   "decker": {
@@ -292,18 +216,6 @@
     "total": 8,
     "forms": {
       "gideon": 8
-    }
-  },
-  "lightspeed": {
-    "total": 8,
-    "forms": {
-      "lightspeed": 8
-    }
-  },
-  "meghan": {
-    "total": 8,
-    "forms": {
-      "meghan": 8
     }
   },
   "appearance": {
@@ -672,6 +584,97 @@
     },
     "expansions": {
       "gorilla's": "gorilla's (possessive)"
+    }
+  },
+  "bun": {
+    "total": 7,
+    "forms": {
+      "buns": 7
+    }
+  },
+  "blessing": {
+    "total": 7,
+    "forms": {
+      "blessings": 7
+    }
+  },
+  "backstage": {
+    "total": 7,
+    "forms": {
+      "backstage": 7
+    }
+  },
+  "footprint": {
+    "total": 7,
+    "forms": {
+      "footprint": 6,
+      "footprints": 1
+    }
+  },
+  "fiesta": {
+    "total": 7,
+    "forms": {
+      "fiesta": 7
+    }
+  },
+  "differently": {
+    "total": 7,
+    "forms": {
+      "differently": 7
+    }
+  },
+  "stalk": {
+    "total": 7,
+    "forms": {
+      "stalk": 3,
+      "stalking": 2,
+      "stalked": 1,
+      "stalks": 1
+    }
+  },
+  "lovat": {
+    "total": 7,
+    "forms": {
+      "lovat": 7
+    }
+  },
+  "wyborne": {
+    "total": 7,
+    "forms": {
+      "wyborne": 7
+    }
+  },
+  "saddle": {
+    "total": 7,
+    "forms": {
+      "saddles": 3,
+      "saddled": 2,
+      "saddle": 2
+    }
+  },
+  "jones": {
+    "total": 7,
+    "forms": {
+      "jones": 7
+    }
+  },
+  "slime": {
+    "total": 7,
+    "forms": {
+      "slime": 7
+    }
+  },
+  "april": {
+    "total": 7,
+    "forms": {
+      "april": 7
+    }
+  },
+  "giraffe": {
+    "total": 7,
+    "forms": {
+      "giraffe": 6,
+      "giraffes": 1
     }
   }
 }

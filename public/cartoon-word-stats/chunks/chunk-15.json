@@ -1,108 +1,4 @@
 {
-  "dry": {
-    "total": 36,
-    "forms": {
-      "dry": 19,
-      "dried": 14,
-      "drier": 1,
-      "drying": 1,
-      "dryer": 1
-    }
-  },
-  "unit": {
-    "total": 36,
-    "forms": {
-      "unit": 21,
-      "units": 15
-    }
-  },
-  "member": {
-    "total": 36,
-    "forms": {
-      "member": 27,
-      "members": 9
-    }
-  },
-  "paper": {
-    "total": 36,
-    "forms": {
-      "paper": 34,
-      "papers": 2
-    }
-  },
-  "bar": {
-    "total": 36,
-    "forms": {
-      "bar": 21,
-      "bars": 12,
-      "baring": 1,
-      "barring": 1,
-      "bared": 1
-    }
-  },
-  "ceremony": {
-    "total": 36,
-    "forms": {
-      "ceremony": 36
-    }
-  },
-  "hip": {
-    "total": 36,
-    "forms": {
-      "hip": 30,
-      "hips": 4,
-      "hippest": 2
-    }
-  },
-  "gang": {
-    "total": 36,
-    "forms": {
-      "gang": 31,
-      "gang's": 4,
-      "gangs": 1
-    },
-    "expansions": {
-      "gang's": "gang's (possessive)"
-    }
-  },
-  "santa": {
-    "total": 36,
-    "forms": {
-      "santa": 35,
-      "santa's": 1
-    },
-    "expansions": {
-      "santa's": "santa's (possessive)"
-    }
-  },
-  "ll": {
-    "total": 36,
-    "forms": {
-      "ll": 36
-    }
-  },
-  "sacrifice": {
-    "total": 36,
-    "forms": {
-      "sacrifice": 24,
-      "sacrificing": 5,
-      "sacrificed": 5,
-      "sacrifices": 2
-    }
-  },
-  "blare": {
-    "total": 36,
-    "forms": {
-      "blaring": 27,
-      "blares": 9
-    }
-  },
-  "area": {
-    "total": 36,
-    "forms": {
-      "area": 36
-    }
-  },
   "loser": {
     "total": 36,
     "forms": {
@@ -210,8 +106,8 @@
     "total": 36,
     "forms": {
       "alert": 34,
-      "alerted": 1,
-      "alerting": 1
+      "alerting": 1,
+      "alerted": 1
     }
   },
   "brooklyn": {
@@ -367,12 +263,6 @@
       "dumping": 4
     }
   },
-  "gloria": {
-    "total": 35,
-    "forms": {
-      "gloria": 35
-    }
-  },
   "hiss": {
     "total": 35,
     "forms": {
@@ -385,6 +275,12 @@
     "total": 35,
     "forms": {
       "happiness": 35
+    }
+  },
+  "gloria": {
+    "total": 35,
+    "forms": {
+      "gloria": 35
     }
   },
   "gwen": {
@@ -757,12 +653,6 @@
       "conning": 2
     }
   },
-  "ours": {
-    "total": 33,
-    "forms": {
-      "ours": 33
-    }
-  },
   "steer": {
     "total": 33,
     "forms": {
@@ -773,6 +663,108 @@
     },
     "expansions": {
       "steering's": "steering's (possessive)"
+    }
+  },
+  "upstairs": {
+    "total": 33,
+    "forms": {
+      "upstairs": 33
+    }
+  },
+  "steady": {
+    "total": 33,
+    "forms": {
+      "steady": 33
+    }
+  },
+  "scan": {
+    "total": 33,
+    "forms": {
+      "scan": 23,
+      "scanning": 9,
+      "scanned": 1
+    }
+  },
+  "chain": {
+    "total": 33,
+    "forms": {
+      "chain": 18,
+      "chains": 9,
+      "chained": 6
+    }
+  },
+  "further": {
+    "total": 33,
+    "forms": {
+      "further": 33
+    }
+  },
+  "spread": {
+    "total": 33,
+    "forms": {
+      "spread": 29,
+      "spreading": 4
+    }
+  },
+  "apologize": {
+    "total": 33,
+    "forms": {
+      "apologize": 32,
+      "apologizing": 1
+    }
+  },
+  "practice": {
+    "total": 33,
+    "forms": {
+      "practice": 21,
+      "practicing": 6,
+      "practiced": 5,
+      "practices": 1
+    }
+  },
+  "bowl": {
+    "total": 33,
+    "forms": {
+      "bowl": 21,
+      "bowls": 6,
+      "bowling": 6
+    }
+  },
+  "distract": {
+    "total": 33,
+    "forms": {
+      "distract": 15,
+      "distracted": 12,
+      "distracting": 5,
+      "distracts": 1
+    }
+  },
+  "grandpa": {
+    "total": 33,
+    "forms": {
+      "grandpa": 32,
+      "grandpas": 1
+    }
+  },
+  "prison": {
+    "total": 33,
+    "forms": {
+      "prison": 33
+    }
+  },
+  "bello": {
+    "total": 33,
+    "forms": {
+      "bello": 33
+    }
+  },
+  "exist": {
+    "total": 33,
+    "forms": {
+      "exist": 24,
+      "exists": 5,
+      "existed": 2,
+      "existing": 2
     }
   }
 }

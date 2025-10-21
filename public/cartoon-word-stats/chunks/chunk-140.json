@@ -1,4 +1,223 @@
 {
+  "kickin": {
+    "total": 1,
+    "forms": {
+      "kickin": 1
+    }
+  },
+  "bishop": {
+    "total": 1,
+    "forms": {
+      "bishop": 1
+    }
+  },
+  "haltingly": {
+    "total": 1,
+    "forms": {
+      "haltingly": 1
+    }
+  },
+  "soundcheck": {
+    "total": 1,
+    "forms": {
+      "soundcheck's": 1
+    },
+    "expansions": {
+      "soundcheck's": "soundcheck's (possessive)"
+    }
+  },
+  "inuktitut": {
+    "total": 1,
+    "forms": {
+      "inuktitut": 1
+    }
+  },
+  "quantise": {
+    "total": 1,
+    "forms": {
+      "quantised": 1
+    }
+  },
+  "rebranding": {
+    "total": 1,
+    "forms": {
+      "rebranding": 1
+    }
+  },
+  "excitable": {
+    "total": 1,
+    "forms": {
+      "excitable": 1
+    }
+  },
+  "aloof": {
+    "total": 1,
+    "forms": {
+      "aloof": 1
+    }
+  },
+  "sceptic": {
+    "total": 1,
+    "forms": {
+      "sceptic": 1
+    }
+  },
+  "cautious": {
+    "total": 1,
+    "forms": {
+      "cautious": 1
+    }
+  },
+  "flamboyant": {
+    "total": 1,
+    "forms": {
+      "flamboyant": 1
+    }
+  },
+  "wallflower": {
+    "total": 1,
+    "forms": {
+      "wallflower": 1
+    }
+  },
+  "megalomaniac": {
+    "total": 1,
+    "forms": {
+      "megalomaniac": 1
+    }
+  },
+  "intensely": {
+    "total": 1,
+    "forms": {
+      "intensely": 1
+    }
+  },
+  "opportunistic": {
+    "total": 1,
+    "forms": {
+      "opportunistic": 1
+    }
+  },
+  "informative": {
+    "total": 1,
+    "forms": {
+      "informative": 1
+    }
+  },
+  "martinez": {
+    "total": 1,
+    "forms": {
+      "martinez": 1
+    }
+  },
+  "specialist": {
+    "total": 1,
+    "forms": {
+      "specialist": 1
+    }
+  },
+  "mexico": {
+    "total": 1,
+    "forms": {
+      "mexico": 1
+    }
+  },
+  "nobel": {
+    "total": 1,
+    "forms": {
+      "nobel": 1
+    }
+  },
+  "notable": {
+    "total": 1,
+    "forms": {
+      "notable": 1
+    }
+  },
+  "gandhi": {
+    "total": 1,
+    "forms": {
+      "gandhi": 1
+    }
+  },
+  "honorary": {
+    "total": 1,
+    "forms": {
+      "honorary": 1
+    }
+  },
+  "copernicus": {
+    "total": 1,
+    "forms": {
+      "copernicus": 1
+    }
+  },
+  "revolve": {
+    "total": 1,
+    "forms": {
+      "revolve": 1
+    }
+  },
+  "muhammad": {
+    "total": 1,
+    "forms": {
+      "muhammad": 1
+    }
+  },
+  "sudoku": {
+    "total": 1,
+    "forms": {
+      "sudoku": 1
+    }
+  },
+  "borgenstein": {
+    "total": 1,
+    "forms": {
+      "borgenstein": 1
+    }
+  },
+  "psychology": {
+    "total": 1,
+    "forms": {
+      "psychology": 1
+    }
+  },
+  "jung": {
+    "total": 1,
+    "forms": {
+      "jung": 1
+    }
+  },
+  "binaca": {
+    "total": 1,
+    "forms": {
+      "binaca": 1
+    }
+  },
+  "curated": {
+    "total": 1,
+    "forms": {
+      "curated": 1
+    }
+  },
+  "improvisational": {
+    "total": 1,
+    "forms": {
+      "improvisational": 1
+    }
+  },
+  "wambulance": {
+    "total": 1,
+    "forms": {
+      "wambulance": 1
+    }
+  },
+  "thankless": {
+    "total": 1,
+    "forms": {
+      "thankless": 1
+    }
+  },
   "andrew": {
     "total": 1,
     "forms": {
@@ -381,222 +600,6 @@
     "total": 1,
     "forms": {
       "amazin": 1
-    }
-  },
-  "serene": {
-    "total": 1,
-    "forms": {
-      "serene": 1
-    }
-  },
-  "spool": {
-    "total": 1,
-    "forms": {
-      "spool": 1
-    }
-  },
-  "meaning": {
-    "total": 1,
-    "forms": {
-      "meanings": 1
-    }
-  },
-  "rapper": {
-    "total": 1,
-    "forms": {
-      "rappers": 1
-    }
-  },
-  "absent": {
-    "total": 1,
-    "forms": {
-      "absent": 1
-    }
-  },
-  "noob": {
-    "total": 1,
-    "forms": {
-      "noob": 1
-    }
-  },
-  "unwise": {
-    "total": 1,
-    "forms": {
-      "unwise": 1
-    }
-  },
-  "rappin": {
-    "total": 1,
-    "forms": {
-      "rappin": 1
-    }
-  },
-  "ced": {
-    "total": 1,
-    "forms": {
-      "ced": 1
-    }
-  },
-  "blowin": {
-    "total": 1,
-    "forms": {
-      "blowin": 1
-    }
-  },
-  "dynomite": {
-    "total": 1,
-    "forms": {
-      "dynomite": 1
-    }
-  },
-  "kp": {
-    "total": 1,
-    "forms": {
-      "kp": 1
-    }
-  },
-  "bk": {
-    "total": 1,
-    "forms": {
-      "bk": 1
-    }
-  },
-  "def": {
-    "total": 1,
-    "forms": {
-      "def": 1
-    }
-  },
-  "leppard": {
-    "total": 1,
-    "forms": {
-      "leppard": 1
-    }
-  },
-  "superhuman": {
-    "total": 1,
-    "forms": {
-      "superhuman": 1
-    }
-  },
-  "adrian": {
-    "total": 1,
-    "forms": {
-      "adrian": 1
-    }
-  },
-  "toomes": {
-    "total": 1,
-    "forms": {
-      "toomes": 1
-    }
-  },
-  "yuri": {
-    "total": 1,
-    "forms": {
-      "yuri": 1
-    }
-  },
-  "unnoticed": {
-    "total": 1,
-    "forms": {
-      "unnoticed": 1
-    }
-  },
-  "pinnacle": {
-    "total": 1,
-    "forms": {
-      "pinnacle": 1
-    }
-  },
-  "sidebar": {
-    "total": 1,
-    "forms": {
-      "sidebar": 1
-    }
-  },
-  "commentary": {
-    "total": 1,
-    "forms": {
-      "commentary": 1
-    }
-  },
-  "panther": {
-    "total": 1,
-    "forms": {
-      "panther": 1
-    }
-  },
-  "blusader": {
-    "total": 1,
-    "forms": {
-      "blusader": 1
-    }
-  },
-  "libre": {
-    "total": 1,
-    "forms": {
-      "libre": 1
-    }
-  },
-  "hammerspace": {
-    "total": 1,
-    "forms": {
-      "hammerspace": 1
-    }
-  },
-  "sex": {
-    "total": 1,
-    "forms": {
-      "sex": 1
-    }
-  },
-  "sophomore": {
-    "total": 1,
-    "forms": {
-      "sophomore": 1
-    }
-  },
-  "preferably": {
-    "total": 1,
-    "forms": {
-      "preferably": 1
-    }
-  },
-  "spidey": {
-    "total": 1,
-    "forms": {
-      "spidey": 1
-    }
-  },
-  "dalmatian": {
-    "total": 1,
-    "forms": {
-      "dalmatian": 1
-    }
-  },
-  "rican": {
-    "total": 1,
-    "forms": {
-      "rican": 1
-    }
-  },
-  "dominican": {
-    "total": 1,
-    "forms": {
-      "dominican": 1
-    }
-  },
-  "psych": {
-    "total": 1,
-    "forms": {
-      "psych": 1
-    }
-  },
-  "petersen": {
-    "total": 1,
-    "forms": {
-      "petersen": 1
     }
   }
 }

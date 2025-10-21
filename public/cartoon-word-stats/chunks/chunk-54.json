@@ -1,96 +1,4 @@
 {
-  "feisty": {
-    "total": 5,
-    "forms": {
-      "feisty": 5
-    }
-  },
-  "handwrite": {
-    "total": 5,
-    "forms": {
-      "handwriting": 5
-    }
-  },
-  "deed": {
-    "total": 5,
-    "forms": {
-      "deed": 3,
-      "deeds": 2
-    }
-  },
-  "defy": {
-    "total": 5,
-    "forms": {
-      "defy": 4,
-      "defying": 1
-    }
-  },
-  "flurry": {
-    "total": 5,
-    "forms": {
-      "flurrying": 2,
-      "flurry": 2,
-      "flurries": 1
-    }
-  },
-  "sophisticate": {
-    "total": 5,
-    "forms": {
-      "sophisticated": 5
-    }
-  },
-  "bizarre": {
-    "total": 5,
-    "forms": {
-      "bizarre": 5
-    }
-  },
-  "sorcery": {
-    "total": 5,
-    "forms": {
-      "sorcery": 5
-    }
-  },
-  "stinker": {
-    "total": 5,
-    "forms": {
-      "stinker": 3,
-      "stinkers": 2
-    }
-  },
-  "thaw": {
-    "total": 5,
-    "forms": {
-      "thaw": 5
-    }
-  },
-  "steep": {
-    "total": 5,
-    "forms": {
-      "steep": 4,
-      "steeper": 1
-    }
-  },
-  "flawless": {
-    "total": 5,
-    "forms": {
-      "flawless": 5
-    }
-  },
-  "holder": {
-    "total": 5,
-    "forms": {
-      "holder": 3,
-      "holders": 2
-    }
-  },
-  "glide": {
-    "total": 5,
-    "forms": {
-      "glide": 3,
-      "gliding": 2
-    }
-  },
   "forum": {
     "total": 5,
     "forms": {
@@ -427,100 +335,6 @@
       "furniture": 5
     }
   },
-  "remotely": {
-    "total": 5,
-    "forms": {
-      "remotely": 5
-    }
-  },
-  "gazerbeam": {
-    "total": 5,
-    "forms": {
-      "gazerbeam": 5
-    }
-  },
-  "robber": {
-    "total": 5,
-    "forms": {
-      "robber": 3,
-      "robbers": 2
-    }
-  },
-  "homey": {
-    "total": 5,
-    "forms": {
-      "homey": 5
-    }
-  },
-  "statement": {
-    "total": 5,
-    "forms": {
-      "statement": 5
-    }
-  },
-  "county": {
-    "total": 5,
-    "forms": {
-      "county": 5
-    }
-  },
-  "exception": {
-    "total": 5,
-    "forms": {
-      "exception": 4,
-      "exceptions": 1
-    }
-  },
-  "drama": {
-    "total": 5,
-    "forms": {
-      "drama": 5
-    }
-  },
-  "shakespeare": {
-    "total": 5,
-    "forms": {
-      "shakespeare": 5
-    }
-  },
-  "tights": {
-    "total": 5,
-    "forms": {
-      "tights": 5
-    }
-  },
-  "confront": {
-    "total": 5,
-    "forms": {
-      "confront": 4,
-      "confronted": 1
-    }
-  },
-  "fraction": {
-    "total": 5,
-    "forms": {
-      "fractions": 5
-    }
-  },
-  "yang": {
-    "total": 5,
-    "forms": {
-      "yang": 5
-    }
-  },
-  "technical": {
-    "total": 5,
-    "forms": {
-      "technical": 5
-    }
-  },
-  "chute": {
-    "total": 5,
-    "forms": {
-      "chute": 4,
-      "chutes": 1
-    }
-  },
   "goofball": {
     "total": 5,
     "forms": {
@@ -562,6 +376,12 @@
     "total": 5,
     "forms": {
       "meg": 5
+    }
+  },
+  "technical": {
+    "total": 5,
+    "forms": {
+      "technical": 5
     }
   },
   "honesty": {
@@ -651,6 +471,191 @@
     "total": 5,
     "forms": {
       "colossal": 5
+    }
+  },
+  "watanabe": {
+    "total": 5,
+    "forms": {
+      "watanabe": 4,
+      "watanabe's": 1
+    },
+    "expansions": {
+      "watanabe's": "watanabe's (possessive)"
+    }
+  },
+  "corporate": {
+    "total": 5,
+    "forms": {
+      "corporate": 5
+    }
+  },
+  "observe": {
+    "total": 5,
+    "forms": {
+      "observe": 4,
+      "observing": 1
+    }
+  },
+  "vous": {
+    "total": 5,
+    "forms": {
+      "vous": 5
+    }
+  },
+  "rendezvous": {
+    "total": 5,
+    "forms": {
+      "rendezvous": 5
+    }
+  },
+  "resort": {
+    "total": 5,
+    "forms": {
+      "resort": 3,
+      "resorted": 1,
+      "resorts": 1
+    }
+  },
+  "military": {
+    "total": 5,
+    "forms": {
+      "military": 5
+    }
+  },
+  "statement": {
+    "total": 5,
+    "forms": {
+      "statement": 5
+    }
+  },
+  "disorder": {
+    "total": 5,
+    "forms": {
+      "disorders": 3,
+      "disorder": 2
+    }
+  },
+  "strip": {
+    "total": 5,
+    "forms": {
+      "strip": 3,
+      "stripped": 1,
+      "strips": 1
+    }
+  },
+  "injustice": {
+    "total": 5,
+    "forms": {
+      "injustice": 5
+    }
+  },
+  "barrier": {
+    "total": 5,
+    "forms": {
+      "barrier": 5
+    }
+  },
+  "celine": {
+    "total": 5,
+    "forms": {
+      "celine": 5
+    }
+  },
+  "slot": {
+    "total": 5,
+    "forms": {
+      "slot": 3,
+      "slots": 1,
+      "slotted": 1
+    }
+  },
+  "volume": {
+    "total": 5,
+    "forms": {
+      "volume": 5
+    }
+  },
+  "strategy": {
+    "total": 5,
+    "forms": {
+      "strategy": 3,
+      "strategies": 2
+    }
+  },
+  "atmosphere": {
+    "total": 5,
+    "forms": {
+      "atmosphere": 5
+    }
+  },
+  "impostor": {
+    "total": 5,
+    "forms": {
+      "impostor": 5
+    }
+  },
+  "nd": {
+    "total": 5,
+    "forms": {
+      "nd": 5
+    }
+  },
+  "ace": {
+    "total": 5,
+    "forms": {
+      "ace": 3,
+      "acest": 1,
+      "aced": 1
+    }
+  },
+  "altar": {
+    "total": 5,
+    "forms": {
+      "altar": 5
+    }
+  },
+  "buts": {
+    "total": 5,
+    "forms": {
+      "buts": 5
+    }
+  },
+  "bestow": {
+    "total": 5,
+    "forms": {
+      "bestow": 4,
+      "bestowed": 1
+    }
+  },
+  "period": {
+    "total": 5,
+    "forms": {
+      "period": 5
+    }
+  },
+  "bunk": {
+    "total": 5,
+    "forms": {
+      "bunk": 5
+    }
+  },
+  "urn": {
+    "total": 5,
+    "forms": {
+      "urn": 5
+    }
+  },
+  "sketch": {
+    "total": 5,
+    "forms": {
+      "sketch": 5
+    }
+  },
+  "hugger": {
+    "total": 5,
+    "forms": {
+      "hugger": 3,
+      "huggers": 2
     }
   }
 }

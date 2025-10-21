@@ -1,101 +1,4 @@
 {
-  "knowledge": {
-    "total": 14,
-    "forms": {
-      "knowledge": 14
-    }
-  },
-  "portal": {
-    "total": 14,
-    "forms": {
-      "portal": 13,
-      "portals": 1
-    }
-  },
-  "offense": {
-    "total": 14,
-    "forms": {
-      "offense": 14
-    }
-  },
-  "prime": {
-    "total": 14,
-    "forms": {
-      "prime": 14
-    }
-  },
-  "balance": {
-    "total": 14,
-    "forms": {
-      "balance": 10,
-      "balanced": 4
-    }
-  },
-  "reindeer": {
-    "total": 14,
-    "forms": {
-      "reindeer": 10,
-      "reindeers": 4
-    }
-  },
-  "post": {
-    "total": 14,
-    "forms": {
-      "post": 8,
-      "posts": 4,
-      "posted": 2
-    }
-  },
-  "courage": {
-    "total": 14,
-    "forms": {
-      "courage": 14
-    }
-  },
-  "upper": {
-    "total": 14,
-    "forms": {
-      "upper": 14
-    }
-  },
-  "transylvania": {
-    "total": 14,
-    "forms": {
-      "transylvania": 14
-    }
-  },
-  "koo": {
-    "total": 14,
-    "forms": {
-      "koo": 14
-    }
-  },
-  "humanity": {
-    "total": 14,
-    "forms": {
-      "humanity": 8,
-      "humanity's": 6
-    },
-    "expansions": {
-      "humanity's": "humanity's (possessive)"
-    }
-  },
-  "torture": {
-    "total": 14,
-    "forms": {
-      "torture": 6,
-      "torturing": 3,
-      "tortures": 3,
-      "tortured": 2
-    }
-  },
-  "shadow": {
-    "total": 14,
-    "forms": {
-      "shadows": 8,
-      "shadow": 6
-    }
-  },
   "carefully": {
     "total": 14,
     "forms": {
@@ -149,18 +52,6 @@
       "claimed": 1
     }
   },
-  "personally": {
-    "total": 14,
-    "forms": {
-      "personally": 14
-    }
-  },
-  "backwards": {
-    "total": 14,
-    "forms": {
-      "backwards": 14
-    }
-  },
   "stray": {
     "total": 14,
     "forms": {
@@ -178,6 +69,12 @@
     "forms": {
       "anxiety": 13,
       "anxieties": 1
+    }
+  },
+  "personally": {
+    "total": 14,
+    "forms": {
+      "personally": 14
     }
   },
   "portorosso": {
@@ -216,6 +113,12 @@
       "roger": 14
     }
   },
+  "backwards": {
+    "total": 14,
+    "forms": {
+      "backwards": 14
+    }
+  },
   "hun": {
     "total": 14,
     "forms": {
@@ -251,6 +154,12 @@
     "total": 14,
     "forms": {
       "kart": 14
+    }
+  },
+  "cy": {
+    "total": 14,
+    "forms": {
+      "cy": 14
     }
   },
   "emile": {
@@ -312,12 +221,6 @@
     "total": 14,
     "forms": {
       "masterbuilder": 14
-    }
-  },
-  "cy": {
-    "total": 14,
-    "forms": {
-      "cy": 14
     }
   },
   "deborahbot": {
@@ -663,6 +566,97 @@
     "total": 13,
     "forms": {
       "qu": 13
+    }
+  },
+  "es": {
+    "total": 13,
+    "forms": {
+      "es": 13
+    }
+  },
+  "te": {
+    "total": 13,
+    "forms": {
+      "te": 13
+    }
+  },
+  "bobinsky": {
+    "total": 13,
+    "forms": {
+      "bobinsky": 13
+    }
+  },
+  "stomp": {
+    "total": 13,
+    "forms": {
+      "stomp": 8,
+      "stomping": 5
+    }
+  },
+  "kiddo": {
+    "total": 13,
+    "forms": {
+      "kiddo": 13
+    }
+  },
+  "forcible": {
+    "total": 13,
+    "forms": {
+      "forcible": 13
+    }
+  },
+  "bah": {
+    "total": 13,
+    "forms": {
+      "bah": 13
+    }
+  },
+  "sr": {
+    "total": 13,
+    "forms": {
+      "sr": 13
+    }
+  },
+  "chapter": {
+    "total": 13,
+    "forms": {
+      "chapter": 10,
+      "chapters": 3
+    }
+  },
+  "gear": {
+    "total": 13,
+    "forms": {
+      "gear": 8,
+      "gears": 4,
+      "gearing": 1
+    }
+  },
+  "however": {
+    "total": 13,
+    "forms": {
+      "however": 13
+    }
+  },
+  "balthazar": {
+    "total": 13,
+    "forms": {
+      "balthazar": 13
+    }
+  },
+  "drill": {
+    "total": 13,
+    "forms": {
+      "drill": 12,
+      "drills": 1
+    }
+  },
+  "attempt": {
+    "total": 13,
+    "forms": {
+      "attempt": 6,
+      "attempted": 5,
+      "attempts": 2
     }
   }
 }

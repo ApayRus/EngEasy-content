@@ -1,105 +1,17 @@
 {
-  "angelic": {
+  "gid": {
     "total": 2,
     "forms": {
-      "angelic": 2
+      "gid's": 2
+    },
+    "expansions": {
+      "gid's": "gid's (possessive)"
     }
   },
-  "surgeon": {
+  "weaselton": {
     "total": 2,
     "forms": {
-      "surgeon": 1,
-      "surgeons": 1
-    }
-  },
-  "inappropriately": {
-    "total": 2,
-    "forms": {
-      "inappropriately": 2
-    }
-  },
-  "lavish": {
-    "total": 2,
-    "forms": {
-      "lavish": 2
-    }
-  },
-  "shakalaka": {
-    "total": 2,
-    "forms": {
-      "shakalaka": 2
-    }
-  },
-  "supersecret": {
-    "total": 2,
-    "forms": {
-      "supersecret": 2
-    }
-  },
-  "federman": {
-    "total": 2,
-    "forms": {
-      "federman": 2
-    }
-  },
-  "floaty": {
-    "total": 2,
-    "forms": {
-      "floaty": 2
-    }
-  },
-  "glugging": {
-    "total": 2,
-    "forms": {
-      "glugging": 2
-    }
-  },
-  "gallery": {
-    "total": 2,
-    "forms": {
-      "gallery": 2
-    }
-  },
-  "closeness": {
-    "total": 2,
-    "forms": {
-      "closeness": 2
-    }
-  },
-  "willkommen": {
-    "total": 2,
-    "forms": {
-      "willkommen": 2
-    }
-  },
-  "bienvenue": {
-    "total": 2,
-    "forms": {
-      "bienvenue": 2
-    }
-  },
-  "shawshank": {
-    "total": 2,
-    "forms": {
-      "shawshank": 2
-    }
-  },
-  "horsepower": {
-    "total": 2,
-    "forms": {
-      "horsepower": 2
-    }
-  },
-  "qt": {
-    "total": 2,
-    "forms": {
-      "qt": 2
-    }
-  },
-  "tagalong": {
-    "total": 2,
-    "forms": {
-      "tagalong": 2
+      "weaselton": 2
     }
   },
   "immense": {
@@ -598,6 +510,96 @@
     "total": 1,
     "forms": {
       "humiliation": 1
+    }
+  },
+  "prospect": {
+    "total": 1,
+    "forms": {
+      "prospects": 1
+    }
+  },
+  "whoopee": {
+    "total": 1,
+    "forms": {
+      "whoopee": 1
+    }
+  },
+  "addendas": {
+    "total": 1,
+    "forms": {
+      "addendas": 1
+    }
+  },
+  "yech": {
+    "total": 1,
+    "forms": {
+      "yech": 1
+    }
+  },
+  "jaf": {
+    "total": 1,
+    "forms": {
+      "jaf": 1
+    }
+  },
+  "rake": {
+    "total": 1,
+    "forms": {
+      "rake": 1
+    }
+  },
+  "servitude": {
+    "total": 1,
+    "forms": {
+      "servitude": 1
+    }
+  },
+  "pedigree": {
+    "total": 1,
+    "forms": {
+      "pedigree": 1
+    }
+  },
+  "mythology": {
+    "total": 1,
+    "forms": {
+      "mythology": 1
+    }
+  },
+  "supplier": {
+    "total": 1,
+    "forms": {
+      "supplier": 1
+    }
+  },
+  "iguana": {
+    "total": 1,
+    "forms": {
+      "iguana": 1
+    }
+  },
+  "gracio": {
+    "total": 1,
+    "forms": {
+      "gracio": 1
+    }
+  },
+  "alaska": {
+    "total": 1,
+    "forms": {
+      "alaska": 1
+    }
+  },
+  "tacoma": {
+    "total": 1,
+    "forms": {
+      "tacoma": 1
+    }
+  },
+  "tatty": {
+    "total": 1,
+    "forms": {
+      "tatty": 1
     }
   }
 }

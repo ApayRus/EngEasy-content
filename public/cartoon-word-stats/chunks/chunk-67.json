@@ -1,102 +1,4 @@
 {
-  "transition": {
-    "total": 3,
-    "forms": {
-      "transition": 2,
-      "transitioning": 1
-    }
-  },
-  "smug": {
-    "total": 3,
-    "forms": {
-      "smug": 3
-    }
-  },
-  "gym": {
-    "total": 3,
-    "forms": {
-      "gym": 3
-    }
-  },
-  "vinci": {
-    "total": 3,
-    "forms": {
-      "vinci": 3
-    }
-  },
-  "snuggle": {
-    "total": 3,
-    "forms": {
-      "snuggle": 3
-    }
-  },
-  "gurgle": {
-    "total": 3,
-    "forms": {
-      "gurgling": 2,
-      "gurgle": 1
-    }
-  },
-  "metallic": {
-    "total": 3,
-    "forms": {
-      "metallic": 3
-    }
-  },
-  "nuclear": {
-    "total": 3,
-    "forms": {
-      "nuclear": 3
-    }
-  },
-  "freedonian": {
-    "total": 3,
-    "forms": {
-      "freedonian": 3
-    }
-  },
-  "hers": {
-    "total": 3,
-    "forms": {
-      "hers": 3
-    }
-  },
-  "policemen": {
-    "total": 3,
-    "forms": {
-      "policemen": 3
-    }
-  },
-  "geronimo": {
-    "total": 3,
-    "forms": {
-      "geronimo": 3
-    }
-  },
-  "getaway": {
-    "total": 3,
-    "forms": {
-      "getaway": 3
-    }
-  },
-  "crucial": {
-    "total": 3,
-    "forms": {
-      "crucial": 3
-    }
-  },
-  "chihuahua": {
-    "total": 3,
-    "forms": {
-      "chihuahua": 3
-    }
-  },
-  "suitcase": {
-    "total": 3,
-    "forms": {
-      "suitcases": 3
-    }
-  },
   "mullet": {
     "total": 3,
     "forms": {
@@ -616,6 +518,103 @@
     "total": 3,
     "forms": {
       "platinum": 3
+    }
+  },
+  "hercules": {
+    "total": 3,
+    "forms": {
+      "hercules": 3
+    }
+  },
+  "falter": {
+    "total": 3,
+    "forms": {
+      "falter": 3
+    }
+  },
+  "swerve": {
+    "total": 3,
+    "forms": {
+      "swerve": 3
+    }
+  },
+  "relaxation": {
+    "total": 3,
+    "forms": {
+      "relaxation": 3
+    }
+  },
+  "hypothetically": {
+    "total": 3,
+    "forms": {
+      "hypothetically": 3
+    }
+  },
+  "associate": {
+    "total": 3,
+    "forms": {
+      "associate": 3
+    }
+  },
+  "grape": {
+    "total": 3,
+    "forms": {
+      "grapes": 2,
+      "grape": 1
+    }
+  },
+  "hernando": {
+    "total": 3,
+    "forms": {
+      "hernando": 3
+    }
+  },
+  "jorge": {
+    "total": 3,
+    "forms": {
+      "jorge": 3
+    }
+  },
+  "imperceptible": {
+    "total": 3,
+    "forms": {
+      "imperceptible": 3
+    }
+  },
+  "warmth": {
+    "total": 3,
+    "forms": {
+      "warmth": 3
+    }
+  },
+  "consent": {
+    "total": 3,
+    "forms": {
+      "consent": 3
+    }
+  },
+  "inseparable": {
+    "total": 3,
+    "forms": {
+      "inseparable": 3
+    }
+  },
+  "mariposa": {
+    "total": 3,
+    "forms": {
+      "mariposa": 3
+    }
+  },
+  "davy": {
+    "total": 3,
+    "forms": {
+      "davy": 3
+    }
+  },
+  "supposedly": {
+    "total": 3,
+    "forms": {
+      "supposedly": 3
     }
   }
 }

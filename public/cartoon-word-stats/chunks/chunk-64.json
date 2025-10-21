@@ -1,128 +1,4 @@
 {
-  "compos": {
-    "total": 4,
-    "forms": {
-      "compos": 4
-    }
-  },
-  "skinner": {
-    "total": 4,
-    "forms": {
-      "skinner": 4
-    }
-  },
-  "sou": {
-    "total": 4,
-    "forms": {
-      "sous": 3,
-      "sou": 1
-    }
-  },
-  "leclaire": {
-    "total": 4,
-    "forms": {
-      "leclaire": 4
-    }
-  },
-  "nip": {
-    "total": 4,
-    "forms": {
-      "nip": 2,
-      "nipping": 1,
-      "nips": 1
-    }
-  },
-  "scurry": {
-    "total": 4,
-    "forms": {
-      "scurrying": 2,
-      "scurry": 2
-    }
-  },
-  "jeopardize": {
-    "total": 4,
-    "forms": {
-      "jeopardizing": 2,
-      "jeopardize": 1,
-      "jeopardized": 1
-    }
-  },
-  "utensil": {
-    "total": 4,
-    "forms": {
-      "utensil": 3,
-      "utensils": 1
-    }
-  },
-  "corporation": {
-    "total": 4,
-    "forms": {
-      "corporation": 4
-    }
-  },
-  "veal": {
-    "total": 4,
-    "forms": {
-      "veal": 4
-    }
-  },
-  "financial": {
-    "total": 4,
-    "forms": {
-      "financial": 4
-    }
-  },
-  "headline": {
-    "total": 4,
-    "forms": {
-      "headlines": 2,
-      "headline": 2
-    }
-  },
-  "delta": {
-    "total": 4,
-    "forms": {
-      "delta": 4
-    }
-  },
-  "sisudatu": {
-    "total": 4,
-    "forms": {
-      "sisudatu": 4
-    }
-  },
-  "dewdrop": {
-    "total": 4,
-    "forms": {
-      "dewdrop": 4
-    }
-  },
-  "dep": {
-    "total": 4,
-    "forms": {
-      "dep": 4
-    }
-  },
-  "amba": {
-    "total": 4,
-    "forms": {
-      "amba": 3,
-      "amba's": 1
-    },
-    "expansions": {
-      "amba's": "amba's (possessive)"
-    }
-  },
-  "pranee": {
-    "total": 4,
-    "forms": {
-      "pranee": 3,
-      "pranee's": 1
-    },
-    "expansions": {
-      "pranee's": "pranee's (possessive)"
-    }
-  },
   "maintain": {
     "total": 4,
     "forms": {
@@ -154,12 +30,6 @@
       "rafael": 4
     }
   },
-  "trusty": {
-    "total": 4,
-    "forms": {
-      "trusty": 4
-    }
-  },
   "mimi": {
     "total": 4,
     "forms": {
@@ -179,10 +49,10 @@
       "encore": 4
     }
   },
-  "sidekick": {
+  "er": {
     "total": 4,
     "forms": {
-      "sidekick": 4
+      "er": 4
     }
   },
   "pluck": {
@@ -205,6 +75,12 @@
     "total": 4,
     "forms": {
       "ara": 4
+    }
+  },
+  "soda": {
+    "total": 4,
+    "forms": {
+      "soda": 4
     }
   },
   "mould": {
@@ -350,12 +226,6 @@
       "coyote's": "coyote's (possessive)"
     }
   },
-  "trauma": {
-    "total": 4,
-    "forms": {
-      "trauma": 4
-    }
-  },
   "teresa": {
     "total": 4,
     "forms": {
@@ -437,6 +307,13 @@
       "gayatri": 4
     }
   },
+  "signature": {
+    "total": 4,
+    "forms": {
+      "signature": 3,
+      "signatures": 1
+    }
+  },
   "liability": {
     "total": 4,
     "forms": {
@@ -455,6 +332,12 @@
     "forms": {
       "conclusion": 3,
       "conclusions": 1
+    }
+  },
+  "sayin": {
+    "total": 4,
+    "forms": {
+      "sayin": 4
     }
   },
   "hearty": {
@@ -476,16 +359,17 @@
       "mj": 4
     }
   },
-  "penthouse": {
-    "total": 4,
-    "forms": {
-      "penthouse": 4
-    }
-  },
   "ignition": {
     "total": 4,
     "forms": {
       "ignition": 4
+    }
+  },
+  "boiler": {
+    "total": 4,
+    "forms": {
+      "boiler": 3,
+      "boilers": 1
     }
   },
   "toil": {
@@ -540,10 +424,33 @@
       "norma": 4
     }
   },
+  "insuricare": {
+    "total": 4,
+    "forms": {
+      "insuricare": 3,
+      "insuricare's": 1
+    },
+    "expansions": {
+      "insuricare's": "insuricare's (possessive)"
+    }
+  },
+  "temptation": {
+    "total": 4,
+    "forms": {
+      "temptation": 3,
+      "temptations": 1
+    }
+  },
   "mirage": {
     "total": 4,
     "forms": {
       "mirage": 4
+    }
+  },
+  "supersuit": {
+    "total": 4,
+    "forms": {
+      "supersuit": 4
     }
   },
   "limo": {
@@ -554,6 +461,49 @@
     },
     "expansions": {
       "limo's": "limo's (possessive)"
+    }
+  },
+  "popcorn": {
+    "total": 4,
+    "forms": {
+      "popcorn": 4
+    }
+  },
+  "babysitting": {
+    "total": 4,
+    "forms": {
+      "babysitting": 4
+    }
+  },
+  "heartbreak": {
+    "total": 4,
+    "forms": {
+      "heartbreak": 4
+    }
+  },
+  "bla": {
+    "total": 4,
+    "forms": {
+      "bla": 4
+    }
+  },
+  "renounce": {
+    "total": 4,
+    "forms": {
+      "renounce": 3,
+      "renounced": 1
+    }
+  },
+  "voyd": {
+    "total": 4,
+    "forms": {
+      "voyd": 4
+    }
+  },
+  "readout": {
+    "total": 4,
+    "forms": {
+      "readout": 4
     }
   },
   "sputnik": {
@@ -649,6 +599,52 @@
     "total": 4,
     "forms": {
       "monarch": 4
+    }
+  },
+  "specimen": {
+    "total": 4,
+    "forms": {
+      "specimen": 4
+    }
+  },
+  "sleigh": {
+    "total": 4,
+    "forms": {
+      "sleigh": 4
+    }
+  },
+  "batterbie": {
+    "total": 4,
+    "forms": {
+      "batterbie": 2,
+      "batterbie's": 2
+    },
+    "expansions": {
+      "batterbie's": "batterbie's (possessive)"
+    }
+  },
+  "seein": {
+    "total": 4,
+    "forms": {
+      "seein": 4
+    }
+  },
+  "schoolyard": {
+    "total": 4,
+    "forms": {
+      "schoolyard": 4
+    }
+  },
+  "shep": {
+    "total": 4,
+    "forms": {
+      "shep": 4
+    }
+  },
+  "offensive": {
+    "total": 4,
+    "forms": {
+      "offensive": 4
     }
   }
 }

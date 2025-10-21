@@ -1,4 +1,173 @@
 {
+  "hufflepuff": {
+    "total": 2,
+    "forms": {
+      "hufflepuff": 2
+    }
+  },
+  "spoonful": {
+    "total": 2,
+    "forms": {
+      "spoonful": 2
+    }
+  },
+  "susan": {
+    "total": 2,
+    "forms": {
+      "susan": 2
+    }
+  },
+  "tutting": {
+    "total": 2,
+    "forms": {
+      "tutting": 2
+    }
+  },
+  "chisel": {
+    "total": 2,
+    "forms": {
+      "chiseled": 2
+    }
+  },
+  "rexcelsior": {
+    "total": 2,
+    "forms": {
+      "rexcelsior": 2
+    }
+  },
+  "undar": {
+    "total": 2,
+    "forms": {
+      "undar": 2
+    }
+  },
+  "grumpledumpuss": {
+    "total": 2,
+    "forms": {
+      "grumpledumpuss": 2
+    }
+  },
+  "kragled": {
+    "total": 2,
+    "forms": {
+      "kragled": 2
+    }
+  },
+  "extry": {
+    "total": 2,
+    "forms": {
+      "extry": 2
+    }
+  },
+  "luthor": {
+    "total": 2,
+    "forms": {
+      "luthor": 2
+    }
+  },
+  "zod": {
+    "total": 2,
+    "forms": {
+      "zod": 2
+    }
+  },
+  "glittery": {
+    "total": 2,
+    "forms": {
+      "glittery": 2
+    }
+  },
+  "kryptonite": {
+    "total": 2,
+    "forms": {
+      "kryptonite": 2
+    }
+  },
+  "rextraction": {
+    "total": 2,
+    "forms": {
+      "rextraction": 2
+    }
+  },
+  "vegan": {
+    "total": 2,
+    "forms": {
+      "vegan": 2
+    }
+  },
+  "dove": {
+    "total": 2,
+    "forms": {
+      "doves": 2
+    }
+  },
+  "boopity": {
+    "total": 2,
+    "forms": {
+      "boopity": 2
+    }
+  },
+  "communicator": {
+    "total": 2,
+    "forms": {
+      "communicators": 1,
+      "communicator": 1
+    }
+  },
+  "yon": {
+    "total": 2,
+    "forms": {
+      "yon": 2
+    }
+  },
+  "makeover": {
+    "total": 2,
+    "forms": {
+      "makeover": 2
+    }
+  },
+  "downer": {
+    "total": 2,
+    "forms": {
+      "downer": 2
+    }
+  },
+  "smith": {
+    "total": 2,
+    "forms": {
+      "smith": 2
+    }
+  },
+  "futuring": {
+    "total": 2,
+    "forms": {
+      "futuring": 2
+    }
+  },
+  "givin": {
+    "total": 2,
+    "forms": {
+      "givin": 2
+    }
+  },
+  "comb": {
+    "total": 2,
+    "forms": {
+      "comb": 2
+    }
+  },
+  "bricksburg": {
+    "total": 2,
+    "forms": {
+      "bricksburg": 2
+    }
+  },
+  "database": {
+    "total": 2,
+    "forms": {
+      "database": 2
+    }
+  },
   "takos": {
     "total": 2,
     "forms": {
@@ -15,12 +184,6 @@
     "total": 2,
     "forms": {
       "drawl": 2
-    }
-  },
-  "embodiment": {
-    "total": 2,
-    "forms": {
-      "embodiment": 2
     }
   },
   "caf": {
@@ -45,18 +208,6 @@
     "total": 2,
     "forms": {
       "dubbadore": 2
-    }
-  },
-  "northwest": {
-    "total": 2,
-    "forms": {
-      "northwest": 2
-    }
-  },
-  "retro": {
-    "total": 2,
-    "forms": {
-      "retro": 2
     }
   },
   "dredge": {
@@ -104,12 +255,6 @@
     "forms": {
       "aeroplane": 1,
       "aeroplanes": 1
-    }
-  },
-  "contractor": {
-    "total": 2,
-    "forms": {
-      "contractor": 2
     }
   },
   "scarcely": {
@@ -313,12 +458,6 @@
       "brimming": 1
     }
   },
-  "logical": {
-    "total": 2,
-    "forms": {
-      "logical": 2
-    }
-  },
   "finkelstein": {
     "total": 2,
     "forms": {
@@ -476,146 +615,6 @@
     "total": 2,
     "forms": {
       "phillips": 2
-    }
-  },
-  "callin": {
-    "total": 2,
-    "forms": {
-      "callin": 2
-    }
-  },
-  "cork": {
-    "total": 2,
-    "forms": {
-      "cork": 2
-    }
-  },
-  "burnin": {
-    "total": 2,
-    "forms": {
-      "burnin": 2
-    }
-  },
-  "konishi": {
-    "total": 2,
-    "forms": {
-      "konishi": 2
-    }
-  },
-  "unload": {
-    "total": 2,
-    "forms": {
-      "unload": 1,
-      "unloading": 1
-    }
-  },
-  "photography": {
-    "total": 2,
-    "forms": {
-      "photography": 2
-    }
-  },
-  "corvette": {
-    "total": 2,
-    "forms": {
-      "corvette": 2
-    }
-  },
-  "fax": {
-    "total": 2,
-    "forms": {
-      "fax": 2
-    }
-  },
-  "rippin": {
-    "total": 2,
-    "forms": {
-      "rippin": 2
-    }
-  },
-  "godzilla": {
-    "total": 2,
-    "forms": {
-      "godzilla": 2
-    }
-  },
-  "bowel": {
-    "total": 2,
-    "forms": {
-      "bowels": 1,
-      "bowel": 1
-    }
-  },
-  "fallin": {
-    "total": 2,
-    "forms": {
-      "fallin": 2
-    }
-  },
-  "antigravity": {
-    "total": 2,
-    "forms": {
-      "antigravity": 2
-    }
-  },
-  "springy": {
-    "total": 2,
-    "forms": {
-      "springy": 2
-    }
-  },
-  "upstart": {
-    "total": 2,
-    "forms": {
-      "upstart": 2
-    }
-  },
-  "landfill": {
-    "total": 2,
-    "forms": {
-      "landfill": 2
-    }
-  },
-  "racecar": {
-    "total": 2,
-    "forms": {
-      "racecar": 2
-    }
-  },
-  "headin": {
-    "total": 2,
-    "forms": {
-      "headin": 2
-    }
-  },
-  "cockleshell": {
-    "total": 2,
-    "forms": {
-      "cockleshells": 2
-    }
-  },
-  "buttercup": {
-    "total": 2,
-    "forms": {
-      "buttercup": 2
-    }
-  },
-  "trixie": {
-    "total": 2,
-    "forms": {
-      "trixie": 2
-    }
-  },
-  "sycamore": {
-    "total": 2,
-    "forms": {
-      "sycamore": 2
-    }
-  },
-  "yid": {
-    "total": 2,
-    "forms": {
-      "yid": 2
     }
   }
 }

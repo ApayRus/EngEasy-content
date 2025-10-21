@@ -1,103 +1,4 @@
 {
-  "golden": {
-    "total": 70,
-    "forms": {
-      "golden": 70
-    }
-  },
-  "absolute": {
-    "total": 70,
-    "forms": {
-      "absolutely": 66,
-      "absolute": 4
-    }
-  },
-  "sick": {
-    "total": 70,
-    "forms": {
-      "sick": 70
-    }
-  },
-  "hunt": {
-    "total": 70,
-    "forms": {
-      "hunt": 36,
-      "hunting": 26,
-      "hunted": 7,
-      "hunts": 1
-    }
-  },
-  "tear": {
-    "total": 70,
-    "forms": {
-      "tear": 29,
-      "tears": 20,
-      "torn": 11,
-      "tore": 6,
-      "tearing": 4
-    }
-  },
-  "tower": {
-    "total": 70,
-    "forms": {
-      "tower": 69,
-      "towers": 1
-    }
-  },
-  "egg": {
-    "total": 70,
-    "forms": {
-      "egg": 38,
-      "eggs": 31,
-      "egg's": 1
-    },
-    "expansions": {
-      "egg's": "egg's (possessive)"
-    }
-  },
-  "beep": {
-    "total": 70,
-    "forms": {
-      "beeping": 46,
-      "beeps": 12,
-      "beep": 12
-    }
-  },
-  "spaceship": {
-    "total": 70,
-    "forms": {
-      "spaceship": 65,
-      "spaceships": 5
-    }
-  },
-  "where'd": {
-    "total": 69,
-    "forms": {
-      "where'd": 69
-    }
-  },
-  "rumble": {
-    "total": 69,
-    "forms": {
-      "rumbling": 59,
-      "rumbles": 8,
-      "rumble": 2
-    }
-  },
-  "unless": {
-    "total": 69,
-    "forms": {
-      "unless": 69
-    }
-  },
-  "bless": {
-    "total": 69,
-    "forms": {
-      "blessing": 39,
-      "bless": 18,
-      "blessed": 12
-    }
-  },
   "raise": {
     "total": 69,
     "forms": {
@@ -836,6 +737,116 @@
       "bottom": 56,
       "bottoms": 6,
       "bottomed": 1
+    }
+  },
+  "sugar": {
+    "total": 63,
+    "forms": {
+      "sugar": 60,
+      "sugared": 1,
+      "sugar's": 1,
+      "sugars": 1
+    },
+    "expansions": {
+      "sugar's": "sugar's (possessive)"
+    }
+  },
+  "gold": {
+    "total": 63,
+    "forms": {
+      "gold": 63
+    }
+  },
+  "others": {
+    "total": 63,
+    "forms": {
+      "others": 63
+    }
+  },
+  "brave": {
+    "total": 63,
+    "forms": {
+      "brave": 52,
+      "bravest": 9,
+      "braver": 2
+    }
+  },
+  "agree": {
+    "total": 63,
+    "forms": {
+      "agree": 39,
+      "agreed": 19,
+      "agrees": 3,
+      "agreeing": 2
+    }
+  },
+  "notice": {
+    "total": 63,
+    "forms": {
+      "notice": 39,
+      "noticed": 21,
+      "noticing": 2,
+      "notices": 1
+    }
+  },
+  "san": {
+    "total": 63,
+    "forms": {
+      "san": 62,
+      "san's": 1
+    },
+    "expansions": {
+      "san's": "san's (possessive)"
+    }
+  },
+  "dave": {
+    "total": 63,
+    "forms": {
+      "dave": 54,
+      "dave's": 9
+    },
+    "expansions": {
+      "dave's": "dave's (possessive)"
+    }
+  },
+  "nine": {
+    "total": 63,
+    "forms": {
+      "nine": 52,
+      "niner": 11
+    }
+  },
+  "suck": {
+    "total": 63,
+    "forms": {
+      "suck": 35,
+      "sucked": 14,
+      "sucks": 8,
+      "sucking": 6
+    }
+  },
+  "aaron": {
+    "total": 63,
+    "forms": {
+      "aaron": 63
+    }
+  },
+  "enter": {
+    "total": 62,
+    "forms": {
+      "enter": 41,
+      "entering": 12,
+      "entered": 8,
+      "enters": 1
+    }
+  },
+  "spit": {
+    "total": 62,
+    "forms": {
+      "spit": 35,
+      "spits": 20,
+      "spitting": 6,
+      "spat": 1
     }
   }
 }

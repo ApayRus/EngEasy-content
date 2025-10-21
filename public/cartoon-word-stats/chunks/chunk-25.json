@@ -1,110 +1,4 @@
 {
-  "clan": {
-    "total": 18,
-    "forms": {
-      "clan": 13,
-      "clans": 4,
-      "clan's": 1
-    },
-    "expansions": {
-      "clan's": "clan's (possessive)"
-    }
-  },
-  "dessert": {
-    "total": 18,
-    "forms": {
-      "dessert": 17,
-      "desserts": 1
-    }
-  },
-  "naked": {
-    "total": 18,
-    "forms": {
-      "naked": 18
-    }
-  },
-  "reserve": {
-    "total": 18,
-    "forms": {
-      "reserve": 14,
-      "reserved": 3,
-      "reserves": 1
-    }
-  },
-  "exhibit": {
-    "total": 18,
-    "forms": {
-      "exhibit": 15,
-      "exhibits": 3
-    }
-  },
-  "motion": {
-    "total": 18,
-    "forms": {
-      "motion": 16,
-      "motions": 2
-    }
-  },
-  "turkey": {
-    "total": 18,
-    "forms": {
-      "turkey": 17,
-      "turkeys": 1
-    }
-  },
-  "earl": {
-    "total": 18,
-    "forms": {
-      "earl": 18
-    }
-  },
-  "nail": {
-    "total": 18,
-    "forms": {
-      "nailed": 11,
-      "nails": 4,
-      "nail": 3
-    }
-  },
-  "mount": {
-    "total": 18,
-    "forms": {
-      "mount": 13,
-      "mounts": 3,
-      "mounting": 2
-    }
-  },
-  "eastern": {
-    "total": 18,
-    "forms": {
-      "eastern": 18
-    }
-  },
-  "pilot": {
-    "total": 18,
-    "forms": {
-      "pilot": 16,
-      "pilot's": 1,
-      "piloting": 1
-    },
-    "expansions": {
-      "pilot's": "pilot's (possessive)"
-    }
-  },
-  "crap": {
-    "total": 18,
-    "forms": {
-      "crap": 18
-    }
-  },
-  "assist": {
-    "total": 18,
-    "forms": {
-      "assist": 13,
-      "assisting": 4,
-      "assisted": 1
-    }
-  },
   "argue": {
     "total": 18,
     "forms": {
@@ -500,19 +394,6 @@
       "protection": 18
     }
   },
-  "pow": {
-    "total": 18,
-    "forms": {
-      "pow": 18
-    }
-  },
-  "classify": {
-    "total": 18,
-    "forms": {
-      "classified": 17,
-      "classify": 1
-    }
-  },
   "catchy": {
     "total": 18,
     "forms": {
@@ -561,6 +442,19 @@
     },
     "expansions": {
       "okkoto's": "okkoto's (possessive)"
+    }
+  },
+  "pow": {
+    "total": 18,
+    "forms": {
+      "pow": 18
+    }
+  },
+  "classify": {
+    "total": 18,
+    "forms": {
+      "classified": 17,
+      "classify": 1
     }
   },
   "artie": {
@@ -744,6 +638,105 @@
     "forms": {
       "globe": 16,
       "globes": 1
+    }
+  },
+  "corn": {
+    "total": 17,
+    "forms": {
+      "corn": 16,
+      "corned": 1
+    }
+  },
+  "underground": {
+    "total": 17,
+    "forms": {
+      "underground": 17
+    }
+  },
+  "account": {
+    "total": 17,
+    "forms": {
+      "account": 11,
+      "accounting": 3,
+      "accounted": 3
+    }
+  },
+  "location": {
+    "total": 17,
+    "forms": {
+      "location": 15,
+      "locations": 2
+    }
+  },
+  "stew": {
+    "total": 17,
+    "forms": {
+      "stew": 16,
+      "stews": 1
+    }
+  },
+  "hola": {
+    "total": 17,
+    "forms": {
+      "hola": 17
+    }
+  },
+  "seize": {
+    "total": 17,
+    "forms": {
+      "seize": 16,
+      "seizing": 1
+    }
+  },
+  "grandson": {
+    "total": 17,
+    "forms": {
+      "grandson": 17
+    }
+  },
+  "wander": {
+    "total": 17,
+    "forms": {
+      "wander": 12,
+      "wandered": 3,
+      "wandering": 2
+    }
+  },
+  "nerve": {
+    "total": 17,
+    "forms": {
+      "nerve": 9,
+      "nerves": 8
+    }
+  },
+  "threat": {
+    "total": 17,
+    "forms": {
+      "threat": 16,
+      "threats": 1
+    }
+  },
+  "explore": {
+    "total": 17,
+    "forms": {
+      "explore": 12,
+      "exploring": 4,
+      "explored": 1
+    }
+  },
+  "burp": {
+    "total": 17,
+    "forms": {
+      "burps": 11,
+      "burp": 5,
+      "burping": 1
+    }
+  },
+  "bay": {
+    "total": 17,
+    "forms": {
+      "bay": 16,
+      "baying": 1
     }
   }
 }

@@ -1,128 +1,38 @@
 {
-  "auditorium": {
+  "yakety": {
     "total": 1,
     "forms": {
-      "auditorium": 1
+      "yakety": 1
     }
   },
-  "wintertime": {
+  "leodore": {
     "total": 1,
     "forms": {
-      "wintertime": 1
+      "leodore": 1
     }
   },
-  "dundle": {
+  "afflict": {
     "total": 1,
     "forms": {
-      "dundle": 1
+      "afflicted": 1
     }
   },
-  "floofers": {
+  "slogan": {
     "total": 1,
     "forms": {
-      "floofers": 1
+      "slogan": 1
     }
   },
-  "diwali": {
+  "bumper": {
     "total": 1,
     "forms": {
-      "diwali": 1
+      "bumper": 1
     }
   },
-  "hindu": {
+  "savannah": {
     "total": 1,
     "forms": {
-      "hindu": 1
-    }
-  },
-  "posadas": {
-    "total": 1,
-    "forms": {
-      "posadas": 1
-    }
-  },
-  "agnostic": {
-    "total": 1,
-    "forms": {
-      "agnostic": 1
-    }
-  },
-  "nativity": {
-    "total": 1,
-    "forms": {
-      "nativity": 1
-    }
-  },
-  "bicker": {
-    "total": 1,
-    "forms": {
-      "bickering": 1
-    }
-  },
-  "ovation": {
-    "total": 1,
-    "forms": {
-      "ovation": 1
-    }
-  },
-  "ahold": {
-    "total": 1,
-    "forms": {
-      "ahold": 1
-    }
-  },
-  "whatchamacallit": {
-    "total": 1,
-    "forms": {
-      "whatchamacallit": 1
-    }
-  },
-  "whatsits": {
-    "total": 1,
-    "forms": {
-      "whatsits": 1
-    }
-  },
-  "intersect": {
-    "total": 1,
-    "forms": {
-      "intersect": 1
-    }
-  },
-  "shotgun": {
-    "total": 1,
-    "forms": {
-      "shotgun": 1
-    }
-  },
-  "facetiously": {
-    "total": 1,
-    "forms": {
-      "facetiously": 1
-    }
-  },
-  "breadbasket": {
-    "total": 1,
-    "forms": {
-      "breadbasket": 1
-    }
-  },
-  "kissies": {
-    "total": 1,
-    "forms": {
-      "kissies": 1
-    }
-  },
-  "findeth": {
-    "total": 1,
-    "forms": {
-      "findeth": 1
-    }
-  },
-  "keepeth": {
-    "total": 1,
-    "forms": {
-      "keepeth": 1
+      "savannah": 1
     }
   }
 }

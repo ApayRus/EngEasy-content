@@ -1,117 +1,4 @@
 {
-  "float": {
-    "total": 31,
-    "forms": {
-      "float": 17,
-      "floating": 11,
-      "floats": 2,
-      "floated": 1
-    }
-  },
-  "staff": {
-    "total": 31,
-    "forms": {
-      "staff": 31
-    }
-  },
-  "stoick": {
-    "total": 31,
-    "forms": {
-      "stoick": 30,
-      "stoick's": 1
-    },
-    "expansions": {
-      "stoick's": "stoick's (possessive)"
-    }
-  },
-  "drago": {
-    "total": 31,
-    "forms": {
-      "drago": 27,
-      "drago's": 4
-    },
-    "expansions": {
-      "drago's": "drago's (possessive)"
-    }
-  },
-  "tigress": {
-    "total": 31,
-    "forms": {
-      "tigress": 31
-    }
-  },
-  "chameleon": {
-    "total": 31,
-    "forms": {
-      "chameleon": 30,
-      "chameleon's": 1
-    },
-    "expansions": {
-      "chameleon's": "chameleon's (possessive)"
-    }
-  },
-  "linguini": {
-    "total": 31,
-    "forms": {
-      "linguini": 29,
-      "linguini's": 2
-    },
-    "expansions": {
-      "linguini's": "linguini's (possessive)"
-    }
-  },
-  "worthy": {
-    "total": 30,
-    "forms": {
-      "worthy": 30
-    }
-  },
-  "due": {
-    "total": 30,
-    "forms": {
-      "due": 29,
-      "dues": 1
-    }
-  },
-  "whoever": {
-    "total": 30,
-    "forms": {
-      "whoever": 29,
-      "whoever's": 1
-    },
-    "expansions": {
-      "whoever's": "whoever's (possessive)"
-    }
-  },
-  "fetch": {
-    "total": 30,
-    "forms": {
-      "fetch": 25,
-      "fetching": 3,
-      "fetched": 2
-    }
-  },
-  "banish": {
-    "total": 30,
-    "forms": {
-      "banished": 14,
-      "banish": 14,
-      "banishing": 2
-    }
-  },
-  "zoo": {
-    "total": 30,
-    "forms": {
-      "zoo": 30
-    }
-  },
-  "device": {
-    "total": 30,
-    "forms": {
-      "device": 24,
-      "devices": 6
-    }
-  },
   "psst": {
     "total": 30,
     "forms": {
@@ -765,6 +652,113 @@
       "smokes": 5,
       "smoking": 3,
       "smoked": 1
+    }
+  },
+  "fur": {
+    "total": 28,
+    "forms": {
+      "fur": 28
+    }
+  },
+  "royal": {
+    "total": 28,
+    "forms": {
+      "royal": 26,
+      "royals": 2
+    }
+  },
+  "brush": {
+    "total": 28,
+    "forms": {
+      "brush": 18,
+      "brushed": 6,
+      "brushing": 3,
+      "brushes": 1
+    }
+  },
+  "desert": {
+    "total": 28,
+    "forms": {
+      "desert": 24,
+      "deserted": 3,
+      "deserts": 1
+    }
+  },
+  "clatter": {
+    "total": 28,
+    "forms": {
+      "clattering": 21,
+      "clatters": 7
+    }
+  },
+  "damage": {
+    "total": 28,
+    "forms": {
+      "damage": 18,
+      "damaged": 9,
+      "damages": 1
+    }
+  },
+  "divide": {
+    "total": 28,
+    "forms": {
+      "divided": 21,
+      "divide": 7
+    }
+  },
+  "sake": {
+    "total": 28,
+    "forms": {
+      "sake": 25,
+      "sakes": 3
+    }
+  },
+  "spring": {
+    "total": 28,
+    "forms": {
+      "spring": 23,
+      "springs": 4,
+      "sprung": 1
+    }
+  },
+  "scratch": {
+    "total": 28,
+    "forms": {
+      "scratch": 18,
+      "scratching": 5,
+      "scratched": 3,
+      "scratches": 2
+    }
+  },
+  "paint": {
+    "total": 28,
+    "forms": {
+      "painting": 15,
+      "paint": 8,
+      "painted": 4,
+      "paints": 1
+    }
+  },
+  "van": {
+    "total": 28,
+    "forms": {
+      "van": 27,
+      "vans": 1
+    }
+  },
+  "supreme": {
+    "total": 28,
+    "forms": {
+      "supreme": 28
+    }
+  },
+  "suggest": {
+    "total": 28,
+    "forms": {
+      "suggest": 20,
+      "suggesting": 5,
+      "suggested": 2,
+      "suggests": 1
     }
   }
 }

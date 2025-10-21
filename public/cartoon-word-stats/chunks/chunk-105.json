@@ -1,94 +1,4 @@
 {
-  "automatic": {
-    "total": 1,
-    "forms": {
-      "automatic": 1
-    }
-  },
-  "upscale": {
-    "total": 1,
-    "forms": {
-      "upscale": 1
-    }
-  },
-  "vitally": {
-    "total": 1,
-    "forms": {
-      "vitally": 1
-    }
-  },
-  "manageable": {
-    "total": 1,
-    "forms": {
-      "manageable": 1
-    }
-  },
-  "magnifique": {
-    "total": 1,
-    "forms": {
-      "magnifique": 1
-    }
-  },
-  "woohoe": {
-    "total": 1,
-    "forms": {
-      "woohoe": 1
-    }
-  },
-  "huppakee": {
-    "total": 1,
-    "forms": {
-      "huppakee": 1
-    }
-  },
-  "chok": {
-    "total": 1,
-    "forms": {
-      "chok": 1
-    }
-  },
-  "chik": {
-    "total": 1,
-    "forms": {
-      "chik": 1
-    }
-  },
-  "dealer": {
-    "total": 1,
-    "forms": {
-      "dealer": 1
-    }
-  },
-  "carpool": {
-    "total": 1,
-    "forms": {
-      "carpool": 1
-    }
-  },
-  "o'sullivan": {
-    "total": 1,
-    "forms": {
-      "o'sullivan": 1
-    }
-  },
-  "boscovitch": {
-    "total": 1,
-    "forms": {
-      "boscovitch": 1
-    }
-  },
-  "sheepdog": {
-    "total": 1,
-    "forms": {
-      "sheepdog": 1
-    }
-  },
-  "superness": {
-    "total": 1,
-    "forms": {
-      "superness": 1
-    }
-  },
   "ukkepuk": {
     "total": 1,
     "forms": {
@@ -597,6 +507,96 @@
     "total": 1,
     "forms": {
       "transmutation": 1
+    }
+  },
+  "chem": {
+    "total": 1,
+    "forms": {
+      "chem": 1
+    }
+  },
+  "tasing": {
+    "total": 1,
+    "forms": {
+      "tasing": 1
+    }
+  },
+  "sheepsbutt": {
+    "total": 1,
+    "forms": {
+      "sheepsbutt": 1
+    }
+  },
+  "gruties": {
+    "total": 1,
+    "forms": {
+      "gruties": 1
+    }
+  },
+  "donnie": {
+    "total": 1,
+    "forms": {
+      "donnie": 1
+    }
+  },
+  "gollum": {
+    "total": 1,
+    "forms": {
+      "gollum": 1
+    }
+  },
+  "jujitsu": {
+    "total": 1,
+    "forms": {
+      "jujitsu": 1
+    }
+  },
+  "krav": {
+    "total": 1,
+    "forms": {
+      "krav": 1
+    }
+  },
+  "maga": {
+    "total": 1,
+    "forms": {
+      "maga": 1
+    }
+  },
+  "aztec": {
+    "total": 1,
+    "forms": {
+      "aztec": 1
+    }
+  },
+  "warfare": {
+    "total": 1,
+    "forms": {
+      "warfare": 1
+    }
+  },
+  "krumping": {
+    "total": 1,
+    "forms": {
+      "krumping": 1
+    }
+  },
+  "yaw": {
+    "total": 1,
+    "forms": {
+      "yaw": 1
+    }
+  },
+  "hedda": {
+    "total": 1,
+    "forms": {
+      "hedda": 1
+    }
+  },
+  "blumentoft": {
+    "total": 1,
+    "forms": {
+      "blumentoft": 1
     }
   }
 }

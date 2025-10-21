@@ -1,102 +1,4 @@
 {
-  "magnificent": {
-    "total": 11,
-    "forms": {
-      "magnificent": 11
-    }
-  },
-  "traitor": {
-    "total": 11,
-    "forms": {
-      "traitor": 7,
-      "traitors": 4
-    }
-  },
-  "rag": {
-    "total": 11,
-    "forms": {
-      "raging": 6,
-      "rag": 4,
-      "ragged": 1
-    }
-  },
-  "dip": {
-    "total": 11,
-    "forms": {
-      "dip": 6,
-      "dipped": 5
-    }
-  },
-  "improvise": {
-    "total": 11,
-    "forms": {
-      "improvised": 6,
-      "improvise": 4,
-      "improvising": 1
-    }
-  },
-  "thou": {
-    "total": 11,
-    "forms": {
-      "thou": 11
-    }
-  },
-  "dingwall": {
-    "total": 11,
-    "forms": {
-      "dingwall": 10,
-      "dingwall's": 1
-    },
-    "expansions": {
-      "dingwall's": "dingwall's (possessive)"
-    }
-  },
-  "disrespect": {
-    "total": 11,
-    "forms": {
-      "disrespect": 7,
-      "disrespected": 4
-    }
-  },
-  "thus": {
-    "total": 11,
-    "forms": {
-      "thus": 11
-    }
-  },
-  "attractive": {
-    "total": 11,
-    "forms": {
-      "attractive": 11
-    }
-  },
-  "theme": {
-    "total": 11,
-    "forms": {
-      "theme": 9,
-      "themed": 2
-    }
-  },
-  "metaphor": {
-    "total": 11,
-    "forms": {
-      "metaphor": 8,
-      "metaphors": 3
-    }
-  },
-  "career": {
-    "total": 11,
-    "forms": {
-      "career": 11
-    }
-  },
-  "tingle": {
-    "total": 11,
-    "forms": {
-      "tingle": 8,
-      "tingling": 3
-    }
-  },
   "bacon": {
     "total": 11,
     "forms": {
@@ -689,6 +591,107 @@
     "total": 11,
     "forms": {
       "safely": 11
+    }
+  },
+  "ahtohallan": {
+    "total": 11,
+    "forms": {
+      "ahtohallan": 11
+    }
+  },
+  "greet": {
+    "total": 11,
+    "forms": {
+      "greeting": 6,
+      "greet": 4,
+      "greeted": 1
+    }
+  },
+  "supply": {
+    "total": 11,
+    "forms": {
+      "supply": 6,
+      "supplies": 5
+    }
+  },
+  "pup": {
+    "total": 11,
+    "forms": {
+      "pup": 6,
+      "pups": 5
+    }
+  },
+  "cebause": {
+    "total": 11,
+    "forms": {
+      "cebause": 11
+    }
+  },
+  "helsing": {
+    "total": 11,
+    "forms": {
+      "helsing": 9,
+      "helsing's": 2
+    },
+    "expansions": {
+      "helsing's": "helsing's (possessive)"
+    }
+  },
+  "intelligent": {
+    "total": 11,
+    "forms": {
+      "intelligent": 11
+    }
+  },
+  "cha": {
+    "total": 11,
+    "forms": {
+      "cha": 11
+    }
+  },
+  "slay": {
+    "total": 11,
+    "forms": {
+      "slay": 9,
+      "slew": 1,
+      "slayed": 1
+    }
+  },
+  "gronckle": {
+    "total": 11,
+    "forms": {
+      "gronckle": 11
+    }
+  },
+  "defense": {
+    "total": 11,
+    "forms": {
+      "defense": 8,
+      "defenses": 3
+    }
+  },
+  "stun": {
+    "total": 11,
+    "forms": {
+      "stunning": 5,
+      "stunned": 5,
+      "stun": 1
+    }
+  },
+  "trapper": {
+    "total": 11,
+    "forms": {
+      "trappers": 7,
+      "trapper": 4
+    }
+  },
+  "respond": {
+    "total": 11,
+    "forms": {
+      "respond": 5,
+      "responding": 4,
+      "responded": 1,
+      "responds": 1
     }
   }
 }

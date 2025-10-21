@@ -1,28 +1,4 @@
 {
-  "conductor": {
-    "total": 3,
-    "forms": {
-      "conductor": 3
-    }
-  },
-  "walkin": {
-    "total": 3,
-    "forms": {
-      "walkin": 3
-    }
-  },
-  "samaritan": {
-    "total": 3,
-    "forms": {
-      "samaritan": 3
-    }
-  },
-  "smoothly": {
-    "total": 3,
-    "forms": {
-      "smoothly": 3
-    }
-  },
   "wpsst": {
     "total": 3,
     "forms": {
@@ -104,6 +80,51 @@
     "total": 3,
     "forms": {
       "savings": 3
+    }
+  },
+  "singsongy": {
+    "total": 3,
+    "forms": {
+      "singsongy": 3
+    }
+  },
+  "glug": {
+    "total": 3,
+    "forms": {
+      "glugs": 3
+    }
+  },
+  "oomph": {
+    "total": 3,
+    "forms": {
+      "oomph": 3
+    }
+  },
+  "conclude": {
+    "total": 3,
+    "forms": {
+      "concluded": 2,
+      "concludes": 1
+    }
+  },
+  "glance": {
+    "total": 3,
+    "forms": {
+      "glances": 1,
+      "glancing": 1,
+      "glance": 1
+    }
+  },
+  "choir": {
+    "total": 3,
+    "forms": {
+      "choir": 3
+    }
+  },
+  "zombielike": {
+    "total": 3,
+    "forms": {
+      "zombielike": 3
     }
   },
   "eriko": {
@@ -190,13 +211,6 @@
       "storajj": 3
     }
   },
-  "execute": {
-    "total": 3,
-    "forms": {
-      "executed": 2,
-      "execute": 1
-    }
-  },
   "dangervest": {
     "total": 3,
     "forms": {
@@ -245,29 +259,10 @@
       "arr": 3
     }
   },
-  "gasoline": {
-    "total": 3,
-    "forms": {
-      "gasoline": 3
-    }
-  },
-  "choir": {
-    "total": 3,
-    "forms": {
-      "choir": 3
-    }
-  },
   "octan": {
     "total": 3,
     "forms": {
       "octan": 3
-    }
-  },
-  "quotation": {
-    "total": 3,
-    "forms": {
-      "quotations": 2,
-      "quotation": 1
     }
   },
   "submarine": {
@@ -362,14 +357,6 @@
       "pox": 3
     }
   },
-  "glance": {
-    "total": 3,
-    "forms": {
-      "glancing": 1,
-      "glance": 1,
-      "glances": 1
-    }
-  },
   "rho": {
     "total": 3,
     "forms": {
@@ -387,12 +374,6 @@
     "forms": {
       "annihilate": 2,
       "annihilated": 1
-    }
-  },
-  "karts": {
-    "total": 3,
-    "forms": {
-      "karts": 3
     }
   },
   "baa": {
@@ -437,23 +418,10 @@
       "houston": 3
     }
   },
-  "negatory": {
-    "total": 3,
-    "forms": {
-      "negatory": 3
-    }
-  },
   "leavin": {
     "total": 3,
     "forms": {
       "leavin": 3
-    }
-  },
-  "conclude": {
-    "total": 3,
-    "forms": {
-      "concluded": 2,
-      "concludes": 1
     }
   },
   "ascot": {
@@ -480,13 +448,6 @@
     "total": 3,
     "forms": {
       "corndogs": 3
-    }
-  },
-  "cadet": {
-    "total": 3,
-    "forms": {
-      "cadet": 2,
-      "cadets": 1
     }
   },
   "scrapbook": {
@@ -611,16 +572,52 @@
       "woodcutter": 1
     }
   },
-  "jeepers": {
+  "repellent": {
     "total": 3,
     "forms": {
-      "jeepers": 3
+      "repellent": 3
     }
   },
-  "freakishly": {
+  "jumbo": {
     "total": 3,
     "forms": {
-      "freakishly": 3
+      "jumbo": 3
+    }
+  },
+  "warrant": {
+    "total": 3,
+    "forms": {
+      "warrant": 3
+    }
+  },
+  "gram": {
+    "total": 3,
+    "forms": {
+      "gram": 3
+    }
+  },
+  "tujunga": {
+    "total": 3,
+    "forms": {
+      "tujunga": 3
+    }
+  },
+  "caravan": {
+    "total": 2,
+    "forms": {
+      "caravan": 2
+    }
+  },
+  "salaam": {
+    "total": 2,
+    "forms": {
+      "salaam": 2
+    }
+  },
+  "tupperware": {
+    "total": 2,
+    "forms": {
+      "tupperware": 2
     }
   }
 }

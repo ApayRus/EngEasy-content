@@ -1,96 +1,4 @@
 {
-  "oharming": {
-    "total": 15,
-    "forms": {
-      "oharming": 14,
-      "oharming's": 1
-    },
-    "expansions": {
-      "oharming's": "oharming's (possessive)"
-    }
-  },
-  "oome": {
-    "total": 15,
-    "forms": {
-      "oome": 15
-    }
-  },
-  "loca": {
-    "total": 15,
-    "forms": {
-      "loca": 15
-    }
-  },
-  "curley": {
-    "total": 15,
-    "forms": {
-      "curley": 15
-    }
-  },
-  "dorothea": {
-    "total": 15,
-    "forms": {
-      "dorothea": 15
-    }
-  },
-  "douglas": {
-    "total": 15,
-    "forms": {
-      "douglas": 14,
-      "douglas's": 1
-    },
-    "expansions": {
-      "douglas's": "douglas's (possessive)"
-    }
-  },
-  "jab": {
-    "total": 15,
-    "forms": {
-      "jab": 15
-    }
-  },
-  "duplo": {
-    "total": 15,
-    "forms": {
-      "duplo": 15
-    }
-  },
-  "thneedville": {
-    "total": 15,
-    "forms": {
-      "thneedville": 15
-    }
-  },
-  "sunnyside": {
-    "total": 15,
-    "forms": {
-      "sunnyside": 15
-    }
-  },
-  "caboom": {
-    "total": 15,
-    "forms": {
-      "caboom": 15
-    }
-  },
-  "dinkles": {
-    "total": 15,
-    "forms": {
-      "dinkles": 15
-    }
-  },
-  "ahhh": {
-    "total": 14,
-    "forms": {
-      "ahhh": 14
-    }
-  },
-  "thee": {
-    "total": 14,
-    "forms": {
-      "thee": 14
-    }
-  },
   "trophy": {
     "total": 14,
     "forms": {
@@ -693,6 +601,103 @@
     "total": 14,
     "forms": {
       "fully": 14
+    }
+  },
+  "knowledge": {
+    "total": 14,
+    "forms": {
+      "knowledge": 14
+    }
+  },
+  "portal": {
+    "total": 14,
+    "forms": {
+      "portal": 13,
+      "portals": 1
+    }
+  },
+  "offense": {
+    "total": 14,
+    "forms": {
+      "offense": 14
+    }
+  },
+  "prime": {
+    "total": 14,
+    "forms": {
+      "prime": 14
+    }
+  },
+  "balance": {
+    "total": 14,
+    "forms": {
+      "balance": 10,
+      "balanced": 4
+    }
+  },
+  "reindeer": {
+    "total": 14,
+    "forms": {
+      "reindeer": 10,
+      "reindeers": 4
+    }
+  },
+  "post": {
+    "total": 14,
+    "forms": {
+      "post": 8,
+      "posts": 4,
+      "posted": 2
+    }
+  },
+  "courage": {
+    "total": 14,
+    "forms": {
+      "courage": 14
+    }
+  },
+  "upper": {
+    "total": 14,
+    "forms": {
+      "upper": 14
+    }
+  },
+  "transylvania": {
+    "total": 14,
+    "forms": {
+      "transylvania": 14
+    }
+  },
+  "koo": {
+    "total": 14,
+    "forms": {
+      "koo": 14
+    }
+  },
+  "humanity": {
+    "total": 14,
+    "forms": {
+      "humanity": 8,
+      "humanity's": 6
+    },
+    "expansions": {
+      "humanity's": "humanity's (possessive)"
+    }
+  },
+  "torture": {
+    "total": 14,
+    "forms": {
+      "torture": 6,
+      "torturing": 3,
+      "tortures": 3,
+      "tortured": 2
+    }
+  },
+  "shadow": {
+    "total": 14,
+    "forms": {
+      "shadows": 8,
+      "shadow": 6
     }
   }
 }

@@ -1,110 +1,4 @@
 {
-  "lip": {
-    "total": 26,
-    "forms": {
-      "lips": 22,
-      "lip": 4
-    }
-  },
-  "onto": {
-    "total": 26,
-    "forms": {
-      "onto": 26
-    }
-  },
-  "wee": {
-    "total": 26,
-    "forms": {
-      "wee": 26
-    }
-  },
-  "ancient": {
-    "total": 26,
-    "forms": {
-      "ancient": 26
-    }
-  },
-  "suddenly": {
-    "total": 26,
-    "forms": {
-      "suddenly": 26
-    }
-  },
-  "sardine": {
-    "total": 26,
-    "forms": {
-      "sardine": 14,
-      "sardines": 11,
-      "sardine's": 1
-    },
-    "expansions": {
-      "sardine's": "sardine's (possessive)"
-    }
-  },
-  "weirdo": {
-    "total": 26,
-    "forms": {
-      "weirdo": 21,
-      "weirdos": 5
-    }
-  },
-  "hook": {
-    "total": 26,
-    "forms": {
-      "hook": 18,
-      "hooked": 4,
-      "hooks": 3,
-      "hooking": 1
-    }
-  },
-  "local": {
-    "total": 26,
-    "forms": {
-      "local": 20,
-      "locals": 6
-    }
-  },
-  "whip": {
-    "total": 26,
-    "forms": {
-      "whip": 18,
-      "whipped": 6,
-      "whipping": 2
-    }
-  },
-  "indeed": {
-    "total": 26,
-    "forms": {
-      "indeed": 26
-    }
-  },
-  "rainbow": {
-    "total": 26,
-    "forms": {
-      "rainbow": 16,
-      "rainbows": 10
-    }
-  },
-  "coward": {
-    "total": 26,
-    "forms": {
-      "coward": 21,
-      "cowards": 4,
-      "coward's": 1
-    },
-    "expansions": {
-      "coward's": "coward's (possessive)"
-    }
-  },
-  "tickle": {
-    "total": 26,
-    "forms": {
-      "tickle": 14,
-      "tickles": 8,
-      "tickling": 2,
-      "tickled": 2
-    }
-  },
   "sergei": {
     "total": 26,
     "forms": {
@@ -739,6 +633,122 @@
     "forms": {
       "distance": 24,
       "distances": 1
+    }
+  },
+  "bike": {
+    "total": 25,
+    "forms": {
+      "bike": 21,
+      "bikes": 2,
+      "biking": 2
+    }
+  },
+  "explorer": {
+    "total": 25,
+    "forms": {
+      "explorer": 14,
+      "explorers": 9,
+      "explorer's": 2
+    },
+    "expansions": {
+      "explorer's": "explorer's (possessive)"
+    }
+  },
+  "edge": {
+    "total": 25,
+    "forms": {
+      "edge": 22,
+      "edges": 2,
+      "edged": 1
+    }
+  },
+  "turtle": {
+    "total": 25,
+    "forms": {
+      "turtles": 13,
+      "turtle": 12
+    }
+  },
+  "vocalise": {
+    "total": 25,
+    "forms": {
+      "vocalising": 23,
+      "vocalises": 2
+    }
+  },
+  "amazon": {
+    "total": 25,
+    "forms": {
+      "amazon": 25
+    }
+  },
+  "ground": {
+    "total": 25,
+    "forms": {
+      "grounded": 17,
+      "grounds": 8
+    }
+  },
+  "cone": {
+    "total": 25,
+    "forms": {
+      "cone": 21,
+      "cones": 4
+    }
+  },
+  "subject": {
+    "total": 25,
+    "forms": {
+      "subject": 19,
+      "subjects": 6
+    }
+  },
+  "tame": {
+    "total": 25,
+    "forms": {
+      "tame": 12,
+      "tamed": 10,
+      "taming": 3
+    }
+  },
+  "huntrix": {
+    "total": 25,
+    "forms": {
+      "huntrix": 24,
+      "huntrix's": 1
+    },
+    "expansions": {
+      "huntrix's": "huntrix's (possessive)"
+    }
+  },
+  "temple": {
+    "total": 25,
+    "forms": {
+      "temple": 22,
+      "temples": 2,
+      "temple's": 1
+    },
+    "expansions": {
+      "temple's": "temple's (possessive)"
+    }
+  },
+  "momma": {
+    "total": 25,
+    "forms": {
+      "momma": 22,
+      "momma's": 3
+    },
+    "expansions": {
+      "momma's": "momma's (possessive)"
+    }
+  },
+  "mentor": {
+    "total": 25,
+    "forms": {
+      "mentor": 16,
+      "mentors": 6,
+      "mentoring": 2,
+      "mentored": 1
     }
   }
 }

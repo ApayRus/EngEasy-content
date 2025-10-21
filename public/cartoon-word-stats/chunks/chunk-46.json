@@ -1,99 +1,4 @@
 {
-  "instant": {
-    "total": 7,
-    "forms": {
-      "instant": 7
-    }
-  },
-  "rhythmic": {
-    "total": 7,
-    "forms": {
-      "rhythmic": 7
-    }
-  },
-  "stool": {
-    "total": 7,
-    "forms": {
-      "stool": 6,
-      "stools": 1
-    }
-  },
-  "lackin": {
-    "total": 7,
-    "forms": {
-      "lackin": 7
-    }
-  },
-  "makunga": {
-    "total": 7,
-    "forms": {
-      "makunga": 7
-    }
-  },
-  "hmph": {
-    "total": 7,
-    "forms": {
-      "hmph": 7
-    }
-  },
-  "countless": {
-    "total": 7,
-    "forms": {
-      "countless": 7
-    }
-  },
-  "reset": {
-    "total": 7,
-    "forms": {
-      "reset": 7
-    }
-  },
-  "management": {
-    "total": 7,
-    "forms": {
-      "management": 7
-    }
-  },
-  "para": {
-    "total": 7,
-    "forms": {
-      "para": 7
-    }
-  },
-  "pati": {
-    "total": 7,
-    "forms": {
-      "pati": 7
-    }
-  },
-  "helpa": {
-    "total": 7,
-    "forms": {
-      "helpa": 7
-    }
-  },
-  "disco": {
-    "total": 7,
-    "forms": {
-      "disco": 7
-    }
-  },
-  "hii": {
-    "total": 7,
-    "forms": {
-      "hii": 7
-    }
-  },
-  "sama": {
-    "total": 7,
-    "forms": {
-      "sama": 6,
-      "sama's": 1
-    },
-    "expansions": {
-      "sama's": "sama's (possessive)"
-    }
-  },
   "emporer": {
     "total": 7,
     "forms": {
@@ -157,17 +62,16 @@
       "omega": 7
     }
   },
-  "particular": {
-    "total": 7,
-    "forms": {
-      "particular": 6,
-      "particulars": 1
-    }
-  },
   "biology": {
     "total": 7,
     "forms": {
       "biology": 7
+    }
+  },
+  "perimeter": {
+    "total": 7,
+    "forms": {
+      "perimeter": 7
     }
   },
   "phrase": {
@@ -213,6 +117,12 @@
     "forms": {
       "revered": 6,
       "revere": 1
+    }
+  },
+  "what're": {
+    "total": 7,
+    "forms": {
+      "what're": 7
     }
   },
   "feelin": {
@@ -286,6 +196,25 @@
       "buzzztube": 7
     }
   },
+  "cherry": {
+    "total": 7,
+    "forms": {
+      "cherry": 6,
+      "cherries": 1
+    }
+  },
+  "rum": {
+    "total": 7,
+    "forms": {
+      "rum": 7
+    }
+  },
+  "rad": {
+    "total": 7,
+    "forms": {
+      "rad": 7
+    }
+  },
   "chai": {
     "total": 7,
     "forms": {
@@ -344,13 +273,6 @@
     "total": 7,
     "forms": {
       "mongo": 7
-    }
-  },
-  "cherry": {
-    "total": 7,
-    "forms": {
-      "cherry": 6,
-      "cherries": 1
     }
   },
   "bachelorette": {
@@ -424,16 +346,16 @@
       "incrediboy": 7
     }
   },
+  "evelyn": {
+    "total": 7,
+    "forms": {
+      "evelyn": 7
+    }
+  },
   "nautilus": {
     "total": 7,
     "forms": {
       "nautilus": 7
-    }
-  },
-  "rum": {
-    "total": 7,
-    "forms": {
-      "rum": 7
     }
   },
   "merino": {
@@ -488,12 +410,6 @@
       "tiberius": 7
     }
   },
-  "lu": {
-    "total": 7,
-    "forms": {
-      "lu": 7
-    }
-  },
   "defective": {
     "total": 7,
     "forms": {
@@ -511,6 +427,12 @@
     "total": 7,
     "forms": {
       "templetons": 7
+    }
+  },
+  "oa": {
+    "total": 7,
+    "forms": {
+      "oa": 7
     }
   },
   "shoichi": {
@@ -551,12 +473,6 @@
     "total": 7,
     "forms": {
       "wa'nabi": 7
-    }
-  },
-  "rad": {
-    "total": 7,
-    "forms": {
-      "rad": 7
     }
   },
   "aviator": {
@@ -646,16 +562,104 @@
       "manchas": 7
     }
   },
-  "oa": {
-    "total": 7,
-    "forms": {
-      "oa": 7
-    }
-  },
   "faraway": {
     "total": 6,
     "forms": {
       "faraway": 6
+    }
+  },
+  "nicker": {
+    "total": 6,
+    "forms": {
+      "nickers": 6
+    }
+  },
+  "slumber": {
+    "total": 6,
+    "forms": {
+      "slumber": 6
+    }
+  },
+  "scoundrel": {
+    "total": 6,
+    "forms": {
+      "scoundrel": 6
+    }
+  },
+  "wit": {
+    "total": 6,
+    "forms": {
+      "wit's": 2,
+      "wit": 2,
+      "wits": 2
+    },
+    "expansions": {
+      "wit's": "wit's (possessive)"
+    }
+  },
+  "cart": {
+    "total": 6,
+    "forms": {
+      "cart": 5,
+      "carting": 1
+    }
+  },
+  "penalty": {
+    "total": 6,
+    "forms": {
+      "penalty": 6
+    }
+  },
+  "tres": {
+    "total": 6,
+    "forms": {
+      "tres": 6
+    }
+  },
+  "possibility": {
+    "total": 6,
+    "forms": {
+      "possibilities": 4,
+      "possibility": 2
+    }
+  },
+  "gawk": {
+    "total": 6,
+    "forms": {
+      "gawk": 5,
+      "gawking": 1
+    }
+  },
+  "warble": {
+    "total": 6,
+    "forms": {
+      "warbling": 3,
+      "warble": 2,
+      "warbles": 1
+    }
+  },
+  "remarkable": {
+    "total": 6,
+    "forms": {
+      "remarkable": 6
+    }
+  },
+  "youth": {
+    "total": 6,
+    "forms": {
+      "youth": 6
+    }
+  },
+  "huzzah": {
+    "total": 6,
+    "forms": {
+      "huzzah": 6
+    }
+  },
+  "goofy": {
+    "total": 6,
+    "forms": {
+      "goofy": 6
     }
   }
 }

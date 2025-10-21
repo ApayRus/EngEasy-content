@@ -1,99 +1,4 @@
 {
-  "chinese": {
-    "total": 8,
-    "forms": {
-      "chinese": 8
-    }
-  },
-  "broth": {
-    "total": 8,
-    "forms": {
-      "broth": 8
-    }
-  },
-  "monk": {
-    "total": 8,
-    "forms": {
-      "monk": 5,
-      "monks": 3
-    }
-  },
-  "mariachi": {
-    "total": 8,
-    "forms": {
-      "mariachi": 7,
-      "mariachis": 1
-    }
-  },
-  "fantasy": {
-    "total": 8,
-    "forms": {
-      "fantasy": 6,
-      "fantasies": 2
-    }
-  },
-  "frida": {
-    "total": 8,
-    "forms": {
-      "frida": 8
-    }
-  },
-  "os": {
-    "total": 8,
-    "forms": {
-      "ora": 6,
-      "os": 2
-    }
-  },
-  "terribly": {
-    "total": 8,
-    "forms": {
-      "terribly": 8
-    }
-  },
-  "restroom": {
-    "total": 8,
-    "forms": {
-      "restroom": 7,
-      "restrooms": 1
-    }
-  },
-  "emerge": {
-    "total": 8,
-    "forms": {
-      "emerge": 5,
-      "emerged": 3
-    }
-  },
-  "celebrity": {
-    "total": 8,
-    "forms": {
-      "celebrity": 6,
-      "celebrities": 1,
-      "celebrity's": 1
-    },
-    "expansions": {
-      "celebrity's": "celebrity's (possessive)"
-    }
-  },
-  "lookout": {
-    "total": 8,
-    "forms": {
-      "lookout": 8
-    }
-  },
-  "lyric": {
-    "total": 8,
-    "forms": {
-      "lyrics": 8
-    }
-  },
-  "porch": {
-    "total": 8,
-    "forms": {
-      "porch": 8
-    }
-  },
   "cease": {
     "total": 8,
     "forms": {
@@ -664,6 +569,109 @@
     "total": 8,
     "forms": {
       "dusty": 8
+    }
+  },
+  "relative": {
+    "total": 8,
+    "forms": {
+      "relative": 5,
+      "relatives": 3
+    }
+  },
+  "invade": {
+    "total": 8,
+    "forms": {
+      "invade": 4,
+      "invading": 2,
+      "invaded": 2
+    }
+  },
+  "tremble": {
+    "total": 8,
+    "forms": {
+      "trembling": 5,
+      "trembled": 2,
+      "tremble": 1
+    }
+  },
+  "jinx": {
+    "total": 8,
+    "forms": {
+      "jinx": 7,
+      "jinxed": 1
+    }
+  },
+  "steam": {
+    "total": 8,
+    "forms": {
+      "steam": 5,
+      "steaming": 2,
+      "steamed": 1
+    }
+  },
+  "canada": {
+    "total": 8,
+    "forms": {
+      "canada": 7,
+      "canada's": 1
+    },
+    "expansions": {
+      "canada's": "canada's (possessive)"
+    }
+  },
+  "bigfoot": {
+    "total": 8,
+    "forms": {
+      "bigfoot": 6,
+      "bigfoot's": 2
+    },
+    "expansions": {
+      "bigfoot's": "bigfoot's (possessive)"
+    }
+  },
+  "vlad": {
+    "total": 8,
+    "forms": {
+      "vlad": 8
+    }
+  },
+  "moonlight": {
+    "total": 8,
+    "forms": {
+      "moonlight": 7,
+      "moonlighting": 1
+    }
+  },
+  "properly": {
+    "total": 8,
+    "forms": {
+      "properly": 8
+    }
+  },
+  "insurance": {
+    "total": 8,
+    "forms": {
+      "insurance": 8
+    }
+  },
+  "wool": {
+    "total": 8,
+    "forms": {
+      "wool": 8
+    }
+  },
+  "possess": {
+    "total": 8,
+    "forms": {
+      "possessed": 5,
+      "possess": 2,
+      "possesses": 1
+    }
+  },
+  "improvement": {
+    "total": 8,
+    "forms": {
+      "improvement": 8
     }
   }
 }

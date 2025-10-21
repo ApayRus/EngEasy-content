@@ -1,94 +1,4 @@
 {
-  "weepy": {
-    "total": 1,
-    "forms": {
-      "weepy": 1
-    }
-  },
-  "wanye": {
-    "total": 1,
-    "forms": {
-      "wanye": 1
-    }
-  },
-  "limbo": {
-    "total": 1,
-    "forms": {
-      "limbo": 1
-    }
-  },
-  "definitized": {
-    "total": 1,
-    "forms": {
-      "definitized": 1
-    }
-  },
-  "birdseed": {
-    "total": 1,
-    "forms": {
-      "birdseed": 1
-    }
-  },
-  "fanging": {
-    "total": 1,
-    "forms": {
-      "fanging": 1
-    }
-  },
-  "diggin": {
-    "total": 1,
-    "forms": {
-      "diggin": 1
-    }
-  },
-  "apricot": {
-    "total": 1,
-    "forms": {
-      "apricot": 1
-    }
-  },
-  "aveeno": {
-    "total": 1,
-    "forms": {
-      "aveeno": 1
-    }
-  },
-  "moisturizer": {
-    "total": 1,
-    "forms": {
-      "moisturizer": 1
-    }
-  },
-  "shea": {
-    "total": 1,
-    "forms": {
-      "shea": 1
-    }
-  },
-  "nebulizer": {
-    "total": 1,
-    "forms": {
-      "nebulizer": 1
-    }
-  },
-  "zinger": {
-    "total": 1,
-    "forms": {
-      "zingers": 1
-    }
-  },
-  "slobozia": {
-    "total": 1,
-    "forms": {
-      "slobozia": 1
-    }
-  },
-  "werewussy": {
-    "total": 1,
-    "forms": {
-      "werewussy": 1
-    }
-  },
   "slurpee": {
     "total": 1,
     "forms": {
@@ -600,6 +510,96 @@
     "total": 1,
     "forms": {
       "smoochy": 1
+    }
+  },
+  "residential": {
+    "total": 1,
+    "forms": {
+      "residential": 1
+    }
+  },
+  "repossess": {
+    "total": 1,
+    "forms": {
+      "repossessed": 1
+    }
+  },
+  "respectful": {
+    "total": 1,
+    "forms": {
+      "respectful": 1
+    }
+  },
+  "monsterfication": {
+    "total": 1,
+    "forms": {
+      "monsterfication": 1
+    }
+  },
+  "humanness": {
+    "total": 1,
+    "forms": {
+      "humanness": 1
+    }
+  },
+  "locator": {
+    "total": 1,
+    "forms": {
+      "locator": 1
+    }
+  },
+  "spelunk": {
+    "total": 1,
+    "forms": {
+      "spelunking": 1
+    }
+  },
+  "norwegian": {
+    "total": 1,
+    "forms": {
+      "norwegian": 1
+    }
+  },
+  "doubtful": {
+    "total": 1,
+    "forms": {
+      "doubtful": 1
+    }
+  },
+  "gif": {
+    "total": 1,
+    "forms": {
+      "gif": 1
+    }
+  },
+  "turbulence": {
+    "total": 1,
+    "forms": {
+      "turbulence": 1
+    }
+  },
+  "splendor": {
+    "total": 1,
+    "forms": {
+      "splendor": 1
+    }
+  },
+  "monsterness": {
+    "total": 1,
+    "forms": {
+      "monsterness": 1
+    }
+  },
+  "katmatchka": {
+    "total": 1,
+    "forms": {
+      "katmatchka": 1
+    }
+  },
+  "thailand": {
+    "total": 1,
+    "forms": {
+      "thailand": 1
     }
   }
 }

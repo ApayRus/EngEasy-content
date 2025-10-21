@@ -1,101 +1,4 @@
 {
-  "musician": {
-    "total": 40,
-    "forms": {
-      "musician": 30,
-      "musicians": 7,
-      "musician's": 3
-    },
-    "expansions": {
-      "musician's": "musician's (possessive)"
-    }
-  },
-  "favor": {
-    "total": 40,
-    "forms": {
-      "favor": 34,
-      "favors": 4,
-      "favoring": 1,
-      "favored": 1
-    }
-  },
-  "cup": {
-    "total": 40,
-    "forms": {
-      "cup": 35,
-      "cups": 5
-    }
-  },
-  "wha": {
-    "total": 40,
-    "forms": {
-      "wha": 40
-    }
-  },
-  "margo": {
-    "total": 40,
-    "forms": {
-      "margo": 40
-    }
-  },
-  "peep": {
-    "total": 40,
-    "forms": {
-      "peep": 21,
-      "peeps": 11,
-      "peeping": 8
-    }
-  },
-  "store": {
-    "total": 40,
-    "forms": {
-      "store": 37,
-      "stores": 2,
-      "stored": 1
-    }
-  },
-  "pill": {
-    "total": 40,
-    "forms": {
-      "pill": 25,
-      "pills": 15
-    }
-  },
-  "th": {
-    "total": 40,
-    "forms": {
-      "th": 40
-    }
-  },
-  "teacher": {
-    "total": 40,
-    "forms": {
-      "teacher": 27,
-      "teachers": 7,
-      "teacher's": 6
-    },
-    "expansions": {
-      "teacher's": "teacher's (possessive)"
-    }
-  },
-  "tai": {
-    "total": 40,
-    "forms": {
-      "tai": 40
-    }
-  },
-  "templeton": {
-    "total": 40,
-    "forms": {
-      "templeton": 40
-    }
-  },
-  "brendan": {
-    "total": 40,
-    "forms": {
-      "brendan": 40
-    }
-  },
   "wise": {
     "total": 39,
     "forms": {
@@ -250,13 +153,6 @@
       "swamp": 39
     }
   },
-  "tiger": {
-    "total": 39,
-    "forms": {
-      "tiger": 37,
-      "tigers": 2
-    }
-  },
   "rumi": {
     "total": 39,
     "forms": {
@@ -265,6 +161,13 @@
     },
     "expansions": {
       "rumi's": "rumi's (possessive)"
+    }
+  },
+  "tiger": {
+    "total": 39,
+    "forms": {
+      "tiger": 37,
+      "tigers": 2
     }
   },
   "li": {
@@ -653,17 +556,6 @@
       "babes": 1
     }
   },
-  "dimension": {
-    "total": 37,
-    "forms": {
-      "dimension": 29,
-      "dimensions": 7,
-      "dimension's": 1
-    },
-    "expansions": {
-      "dimension's": "dimension's (possessive)"
-    }
-  },
   "scarer": {
     "total": 37,
     "forms": {
@@ -679,6 +571,17 @@
     },
     "expansions": {
       "chentang's": "chentang's (possessive)"
+    }
+  },
+  "dimension": {
+    "total": 37,
+    "forms": {
+      "dimension": 29,
+      "dimensions": 7,
+      "dimension's": 1
+    },
+    "expansions": {
+      "dimension's": "dimension's (possessive)"
     }
   },
   "hopps": {
@@ -763,6 +666,110 @@
     "forms": {
       "lesson": 30,
       "lessons": 6
+    }
+  },
+  "dry": {
+    "total": 36,
+    "forms": {
+      "dry": 19,
+      "dried": 14,
+      "drier": 1,
+      "drying": 1,
+      "dryer": 1
+    }
+  },
+  "unit": {
+    "total": 36,
+    "forms": {
+      "unit": 21,
+      "units": 15
+    }
+  },
+  "member": {
+    "total": 36,
+    "forms": {
+      "member": 27,
+      "members": 9
+    }
+  },
+  "paper": {
+    "total": 36,
+    "forms": {
+      "paper": 34,
+      "papers": 2
+    }
+  },
+  "bar": {
+    "total": 36,
+    "forms": {
+      "bar": 21,
+      "bars": 12,
+      "baring": 1,
+      "barring": 1,
+      "bared": 1
+    }
+  },
+  "ceremony": {
+    "total": 36,
+    "forms": {
+      "ceremony": 36
+    }
+  },
+  "hip": {
+    "total": 36,
+    "forms": {
+      "hip": 30,
+      "hips": 4,
+      "hippest": 2
+    }
+  },
+  "gang": {
+    "total": 36,
+    "forms": {
+      "gang": 31,
+      "gang's": 4,
+      "gangs": 1
+    },
+    "expansions": {
+      "gang's": "gang's (possessive)"
+    }
+  },
+  "santa": {
+    "total": 36,
+    "forms": {
+      "santa": 35,
+      "santa's": 1
+    },
+    "expansions": {
+      "santa's": "santa's (possessive)"
+    }
+  },
+  "ll": {
+    "total": 36,
+    "forms": {
+      "ll": 36
+    }
+  },
+  "sacrifice": {
+    "total": 36,
+    "forms": {
+      "sacrifice": 24,
+      "sacrificing": 5,
+      "sacrificed": 5,
+      "sacrifices": 2
+    }
+  },
+  "blare": {
+    "total": 36,
+    "forms": {
+      "blaring": 27,
+      "blares": 9
+    }
+  },
+  "area": {
+    "total": 36,
+    "forms": {
+      "area": 36
     }
   }
 }

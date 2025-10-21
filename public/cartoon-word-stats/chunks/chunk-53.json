@@ -1,98 +1,4 @@
 {
-  "instance": {
-    "total": 5,
-    "forms": {
-      "instance": 5
-    }
-  },
-  "morn": {
-    "total": 5,
-    "forms": {
-      "morn": 5
-    }
-  },
-  "landscape": {
-    "total": 5,
-    "forms": {
-      "landscape": 3,
-      "landscaping": 2
-    }
-  },
-  "citation": {
-    "total": 5,
-    "forms": {
-      "citations": 4,
-      "citation": 1
-    }
-  },
-  "plead": {
-    "total": 5,
-    "forms": {
-      "plead": 4,
-      "pleaded": 1
-    }
-  },
-  "playoff": {
-    "total": 5,
-    "forms": {
-      "playoffs": 3,
-      "playoff": 2
-    }
-  },
-  "lumen": {
-    "total": 5,
-    "forms": {
-      "lumen": 5
-    }
-  },
-  "fireball": {
-    "total": 5,
-    "forms": {
-      "fireball": 4,
-      "fireballs": 1
-    }
-  },
-  "dew": {
-    "total": 5,
-    "forms": {
-      "dew": 5
-    }
-  },
-  "endure": {
-    "total": 5,
-    "forms": {
-      "endured": 2,
-      "endure": 1,
-      "enduring": 1,
-      "endures": 1
-    }
-  },
-  "kaboomskull": {
-    "total": 5,
-    "forms": {
-      "kaboomskull": 5
-    }
-  },
-  "refuge": {
-    "total": 5,
-    "forms": {
-      "refuge": 5
-    }
-  },
-  "uplift": {
-    "total": 5,
-    "forms": {
-      "uplifting": 3,
-      "uplift": 2
-    }
-  },
-  "drawer": {
-    "total": 5,
-    "forms": {
-      "drawers": 4,
-      "drawer": 1
-    }
-  },
   "constellation": {
     "total": 5,
     "forms": {
@@ -651,6 +557,98 @@
     "forms": {
       "snowflake": 3,
       "snowflakes": 2
+    }
+  },
+  "feisty": {
+    "total": 5,
+    "forms": {
+      "feisty": 5
+    }
+  },
+  "handwrite": {
+    "total": 5,
+    "forms": {
+      "handwriting": 5
+    }
+  },
+  "deed": {
+    "total": 5,
+    "forms": {
+      "deed": 3,
+      "deeds": 2
+    }
+  },
+  "defy": {
+    "total": 5,
+    "forms": {
+      "defy": 4,
+      "defying": 1
+    }
+  },
+  "flurry": {
+    "total": 5,
+    "forms": {
+      "flurrying": 2,
+      "flurry": 2,
+      "flurries": 1
+    }
+  },
+  "sophisticate": {
+    "total": 5,
+    "forms": {
+      "sophisticated": 5
+    }
+  },
+  "bizarre": {
+    "total": 5,
+    "forms": {
+      "bizarre": 5
+    }
+  },
+  "sorcery": {
+    "total": 5,
+    "forms": {
+      "sorcery": 5
+    }
+  },
+  "stinker": {
+    "total": 5,
+    "forms": {
+      "stinker": 3,
+      "stinkers": 2
+    }
+  },
+  "thaw": {
+    "total": 5,
+    "forms": {
+      "thaw": 5
+    }
+  },
+  "steep": {
+    "total": 5,
+    "forms": {
+      "steep": 4,
+      "steeper": 1
+    }
+  },
+  "flawless": {
+    "total": 5,
+    "forms": {
+      "flawless": 5
+    }
+  },
+  "holder": {
+    "total": 5,
+    "forms": {
+      "holder": 3,
+      "holders": 2
+    }
+  },
+  "glide": {
+    "total": 5,
+    "forms": {
+      "glide": 3,
+      "gliding": 2
     }
   }
 }

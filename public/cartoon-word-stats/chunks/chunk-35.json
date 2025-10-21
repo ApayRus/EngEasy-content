@@ -1,131 +1,9 @@
 {
-  "ahtohallan": {
-    "total": 11,
-    "forms": {
-      "ahtohallan": 11
-    }
-  },
-  "greet": {
-    "total": 11,
-    "forms": {
-      "greeting": 6,
-      "greet": 4,
-      "greeted": 1
-    }
-  },
-  "supply": {
-    "total": 11,
-    "forms": {
-      "supply": 6,
-      "supplies": 5
-    }
-  },
-  "pup": {
-    "total": 11,
-    "forms": {
-      "pup": 6,
-      "pups": 5
-    }
-  },
-  "cebause": {
-    "total": 11,
-    "forms": {
-      "cebause": 11
-    }
-  },
-  "helsing": {
-    "total": 11,
-    "forms": {
-      "helsing": 9,
-      "helsing's": 2
-    },
-    "expansions": {
-      "helsing's": "helsing's (possessive)"
-    }
-  },
-  "intelligent": {
-    "total": 11,
-    "forms": {
-      "intelligent": 11
-    }
-  },
-  "cha": {
-    "total": 11,
-    "forms": {
-      "cha": 11
-    }
-  },
-  "slay": {
-    "total": 11,
-    "forms": {
-      "slay": 9,
-      "slew": 1,
-      "slayed": 1
-    }
-  },
-  "gronckle": {
-    "total": 11,
-    "forms": {
-      "gronckle": 11
-    }
-  },
-  "defense": {
-    "total": 11,
-    "forms": {
-      "defense": 8,
-      "defenses": 3
-    }
-  },
-  "stun": {
-    "total": 11,
-    "forms": {
-      "stunning": 5,
-      "stunned": 5,
-      "stun": 1
-    }
-  },
-  "trapper": {
-    "total": 11,
-    "forms": {
-      "trappers": 7,
-      "trapper": 4
-    }
-  },
-  "respond": {
-    "total": 11,
-    "forms": {
-      "respond": 5,
-      "responding": 4,
-      "responds": 1,
-      "responded": 1
-    }
-  },
   "iron": {
     "total": 11,
     "forms": {
       "iron": 10,
       "ironing": 1
-    }
-  },
-  "platter": {
-    "total": 11,
-    "forms": {
-      "platter": 10,
-      "platters": 1
-    }
-  },
-  "pace": {
-    "total": 11,
-    "forms": {
-      "pace": 9,
-      "paced": 2
-    }
-  },
-  "cam": {
-    "total": 11,
-    "forms": {
-      "cam": 6,
-      "cams": 5
     }
   },
   "minnesota": {
@@ -142,6 +20,13 @@
     "total": 11,
     "forms": {
       "en": 11
+    }
+  },
+  "cam": {
+    "total": 11,
+    "forms": {
+      "cam": 6,
+      "cams": 5
     }
   },
   "aggressive": {
@@ -189,10 +74,24 @@
       "vengeance": 11
     }
   },
+  "platter": {
+    "total": 11,
+    "forms": {
+      "platter": 10,
+      "platters": 1
+    }
+  },
   "villager": {
     "total": 11,
     "forms": {
       "villagers": 11
+    }
+  },
+  "pace": {
+    "total": 11,
+    "forms": {
+      "pace": 9,
+      "paced": 2
     }
   },
   "bianca": {
@@ -205,6 +104,13 @@
     "total": 11,
     "forms": {
       "helpless": 11
+    }
+  },
+  "etch": {
+    "total": 11,
+    "forms": {
+      "etch": 9,
+      "etched": 2
     }
   },
   "americano": {
@@ -221,13 +127,6 @@
     },
     "expansions": {
       "herb's": "herb's (possessive)"
-    }
-  },
-  "etch": {
-    "total": 11,
-    "forms": {
-      "etch": 9,
-      "etched": 2
     }
   },
   "ritchi": {
@@ -678,6 +577,106 @@
     "forms": {
       "admire": 9,
       "admired": 1
+    }
+  },
+  "buffet": {
+    "total": 10,
+    "forms": {
+      "buffet": 9,
+      "buffets": 1
+    }
+  },
+  "amuse": {
+    "total": 10,
+    "forms": {
+      "amusing": 5,
+      "amuse": 4,
+      "amused": 1
+    }
+  },
+  "massive": {
+    "total": 10,
+    "forms": {
+      "massive": 10
+    }
+  },
+  "voyage": {
+    "total": 10,
+    "forms": {
+      "voyage": 10
+    }
+  },
+  "society": {
+    "total": 10,
+    "forms": {
+      "society": 10
+    }
+  },
+  "extraordinary": {
+    "total": 10,
+    "forms": {
+      "extraordinary": 10
+    }
+  },
+  "gesture": {
+    "total": 10,
+    "forms": {
+      "gesture": 5,
+      "gestured": 5
+    }
+  },
+  "mop": {
+    "total": 10,
+    "forms": {
+      "mop": 5,
+      "moping": 2,
+      "moped": 1,
+      "mopped": 1,
+      "mopping": 1
+    }
+  },
+  "recently": {
+    "total": 10,
+    "forms": {
+      "recently": 10
+    }
+  },
+  "frost": {
+    "total": 10,
+    "forms": {
+      "frost": 5,
+      "frosting": 4,
+      "frosted": 1
+    }
+  },
+  "mango": {
+    "total": 10,
+    "forms": {
+      "mango": 8,
+      "mangos": 1,
+      "mangoes": 1
+    }
+  },
+  "theory": {
+    "total": 10,
+    "forms": {
+      "theory": 9,
+      "theories": 1
+    }
+  },
+  "fuse": {
+    "total": 10,
+    "forms": {
+      "fuse": 9,
+      "fused": 1
+    }
+  },
+  "beam": {
+    "total": 10,
+    "forms": {
+      "beam": 8,
+      "beaming": 1,
+      "beams": 1
     }
   }
 }

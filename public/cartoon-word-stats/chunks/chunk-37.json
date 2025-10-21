@@ -1,136 +1,4 @@
 {
-  "airport": {
-    "total": 10,
-    "forms": {
-      "airport": 10
-    }
-  },
-  "bit": {
-    "total": 10,
-    "forms": {
-      "bits": 10
-    }
-  },
-  "sexy": {
-    "total": 10,
-    "forms": {
-      "sexy": 10
-    }
-  },
-  "zippleback": {
-    "total": 10,
-    "forms": {
-      "zippleback": 10
-    }
-  },
-  "link": {
-    "total": 10,
-    "forms": {
-      "link": 10
-    }
-  },
-  "salmon": {
-    "total": 10,
-    "forms": {
-      "salmon": 10
-    }
-  },
-  "grimmel": {
-    "total": 10,
-    "forms": {
-      "grimmel": 10
-    }
-  },
-  "runt": {
-    "total": 10,
-    "forms": {
-      "runt": 8,
-      "runts": 2
-    }
-  },
-  "equal": {
-    "total": 10,
-    "forms": {
-      "equals": 5,
-      "equal": 5
-    }
-  },
-  "unlike": {
-    "total": 10,
-    "forms": {
-      "unlike": 10
-    }
-  },
-  "bitter": {
-    "total": 10,
-    "forms": {
-      "bitter": 10
-    }
-  },
-  "goof": {
-    "total": 10,
-    "forms": {
-      "goof": 6,
-      "goofing": 4
-    }
-  },
-  "storage": {
-    "total": 10,
-    "forms": {
-      "storage": 10
-    }
-  },
-  "donate": {
-    "total": 10,
-    "forms": {
-      "donated": 7,
-      "donate": 3
-    }
-  },
-  "disagree": {
-    "total": 10,
-    "forms": {
-      "disagree": 9,
-      "disagreed": 1
-    }
-  },
-  "devtech": {
-    "total": 10,
-    "forms": {
-      "devtech": 9,
-      "devtech's": 1
-    },
-    "expansions": {
-      "devtech's": "devtech's (possessive)"
-    }
-  },
-  "hover": {
-    "total": 10,
-    "forms": {
-      "hover": 7,
-      "hovering": 3
-    }
-  },
-  "believer": {
-    "total": 10,
-    "forms": {
-      "believer": 10
-    }
-  },
-  "desire": {
-    "total": 10,
-    "forms": {
-      "desire": 8,
-      "desires": 2
-    }
-  },
-  "teenager": {
-    "total": 10,
-    "forms": {
-      "teenager": 5,
-      "teenagers": 5
-    }
-  },
   "assign": {
     "total": 10,
     "forms": {
@@ -179,6 +47,13 @@
     "total": 10,
     "forms": {
       "symbol": 10
+    }
+  },
+  "desire": {
+    "total": 10,
+    "forms": {
+      "desire": 8,
+      "desires": 2
     }
   },
   "gongmen": {
@@ -278,6 +153,12 @@
       "goo": 10
     }
   },
+  "eka": {
+    "total": 10,
+    "forms": {
+      "eka": 10
+    }
+  },
   "ji": {
     "total": 10,
     "forms": {
@@ -320,6 +201,13 @@
       "paperwork": 10
     }
   },
+  "disagree": {
+    "total": 10,
+    "forms": {
+      "disagree": 9,
+      "disagreed": 1
+    }
+  },
   "hardscrabble": {
     "total": 10,
     "forms": {
@@ -349,6 +237,20 @@
     "total": 10,
     "forms": {
       "purgatory": 10
+    }
+  },
+  "hover": {
+    "total": 10,
+    "forms": {
+      "hover": 7,
+      "hovering": 3
+    }
+  },
+  "donate": {
+    "total": 10,
+    "forms": {
+      "donated": 7,
+      "donate": 3
     }
   },
   "mar": {
@@ -428,6 +330,12 @@
       "lee's": "lee's (possessive)"
     }
   },
+  "believer": {
+    "total": 10,
+    "forms": {
+      "believer": 10
+    }
+  },
   "radioactive": {
     "total": 10,
     "forms": {
@@ -465,6 +373,16 @@
     },
     "expansions": {
       "gran's": "gran's (possessive)"
+    }
+  },
+  "devtech": {
+    "total": 10,
+    "forms": {
+      "devtech": 9,
+      "devtech's": 1
+    },
+    "expansions": {
+      "devtech's": "devtech's (possessive)"
     }
   },
   "sweetpea": {
@@ -521,12 +439,6 @@
     "total": 10,
     "forms": {
       "bogo": 10
-    }
-  },
-  "eka": {
-    "total": 10,
-    "forms": {
-      "eka": 10
     }
   },
   "awk": {
@@ -677,6 +589,103 @@
     "forms": {
       "ribbon": 7,
       "ribbons": 2
+    }
+  },
+  "pea": {
+    "total": 9,
+    "forms": {
+      "pea": 5,
+      "peas": 4
+    }
+  },
+  "jell": {
+    "total": 9,
+    "forms": {
+      "jell": 9
+    }
+  },
+  "fold": {
+    "total": 9,
+    "forms": {
+      "fold": 4,
+      "folded": 3,
+      "folding": 1,
+      "folds": 1
+    }
+  },
+  "gummi": {
+    "total": 9,
+    "forms": {
+      "gummi": 9
+    }
+  },
+  "activity": {
+    "total": 9,
+    "forms": {
+      "activity": 8,
+      "activities": 1
+    }
+  },
+  "bail": {
+    "total": 9,
+    "forms": {
+      "bail": 7,
+      "bailing": 2
+    }
+  },
+  "pasta": {
+    "total": 9,
+    "forms": {
+      "pasta": 9
+    }
+  },
+  "several": {
+    "total": 9,
+    "forms": {
+      "several": 9
+    }
+  },
+  "doc": {
+    "total": 9,
+    "forms": {
+      "doc": 9
+    }
+  },
+  "upside": {
+    "total": 9,
+    "forms": {
+      "upside": 7,
+      "upsides": 2
+    }
+  },
+  "unusual": {
+    "total": 9,
+    "forms": {
+      "unusual": 9
+    }
+  },
+  "talented": {
+    "total": 9,
+    "forms": {
+      "talented": 9
+    }
+  },
+  "dynamic": {
+    "total": 9,
+    "forms": {
+      "dynamics": 8,
+      "dynamic": 1
+    }
+  },
+  "nation": {
+    "total": 9,
+    "forms": {
+      "nation": 7,
+      "nations": 1,
+      "nation's": 1
+    },
+    "expansions": {
+      "nation's": "nation's (possessive)"
     }
   }
 }
