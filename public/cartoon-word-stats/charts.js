@@ -5,6 +5,7 @@ let chart = null
 let currentPage = 0
 let wordsPerPage = 50
 let isSearchMode = false
+let searchCenterIndex = 0 // Индекс центра окна в режиме поиска
 
 // Определяем мобильное устройство
 const isMobile = window.innerWidth <= 768
@@ -36,28 +37,51 @@ fetch('/cartoon-word-stats/chunks/index.json')
 
 async function setWordsPerPage(count) {
 	wordsPerPage = count
-	currentPage = 0
-	await loadChunksForPage(0)
 
 	// Обновляем активную кнопку
 	document
 		.querySelectorAll('.btn-group .btn')
 		.forEach(btn => btn.classList.remove('active'))
 	event.target.classList.add('active')
+
+	// Если в режиме поиска - перерисовываем с новым количеством слов
+	if (isSearchMode && highlightedWord) {
+		const wordIndex = indexData.words.indexOf(highlightedWord)
+		searchCenterIndex = wordIndex // Возвращаем центр на найденное слово
+		await renderWordInContext(wordIndex, highlightedWord)
+	} else {
+		currentPage = 0
+		await loadChunksForPage(0)
+	}
 }
 
 async function previousPage() {
-	if (currentPage > 0) {
-		currentPage--
-		await loadChunksForPage(currentPage)
+	if (isSearchMode && highlightedWord) {
+		// В режиме поиска двигаем окно на wordsPerPage назад
+		searchCenterIndex = Math.max(0, searchCenterIndex - wordsPerPage)
+		await renderWordInContext(searchCenterIndex, highlightedWord)
+	} else {
+		if (currentPage > 0) {
+			currentPage--
+			await loadChunksForPage(currentPage)
+		}
 	}
 }
 
 async function nextPage() {
-	const maxPage = Math.ceil(indexData.totalWords / wordsPerPage) - 1
-	if (currentPage < maxPage) {
-		currentPage++
-		await loadChunksForPage(currentPage)
+	if (isSearchMode && highlightedWord) {
+		// В режиме поиска двигаем окно на wordsPerPage вперед
+		searchCenterIndex = Math.min(
+			indexData.totalWords - 1,
+			searchCenterIndex + wordsPerPage
+		)
+		await renderWordInContext(searchCenterIndex, highlightedWord)
+	} else {
+		const maxPage = Math.ceil(indexData.totalWords / wordsPerPage) - 1
+		if (currentPage < maxPage) {
+			currentPage++
+			await loadChunksForPage(currentPage)
+		}
 	}
 }
 
@@ -113,16 +137,21 @@ function renderChart() {
 		.map(word => [word, wordsData[word]])
 		.filter(([word, data]) => data) // Только если данные загружены
 
-	updateChart(entries)
+	updateChart(entries, highlightedWord)
 	updateNavigation()
 }
 
-function updateChart(entries) {
+function updateChart(entries, highlightWord = null) {
 	const labels = entries.map(([word]) => word)
 	const values = entries.map(([, data]) => data.total)
 
 	// Генерируем градиент цветов от фиолетового к синему
-	const colors = entries.map((_, i) => {
+	const colors = entries.map(([word], i) => {
+		// Если это найденное слово - выделяем его оранжевым
+		if (highlightWord && word === highlightWord) {
+			return `hsla(30, 90%, 55%, 0.85)` // Яркий оранжевый
+		}
+
 		const ratio = i / entries.length
 		const hue = 250 - ratio * 30 // От фиолетового (280) к синему (250)
 		const lightness = 55 + ratio * 10 // Небольшое изменение яркости
@@ -385,4 +414,113 @@ function handleSwipe() {
 		// Свайп вправо - предыдущая страница
 		previousPage()
 	}
+}
+
+// ============ ПОИСК СЛОВА ============
+
+let highlightedWord = null
+
+// Обработчик поиска
+document.getElementById('searchInput')?.addEventListener('input', e => {
+	const query = e.target.value.trim().toLowerCase()
+
+	if (!query) {
+		// Если поле пустое - возвращаемся к обычному режиму
+		highlightedWord = null
+		searchCenterIndex = 0
+		isSearchMode = false
+		renderChart()
+		updateNavigation()
+		return
+	}
+
+	searchWord(query)
+})
+
+async function searchWord(query) {
+	if (!indexData || !indexData.words) {
+		console.error('Данные индекса не загружены')
+		return
+	}
+
+	// Ищем слово в индексе (точное совпадение или начало слова)
+	let wordIndex = indexData.words.findIndex(word => word === query)
+
+	// Если точное совпадение не найдено, ищем по началу
+	if (wordIndex === -1) {
+		wordIndex = indexData.words.findIndex(word => word.startsWith(query))
+	}
+
+	if (wordIndex === -1) {
+		// Слово не найдено
+		document.getElementById(
+			'chartInfo'
+		).textContent = `Слово "${query}" не найдено`
+		return
+	}
+
+	const foundWord = indexData.words[wordIndex]
+	highlightedWord = foundWord
+	searchCenterIndex = wordIndex // Устанавливаем центр на найденное слово
+	isSearchMode = true
+
+	await renderWordInContext(wordIndex, foundWord)
+}
+
+// Универсальная функция для отображения слова в контексте
+async function renderWordInContext(wordIndex, word) {
+	// Вычисляем диапазон слов для отображения (чтобы слово было в центре)
+	const halfPage = Math.floor(wordsPerPage / 2)
+	let startIdx = Math.max(0, wordIndex - halfPage)
+	let endIdx = startIdx + wordsPerPage
+
+	// Корректируем, если вышли за пределы
+	if (endIdx > indexData.totalWords) {
+		endIdx = indexData.totalWords
+		startIdx = Math.max(0, endIdx - wordsPerPage)
+	}
+
+	// Загружаем нужные чанки
+	const startChunk = Math.floor(startIdx / 100)
+	const endChunk = Math.floor((endIdx - 1) / 100)
+
+	const loadPromises = []
+	for (let i = startChunk; i <= endChunk; i++) {
+		if (!loadedChunks.has(i) && i < indexData.chunksCount) {
+			loadPromises.push(loadChunk(i))
+		}
+	}
+
+	if (loadPromises.length > 0) {
+		await Promise.all(loadPromises)
+	}
+
+	// Отображаем график с найденным словом
+	renderSearchResults(startIdx, endIdx, word)
+}
+
+function renderSearchResults(startIdx, endIdx, foundWord) {
+	const pageWords = indexData.words.slice(startIdx, endIdx)
+
+	// Создаем entries из загруженных данных
+	const entries = pageWords
+		.map(word => [word, wordsData[word]])
+		.filter(([word, data]) => data)
+
+	updateChart(entries, foundWord)
+
+	// Обновляем информацию
+	const wordData = wordsData[foundWord]
+	const wordPosition = indexData.words.indexOf(foundWord) + 1
+	document.getElementById(
+		'chartInfo'
+	).textContent = `Найдено: "${foundWord}" (место ${wordPosition} из ${indexData.totalWords}, частота: ${wordData.total})`
+
+	// Обновляем навигацию для режима поиска на основе центра окна
+	document.getElementById('prevBtn').disabled = searchCenterIndex <= 0
+	document.getElementById('nextBtn').disabled =
+		searchCenterIndex >= indexData.totalWords - 1
+	document.getElementById(
+		'positionInfo'
+	).textContent = `Режим поиска (показаны: ${startIdx + 1}-${endIdx})`
 }
