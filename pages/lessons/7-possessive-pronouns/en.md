@@ -2,7 +2,6 @@
 type: lesson
 description: 'Master possessive pronouns in English - learn how to correctly use my, your, his, her, its, our, and their in everyday conversations. Perfect for beginners!'
 hideHelp: true
-newLexemeForm: pronouns/possessive-adj
 ---
 
 # 7. Possessive pronouns
@@ -193,8 +192,8 @@ This is my small book.
 That is your big pen.
 His old phone is good.
 Her old bag is strong.
-Our cold cup is cold.
-Their hot cup is hot.
+Our cup is cold.
+Their cup is hot.
 
 My doctor isn't busy.
 Your teacher is smart.

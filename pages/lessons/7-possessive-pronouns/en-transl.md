@@ -192,8 +192,8 @@ speɪn ɪz ˈaʊə ˈkʌntri
 ðæt ɪz jɔː bɪɡ pen
 hɪz əʊld fəʊn ɪz ɡʊd
 hɜː əʊld bæɡ ɪz strɒŋ
-ˈaʊə kəʊld kʌp ɪz kəʊld
-ðeə hɒt kʌp ɪz hɒt
+ˈaʊə kʌp ɪz kəʊld
+ðeə kʌp ɪz hɒt
 
 maɪ ˈdɒktə ˈɪznt ˈbɪzi
 jɔː ˈtiːtʃə ɪz smɑːt

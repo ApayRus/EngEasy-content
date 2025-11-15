@@ -1,4 +1,6 @@
-singular | plural
+---
+forms: singular | plural
+---
 
 # 4
 
@@ -160,3 +162,63 @@ evening | evenings
 
 question | questions
 answer | answers
+
+# 26
+
+girl | girls
+boy | boys
+baby | babies
+lesson | lessons
+season | seasons
+winter | winters
+spring | springs
+summer | summers
+autumn | autumns
+January | Januarys
+February | Februarys
+March | Marches
+April | Aprils
+
+# 27
+
+kitchen | kitchens
+sofa | sofas
+window | windows
+
+# 28
+
+dog | dogs
+cat | cats
+
+# 29
+
+clothes | clothes
+song | songs
+movie | movies
+
+# 30
+
+kettle | kettles
+spoon | spoons
+knife | knives
+fork | forks
+moment | moments
+
+# 31
+
+apartment | apartments
+building | buildings
+street | streets
+store | stores
+office | offices
+bathroom | bathrooms
+bedroom | bedrooms
+wall | walls
+floor | floors
+ceiling | ceilings
+
+# 32
+
+people
+time | times
+lot | lots

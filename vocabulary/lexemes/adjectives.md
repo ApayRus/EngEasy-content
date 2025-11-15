@@ -1,4 +1,6 @@
-base | comparative | superlative
+---
+forms: base | comparative | superlative
+---
 
 # 1
 
@@ -36,10 +38,10 @@ rich | richer | richest
 poor | poorer | poorest
 strong | stronger | strongest
 weak | weaker | weakest
-loud | louder | loudest #adverb
+loud | louder | loudest
 quiet | quieter | quietest
-early | earlier | earliest #adverb
-late | later | latest #adverb
+early | earlier | earliest
+late | later | latest
 brave | braver | bravest
 afraid | more afraid | most afraid
 
@@ -47,33 +49,29 @@ afraid | more afraid | most afraid
 
 new | newer | newest
 
-# 11
-
-everyday #adverb
-
 # 15
 
-long | longer | longest #adverb
-fast | faster | fastest #adverb
+long | longer | longest
+fast | faster | fastest
 blue | bluer | bluest
 
 # 16
 
-high | higher | highest #adverb
-low | lower | lowest #adverb
+high | higher | highest
+low | lower | lowest
 wide | wider | widest
 narrow | narrower | narrowest
-full | fuller | fullest #adverb
+full | fuller | fullest
 empty | emptier | emptiest
-heavy | heavier | heaviest #adverb
-light | lighter | lightest #adverb
-clean | cleaner | cleanest #adverb
-dirty | dirtier | dirtiest #adverb
+heavy | heavier | heaviest
+light | lighter | lightest
+clean | cleaner | cleanest
+dirty | dirtier | dirtiest
 dry | drier | driest
-wet | wetter | wettest #adverb
-hard | harder | hardest #adverb
+wet | wetter | wettest
+hard | harder | hardest
 soft | softer | softest
-easy | easier | easiest #adverb
+easy | easier | easiest
 difficult | more difficult | most difficult
 
 # 18

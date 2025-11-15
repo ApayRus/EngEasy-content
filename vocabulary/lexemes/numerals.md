@@ -1,4 +1,6 @@
-cardinal | ordinal
+---
+forms: cardinal | ordinal
+---
 
 # 8
 

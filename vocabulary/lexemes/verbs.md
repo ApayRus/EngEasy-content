@@ -1,4 +1,6 @@
-base | present-3rd | past | pp | gerund
+---
+forms: base | present-3rd | past | pp | gerund
+---
 
 # 9
 
@@ -67,6 +69,49 @@ visit | visits | visited | visited | visiting
 meet | meets | !met | !met | meeting
 promise | promises | promised | promised | promising
 
-# 25 
+# 24
 
 ask | asks | asked | asked | asking
+question | questions | questioned | questioned | questioning
+answer | answers | answered | answered | answering
+
+# 25
+
+come | comes | !came | !come | coming
+
+# 26
+
+start | starts | started | started | starting
+
+# 27
+
+sit | sits | !sat | !sat | sitting
+lie | lies | lied |lied | lying
+put | puts | !put | !put | putting
+look | looks | looked | looked | looking
+make | makes | !made | !made | making
+
+# 28
+
+watch | watches | watched | watched | watching
+sleep | sleeps | !slept | !slept | sleeping
+run | runs | !ran | !run | running
+swim | swims | !swam | !swum | swimming
+talk | talks | !talked | !talked | talking
+sing | sings | sang | sang | singing
+dance | dances | danced | danced | dancing
+laugh | laughs | laughed | laughed | laughing
+cry | cries | cried | cried | crying
+
+# 29
+
+wait | waits | waited | waited | waiting
+jump | jumps | jumped | jumped | jumping
+buy | buys | !bought | !bought | buying
+sell | sells | !sold | !sold | selling
+wear | wears | !wore | !worn | wearing
+change | changes | changed | changed | changing
+
+# 30
+
+call | calls | called | called | calling

@@ -1,4 +1,6 @@
-subject | object | possessive-adj | possessive-pronoun
+---
+forms: subject | object | possessive-adj | possessive-pronoun
+---
 
 # 1
 
@@ -10,10 +12,11 @@ it | it | its | its
 we | us | our | ours
 they | them | their | theirs
 
+# 25
 
+something
 
+# 29
 
-
-
-
-
+nothing
+anything

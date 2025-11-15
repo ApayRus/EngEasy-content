@@ -1,4 +1,6 @@
-contraction | expansion
+---
+forms: contraction | expansion
+---
 
 # 1
 
