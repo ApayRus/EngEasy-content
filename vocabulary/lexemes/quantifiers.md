@@ -1,3 +1,7 @@
+---
+name: quantifier
+---
+
 # 8
 
 many

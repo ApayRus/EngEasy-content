@@ -1,5 +1,6 @@
 ---
-forms: base | comparative | superlative
+name: adverb
+forms: base, comparative, superlative
 ---
 
 # 11

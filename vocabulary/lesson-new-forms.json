@@ -1,30 +1,44 @@
-{
-  "1": {
-    "pronouns": ["subject"],
-    "adjectives": ["base"],
-    "contractions": ["contraction", "expansion"]
+[
+  {
+    "lesson": 1,
+    "wordForms": [
+      "pronouns.subject",
+      "adjectives.base",
+      "contractions.contraction",
+      "contractions.expansion"
+    ]
   },
-  "4": { "articles": [], "question-words": [], "nouns": ["singular"] },
+  {
+    "lesson": 4,
+    "wordForms": ["articles", "question-words", "nouns.singular"]
+  },
 
-  "5": {
-    "demonstratives": ["singular"]
+  {
+    "lesson": 5,
+    "wordForms": ["demonstratives.singular"]
   },
-  "6": {
-    "prepositions": []
+  {
+    "lesson": 6,
+    "wordForms": ["prepositions"]
   },
-  "7": {
-    "pronouns": ["possessive-adj"]
+  {
+    "lesson": 7,
+    "wordForms": ["pronouns.possessive-adj"]
   },
-  "8": {
-    "numerals": ["cardinal"],
-    "nouns": ["plural"],
-    "demonstratives": ["plural"]
+  {
+    "lesson": 8,
+    "wordForms": ["numerals.cardinal", "nouns.plural", "demonstratives.plural"]
   },
-  "9": {
-    "verbs": ["base", "present-3rd"],
-    "conjunctions": []
+  {
+    "lesson": 9,
+    "wordForms": ["verbs.base", "verbs.present-3rd", "conjunctions"]
   },
-  "11": {
-    "adverbs": ["base"]
+  {
+    "lesson": 11,
+    "wordForms": ["adverbs.base"]
+  },
+  {
+    "lesson": 33,
+    "wordForms": ["verbs.past"]
   }
-}
+]

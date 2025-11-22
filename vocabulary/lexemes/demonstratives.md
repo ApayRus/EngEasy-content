@@ -1,8 +1,9 @@
 ---
-forms: singular | plural
+name: demonstrative
+forms: singular, plural
 ---
 
 # 5
 
-this | these
-that | those
+this these
+that those
