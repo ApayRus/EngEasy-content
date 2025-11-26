@@ -547,4 +547,13 @@ weather
 dinner
 
 --- lesson 35 ---
-(no new words)
+lunch
+party
+concert
+meeting
+went
+saw
+gave
+came
+took
+had
