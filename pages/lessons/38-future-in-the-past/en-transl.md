@@ -1,6 +1,7 @@
 ---
 type: lesson
 description: 'Learn more irregular past tense verbs and practice telling stories about the past.'
+hideHelp: true
 ---
 
 # 38. More irregular verbs in past tense
@@ -8,16 +9,16 @@ description: 'Learn more irregular past tense verbs and practice telling stories
 ## New words {new}
 
 tuː wɔːk
-sliːp, slɛpt 
-rʌn, ræn 
-sɪŋ, sæŋ 
+sliːp, slɛpt
+rʌn, ræn
+sɪŋ, sæŋ
 faɪnd, faʊnd
 liːv, lɛft
 θɪŋk, θɔːt
 nəʊ, njuː
 ɡɛt, ɡɒt
 bɪˈkʌm, bɪˈkeɪm
-wɪl, wʊd 
+wɪl, wʊd
 wɛl
 
 ## Future in the Past
@@ -32,7 +33,6 @@ aɪ θɔːt juː wʊd sliːp wɛl.
 ʃiː njuː aɪ wʊd bɪˈkʌm ə ˈtiːʧə.
 wiː θɔːt ðə ˈʧɪldrən wʊd rʌn ɪn ðə pɑːk.
 hiː njuː aɪ wʊd sɪŋ æt ðə ˈpɑːti.
-
 
 ## Story 1: Yesterday Morning
 

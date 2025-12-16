@@ -1,6 +1,7 @@
 ---
 type: lesson
 description: 'Learn how to use "would" to express future in the past and practice more irregular past tense verbs.'
+hideHelp: true
 ---
 
 # 38. Будущее в прошлом
@@ -8,16 +9,16 @@ description: 'Learn how to use "would" to express future in the past and practic
 ## Новые слова {new}
 
 гулять
-спать, спал 
-бежать, бежал 
-петь, пел 
+спать, спал
+бежать, бежал
+петь, пел
 находить, нашёл
 уходить, ушёл
 думать, думал
 знать, знал
 получать, получил
 становиться, стал
-будет, бы 
+будет, бы
 хорошо
 
 ## Будущее в прошлом
@@ -32,7 +33,6 @@ description: 'Learn how to use "would" to express future in the past and practic
 Она знала, что я стану учителем.
 Мы думали, что дети будут бегать в парке.
 Он знал, что я буду петь на вечеринке.
-
 
 ## История 1: Вчерашнее утро
 

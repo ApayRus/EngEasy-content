@@ -1,6 +1,7 @@
 ---
 type: lesson
 description: 'Learn how to use "would" to express future in the past and practice more irregular past tense verbs.'
+hideHelp: true
 ---
 
 # 38. Future in the Past
@@ -8,16 +9,16 @@ description: 'Learn how to use "would" to express future in the past and practic
 ## New words {new}
 
 to walk
-sleep, slept 
-run, ran 
-sing, sang 
+sleep, slept
+run, ran
+sing, sang
 find, found
 leave, left
 think, thought
 know, knew
 get, got
 become, became
-will, would 
+will, would
 well
 
 ## Future in the Past
@@ -32,7 +33,6 @@ I thought you would sleep well.
 She knew I would become a teacher.
 We thought the children would run in the park.
 He knew I would sing at the party.
-
 
 ## Story 1: Yesterday Morning
 
