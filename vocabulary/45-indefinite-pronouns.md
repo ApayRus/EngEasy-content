@@ -664,3 +664,36 @@ eaten
 given
 lose
 lost
+
+--- lesson 43 ---
+since
+married
+ill
+job
+away
+childhood
+heard
+understood
+met
+known
+
+--- lesson 44 ---
+if
+rain
+snow
+wind
+cloud
+umbrella
+coat
+hat
+warm
+
+--- lesson 45 ---
+body
+somebody
+anybody
+nobody
+somewhere
+anywhere
+nowhere
+plate

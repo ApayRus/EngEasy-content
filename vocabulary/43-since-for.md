@@ -664,3 +664,15 @@ eaten
 given
 lose
 lost
+
+--- lesson 43 ---
+since
+married
+ill
+job
+away
+childhood
+heard
+understood
+met
+known
