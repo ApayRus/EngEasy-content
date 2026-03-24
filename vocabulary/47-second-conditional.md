@@ -712,5 +712,14 @@ cut
 hurt
 
 --- lesson 47 ---
-person
-neighbor
+would
+wish
+dream
+win
+won
+lottery
+million
+dollar
+boss
+rule
+world
