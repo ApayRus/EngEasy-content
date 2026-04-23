@@ -1,6 +1,6 @@
 ---
 name: pronoun
-forms: subject, object, possessive-adj, possessive-pronoun
+forms: subject, object, possessiveAdjective, possessivePronoun
 ---
 
 # 1
