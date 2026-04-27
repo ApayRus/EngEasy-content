@@ -3,8 +3,8 @@ type: lesson
 description: ðə vɜːb tuː biː ɪz ˈɒfən juːzd ɪn kənˈtræktɪd fɔːmz.
 hideHelp: true
 morphology:
-  - contraction.contraction
-  - contraction.expansion
+  - contraction.short
+  - contraction.full
 ---
 
 # 2. aɪm ˈhæpi, ænd juː ɑː strɒŋ

@@ -3,8 +3,8 @@ type: lesson
 description: The verb to be is often used in contracted forms.
 hideHelp: true
 morphology:
-  - contraction.contraction
-  - contraction.expansion
+  - contraction.short
+  - contraction.full
 ---
 
 # 2. I'm happy, and you are strong

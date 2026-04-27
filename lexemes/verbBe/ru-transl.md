@@ -3,20 +3,26 @@ name: биː вёːб
 forms:
   - id: base
     name: бейс фоːм
-  - id: firstPersonSingular
-    name: фёːст ˈпёːсəн ˈсин̣гйулə
-  - id: secondPersonSingular
-    name: ˈсекəнд ˈпёːсəн ˈсин̣гйулə
-  - id: thirdPersonSingular
-    name: с̣ёːд ˈпёːсəн ˈсин̣гйулə
-  - id: plural
-    name: ˈплуəрəл фоːм
+  - id: presentFirstSingular
+    name: ˈпрезəнт, фёːст ˈпёːсəн ˈсин̣гйəлə
+  - id: presentSecondSingular
+    name: ˈпрезəнт, ˈсекəнд ˈпёːсəн ˈсин̣гйəлə
+  - id: presentThirdSingular
+    name: ˈпрезəнт, с̣ёːд ˈпёːсəн ˈсин̣гйəлə
+  - id: presentPlural
+    name: ˈпрезəнт, ˈплуəрəл
   - id: pastFirstThirdSingular
-    name: паːст фёːст əнд с̣ёːд ˈпёːсəн ˈсин̣гйулə
-  - id: pastSecondSingularAndPlural
-    name: паːст ˈсекəнд ˈпёːсəн ˈсин̣гйулə əнд ˈплуəрəл
+    name: паːст, фёːст янд с̣ёːд ˈпёːсəн ˈсин̣гйəлə
+  - id: pastSecondSingular
+    name: паːст, ˈсекəнд ˈпёːсəн ˈсин̣гйəлə
+  - id: pastPlural
+    name: паːст, ˈплуəрəл
   - id: pastParticiple
-    name: паːст ˈпаːтисипəл
+    name: паːст паːˈтисипəл
   - id: gerund
     name: ˈджерəнд
 ---
+
+# 1
+
+биː | ям | аː | из | аː | воз | вёː | вёː | биːн | ˈбиːин̣

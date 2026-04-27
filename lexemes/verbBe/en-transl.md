@@ -3,24 +3,26 @@ name: biː vɜːb
 forms:
   - id: base
     name: beɪs fɔːm
-  - id: firstPersonSingular
-    name: fɜːst ˈpɜːsən ˈsɪŋɡjʊlə
-  - id: secondPersonSingular
-    name: ˈsekənd ˈpɜːsən ˈsɪŋɡjʊlə
-  - id: thirdPersonSingular
-    name: θɜːd ˈpɜːsən ˈsɪŋɡjʊlə
-  - id: plural
-    name: ˈplʊərəl fɔːm
+  - id: presentFirstSingular
+    name: ˈprezənt, fɜːst ˈpɜːsən ˈsɪŋɡjələ
+  - id: presentSecondSingular
+    name: ˈprezənt, ˈsekənd ˈpɜːsən ˈsɪŋɡjələ
+  - id: presentThirdSingular
+    name: ˈprezənt, θɜːd ˈpɜːsən ˈsɪŋɡjələ
+  - id: presentPlural
+    name: ˈprezənt, ˈplʊərəl
   - id: pastFirstThirdSingular
-    name: pɑːst fɜːst ənd θɜːd ˈpɜːsən ˈsɪŋɡjʊlə
-  - id: pastSecondSingularAndPlural
-    name: pɑːst ˈsekənd ˈpɜːsən ˈsɪŋɡjʊlə ənd ˈplʊərəl
+    name: pɑːst, fɜːst ænd θɜːd ˈpɜːsən ˈsɪŋɡjələ
+  - id: pastSecondSingular
+    name: pɑːst, ˈsekənd ˈpɜːsən ˈsɪŋɡjələ
+  - id: pastPlural
+    name: pɑːst, ˈplʊərəl
   - id: pastParticiple
-    name: pɑːst ˈpɑːtɪsɪpəl
+    name: pɑːst pɑːˈtɪsɪpəl
   - id: gerund
     name: ˈdʒerənd
 ---
 
 # 1
 
-biː | æm | ɑː | ɪz | ɑː | wɒz | wɜː | biːn | ˈbiːɪŋ
+biː | æm | ɑː | ɪz | ɑː | wɒz | wɜː | wɜː | biːn | ˈbiːɪŋ

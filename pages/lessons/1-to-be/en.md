@@ -4,6 +4,10 @@ description: Verb to be base form. Adjective base form. Personal pronoun subject
 hideHelp: true
 morphology:
   - verbBe.base
+  - verbBe.presentFirstSingular
+  - verbBe.presentSecondSingular
+  - verbBe.presentThirdSingular
+  - verbBe.presentPlural
   - adjective.base
   - pronoun.subject
 grammar:

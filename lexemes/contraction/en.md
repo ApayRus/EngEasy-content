@@ -1,9 +1,9 @@
 ---
 name: contraction
 forms:
-  - id: contraction
-    name: contracted form
-  - id: expansion
+  - id: short
+    name: short form
+  - id: full
     name: full form
 ---
 
@@ -16,3 +16,8 @@ she's | she is
 it's | it is
 we're | we are
 they're | they are
+
+# 4
+
+aren't | are not
+isn't | is not

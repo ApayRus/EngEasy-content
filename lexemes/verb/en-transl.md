@@ -4,11 +4,11 @@ forms:
   - id: base
     name: beɪs fɔːm
   - id: thirdPersonSingularPresent
-    name: θɜːd ˈpɜːsən ˈsɪŋɡjʊlə ˈprezənt
+    name: θɜːd ˈpɜːsən ˈsɪŋɡjələ ˈprezənt
   - id: past
     name: pɑːst fɔːm
   - id: pastParticiple
-    name: pɑːst ˈpɑːtɪsɪpəl
+    name: pɑːst pɑːˈtɪsɪpəl
   - id: gerund
     name: ˈdʒerənd
 ---

@@ -1,9 +1,9 @@
 ---
 name: kənˈtrækʃən
 forms:
-  - id: contraction
-    name: kənˈtræktɪd fɔːm
-  - id: expansion
+  - id: short
+    name: ʃɔːt fɔːm
+  - id: full
     name: fʊl fɔːm
 ---
 
@@ -16,3 +16,8 @@ hiːz | hiː ɪz
 ɪts | ɪt ɪz
 wɪə | wiː ɑː
 ðeə | ðeɪ ɑː
+
+# 4
+
+ɑːnt | ɑː nɒt
+ˈɪzənt | ɪz nɒt

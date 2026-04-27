@@ -4,6 +4,10 @@ description: бэйс форм глагола биː. бэйс форм эджи
 hideHelp: true
 morphology:
   - verbBe.base
+  - verbBe.presentFirstSingular
+  - verbBe.presentSecondSingular
+  - verbBe.presentThirdSingular
+  - verbBe.presentPlural
   - adjective.base
   - pronoun.subject
 grammar:

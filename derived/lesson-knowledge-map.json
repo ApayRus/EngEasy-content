@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-04-27T00:24:23.370Z",
+  "sourceDirectory": "content/pages/lessons",
+  "lessonCount": 5,
+  "lessons": [
+    {
+      "lesson": 1,
+      "slug": "1-to-be",
+      "sourceFile": "content/pages/lessons/1-to-be/en.md",
+      "knowledge": {
+        "added": {
+          "grammar": [
+            "PresentSimpleToBeAffirmative"
+          ],
+          "morphology": [
+            "verbBe.base",
+            "verbBe.presentFirstSingular",
+            "verbBe.presentSecondSingular",
+            "verbBe.presentThirdSingular",
+            "verbBe.presentPlural",
+            "adjective.base",
+            "pronoun.subject"
+          ]
+        },
+        "cumulative": {
+          "grammar": [
+            "PresentSimpleToBeAffirmative"
+          ],
+          "morphology": [
+            "verbBe.base",
+            "verbBe.presentFirstSingular",
+            "verbBe.presentSecondSingular",
+            "verbBe.presentThirdSingular",
+            "verbBe.presentPlural",
+            "adjective.base",
+            "pronoun.subject"
+          ]
+        }
+      }
+    },
+    {
+      "lesson": 2,
+      "slug": "2-to-be-contracted",
+      "sourceFile": "content/pages/lessons/2-to-be-contracted/en.md",
+      "knowledge": {
+        "added": {
+          "grammar": [],
+          "morphology": [
+            "contraction.short",
+            "contraction.full"
+          ]
+        },
+        "cumulative": {
+          "grammar": [
+            "PresentSimpleToBeAffirmative"
+          ],
+          "morphology": [
+            "verbBe.base",
+            "verbBe.presentFirstSingular",
+            "verbBe.presentSecondSingular",
+            "verbBe.presentThirdSingular",
+            "verbBe.presentPlural",
+            "adjective.base",
+            "pronoun.subject",
+            "contraction.short",
+            "contraction.full"
+          ]
+        }
+      }
+    },
+    {
+      "lesson": 3,
+      "slug": "3-to-be-question",
+      "sourceFile": "content/pages/lessons/3-to-be-question/en.md",
+      "knowledge": {
+        "added": {
+          "grammar": [
+            "PresentSimpleToBeQuestion"
+          ],
+          "morphology": [
+            "fixedAdverb.base"
+          ]
+        },
+        "cumulative": {
+          "grammar": [
+            "PresentSimpleToBeAffirmative",
+            "PresentSimpleToBeQuestion"
+          ],
+          "morphology": [
+            "verbBe.base",
+            "verbBe.presentFirstSingular",
+            "verbBe.presentSecondSingular",
+            "verbBe.presentThirdSingular",
+            "verbBe.presentPlural",
+            "adjective.base",
+            "pronoun.subject",
+            "contraction.short",
+            "contraction.full",
+            "fixedAdverb.base"
+          ]
+        }
+      }
+    },
+    {
+      "lesson": 4,
+      "slug": "4-to-be-negative",
+      "sourceFile": "content/pages/lessons/4-to-be-negative/en.md",
+      "knowledge": {
+        "added": {
+          "grammar": [
+            "PresentSimpleToBeNegative",
+            "PresentSimpleToBeNegativeQuestion",
+            "PresentSimpleToBeNegativeQuestionContracted"
+          ],
+          "morphology": []
+        },
+        "cumulative": {
+          "grammar": [
+            "PresentSimpleToBeAffirmative",
+            "PresentSimpleToBeQuestion",
+            "PresentSimpleToBeNegative",
+            "PresentSimpleToBeNegativeQuestion",
+            "PresentSimpleToBeNegativeQuestionContracted"
+          ],
+          "morphology": [
+            "verbBe.base",
+            "verbBe.presentFirstSingular",
+            "verbBe.presentSecondSingular",
+            "verbBe.presentThirdSingular",
+            "verbBe.presentPlural",
+            "adjective.base",
+            "pronoun.subject",
+            "contraction.short",
+            "contraction.full",
+            "fixedAdverb.base"
+          ]
+        }
+      }
+    },
+    {
+      "lesson": 5,
+      "slug": "5-to-be-wh-question",
+      "sourceFile": "content/pages/lessons/5-to-be-wh-question/en.md",
+      "knowledge": {
+        "added": {
+          "grammar": [
+            "PresentSimpleToBeWhQuestion"
+          ],
+          "morphology": [
+            "questionWord.base",
+            "article.base",
+            "noun.singular"
+          ]
+        },
+        "cumulative": {
+          "grammar": [
+            "PresentSimpleToBeAffirmative",
+            "PresentSimpleToBeQuestion",
+            "PresentSimpleToBeNegative",
+            "PresentSimpleToBeNegativeQuestion",
+            "PresentSimpleToBeNegativeQuestionContracted",
+            "PresentSimpleToBeWhQuestion"
+          ],
+          "morphology": [
+            "verbBe.base",
+            "verbBe.presentFirstSingular",
+            "verbBe.presentSecondSingular",
+            "verbBe.presentThirdSingular",
+            "verbBe.presentPlural",
+            "adjective.base",
+            "pronoun.subject",
+            "contraction.short",
+            "contraction.full",
+            "fixedAdverb.base",
+            "questionWord.base",
+            "article.base",
+            "noun.singular"
+          ]
+        }
+      }
+    }
+  ]
+}

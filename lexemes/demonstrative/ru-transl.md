@@ -2,7 +2,7 @@
 name: диˈмонстрəтив
 forms:
   - id: singular
-    name: ˈсин̣гйулə фоːм
+    name: ˈсин̣гйəлə фоːм
   - id: plural
     name: ˈплуəрəл фоːм
 ---

@@ -2,7 +2,7 @@
 name: dɪˈmɒnstrətɪv
 forms:
   - id: singular
-    name: ˈsɪŋɡjʊlə fɔːm
+    name: ˈsɪŋɡjələ fɔːm
   - id: plural
     name: ˈplʊərəl fɔːm
 ---

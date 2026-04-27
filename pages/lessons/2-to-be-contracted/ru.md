@@ -3,8 +3,8 @@ type: lesson
 description: Глагол to be часто используется в сокращённых формах.
 hideHelp: true
 morphology:
-  - contraction.contraction
-  - contraction.expansion
+  - contraction.short
+  - contraction.full
 ---
 
 # 2. Я счастлив, а ты сильный

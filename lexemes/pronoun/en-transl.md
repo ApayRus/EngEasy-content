@@ -21,4 +21,4 @@ hiː | hɪm | hɪz | hɪz | hɪmˈself
 ʃiː | hɜː | hɜː | hɜːz | hɜːˈself
 ɪt | ɪt | ɪts | ɪts | ɪtˈself
 wiː | ʌs | aʊə | aʊəz | aʊəˈselvz
-ðeɪ | ðɛm | ðeə | ðeəz | ðɛmˈselvz
+ðeɪ | ðem | ðeə | ðeəz | ðəmˈselvz
