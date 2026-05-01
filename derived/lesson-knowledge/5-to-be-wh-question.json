@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-04-30T22:28:35.555Z",
+  "lesson": 5,
+  "slug": "5-to-be-wh-question",
+  "sourceFile": "content/pages/lessons/5-to-be-wh-question/en.md",
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "verbBe.present.question.wh"
+      ],
+      "morphology": [
+        "questionWord.base",
+        "article.base",
+        "noun.singular"
+      ]
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.affirmative",
+        "verbBe.present.question",
+        "verbBe.present.negative",
+        "verbBe.present.question.negative",
+        "verbBe.present.question.negative.contracted",
+        "verbBe.present.question.wh"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject",
+        "contraction.short",
+        "contraction.full",
+        "fixedAdverb.base",
+        "questionWord.base",
+        "article.base",
+        "noun.singular"
+      ]
+    }
+  }
+}

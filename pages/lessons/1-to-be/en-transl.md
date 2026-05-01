@@ -1,13 +1,36 @@
 ---
 type: lesson
-image:
-description:
+description: vɜːb biː beɪs fɔːm. ˈædʒɪktɪv beɪs fɔːm. ˈpɜːsənəl ˈprəʊnaʊn ˈsʌbdʒɪkt fɔːm. ˈprɛzənt ˈsɪmpəl əˈfɜːmətɪv.
 hideHelp: true
+morphology:
+  - verbBe.base
+  - verbBe.present.singular.first
+  - verbBe.present.singular.second
+  - verbBe.present.singular.third
+  - verbBe.present.plural
+  - adjective.base
+  - pronoun.subject
+grammar:
+  - verbBe.present.affirmative
 ---
 
-# 1. I am big, you are small (to be)
+# 1. aɪ æm bɪɡ, juː ɑː smɔːl
 
-## Personal pronouns and verb to be {new}
+## ˈpɜːsənəl ˈprəʊnaʊnz {new|pronoun}
+
+aɪ
+juː
+hiː
+ʃiː
+ɪt
+wiː
+ðeɪ
+
+## vɜːb tuː biː {new|verbBe}
+
+biː
+
+## ˈbeɪsɪk ˈpætənz {new}
 
 aɪ æm
 juː ɑː
@@ -17,105 +40,25 @@ hiː ɪz
 wiː ɑː
 ðeɪ ɑː
 
-## Contracted forms {new}
-
-aɪm
-jɔː
-hiːz
-ʃiːz
-ɪts
-wɪə
-ðeə
-
-## Words {new}
+## ˈædʒɪktɪvz {new|adjective}
 
 bɪɡ
 smɔːl
-tɔːl
-ʃɔːt
-ɡʊd
-bæd
-hɒt
-kəʊld
-əʊld
-jʌŋ
 
-## Sentences
+## ˈsɛntənsɪz
 
 aɪ æm bɪɡ
-aɪm bɪɡ
-ʃiː ɪz smɔːl
-ʃiːz smɔːl
-wiː ɑː tɔːl
-wɪə tɔːl
-hiː ɪz ʃɔːt
-hiːz ʃɔːt
-ðeɪ ɑː ɡʊd
-ðeə ɡʊd
-juː ɑː bæd
-jɔː bæd
-
-ɪt ɪz hɒt
-aɪ æm kəʊld
-ʃiː ɪz əʊld
-wiː ɑː jʌŋ
-hiː ɪz bɪɡ
-ðeɪ ɑː smɔːl
-juː ɑː tɔːl
-ɪt ɪz ʃɔːt
-aɪ æm ɡʊd
-ʃiː ɪz bæd
-wiː ɑː hɒt
-hiː ɪz kəʊld
-ðeɪ ɑː əʊld
-juː ɑː jʌŋ
-ɪt ɪz bɪɡ
-aɪ æm smɔːl
-ʃiː ɪz tɔːl
-wiː ɑː ʃɔːt
-hiː ɪz ɡʊd
-ðeɪ ɑː bæd
-juː ɑː hɒt
-ɪt ɪz kəʊld
-aɪ æm əʊld
-ʃiː ɪz jʌŋ
-wiː ɑː bɪɡ
-hiː ɪz smɔːl
-ðeɪ ɑː tɔːl
-juː ɑː ʃɔːt
-ɪt ɪz ɡʊd
-aɪ æm bæd
-ʃiː ɪz hɒt
-wiː ɑː kəʊld
-hiː ɪz əʊld
-ðeɪ ɑː jʌŋ
-juː ɑː bɪɡ
-ɪt ɪz smɔːl
-aɪ æm tɔːl
-ʃiː ɪz ʃɔːt
-wiː ɑː ɡʊd
-hiː ɪz bæd
-ðeɪ ɑː hɒt
-juː ɑː kəʊld
-ɪt ɪz əʊld
-aɪ æm jʌŋ
-ʃiː ɪz bɪɡ
-wiː ɑː smɔːl
-hiː ɪz tɔːl
-ðeɪ ɑː ʃɔːt
-juː ɑː ɡʊd
-ɪt ɪz bæd
-aɪ æm hɒt
-ʃiː ɪz kəʊld
-wiː ɑː əʊld
-hiː ɪz jʌŋ
-ðeɪ ɑː bɪɡ
 juː ɑː smɔːl
-ɪt ɪz tɔːl
-aɪ æm ʃɔːt
-ʃiː ɪz ɡʊd
-wiː ɑː bæd
-hiː ɪz hɒt
-ðeɪ ɑː kəʊld
-juː ɑː əʊld
-ɪt ɪz jʌŋ
+hiː ɪz bɪɡ
+ʃiː ɪz smɔːl
+ɪt ɪz bɪɡ
+wiː ɑː smɔːl
+ðeɪ ɑː bɪɡ
+
+aɪ æm smɔːl
+juː ɑː bɪɡ
+hiː ɪz smɔːl
+ʃiː ɪz bɪɡ
+ɪt ɪz smɔːl
+wiː ɑː bɪɡ
+ðeɪ ɑː smɔːl

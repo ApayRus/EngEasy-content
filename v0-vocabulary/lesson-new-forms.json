@@ -1,0 +1,44 @@
+[
+  {
+    "lesson": 1,
+    "wordForms": [
+      "pronoun.subject",
+      "adjective.base",
+      "contraction.contraction",
+      "contraction.expansion"
+    ]
+  },
+  {
+    "lesson": 4,
+    "wordForms": ["article", "questionWord", "noun.singular"]
+  },
+
+  {
+    "lesson": 5,
+    "wordForms": ["demonstrative.singular"]
+  },
+  {
+    "lesson": 6,
+    "wordForms": ["preposition"]
+  },
+  {
+    "lesson": 7,
+    "wordForms": ["pronoun.possessiveAdjective"]
+  },
+  {
+    "lesson": 8,
+    "wordForms": ["numeral.cardinal", "noun.plural", "demonstrative.plural"]
+  },
+  {
+    "lesson": 9,
+    "wordForms": ["verb.base", "verb.present-3rd", "conjunction"]
+  },
+  {
+    "lesson": 11,
+    "wordForms": ["adverb.base"]
+  },
+  {
+    "lesson": 33,
+    "wordForms": ["verb.past"]
+  }
+]

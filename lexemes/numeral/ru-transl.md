@@ -1,0 +1,8 @@
+---
+name: ˈнйуːмəрəл
+forms:
+  - id: cardinal
+    name: ˈкаːдинəл фоːм
+  - id: ordinal
+    name: ˈоːдинəл фоːм
+---
