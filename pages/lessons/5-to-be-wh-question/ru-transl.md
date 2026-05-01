@@ -10,17 +10,17 @@ grammar:
   - verbBe.present.question.wh
 ---
 
-# 5. wɒt ɪz ɪt? ɪt ɪz ə haʊs.
+# 5. вот из ит? ит из ə хаус.
 
-## ˈkwestʃən wɜːdz {new|questionWord}
+## ˈквесчəн вёːдз {new|questionWord}
 
 вот
 
-## ˈɑːtɪkəlz {new|article}
+## ˈаːтикəлз {new|article}
 
 ə
 
-## naʊnz {new|noun}
+## наунз {new|noun}
 
 хаус
 доː
@@ -32,7 +32,7 @@ grammar:
 чеə
 руːм
 
-## ˈkwestʃənz
+## ˈквесчəнз
 
 вот из ит?
 ит из ə хаус.
@@ -54,7 +54,7 @@ grammar:
 из ит ə флоː?
 ит из нот ə флоː.
 
-## ˈpræktɪs
+## ˈпряктис
 
 вот из ит?
 ит из ə руːм.

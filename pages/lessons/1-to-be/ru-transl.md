@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: бэйс форм глагола биː. бэйс форм эджиктива. пёрсэнэл проунаун сабджикт форм. презент симпл эфёрмэтив.
+description: vɜːb biː beɪs fɔːm. ˈædʒɪktɪv beɪs fɔːm. ˈpɜːsənəl ˈprəʊnaʊn ˈsʌbdʒɪkt fɔːm. ˈprɛzənt ˈsɪmpəl əˈfɜːmətɪv.
 hideHelp: true
 morphology:
   - verbBe.base
@@ -16,7 +16,7 @@ grammar:
 
 # 1. ай ям биг, йуː аː смоːл
 
-## ˈpɜːsənəl ˈprəʊnaʊnz {new|pronoun}
+## ˈпёːсəнəл ˈпрəунаунз {new|pronoun}
 
 ай
 йуː
@@ -26,11 +26,11 @@ grammar:
 виː
 з̣ей
 
-## vɜːb tuː biː {new|verbBe}
+## вёːб туː биː {new|verbBe}
 
 биː
 
-## ˈbeɪsɪk ˈpætənz {new}
+## ˈбейсик ˈпятəнз {new}
 
 ай ям
 йуː аː
@@ -40,12 +40,12 @@ grammar:
 виː аː
 з̣ей аː
 
-## ˈædʒɪktɪvz {new|adjective}
+## ˈяджиктивз {new|adjective}
 
 биг
 смоːл
 
-## ˈsɛntənsɪz
+## ˈсэнтəнсиз
 
 ай ям биг
 йуː аː смоːл

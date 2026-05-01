@@ -8,9 +8,9 @@ grammar:
   - verbBe.present.question
 ---
 
-# 3. ɑː juː ˈbɪzi? ɪz hiː ˈredi?
+# 3. аː йуː ˈбизи? из хиː ˈреди?
 
-## ˈkwestʃən ˈpætənz {new}
+## ˈквесчəн ˈпятəнз {new}
 
 ям ай
 аː йуː
@@ -20,7 +20,7 @@ grammar:
 аː виː
 аː з̣ей
 
-## ˈædʒɪktɪvz {new|adjective}
+## ˈяджиктивз {new|adjective}
 
 ˈбизи
 ˈреди
@@ -31,12 +31,12 @@ grammar:
 ˈтайəд
 ˈхан̣гри
 
-## fɪkst ˈædvɜːbz {new|fixedAdverb}
+## фикст ˈядвёːбз {new|fixedAdverb}
 
 хиə
 з̣еə
 
-## ˈkwestʃənz
+## ˈквесчəнз
 
 ям ай ˈбизи?
 аː йуː ˈреди?
@@ -60,7 +60,7 @@ grammar:
 аː йуː ˈтайəд?
 из хиː ˈхан̣гри?
 
-## ˈpræktɪs
+## ˈпряктис
 
 ям ай ˈхан̣гри?
 аː йуː ˈёːли?

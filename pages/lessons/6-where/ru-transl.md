@@ -11,23 +11,23 @@ grammar:
   - verbBe.present.question.wh.where
 ---
 
-# 6. weə ɪz ðə fəʊn?
+# 6. веə из з̣ə фəун?
 
-## ˈkwestʃən wɜːdz {new|questionWord}
+## ˈквесчəн вёːдз {new|questionWord}
 
 веə
 
-## ˈɑːtɪkəlz {new|article}
+## ˈаːтикəлз {new|article}
 
 з̣ə
 
-## ˌprepəˈzɪʃənz {new|preposition}
+## ˌпрепəˈзишəнз {new|preposition}
 
 он
 ин
 ˈандə
 
-## naʊnz {new|noun}
+## наунз {new|noun}
 
 бокс
 бяг
@@ -35,7 +35,7 @@ grammar:
 киː
 фəун
 
-## ˈkwestʃənz
+## ˈквесчəнз
 
 веə из з̣ə фəун?
 з̣ə фəун из он з̣ə ˈтейбəл.
@@ -49,7 +49,7 @@ grammar:
 веə из з̣ə бокс?
 з̣ə бокс из ˈандə з̣ə ˈтейбəл.
 
-## ˈpræktɪs
+## ˈпряктис
 
 веə из з̣ə бяг?
 з̣ə бяг из он з̣ə флоː.
