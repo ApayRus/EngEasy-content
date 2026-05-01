@@ -5,7 +5,7 @@ hideHelp: true
 morphology:
   - fixedAdverb.base
 grammar:
-  - PresentSimpleToBeQuestion
+  - verbBe.present.question
 ---
 
 # 3. Ты занят? Он готов?

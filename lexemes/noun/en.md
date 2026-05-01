@@ -18,3 +18,11 @@ wall | walls
 table | tables
 chair | chairs
 room | rooms
+
+# 6
+
+box | boxes
+bag | bags
+book | books
+key | keys
+phone | phones

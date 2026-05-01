@@ -1,6 +1,6 @@
 ---
 name: verb
-forms: base, present-3rd, past, pp, gerund
+forms: base, present.singular.third, past, participle.past, participle.present
 ---
 
 # 9

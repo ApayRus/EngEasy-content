@@ -5,7 +5,7 @@ hideHelp: true
 morphology:
   - fixedAdverb.base
 grammar:
-  - PresentSimpleToBeQuestion
+  - verbBe.present.question
 ---
 
 # 3. Are you busy? Is he ready?

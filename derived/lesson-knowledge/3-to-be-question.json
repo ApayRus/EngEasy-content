@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-04-30T22:28:35.555Z",
+  "lesson": 3,
+  "slug": "3-to-be-question",
+  "sourceFile": "content/pages/lessons/3-to-be-question/en.md",
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "verbBe.present.question"
+      ],
+      "morphology": [
+        "fixedAdverb.base"
+      ]
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.affirmative",
+        "verbBe.present.question"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject",
+        "contraction.short",
+        "contraction.full",
+        "fixedAdverb.base"
+      ]
+    }
+  }
+}

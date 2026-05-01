@@ -4,14 +4,14 @@ description: бэйс форм глагола биː. бэйс форм эджи
 hideHelp: true
 morphology:
   - verbBe.base
-  - verbBe.presentFirstSingular
-  - verbBe.presentSecondSingular
-  - verbBe.presentThirdSingular
-  - verbBe.presentPlural
+  - verbBe.present.singular.first
+  - verbBe.present.singular.second
+  - verbBe.present.singular.third
+  - verbBe.present.plural
   - adjective.base
   - pronoun.subject
 grammar:
-  - PresentSimpleToBeAffirmative
+  - verbBe.present.affirmative
 ---
 
 # 1. ай ям биг, йуː аː смоːл

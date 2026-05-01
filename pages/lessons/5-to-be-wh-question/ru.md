@@ -7,7 +7,7 @@ morphology:
   - article.base
   - noun.singular
 grammar:
-  - PresentSimpleToBeWhQuestion
+  - verbBe.present.question.wh
 ---
 
 # 5. Что это? Это дом.
@@ -18,7 +18,7 @@ grammar:
 
 ## Артикли {new|article}
 
-артикль a
+неопределенный артикль (какой-то, некий, один из)
 
 ## Существительные {new|noun}
 
@@ -70,5 +70,5 @@ grammar:
 
 Это большой дом.
 Это маленькая комната.
-Это старая стена.
+Это новая стена.
 Это новый стул.

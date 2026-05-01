@@ -4,14 +4,14 @@ description: Verb to be base form. Adjective base form. Personal pronoun subject
 hideHelp: true
 morphology:
   - verbBe.base
-  - verbBe.presentFirstSingular
-  - verbBe.presentSecondSingular
-  - verbBe.presentThirdSingular
-  - verbBe.presentPlural
+  - verbBe.present.singular.first
+  - verbBe.present.singular.second
+  - verbBe.present.singular.third
+  - verbBe.present.plural
   - adjective.base
   - pronoun.subject
 grammar:
-  - PresentSimpleToBeAffirmative
+  - verbBe.present.affirmative
 ---
 
 # 1. I am big, you are small

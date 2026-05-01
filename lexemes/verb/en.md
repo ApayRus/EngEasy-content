@@ -3,12 +3,12 @@ name: verb
 forms:
   - id: base
     name: base form
-  - id: thirdPersonSingularPresent
-    name: third person singular present
+  - id: present.singular.third
+    name: present, singular, third person
   - id: past
     name: past form
-  - id: pastParticiple
+  - id: participle.past
     name: past participle
-  - id: gerund
-    name: gerund
+  - id: participle.present
+    name: present participle
 ---

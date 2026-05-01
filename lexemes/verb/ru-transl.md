@@ -3,12 +3,12 @@ name: вёːб
 forms:
   - id: base
     name: бейс фоːм
-  - id: thirdPersonSingularPresent
-    name: с̣ёːд ˈпёːсəн ˈсин̣гйəлə ˈпрезəнт
+  - id: present.singular.third
+    name: ˈпрезəнт, ˈсин̣гйəлə, с̣ёːд ˈпёːсəн
   - id: past
     name: паːст фоːм
-  - id: pastParticiple
+  - id: participle.past
     name: паːст паːˈтисипəл
-  - id: gerund
-    name: ˈджерəнд
+  - id: participle.present
+    name: ˈпрезəнт паːˈтисипəл
 ---

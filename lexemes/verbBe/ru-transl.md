@@ -3,24 +3,24 @@ name: биː вёːб
 forms:
   - id: base
     name: бейс фоːм
-  - id: presentFirstSingular
-    name: ˈпрезəнт, фёːст ˈпёːсəн ˈсин̣гйəлə
-  - id: presentSecondSingular
-    name: ˈпрезəнт, ˈсекəнд ˈпёːсəн ˈсин̣гйəлə
-  - id: presentThirdSingular
-    name: ˈпрезəнт, с̣ёːд ˈпёːсəн ˈсин̣гйəлə
-  - id: presentPlural
+  - id: present.singular.first
+    name: ˈпрезəнт, ˈсин̣гйəлə, фёːст ˈпёːсəн
+  - id: present.singular.second
+    name: ˈпрезəнт, ˈсин̣гйəлə, ˈсекəнд ˈпёːсəн
+  - id: present.singular.third
+    name: ˈпрезəнт, ˈсин̣гйəлə, с̣ёːд ˈпёːсəн
+  - id: present.plural
     name: ˈпрезəнт, ˈплуəрəл
-  - id: pastFirstThirdSingular
-    name: паːст, фёːст янд с̣ёːд ˈпёːсəн ˈсин̣гйəлə
-  - id: pastSecondSingular
-    name: паːст, ˈсекəнд ˈпёːсəн ˈсин̣гйəлə
-  - id: pastPlural
+  - id: past.singular.firstThird
+    name: паːст, ˈсин̣гйəлə, фёːст янд с̣ёːд ˈпёːсəн
+  - id: past.singular.second
+    name: паːст, ˈсин̣гйəлə, ˈсекəнд ˈпёːсəн
+  - id: past.plural
     name: паːст, ˈплуəрəл
-  - id: pastParticiple
+  - id: participle.past
     name: паːст паːˈтисипəл
-  - id: gerund
-    name: ˈджерəнд
+  - id: participle.present
+    name: ˈпрезəнт паːˈтисипəл
 ---
 
 # 1

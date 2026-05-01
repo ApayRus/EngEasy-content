@@ -3,12 +3,12 @@ name: глагол
 forms:
   - id: base
     name: базовая форма
-  - id: thirdPersonSingularPresent
-    name: форма настоящего времени для третьего лица единственного числа
+  - id: present.singular.third
+    name: форма настоящего времени единственного числа для третьего лица
   - id: past
     name: форма прошедшего времени
-  - id: pastParticiple
+  - id: participle.past
     name: причастие прошедшего времени
-  - id: gerund
-    name: герундий
+  - id: participle.present
+    name: причастие настоящего времени
 ---

@@ -1,5 +1,5 @@
 ---
-forms: base, 1st-sg, 2nd-sg, 3rd-sg, plural, past-1st/3rd, past-2nd/pl, pp, gerund
+forms: base, present.singular.first, present.singular.second, present.singular.third, present.plural, past.singular.firstThird, past.secondOrPlural, participle.past, participle.present
 ---
 
 # 1

@@ -7,7 +7,7 @@ morphology:
   - article.base
   - noun.singular
 grammar:
-  - PresentSimpleToBeWhQuestion
+  - verbBe.present.question.wh
 ---
 
 # 5. wɒt ɪz ɪt? ɪt ɪz ə haʊs.
@@ -70,5 +70,5 @@ wɒt ɪz ɪt?
 
 ɪt ɪz ə bɪɡ haʊs.
 ɪt ɪz ə smɔːl ruːm.
-ɪt ɪz ən əʊld wɔːl.
+ɪt ɪz ə njuː wɔːl.
 ɪt ɪz ə njuː tʃeə.

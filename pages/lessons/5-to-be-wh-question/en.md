@@ -7,7 +7,7 @@ morphology:
   - article.base
   - noun.singular
 grammar:
-  - PresentSimpleToBeWhQuestion
+  - verbBe.present.question.wh
 ---
 
 # 5. What is it? It is a house.
@@ -70,5 +70,5 @@ It is a ceiling.
 
 It is a big house.
 It is a small room.
-It is an old wall.
+It is a new wall.
 It is a new chair.

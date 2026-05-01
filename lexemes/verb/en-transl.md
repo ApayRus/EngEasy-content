@@ -3,12 +3,12 @@ name: vɜːb
 forms:
   - id: base
     name: beɪs fɔːm
-  - id: thirdPersonSingularPresent
-    name: θɜːd ˈpɜːsən ˈsɪŋɡjələ ˈprezənt
+  - id: present.singular.third
+    name: ˈprezənt, ˈsɪŋɡjələ, θɜːd ˈpɜːsən
   - id: past
     name: pɑːst fɔːm
-  - id: pastParticiple
+  - id: participle.past
     name: pɑːst pɑːˈtɪsɪpəl
-  - id: gerund
-    name: ˈdʒerənd
+  - id: participle.present
+    name: ˈprezənt pɑːˈtɪsɪpəl
 ---

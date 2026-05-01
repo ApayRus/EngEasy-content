@@ -3,9 +3,9 @@ type: lesson
 description: Present Simple отрицание с глаголом to be.
 hideHelp: true
 grammar:
-  - PresentSimpleToBeNegative
-  - PresentSimpleToBeNegativeQuestion
-  - PresentSimpleToBeNegativeQuestionContracted
+  - verbBe.present.negative
+  - verbBe.present.question.negative
+  - verbBe.present.question.negative.contracted
 ---
 
 # 4. Я не злой. Она не в порядке.

@@ -3,24 +3,24 @@ name: глагол be
 forms:
   - id: base
     name: базовая форма
-  - id: presentFirstSingular
-    name: форма настоящего времени для первого лица единственного числа
-  - id: presentSecondSingular
-    name: форма настоящего времени для второго лица единственного числа
-  - id: presentThirdSingular
-    name: форма настоящего времени для третьего лица единственного числа
-  - id: presentPlural
-    name: форма настоящего времени для множественного числа
-  - id: pastFirstThirdSingular
-    name: форма прошедшего времени для первого и третьего лица единственного числа
-  - id: pastSecondSingular
-    name: форма прошедшего времени для второго лица единственного числа
-  - id: pastPlural
-    name: форма прошедшего времени для множественного числа
-  - id: pastParticiple
+  - id: present.singular.first
+    name: форма настоящего времени единственного числа для первого лица
+  - id: present.singular.second
+    name: форма настоящего времени единственного числа для второго лица
+  - id: present.singular.third
+    name: форма настоящего времени единственного числа для третьего лица
+  - id: present.plural
+    name: форма настоящего времени множественного числа
+  - id: past.singular.firstThird
+    name: форма прошедшего времени единственного числа для первого и третьего лица
+  - id: past.singular.second
+    name: форма прошедшего времени единственного числа для второго лица
+  - id: past.plural
+    name: форма прошедшего времени множественного числа
+  - id: participle.past
     name: причастие прошедшего времени
-  - id: gerund
-    name: герундий
+  - id: participle.present
+    name: причастие настоящего времени
 ---
 
 # 1

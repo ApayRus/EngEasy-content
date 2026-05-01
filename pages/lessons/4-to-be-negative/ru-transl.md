@@ -3,9 +3,9 @@ type: lesson
 description: ˈprezənt ˈsɪmpəl ˈneɡətɪv wɪð ðə vɜːb tuː biː.
 hideHelp: true
 grammar:
-  - PresentSimpleToBeNegative
-  - PresentSimpleToBeNegativeQuestion
-  - PresentSimpleToBeNegativeQuestionContracted
+  - verbBe.present.negative
+  - verbBe.present.question.negative
+  - verbBe.present.question.negative.contracted
 ---
 
 # 4. aɪ æm nɒt ˈæŋɡri. ʃiː ɪz nɒt faɪn.

@@ -18,3 +18,11 @@ wɔːl | wɔːlz
 ˈteɪbəl | ˈteɪbəlz
 tʃeə | tʃeəz
 ruːm | ruːmz
+
+# 6
+
+bɒks | ˈbɒksɪz
+bæɡ | bæɡz
+bʊk | bʊks
+kiː | kiːz
+fəʊn | fəʊnz

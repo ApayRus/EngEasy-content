@@ -3,24 +3,24 @@ name: biː vɜːb
 forms:
   - id: base
     name: beɪs fɔːm
-  - id: presentFirstSingular
-    name: ˈprezənt, fɜːst ˈpɜːsən ˈsɪŋɡjələ
-  - id: presentSecondSingular
-    name: ˈprezənt, ˈsekənd ˈpɜːsən ˈsɪŋɡjələ
-  - id: presentThirdSingular
-    name: ˈprezənt, θɜːd ˈpɜːsən ˈsɪŋɡjələ
-  - id: presentPlural
+  - id: present.singular.first
+    name: ˈprezənt, ˈsɪŋɡjələ, fɜːst ˈpɜːsən
+  - id: present.singular.second
+    name: ˈprezənt, ˈsɪŋɡjələ, ˈsekənd ˈpɜːsən
+  - id: present.singular.third
+    name: ˈprezənt, ˈsɪŋɡjələ, θɜːd ˈpɜːsən
+  - id: present.plural
     name: ˈprezənt, ˈplʊərəl
-  - id: pastFirstThirdSingular
-    name: pɑːst, fɜːst ænd θɜːd ˈpɜːsən ˈsɪŋɡjələ
-  - id: pastSecondSingular
-    name: pɑːst, ˈsekənd ˈpɜːsən ˈsɪŋɡjələ
-  - id: pastPlural
+  - id: past.singular.firstThird
+    name: pɑːst, ˈsɪŋɡjələ, fɜːst ænd θɜːd ˈpɜːsən
+  - id: past.singular.second
+    name: pɑːst, ˈsɪŋɡjələ, ˈsekənd ˈpɜːsən
+  - id: past.plural
     name: pɑːst, ˈplʊərəl
-  - id: pastParticiple
+  - id: participle.past
     name: pɑːst pɑːˈtɪsɪpəl
-  - id: gerund
-    name: ˈdʒerənd
+  - id: participle.present
+    name: ˈprezənt pɑːˈtɪsɪpəl
 ---
 
 # 1

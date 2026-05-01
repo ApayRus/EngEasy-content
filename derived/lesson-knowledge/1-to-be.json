@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-04-30T22:28:35.553Z",
+  "lesson": 1,
+  "slug": "1-to-be",
+  "sourceFile": "content/pages/lessons/1-to-be/en.md",
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "verbBe.present.affirmative"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject"
+      ]
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.affirmative"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject"
+      ]
+    }
+  }
+}

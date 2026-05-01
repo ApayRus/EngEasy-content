@@ -3,24 +3,24 @@ name: be verb
 forms:
   - id: base
     name: base form
-  - id: presentFirstSingular
-    name: present, first person singular
-  - id: presentSecondSingular
-    name: present, second person singular
-  - id: presentThirdSingular
-    name: present, third person singular
-  - id: presentPlural
+  - id: present.singular.first
+    name: present, singular, first person
+  - id: present.singular.second
+    name: present, singular, second person
+  - id: present.singular.third
+    name: present, singular, third person
+  - id: present.plural
     name: present, plural
-  - id: pastFirstThirdSingular
-    name: past, first and third person singular
-  - id: pastSecondSingular
-    name: past, second person singular
-  - id: pastPlural
+  - id: past.singular.firstThird
+    name: past, singular, first and third person
+  - id: past.singular.second
+    name: past, singular, second person
+  - id: past.plural
     name: past, plural
-  - id: pastParticiple
+  - id: participle.past
     name: past participle
-  - id: gerund
-    name: gerund
+  - id: participle.present
+    name: present participle
 ---
 
 # 1

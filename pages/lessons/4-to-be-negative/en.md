@@ -3,9 +3,9 @@ type: lesson
 description: Present Simple negative with the verb to be.
 hideHelp: true
 grammar:
-  - PresentSimpleToBeNegative
-  - PresentSimpleToBeNegativeQuestion
-  - PresentSimpleToBeNegativeQuestionContracted
+  - verbBe.present.negative
+  - verbBe.present.question.negative
+  - verbBe.present.question.negative.contracted
 ---
 
 # 4. I am not angry. She is not fine.
