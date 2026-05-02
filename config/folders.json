@@ -1,27 +1,28 @@
 [
-	{
-		"slug": "info",
-		"ru": "Информация",
-		"en": "Info"
-	},
-	{
-		"slug": "lessons",
-		"ru": "Уроки",
-		"en": "Lessons",
-		"vocabularyFolder": "vocabulary",
-		"vocabularyFormat": "v1"
-	},
-	{
-		"slug": "topics",
-		"ru": "Диалоги на разные темы",
-		"en": "Dialogues on various topics"
-	},
-	{
-		"slug": "v0-lessons",
-		"ru": "Старые уроки v0",
-		"en": "Old v0 Lessons",
-		"homeView": "link",
-		"vocabularyFolder": "v0-vocabulary",
-		"vocabularyFormat": "v0"
-	}
+  {
+    "slug": "lessons",
+    "ru": "Уроки",
+    "en": "Lessons",
+    "vocabularyFolder": "vocabulary",
+    "vocabularyFormat": "v1"
+  },
+  {
+    "slug": "topics",
+    "ru": "Диалоги на разные темы",
+    "en": "Dialogues on various topics"
+  },
+  {
+    "slug": "info",
+    "ru": "Информация",
+    "en": "Info"
+  },
+
+  {
+    "slug": "v0-lessons",
+    "ru": "Старые уроки v0",
+    "en": "Old v0 Lessons",
+    "homeView": "link",
+    "vocabularyFolder": "v0-vocabulary",
+    "vocabularyFormat": "v0"
+  }
 ]
