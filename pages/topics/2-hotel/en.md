@@ -2,7 +2,6 @@
 type: lesson
 image: images/content/hotel.png
 description: Learn hotel vocabulary and common phrases for hotel check-in, asking about services, and making requests
-hideHelp: true
 ---
 
 # At the Hotel

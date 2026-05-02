@@ -2,7 +2,6 @@
 type: lesson
 image: images/content/taxi.png
 description: Learn vocabulary and phrases for taking a taxi, including dialogues with a dispatcher and taxi driver
-hideHelp: true
 ---
 
 # Taking a Taxi
