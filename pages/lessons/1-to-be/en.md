@@ -30,7 +30,7 @@ they
 
 be
 
-## Basic patterns {new}
+## Forms of the verb to be {new}
 
 I am
 you are

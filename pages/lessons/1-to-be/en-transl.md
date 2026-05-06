@@ -30,7 +30,7 @@ wiː
 
 biː
 
-## ˈbeɪsɪk ˈpætənz {new}
+## fɔːmz əv ðə vɜːb tuː biː {new}
 
 aɪ æm
 juː ɑː
