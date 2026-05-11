@@ -41,6 +41,7 @@ tired
 hungry
 here
 there
+yes
 
 # 4
 kind
@@ -54,3 +55,4 @@ free
 fine
 aren't | are not
 isn't | is not
+no

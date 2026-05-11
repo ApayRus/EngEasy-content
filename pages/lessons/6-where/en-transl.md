@@ -1,21 +1,22 @@
 ---
 type: lesson
-description: vɜːb tuː biː ˈprezənt wiː ˈkwestʃən wɪð weə. ˈkwestʃən wɜːd beɪs fɔːm. ˈɑːtɪkəl beɪs fɔːm. ˌprepəˈzɪʃən beɪs fɔːm. naʊn ˈsɪŋɡjələ fɔːm.
+description: vɜːb tuː biː ˈprezənt wiː ˈkwestʃən wɪð weə. ˌprepəˈzɪʃən beɪs fɔːm.
 hideHelp: true
 morphology:
-  - questionWord.base
-  - article.base
   - preposition.base
-  - noun.singular
 grammar:
   - verbBe.present.question.wh.where
 ---
 
-# 6. weə ɪz ðə fəʊn?
+# 6. weəz ðə fəʊn?
 
 ## ˈkwestʃən wɜːdz {new|questionWord}
 
 weə
+
+## ʃɔːt fɔːmz {new|contraction}
+
+weəz = weər ɪz
 
 ## ˈɑːtɪkəlz {new|article}
 
@@ -38,29 +39,30 @@ fəʊn
 ## ˈkwestʃənz
 
 weə ɪz ðə fəʊn?
+weəz ðə fəʊn?
 ðə fəʊn ɪz ɒn ðə ˈteɪbəl.
 
-weə ɪz ðə kiː?
+weəz ðə kiː?
 ðə kiː ɪz ɪn ðə bæɡ.
 
-weə ɪz ðə bʊk?
+weəz ðə bʊk?
 ðə bʊk ɪz ɒn ðə tʃeə.
 
-weə ɪz ðə bɒks?
+weəz ðə bɒks?
 ðə bɒks ɪz ˈʌndə ðə ˈteɪbəl.
 
 ## ˈpræktɪs
 
-weə ɪz ðə bæɡ?
+weəz ðə bæɡ?
 ðə bæɡ ɪz ɒn ðə flɔː.
 
-weə ɪz ðə fəʊn?
+weəz ðə fəʊn?
 ðə fəʊn ɪz ɪn ðə bɒks.
 
-weə ɪz ðə kiː?
+weəz ðə kiː?
 ðə kiː ɪz ˈʌndə ðə tʃeə.
 
-weə ɪz ðə bʊk?
+weəz ðə bʊk?
 ðə bʊk ɪz ɪn ðə ruːm.
 
 ðə bɒks ɪz ɪn ðə ruːm.

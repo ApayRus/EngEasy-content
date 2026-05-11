@@ -1,20 +1,17 @@
 ---
 type: lesson
-description: ˈprezənt ˈsɪmpəl wiː kjuː ˈkwestʃən wɪð ðə vɜːb tuː biː. ˈkwestʃən wɜːd beɪs fɔːm. ˈɑːtɪkəl beɪs fɔːm. naʊn ˈsɪŋɡjələ fɔːm.
+description: ˈprezənt ˈsɪmpəl wiː kjuː ˈkwestʃən wɪð ðə vɜːb tuː biː. ˈkwestʃən wɜːd beɪs fɔːm. ˈɑːtɪkəl beɪs fɔːm. naʊn ˈsɪŋɡjələ fɔːm. dɪˈmɒnstrətɪv ˈsɪŋɡjələ fɔːm.
 hideHelp: true
 morphology:
   - questionWord.base
   - article.base
   - noun.singular
+  - demonstrative.singular
 grammar:
   - verbBe.present.question.wh
 ---
 
-# 5. wɒt ɪz ɪt? ɪt ɪz ə haʊs.
-
-## ˈkwestʃən wɜːdz {new|questionWord}
-
-wɒt
+# 5. wɒts ðɪs? ðæts ə ˈteɪbəl.
 
 ## ˈɑːtɪkəlz {new|article}
 
@@ -32,43 +29,80 @@ wɔːl
 tʃeə
 ruːm
 
+## dɪˈmɒnstrətɪvz {new|demonstrative}
+
+ðɪs
+ðæt
+
+## ˈkwestʃən wɜːdz {new|questionWord}
+
+wɒt
+
+## ʃɔːt fɔːmz {new|contraction}
+
+wɒts = wɒt ɪz
+ðæts = ðæt ɪz
+
 ## ˈkwestʃənz
 
 wɒt ɪz ɪt?
+wɒts ɪt?
 ɪt ɪz ə haʊs.
+ɪts ə haʊs.
 ɪz ɪt ə ruːm?
-ɪt ɪz nɒt ə ruːm.
+ɪts nɒt ə ruːm.
 
-wɒt ɪz ɪt?
-ɪt ɪz ə dɔː.
+wɒts ɪt?
+ɪts ə dɔː.
 ɪz ɪt ə ˈwɪndəʊ?
-ɪt ɪz nɒt ə ˈwɪndəʊ.
+ɪts nɒt ə ˈwɪndəʊ.
 
-wɒt ɪz ɪt?
-ɪt ɪz ə ˈteɪbəl.
+wɒts ɪt?
+ɪts ə ˈteɪbəl.
 ɪz ɪt ə tʃeə?
-ɪt ɪz nɒt ə tʃeə.
+ɪts nɒt ə tʃeə.
 
-wɒt ɪz ɪt?
-ɪt ɪz ə wɔːl.
+wɒts ɪt?
+ɪts ə wɔːl.
 ɪz ɪt ə flɔː?
-ɪt ɪz nɒt ə flɔː.
+ɪts nɒt ə flɔː.
+
+wɒts ðɪs?
+ðɪs ɪz ə ruːm.
+ɪz ðɪs ə ruːm?
+ɪts nɒt ə haʊs.
+wɒts ðæt?
+ðæts ə ˈteɪbəl.
+ɪz ðæt ə ˈteɪbəl?
+ɪts nɒt ə tʃeə.
 
 ## ˈpræktɪs
 
-wɒt ɪz ɪt?
-ɪt ɪz ə ruːm.
+wɒts ɪt?
+ɪts ə ruːm.
 
-wɒt ɪz ɪt?
-ɪt ɪz ə tʃeə.
+wɒts ɪt?
+ɪts ə tʃeə.
 
-wɒt ɪz ɪt?
-ɪt ɪz ə ˈwɪndəʊ.
+wɒts ɪt?
+ɪts ə ˈwɪndəʊ.
 
-wɒt ɪz ɪt?
-ɪt ɪz ə ˈsiːlɪŋ.
+wɒts ɪt?
+ɪts ə ˈsiːlɪŋ.
 
-ɪt ɪz ə bɪɡ haʊs.
-ɪt ɪz ə smɔːl ruːm.
-ɪt ɪz ə njuː wɔːl.
-ɪt ɪz ə njuː tʃeə.
+wɒts ðɪs?
+ðɪs ɪz ə ˈwɪndəʊ.
+
+wɒts ðæt?
+ðæts ə dɔː.
+
+ɪz ðɪs ə wɔːl?
+ɪts nɒt ə flɔː.
+
+ɪz ðæt ə haʊs?
+ɪts nɒt ə ruːm.
+
+ɪts ə bɪɡ haʊs.
+ɪts ə smɔːl ruːm.
+ɪts ə njuː wɔːl.
+ɪts ə njuː tʃeə.

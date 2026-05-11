@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T22:28:35.555Z",
+  "generatedAt": "2026-05-11T08:36:44.599Z",
   "lesson": 3,
   "slug": "3-to-be-question",
   "sourceFile": "content/pages/lessons/3-to-be-question/en.md",
@@ -9,7 +9,8 @@
         "verbBe.present.question"
       ],
       "morphology": [
-        "fixedAdverb.base"
+        "fixedAdverb.base",
+        "interjection.base"
       ]
     },
     "cumulative": {
@@ -27,7 +28,8 @@
         "pronoun.subject",
         "contraction.short",
         "contraction.full",
-        "fixedAdverb.base"
+        "fixedAdverb.base",
+        "interjection.base"
       ]
     }
   }

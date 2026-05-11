@@ -1,9 +1,10 @@
 ---
 type: lesson
-description: ˈprezənt ˈsɪmpəl ˈkwestʃən wɪð ðə vɜːb tuː biː. fɪkst ˈædvɜːb beɪs fɔːm.
+description: ˈprezənt ˈsɪmpəl ˈkwestʃən wɪð ðə vɜːb tuː biː. fɪkst ˈædvɜːb beɪs fɔːm. ˌɪntəˈdʒekʃən beɪs fɔːm.
 hideHelp: true
 morphology:
   - fixedAdverb.base
+  - interjection.base
 grammar:
   - verbBe.present.question
 ---
@@ -31,15 +32,21 @@ grammar:
 ˈтайəд
 ˈхан̣гри
 
-## фикст ˈядвёːбз {new|fixedAdverb}
+## плейс вёːдз {new|fixedAdverb}
 
 хиə
 з̣еə
 
+## ˈаːнсə вёːдз {new|interjection}
+
+йес
+
 ## ˈквесчəнз
 
 ям ай ˈбизи?
+йес, ай ям ˈбизи.
 аː йуː ˈреди?
+йес, йуː аː ˈреди.
 из хиː лейт?
 из шиː ˈёːли?
 из ит райт?
@@ -63,8 +70,10 @@ grammar:
 ## ˈпряктис
 
 ям ай ˈхан̣гри?
+йес, ай ям ˈхан̣гри.
 аː йуː ˈёːли?
 из хиː хиə?
+йес, хиː из хиə.
 из шиː ˈреди?
 из ит ˈбизи?
 аː виː лейт?
@@ -76,4 +85,5 @@ grammar:
 из шиː хиə?
 из ит ˈёːли?
 аː виː ˈреди?
+йес, виː аː ˈреди.
 аː з̣ей ˈбизи?

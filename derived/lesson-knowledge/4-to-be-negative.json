@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T22:28:35.555Z",
+  "generatedAt": "2026-05-11T08:36:44.599Z",
   "lesson": 4,
   "slug": "4-to-be-negative",
   "sourceFile": "content/pages/lessons/4-to-be-negative/en.md",
@@ -30,7 +30,8 @@
         "pronoun.subject",
         "contraction.short",
         "contraction.full",
-        "fixedAdverb.base"
+        "fixedAdverb.base",
+        "interjection.base"
       ]
     }
   }

@@ -1,21 +1,22 @@
 ---
 type: lesson
-description: vɜːb tuː biː ˈprezənt wiː ˈkwestʃən wɪð weə. ˈkwestʃən wɜːd beɪs fɔːm. ˈɑːtɪkəl beɪs fɔːm. ˌprepəˈzɪʃən beɪs fɔːm. naʊn ˈsɪŋɡjələ fɔːm.
+description: vɜːb tuː biː ˈprezənt wiː ˈkwestʃən wɪð weə. ˌprepəˈzɪʃən beɪs fɔːm.
 hideHelp: true
 morphology:
-  - questionWord.base
-  - article.base
   - preposition.base
-  - noun.singular
 grammar:
   - verbBe.present.question.wh.where
 ---
 
-# 6. веə из з̣ə фəун?
+# 6. веəз з̣ə фəун?
 
 ## ˈквесчəн вёːдз {new|questionWord}
 
 веə
+
+## шоːт фоːмз {new|contraction}
+
+веəз = веəр из
 
 ## ˈаːтикəлз {new|article}
 
@@ -38,29 +39,30 @@ grammar:
 ## ˈквесчəнз
 
 веə из з̣ə фəун?
+веəз з̣ə фəун?
 з̣ə фəун из он з̣ə ˈтейбəл.
 
-веə из з̣ə киː?
+веəз з̣ə киː?
 з̣ə киː из ин з̣ə бяг.
 
-веə из з̣ə бук?
+веəз з̣ə бук?
 з̣ə бук из он з̣ə чеə.
 
-веə из з̣ə бокс?
+веəз з̣ə бокс?
 з̣ə бокс из ˈандə з̣ə ˈтейбəл.
 
 ## ˈпряктис
 
-веə из з̣ə бяг?
+веəз з̣ə бяг?
 з̣ə бяг из он з̣ə флоː.
 
-веə из з̣ə фəун?
+веəз з̣ə фəун?
 з̣ə фəун из ин з̣ə бокс.
 
-веə из з̣ə киː?
+веəз з̣ə киː?
 з̣ə киː из ˈандə з̣ə чеə.
 
-веə из з̣ə бук?
+веəз з̣ə бук?
 з̣ə бук из ин з̣ə руːм.
 
 з̣ə бокс из ин з̣ə руːм.

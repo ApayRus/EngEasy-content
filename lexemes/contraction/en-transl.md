@@ -21,3 +21,12 @@ wɪə | wiː ɑː
 
 ɑːnt | ɑː nɒt
 ˈɪzənt | ɪz nɒt
+
+# 5
+
+wɒts | wɒt ɪz
+ðæts | ðæt ɪz
+
+# 6
+
+weəz | weər ɪz

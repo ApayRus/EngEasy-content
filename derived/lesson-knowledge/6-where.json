@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T22:28:35.556Z",
+  "generatedAt": "2026-05-11T08:36:44.600Z",
   "lesson": 6,
   "slug": "6-where",
   "sourceFile": "content/pages/lessons/6-where/en.md",
@@ -9,10 +9,7 @@
         "verbBe.present.question.wh.where"
       ],
       "morphology": [
-        "questionWord.base",
-        "article.base",
-        "preposition.base",
-        "noun.singular"
+        "preposition.base"
       ]
     },
     "cumulative": {
@@ -36,9 +33,11 @@
         "contraction.short",
         "contraction.full",
         "fixedAdverb.base",
+        "interjection.base",
         "questionWord.base",
         "article.base",
         "noun.singular",
+        "demonstrative.singular",
         "preposition.base"
       ]
     }

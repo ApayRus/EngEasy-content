@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T22:28:35.555Z",
+  "generatedAt": "2026-05-11T08:36:44.600Z",
   "lesson": 5,
   "slug": "5-to-be-wh-question",
   "sourceFile": "content/pages/lessons/5-to-be-wh-question/en.md",
@@ -11,7 +11,8 @@
       "morphology": [
         "questionWord.base",
         "article.base",
-        "noun.singular"
+        "noun.singular",
+        "demonstrative.singular"
       ]
     },
     "cumulative": {
@@ -34,9 +35,11 @@
         "contraction.short",
         "contraction.full",
         "fixedAdverb.base",
+        "interjection.base",
         "questionWord.base",
         "article.base",
-        "noun.singular"
+        "noun.singular",
+        "demonstrative.singular"
       ]
     }
   }

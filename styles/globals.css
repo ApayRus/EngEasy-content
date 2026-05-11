@@ -124,3 +124,16 @@ a {
 		color-scheme: dark;
 	}
 }
+
+@media print {
+	@page {
+		size: auto;
+		margin: 12mm;
+	}
+
+	html,
+	body {
+		background: #fff !important;
+		color: #000 !important;
+	}
+}

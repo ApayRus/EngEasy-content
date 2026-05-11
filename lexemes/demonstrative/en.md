@@ -6,3 +6,8 @@ forms:
   - id: plural
     name: plural form
 ---
+
+# 5
+
+this | this
+that | that

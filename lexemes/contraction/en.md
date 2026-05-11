@@ -21,3 +21,12 @@ they're | they are
 
 aren't | are not
 isn't | is not
+
+# 5
+
+what's | what is
+that's | that is
+
+# 6
+
+where's | where is

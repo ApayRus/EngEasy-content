@@ -41,6 +41,7 @@ tired
 hungry
 here
 there
+yes
 
 # 4
 kind
@@ -54,9 +55,14 @@ free
 fine
 aren't | are not
 isn't | is not
+no
 
 # 5
 a
+what's | what is
+that's | that is
+this
+that
 house
 door
 window
@@ -70,6 +76,7 @@ what
 
 # 6
 the
+where's | where is
 box
 bag
 book

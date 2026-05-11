@@ -1,9 +1,10 @@
 ---
 type: lesson
-description: Present Simple question with the verb to be. Fixed adverb base form.
+description: Present Simple question with the verb to be. Fixed adverb base form. Interjection base form.
 hideHelp: true
 morphology:
   - fixedAdverb.base
+  - interjection.base
 grammar:
   - verbBe.present.question
 ---
@@ -31,15 +32,21 @@ wrong
 tired
 hungry
 
-## Fixed adverbs {new|fixedAdverb}
+## Place words {new|fixedAdverb}
 
 here
 there
 
+## Answer words {new|interjection}
+
+yes
+
 ## Questions
 
 Am I busy?
+Yes, I am busy.
 Are you ready?
+Yes, you are ready.
 Is he late?
 Is she early?
 Is it right?
@@ -63,8 +70,10 @@ Is he hungry?
 ## Practice
 
 Am I hungry?
+Yes, I am hungry.
 Are you early?
 Is he here?
+Yes, he is here.
 Is she ready?
 Is it busy?
 Are we late?
@@ -76,4 +85,5 @@ Is he hungry?
 Is she here?
 Is it early?
 Are we ready?
+Yes, we are ready.
 Are they busy?

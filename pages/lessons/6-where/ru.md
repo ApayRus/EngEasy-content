@@ -1,12 +1,9 @@
 ---
 type: lesson
-description: Present вопрос с глаголом to be и where. Базовая форма вопросительного слова. Базовая форма артикля. Базовая форма предлога. Форма существительного в единственном числе.
+description: Present вопрос с глаголом to be и where. Базовая форма предлога.
 hideHelp: true
 morphology:
-  - questionWord.base
-  - article.base
   - preposition.base
-  - noun.singular
 grammar:
   - verbBe.present.question.wh.where
 ---
@@ -16,6 +13,10 @@ grammar:
 ## Вопросительные слова {new|questionWord}
 
 где
+
+## Сокращённые формы {new|contraction}
+
+где (находится)
 
 ## Артикли {new|article}
 
@@ -37,6 +38,7 @@ grammar:
 
 ## Вопросы
 
+Где телефон?
 Где телефон?
 Телефон на столе.
 

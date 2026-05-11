@@ -1,9 +1,10 @@
 ---
 type: lesson
-description: ˈprezənt ˈsɪmpəl ˈkwestʃən wɪð ðə vɜːb tuː biː. fɪkst ˈædvɜːb beɪs fɔːm.
+description: ˈprezənt ˈsɪmpəl ˈkwestʃən wɪð ðə vɜːb tuː biː. fɪkst ˈædvɜːb beɪs fɔːm. ˌɪntəˈdʒekʃən beɪs fɔːm.
 hideHelp: true
 morphology:
   - fixedAdverb.base
+  - interjection.base
 grammar:
   - verbBe.present.question
 ---
@@ -31,15 +32,21 @@ rɒŋ
 ˈtaɪəd
 ˈhʌŋɡri
 
-## fɪkst ˈædvɜːbz {new|fixedAdverb}
+## pleɪs wɜːdz {new|fixedAdverb}
 
 hɪə
 ðeə
 
+## ˈɑːnsə wɜːdz {new|interjection}
+
+jes
+
 ## ˈkwestʃənz
 
 æm aɪ ˈbɪzi?
+jes, aɪ æm ˈbɪzi.
 ɑː juː ˈredi?
+jes, juː ɑː ˈredi.
 ɪz hiː leɪt?
 ɪz ʃiː ˈɜːli?
 ɪz ɪt raɪt?
@@ -63,8 +70,10 @@ hɪə
 ## ˈpræktɪs
 
 æm aɪ ˈhʌŋɡri?
+jes, aɪ æm ˈhʌŋɡri.
 ɑː juː ˈɜːli?
 ɪz hiː hɪə?
+jes, hiː ɪz hɪə.
 ɪz ʃiː ˈredi?
 ɪz ɪt ˈbɪzi?
 ɑː wiː leɪt?
@@ -76,4 +85,5 @@ hɪə
 ɪz ʃiː hɪə?
 ɪz ɪt ˈɜːli?
 ɑː wiː ˈredi?
+jes, wiː ɑː ˈredi.
 ɑː ðeɪ ˈbɪzi?

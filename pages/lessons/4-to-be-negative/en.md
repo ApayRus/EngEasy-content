@@ -8,7 +8,7 @@ grammar:
   - verbBe.present.question.negative.contracted
 ---
 
-# 4. I am not angry. She is not fine.
+# 4. I'm not angry. She isn't fine.
 
 ## Negative patterns {new}
 
@@ -25,6 +25,10 @@ They are not
 aren't = are not
 isn't = is not
 
+## Answer words {new|interjection}
+
+no
+
 ## Adjectives {new|adjective}
 
 kind
@@ -40,30 +44,34 @@ fine
 ## Practice
 
 I am not angry.
+I'm not angry.
 You are not friendly.
+You're not friendly.
 He is not kind.
+He isn't kind.
 She is not smart.
-It is not funny.
-We are not fine.
-They are not free.
+She isn't smart.
+It isn't funny.
+We're not fine.
+They aren't free.
 
-I am not stupid.
-You are not nice.
+I'm not stupid.
+You're not nice.
 He isn't friendly.
 She isn't kind.
 It isn't fine.
 We aren't free.
 They aren't smart.
 
-I am not funny.
-You are not angry.
-He is not stupid.
-She is not nice.
-It is not friendly.
-We are not kind.
-They are not fine.
+I'm not funny.
+You're not angry.
+He isn't stupid.
+She isn't nice.
+It isn't friendly.
+We're not kind.
+They aren't fine.
 
-I am not free.
+I'm not free.
 You aren't smart.
 He isn't funny.
 She isn't angry.
@@ -75,21 +83,25 @@ They aren't stupid.
 
 Are you not friendly?
 Aren't you friendly?
+No, you're not friendly.
 
 Is he not kind?
 Isn't he kind?
+No, he isn't kind.
 
 Is she not smart?
 Isn't she smart?
 
 Is it not funny?
 Isn't it funny?
+No, it isn't funny.
 
 Are we not fine?
 Aren't we fine?
 
 Are they not free?
 Aren't they free?
+No, they aren't free.
 
 Is he not stupid?
 Isn't he stupid?

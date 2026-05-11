@@ -8,7 +8,7 @@ grammar:
   - verbBe.present.question.negative.contracted
 ---
 
-# 4. aɪ æm nɒt ˈæŋɡri. ʃiː ɪz nɒt faɪn.
+# 4. aɪm nɒt ˈæŋɡri. ʃiː ˈɪzənt faɪn.
 
 ## ˈneɡətɪv ˈpætənz {new}
 
@@ -25,6 +25,10 @@ wiː ɑː nɒt
 ɑːnt = ɑː nɒt
 ˈɪzənt = ɪz nɒt
 
+## ˈɑːnsə wɜːdz {new|interjection}
+
+nəʊ
+
 ## ˈædʒɪktɪvz {new|adjective}
 
 kaɪnd
@@ -40,30 +44,34 @@ faɪn
 ## ˈpræktɪs
 
 aɪ æm nɒt ˈæŋɡri.
+aɪm nɒt ˈæŋɡri.
 juː ɑː nɒt ˈfrendli.
+jɔː nɒt ˈfrendli.
 hiː ɪz nɒt kaɪnd.
+hiː ˈɪzənt kaɪnd.
 ʃiː ɪz nɒt smɑːt.
-ɪt ɪz nɒt ˈfʌni.
-wiː ɑː nɒt faɪn.
-ðeɪ ɑː nɒt friː.
+ʃiː ˈɪzənt smɑːt.
+ɪt ˈɪzənt ˈfʌni.
+wɪə nɒt faɪn.
+ðeɪ ɑːnt friː.
 
-aɪ æm nɒt ˈstjuːpɪd.
-juː ɑː nɒt naɪs.
+aɪm nɒt ˈstjuːpɪd.
+jɔː nɒt naɪs.
 hiː ˈɪzənt ˈfrendli.
 ʃiː ˈɪzənt kaɪnd.
 ɪt ˈɪzənt faɪn.
 wiː ɑːnt friː.
 ðeɪ ɑːnt smɑːt.
 
-aɪ æm nɒt ˈfʌni.
-juː ɑː nɒt ˈæŋɡri.
-hiː ɪz nɒt ˈstjuːpɪd.
-ʃiː ɪz nɒt naɪs.
-ɪt ɪz nɒt ˈfrendli.
-wiː ɑː nɒt kaɪnd.
-ðeɪ ɑː nɒt faɪn.
+aɪm nɒt ˈfʌni.
+jɔː nɒt ˈæŋɡri.
+hiː ˈɪzənt ˈstjuːpɪd.
+ʃiː ˈɪzənt naɪs.
+ɪt ˈɪzənt ˈfrendli.
+wɪə nɒt kaɪnd.
+ðeɪ ɑːnt faɪn.
 
-aɪ æm nɒt friː.
+aɪm nɒt friː.
 juː ɑːnt smɑːt.
 hiː ˈɪzənt ˈfʌni.
 ʃiː ˈɪzənt ˈæŋɡri.
@@ -75,21 +83,25 @@ wiː ɑːnt naɪs.
 
 ɑː juː nɒt ˈfrendli?
 ɑːnt juː ˈfrendli?
+nəʊ, jɔː nɒt ˈfrendli.
 
 ɪz hiː nɒt kaɪnd?
 ˈɪzənt hiː kaɪnd?
+nəʊ, hiː ˈɪzənt kaɪnd.
 
 ɪz ʃiː nɒt smɑːt?
 ˈɪzənt ʃiː smɑːt?
 
 ɪz ɪt nɒt ˈfʌni?
 ˈɪzənt ɪt ˈfʌni?
+nəʊ, ɪt ˈɪzənt ˈfʌni.
 
 ɑː wiː nɒt faɪn?
 ɑːnt wiː faɪn?
 
 ɑː ðeɪ nɒt friː?
 ɑːnt ðeɪ friː?
+nəʊ, ðeɪ ɑːnt friː.
 
 ɪz hiː nɒt ˈstjuːpɪd?
 ˈɪzənt hiː ˈstjuːpɪd?
