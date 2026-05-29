@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T08:36:44.598Z",
+  "generatedAt": "2026-05-24T23:39:37.556Z",
   "lesson": 2,
   "slug": "2-to-be-contracted",
   "sourceFile": "content/pages/lessons/2-to-be-contracted/en.md",
@@ -13,7 +13,7 @@
     },
     "cumulative": {
       "grammar": [
-        "verbBe.present.affirmative"
+        "verbBe.present.statement"
       ],
       "morphology": [
         "verbBe.base",

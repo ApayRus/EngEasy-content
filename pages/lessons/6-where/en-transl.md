@@ -1,14 +1,13 @@
 ---
 type: lesson
-description: vɜːb tuː biː ˈprezənt wiː ˈkwestʃən wɪð weə. ˌprepəˈzɪʃən beɪs fɔːm.
+description: ˈprezənt ˈsɪmpəl wiː kjuː ˈkwestʃən wɪð ðə vɜːb tuː biː. ˌprepəˈzɪʃən ænd kənˈdʒʌŋkʃən beɪs fɔːmz.
 hideHelp: true
 morphology:
   - preposition.base
-grammar:
-  - verbBe.present.question.wh.where
+  - conjunction.base
 ---
 
-# 6. weəz ðə fəʊn?
+# 6. weər ɑː ðə fəʊn ænd ðə kiː?
 
 ## ˈkwestʃən wɜːdz {new|questionWord}
 
@@ -27,6 +26,11 @@ weəz = weər ɪz
 ɒn
 ɪn
 ˈʌndə
+nɪə
+
+## kənˈdʒʌŋkʃənz {new|conjunction}
+
+ænd
 
 ## naʊnz {new|noun}
 
@@ -51,6 +55,10 @@ weəz ðə bʊk?
 weəz ðə bɒks?
 ðə bɒks ɪz ˈʌndə ðə ˈteɪbəl.
 
+weər ɑː ðə fəʊn ænd ðə kiː?
+ðə fəʊn ɪz ɒn ðə ˈteɪbəl.
+ðə kiː ɪz ɪn ðə bæɡ.
+
 ## ˈpræktɪs
 
 weəz ðə bæɡ?
@@ -69,3 +77,19 @@ weəz ðə bʊk?
 ðə bæɡ ɪz ˈʌndə ðə tʃeə.
 ðə fəʊn ɪz ɒn ðə ˈteɪbəl.
 ðə kiː ɪz ɪn ðə bɒks.
+
+weər ɑː ði əʊld tʃeə ænd ðə njuː bæɡ?
+ði əʊld tʃeə ɪz ɪn ðə bɪɡ ruːm nɪə ðə ˈwɪndəʊ.
+ðə njuː bæɡ ɪz ˈʌndə ðə smɔːl ˈteɪbəl.
+
+weər ɑː ðə smɔːl bʊk ænd ði əʊld kiː?
+ðə smɔːl bʊk ɪz ɒn ðə tʃeə.
+ði əʊld kiː ɪz ɪn ðə bɒks.
+
+weəz ðə bɪɡ ˈteɪbəl?
+ðə bɪɡ ˈteɪbəl ɪz nɪə ðə wɔːl.
+
+ðə smɔːl ˈwɪndəʊ ɪz ɪn ðə bɪɡ wɔːl.
+ðə njuː ruːm ɪz nɪə ði əʊld ruːm.
+ði əʊld fəʊn ɪz ɒn ðə smɔːl ˈteɪbəl.
+ðə njuː fəʊn ɪz ɪn ðə bæɡ.

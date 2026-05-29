@@ -76,6 +76,7 @@ what
 
 # 6
 the
+and
 where's | where is
 box
 bag
@@ -85,4 +86,5 @@ phone
 on
 in
 under
+near
 where

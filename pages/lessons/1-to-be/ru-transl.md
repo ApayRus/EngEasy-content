@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: vɜːb biː beɪs fɔːm. ˈædʒɪktɪv beɪs fɔːm. ˈpɜːsənəl ˈprəʊnaʊn ˈsʌbdʒɪkt fɔːm. ˈprɛzənt ˈsɪmpəl əˈfɜːmətɪv.
+description: vɜːb tuː biː beɪs fɔːm. ˈædʒɪktɪv beɪs fɔːm. ˈpɜːsənəl ˈprəʊnaʊn ˈsʌbdʒɪkt fɔːm. ˈprezənt ˈsɪmpəl ˈsteɪtmənt wɪð ðə vɜːb tuː biː.
 hideHelp: true
 morphology:
   - verbBe.base
@@ -11,7 +11,7 @@ morphology:
   - adjective.base
   - pronoun.subject
 grammar:
-  - verbBe.present.affirmative
+  - verbBe.present.statement
 ---
 
 # 1. ай ям биг, йуː аː смоːл

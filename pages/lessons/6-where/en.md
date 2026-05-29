@@ -1,14 +1,13 @@
 ---
 type: lesson
-description: Verb to be present wh-question with where. Preposition base form.
+description: Present Simple wh-question with the verb to be. Preposition and conjunction base forms.
 hideHelp: true
 morphology:
   - preposition.base
-grammar:
-  - verbBe.present.question.wh.where
+  - conjunction.base
 ---
 
-# 6. Where's the phone?
+# 6. Where are the phone and the key?
 
 ## Question words {new|questionWord}
 
@@ -27,6 +26,11 @@ the
 on
 in
 under
+near
+
+## Conjunctions {new|conjunction}
+
+and
 
 ## Nouns {new|noun}
 
@@ -51,6 +55,10 @@ The book is on the chair.
 Where's the box?
 The box is under the table.
 
+Where are the phone and the key?
+The phone is on the table.
+The key is in the bag.
+
 ## Practice
 
 Where's the bag?
@@ -69,3 +77,19 @@ The box is in the room.
 The bag is under the chair.
 The phone is on the table.
 The key is in the box.
+
+Where are the old chair and the new bag?
+The old chair is in the big room near the window.
+The new bag is under the small table.
+
+Where are the small book and the old key?
+The small book is on the chair.
+The old key is in the box.
+
+Where's the big table?
+The big table is near the wall.
+
+The small window is in the big wall.
+The new room is near the old room.
+The old phone is on the small table.
+The new phone is in the bag.

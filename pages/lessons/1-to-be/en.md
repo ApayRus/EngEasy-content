@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: Verb to be base form. Adjective base form. Personal pronoun subject form. Present Simple affirmative.
+description: Verb to be base form. Adjective base form. Personal pronoun subject form. Present Simple statement with the verb to be.
 hideHelp: true
 morphology:
   - verbBe.base
@@ -11,7 +11,7 @@ morphology:
   - adjective.base
   - pronoun.subject
 grammar:
-  - verbBe.present.affirmative
+  - verbBe.present.statement
 ---
 
 # 1. I am big, you are small

@@ -7,6 +7,11 @@
     "vocabularyFormat": "v1"
   },
   {
+    "slug": "peppa-pig",
+    "ru": "Peppa Pig",
+    "en": "Peppa Pig"
+  },
+  {
     "slug": "topics",
     "ru": "Диалоги на разные темы",
     "en": "Dialogues on various topics"

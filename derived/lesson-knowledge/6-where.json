@@ -1,26 +1,24 @@
 {
-  "generatedAt": "2026-05-11T08:36:44.600Z",
+  "generatedAt": "2026-05-24T23:39:37.557Z",
   "lesson": 6,
   "slug": "6-where",
   "sourceFile": "content/pages/lessons/6-where/en.md",
   "knowledge": {
     "added": {
-      "grammar": [
-        "verbBe.present.question.wh.where"
-      ],
+      "grammar": [],
       "morphology": [
-        "preposition.base"
+        "preposition.base",
+        "conjunction.base"
       ]
     },
     "cumulative": {
       "grammar": [
-        "verbBe.present.affirmative",
+        "verbBe.present.statement",
         "verbBe.present.question",
         "verbBe.present.negative",
         "verbBe.present.question.negative",
         "verbBe.present.question.negative.contracted",
-        "verbBe.present.question.wh",
-        "verbBe.present.question.wh.where"
+        "verbBe.present.question.wh"
       ],
       "morphology": [
         "verbBe.base",
@@ -38,7 +36,8 @@
         "article.base",
         "noun.singular",
         "demonstrative.singular",
-        "preposition.base"
+        "preposition.base",
+        "conjunction.base"
       ]
     }
   }

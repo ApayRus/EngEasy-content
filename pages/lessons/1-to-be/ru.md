@@ -1,6 +1,6 @@
 ---
 type: lesson
-description: Базовая форма глагола be. Базовая форма прилагательного. Личное местоимение в форме подлежащего. Present Simple утвердительная форма.
+description: Базовая форма глагола be. Базовая форма прилагательного. Личное местоимение в форме подлежащего. Present Simple утверждение с глаголом to be.
 hideHelp: true
 morphology:
   - verbBe.base
@@ -11,7 +11,7 @@ morphology:
   - adjective.base
   - pronoun.subject
 grammar:
-  - verbBe.present.affirmative
+  - verbBe.present.statement
 ---
 
 # 1. Я большой, ты маленький

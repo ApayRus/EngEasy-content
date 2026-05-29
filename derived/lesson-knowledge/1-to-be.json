@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-11T08:36:44.597Z",
+  "generatedAt": "2026-05-24T23:39:37.555Z",
   "lesson": 1,
   "slug": "1-to-be",
   "sourceFile": "content/pages/lessons/1-to-be/en.md",
   "knowledge": {
     "added": {
       "grammar": [
-        "verbBe.present.affirmative"
+        "verbBe.present.statement"
       ],
       "morphology": [
         "verbBe.base",
@@ -20,7 +20,7 @@
     },
     "cumulative": {
       "grammar": [
-        "verbBe.present.affirmative"
+        "verbBe.present.statement"
       ],
       "morphology": [
         "verbBe.base",
