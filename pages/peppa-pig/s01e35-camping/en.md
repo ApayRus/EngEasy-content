@@ -4,30 +4,60 @@ title: Camping (s01e35)
 description: >-
   Daddy Pig is too big to get inside the tent, so he sleeps outside, but not for
   long.
-mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e35-camping.mp4"
+mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e35-camping.mp4'
 ---
-I'm Peppa Pig this is my little brother George this is Mommy Pig and this is Daddy.
-Daddy.
-Pig Peppa Pig.
-Pig camping Peppa and her family are going camping I love.
-Camping I love camping we're here.
-Peppa George this is the tent I had when I was a little boy Daddy how are you going to make that into a tent don't worry Peppa I'm an expert at camping Mommy Pig put the tent on the poles please that's it easy as pie oh do these pegs do anything of course I forgot about the.
-About the pegs the pegs hold the tent up there the tent is a bit little it was big enough for me when I was a boy but it does look a bit small now that's because you've grown a bit since you were a boy Daddy Pig and your tummy has grown the most of all talking of tummies we should cook supper yes first we have to collect sticks to make a fire y Peppa and George are helping Daddy Pig collect sticks for the campfire George I'll pick up the sticks and you can carry.
-Them collecting sticks is.
-Fun good that's enough.
-Sticks that's a splendid campfire now I'll light it here are the matches we don't need matches daddy how can you light it without matches I'm going to make fire the old way by simply rubbing these two sticks together taddy pig is rubbing the two sticks together to light the.
-Campfire where is the fire daddy nearly.
-There hooray easy as pie now we can heat up the tomato soup ah listen to the sounds of nature what is that sound that is the sound of crickets.
-Of crickets chirping what is that that's an owl look there it is.
-Is wow and what's that noise oh I'm not sure it's Daddy's.
-Sure it's Daddy's tummy my tummy rumbling is one of the best sounds of nature it means it's time to eat I love tomato soup so do.
-I there's another one of Daddy Pig's sounds of nature.
-Nature what come on children into the tent it's bedtime we won't all fit in the tent is too little it will be fine in you go move further in Mummy Pig Daddy you're too big for the tent never mind I'd rather sleep outside anyway good night Daddy Pig good night Daddy night night good night everyone Mommy Pig Peppa and George are sleeping in the tent Daddy Pig is sleeping outside under the.
-Outside under the stars I love Camping sleeping in the open air with the Stars Above Me Maybe This wasn't such a good idea after.
-After.
-All it is morning daddy it was lovely and cozy in the tent oh where's Daddy Daddy Pig has gone poor Daddy Pig he must have been cold and wet and now where is he what's that sound it sounds like.
-Snoring Daddy Pig what Daddy you're safe of course I'm safe I'm an expert at camping I slept in the car silly.
-Car silly daddy I love.
-Camping pea.
-Pig pea.
-Pig pap.
+
+Вот текст серии «Camping» (по ТВ-версии это Сезон 1, Серия 35) без таймкодов, без длинных тире и с каждым предложением на новой строке:
+
+I'm Peppa Pig.
+This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+Camping.
+Peppa and her family are going camping.
+I love camping.
+We are going to sleep in a tent.
+Daddy Pig is putting the tent up.
+It is a bit difficult.
+Can I help, Daddy?
+Yes, Peppa, you can hold this peg.
+Daddy Pig is hitting the peg with a mallet.
+Ouch!
+Are you okay, Daddy?
+Yes, I just hit my thumb.
+The tent is ready.
+It looks a bit small.
+Is there enough room for all of us, Daddy?
+Of course there is, Peppa.
+It's a large family tent.
+Mummy Pig is making the dinner.
+We are having tomato soup.
+Yum, yum.
+It is getting dark.
+Peppa and George hear a noise.
+What's that noise, Daddy?
+It's just the sounds of nature, Peppa.
+Those are owls.
+Tu-whit tu-whoo!
+George is pretending to be an owl.
+It is time for bed.
+Everyone gets into their sleeping bags.
+Daddy Pig is too big for his sleeping bag.
+My feet are sticking out.
+And it is very cold.
+Daddy Pig goes to sleep in the car.
+Goodnight, Daddy Pig.
+Goodnight, everyone.
+In the morning, the sun is shining.
+Peppa and George wake up.
+Where is Daddy Pig?
+He is sleeping in the car.
+Wake up, Daddy Pig.
+What? Oh, hello.
+Did you have a good sleep, Daddy?
+Yes, it was very comfortable in the car.
+Look, birds are singing.
+Peppa and her family are having breakfast outside.
+I like camping.
+It's fun sleeping in a tent.
+But I think Daddy prefers sleeping in the car.
+Everyone loves camping.
+Peppa Pig.

@@ -4,34 +4,85 @@ title: Daddy Puts up a Picture (s01e45)
 description: >-
   Daddy Pig makes a simple job like putting up a picture more difficult than it
   should be.
-mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e45-daddy-puts-up-a-picture.mp4"
+mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e45-daddy-puts-up-a-picture.mp4'
 ---
-I'm Peppa Pig this is my little brother George this is Mommy Pig and this is Daddy.
-Daddy.
-Pig Peppa.
-Pig daddy puts up a.
-Picture Mommy Pig and Daddy Pig have a new picture of Peppa and George we should put this lovely new picture on the wall leave it to me I am the DIY expert of the house are you sure you can do it of course I'll just put a nail in the wall and hang the picture on it very good I'm just off to visit Granny and Grandpa.
-Grandpa Pig I'll see you later and please don't make a mess mess goodbye goodbye.
-Goodbye Daddy can we help adop the picture you can watch and then you'll learn how to do it properly first I need a tape.
-Measure and a.
-Pencil that is where I'm going to put the nail don't break the wall daddy now I need a hammer and a nail stand back children and watch a Craftsman at work Daddy Pig is going to knock the nail into the wall don't break the wall daddy don't be silly.
-Peppa easy as pie oh it's not meant to do that Daddy Pig has made a big crack in the wall Oh Daddy you've broken the wall it's just a tiny crack the picture will hide it there.
-It there I can still see the crack daddy yes I'll just take the nail out and fill in the crack don't make a mess daddy don't be silly Peppa oh it's coming out.
-Who Oh Daddy now you really have broken the.
-The wall do you think Mommy will notice uh yes I think she might.
-Quick George what are they doing Daddy we can see.
-You Daddy Pig has to mend the wall before Mummy Pig comes.
-Home brick please first Daddy Pig fills the hole with.
-Bricks.
-Next Daddy Pig puts plaster over the.
-Bricks easy as pie then Daddy Pig Paints the.
-Wall good as new the wall is mended hooray.
-Hooray but look at all the mess they have made goodness me we' better clean up before mommy comes back first Daddy Pig quickly washes Peppa and.
-Washes Peppa and George then Peppa vacuums the floor and Daddy Pig tidies up the.
-Tooles mommy Mommy Pig is home mommy mommy's here quick pretend nothing has happened.
-Happened hello.
-Hello hello what have you been doing oh.
-Nothing yes I can see you've been doing nothing I thought you were going to put the picture up in all the excitement Daddy Pig has forgotten to put the picture up oh well I'm no expert but I'm sure it's quite.
-Easy s h yes that did look quite easy but when you did it Daddy it looked really hard shush Peppa don't tell.
-Anyone papa.
-Pig papa.
+
+I'm Peppa Pig.
+This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+Daddy Puts up a Picture.
+Mummy Pig and Daddy Pig are in the living room.
+Mummy Pig has a new picture of Peppa and George.
+This is a lovely picture.
+We should hang it on the wall.
+I can do that.
+No, Daddy Pig, let me do it.
+You remember what happened last time you tried to DIY.
+Don't worry, Mummy Pig, putting up a picture is very easy.
+I am an expert at DIY.
+Mummy Pig is going out to visit Granny and Grandpa Pig.
+Please don't touch the wall until I get back.
+Goodbye.
+Goodbye, Mummy Pig.
+Daddy Pig is going to put the picture up.
+Can we help, Daddy?
+Yes, Peppa, you can find the hammer for me.
+And George can find the nail.
+Peppa finds the hammer.
+Here it is, Daddy.
+And George finds a nail.
+Well done, everyone.
+First, we need to choose the perfect spot.
+Daddy Pig holds the picture against the wall.
+Is it straight, Peppa?
+A bit to the left, Daddy.
+Now a bit to the right.
+That's perfect.
+Daddy Pig marks the spot on the wall.
+Now for the hammer and nail.
+Daddy Pig hits the nail with the hammer.
+Bang, bang, bang.
+Ouch!
+Are you okay, Daddy?
+Yes, I just missed the nail.
+Daddy Pig hits the nail again.
+But he hits it too hard.
+The hammer goes right through the wall.
+Crash!
+Oh dear.
+There is a big hole in the wall.
+Look, Daddy, you've made a big hole.
+Yes, it is a bit larger than I expected.
+What are we going to do before Mummy comes home?
+Don't worry, we can fix it.
+Daddy Pig gets some plaster to fill the hole.
+He covers the hole with plaster.
+Now we just need to paint over it.
+Daddy Pig gets some paint.
+But the paint is a different color from the wall.
+Oh dear, that doesn't look right.
+Now there is a big bright circle on the wall.
+Mummy Pig will notice that straight away.
+I know, let's put the picture over the circle.
+That is a brilliant idea, Peppa.
+Daddy Pig hangs the picture exactly over the painted circle.
+Look, you can't see the hole at all.
+Perfect.
+Mummy Pig comes home.
+Hello, everyone.
+Hello, Mummy.
+Look at the wall.
+Mummy Pig looks at the picture.
+Wow, Daddy Pig, you did a wonderful job.
+The picture looks beautiful.
+And the wall is completely safe.
+Yes, I told you I am an expert.
+Suddenly, the picture slips off the nail.
+It falls to the floor.
+And the big painted circle is revealed.
+Oh, Daddy Pig.
+What is that?
+Well, there was a little accident.
+Daddy Pig laughs.
+Peppa and George laugh too.
+Everyone loves DIY.
+Peppa Pig.

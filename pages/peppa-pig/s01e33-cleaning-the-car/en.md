@@ -2,36 +2,60 @@
 type: richVideo
 title: Cleaning the Car (s01e33)
 description: 'The family want to go out for a drive, but the car is filthy.'
-mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e33-cleaning-the-car.mp4"
+mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e33-cleaning-the-car.mp4'
 ---
-I'm Peppa Pig. This is my little brother, George. This is Mommy Pig. And this is Daddy.
-Pig. Peppa.
-Pig. Cleaning the car.
-Daddy Pig is taking the family for a drive in the country. Come on. Is everybody ready? Ready.
-Everybody ready? Ready. Yes, Daddy Pig. We're ready. But the car isn't ready. Look how messy it is. Oh, it's not too bad. You should see how messy it is inside.
-Naughty messy daddy. Naughty messy daddy. Look at all this rubbish. Newspapers. They're mine. Sweets. They're mine. Mr. Dinosaur. Dinosaur.
-We must clean the car before we go for a drive. Oh, right. You are, Mommy Pig. Mommy, can we help to clean the car? Yes, if you want to. Hooray.
-Daddy Pig has some warm soapy water to wash the.
-Car. Daddy Pig is washing the roof. Mommy Pig is washing the bonnet. Peppa is washing the.
-Doors. George wants to wash the windows, but he is too little. Poor George. Let me help you.
-Oh dear, George has dropped his sponge in a muddy puddle.
-George, you're making the car all muddy.
-Again. I will wash the mud off. Peppa, don't use.
-Don't use the muddy water.
-The muddy water. Oh dear. Peppa has thrown the muddy water all over the car. Oh, never mind. We can use the garden hose to clean it off. Yes. Yes. Can I hold the hose?
-Peppa holds the hose. And Daddy Pig turns on the water.
-Where's the water?
-Stop. Peppa, stop. Sorry, Mommy.
-Oh, stop. Daddy Pig, please turn off the water.
-Water. Oh, no need to panic.
-Oh dear, everyone is wet. At least the car has been washed. We've all been washed.
-All been washed. You go and dry yourselves while I polish the car. See you later. See you.
-Later. Daddy Pig is polishing the car so well he can see his face in it.
-What a funny face. Oh, more funny faces. It's Peppa and George and Mummy Pig. What a lovely shiny car. Yes, I am a bit of an expert at these things.
-At these things. Come on, I'll drive today. Is everybody ready? Ready.
-Ready? Ready. Then let's go.
-I hope you will all keep this car clean today. Yes, Mommy Pig. Yes, Mommy Pig.
-Mommy, now you've made the car all muddy again.
-Again. Naughty mommy. Naughty, messy mommy.
-Hello, I'm Danny Dog. Is that a.
-Is that a dinosaur? It's just a toy dinosaur. I saw.
+
+Вот текст серии «Cleaning the Car» (по ТВ-версии это Сезон 1, Серия 33) без таймкодов, без длинных тире и с каждым предложением на новой строке:
+
+I'm Peppa Pig.
+This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+Cleaning the Car.
+Daddy Pig is driving the car back from a trip.
+The car is very dirty.
+Look at all this mud on the car.
+Daddy Pig, our car is the dirtiest car in the whole world.
+Yes, it is a bit messy.
+We should clean it today.
+Can we help, Daddy?
+Of course you can, Peppa.
+Peppa and George want to help clean the car.
+First, we need some water.
+Daddy Pig gets a bucket of water and some soap.
+And we need a sponge.
+Peppa takes the sponge.
+I'll wash the top, and George can wash the bottom.
+George is too little to reach the top.
+George washes the wheels.
+Look, the mud is coming off.
+Daddy Pig gets the hosepipe to rinse the soap off.
+Can I hold the hose, Daddy?
+Be careful, Peppa, it's very powerful.
+Peppa sprays water on the car.
+Look, it's nice and shiny now.
+Oh dear, Daddy Pig is getting wet.
+Peppa, stop spraying me.
+Sorry, Daddy.
+Now the car is perfectly clean.
+It looks like a brand new car.
+Well done, everyone.
+Now we can go for a drive in our beautiful clean car.
+Wait, we need to dry it first.
+Daddy Pig takes a cloth to dry the car.
+Look at my reflection in the door.
+I can see my face.
+Peppa and George look at themselves in the shiny car.
+Now it's ready.
+Hop in, everyone.
+Peppa and her family get into the clean car.
+Daddy Pig starts the engine.
+Let's go to the park.
+Oh dear, there is a big muddy puddle right in front of the driveway.
+Daddy Pig drives the car straight through the muddy puddle.
+Splash!
+Oh no, the car is dirty again.
+Look at all the mud.
+Daddy Pig laughs.
+Never mind, we can always clean it again tomorrow.
+Peppa and George love cleaning the car.
+Everyone loves cleaning the car.
+Peppa Pig.

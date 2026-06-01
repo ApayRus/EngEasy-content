@@ -1,38 +1,99 @@
 ---
 type: richVideo
-title: Picnic (s01e15)
-description: The family have a picnic.
+title: "Picnic (s01e15)"
+description: "The family have a picnic."
 mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e15-picnic.mp4"
 ---
-I'm Peppa Pig this is my little brother George this is Mommy Pig and this is Daddy.
-Daddy.
-Pig Peppa.
-Pig.
-Picnic it is a lovely bright sunny day Peppa and her family are going for a picnic Daddy Pig is bringing the picnic basket picnic blanket bread cheese tomatoes and lemonade is there anything We've forgotten mommy's strawberry cake I was just teasing mommy's homemade strawberry cake is there too is everybody ready ready then let's go.
-This looks like just the spot for our.
-Picnic it's great to be outdoors we should run around a bit and get some exercise I want to eat then have a nap I certainly don't want to run around maybe daddy should run around a bit his tummy is quite big my tummy is not big but later I will get some exercise even if no one else does let's eat good idea Mummy Pig I'm really.
-Hungry.
-Delicious I feel quite sleepy I thought you wanted to run around a bit Daddy Pig.
-Later look there's a little duck PT.
-Mommy can we feed the Ducks yes you can feed them the rest of the.
-Bread Peppa and George love feeding bread to.
-Ducks Mommy I think they want some more that was the last of the bread I'm sure they've had.
-They've had enough sorry Mrs duck we have no more bread.
-The Ducks want more food so much for Daddy Pig and his.
-Exercise what you lot again Peppa told you there's no more.
-There's no more bread Mommy we do have strawberry cake well if there's any cake left over you can give it to the Ducks Everyone likes Mummy Pig's homemade strawberry cake.
-Homemade strawberry cake a wasp I hate wasps shoo what a fuss Mummy Pig it's only a little wasp go away.
-Away wasp just stay still Mommy Pig then it will fly.
-Will fly away there you see all you had to do was stay.
-Stay still hey get away scram.
-Help get it off me I hope there wasn't doesn't sting daddy oh get away you little pest no Daddy Pig is running too fast for the WASP to catch him let's eat our cake before the WASP comes.
-Back Oh no we forgot to leave any for the.
-The.
-Ducks I think I lost it you said you would run around and get some exercise Daddy Pig but I didn't believe you'd do.
-It luckily I managed to hang on to my slice of strawberry cake stop daddy we promise the rest of the cake for the Ducks.
-Ducks oh you are very lucky.
-Ducks say thank you to Daddy Pig you're most.
-Pig you're most welcome it's time to go home home say goodbye to the Ducks Bye-bye, Ducks see you next.
-Time pea.
-Pig pea.
-Pig pap.
+
+I'm Peppa Pig.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
+Peppa Pig: 
+Picnic.
+It is a lovely, bright, sunny day.
+Peppa and her family are going for a picnic.
+Daddy Pig is bringing the picnic basket.
+Picnic blanket, 
+bread, 
+cheese, 
+tomatoes, and lemonade.
+Is there anything we've forgotten?
+Mummy's strawberry cake!
+I was just teasing.
+Mummy's homemade strawberry cake is there too.
+Is everybody ready?
+Ready!
+Then let's go.
+This looks like just the spot for our picnic.
+Hurrah!
+It's great to be outdoors.
+We should run around a bit and get some exercise.
+I want to eat, 
+then have a nap.
+I certainly don't want to run around.
+Maybe Daddy should run around a bit.
+His tummy is quite big.
+My tummy is not big.
+But later I will get some exercise, 
+even if no one else does.
+Let's eat.
+Good idea, Mummy Pig.
+I'm really hungry.
+Delicious.
+I feel quite sleepy.
+I thought you wanted to run around a bit, Daddy Pig.
+Later.
+Look, there's a little duck pond.
+Mummy, can we feed the ducks?
+Yes, you can feed them the rest of the bread.
+Peppa and George love feeding bread to ducks.
+Mummy, I think they want some more.
+That was the last of the bread.
+I'm sure they've had enough.
+Sorry, Mrs. Duck, 
+we've no more bread.
+The ducks want more food.
+So much for Daddy Pig and his exercise.
+What?
+You lot again?
+Peppa told you 
+there's no more bread.
+Mummy, we do have strawberry cake.
+Well, if there's any cake left over, 
+you can give it to the ducks.
+Everyone likes Mummy Pig's homemade strawberry cake.
+A wasp!
+I hate wasps!
+Shoo!
+What a fuss, Mummy Pig.
+It's only a little wasp.
+Go away, wasp!
+Just stay still, Mummy Pig, 
+then it will fly away.
+There, you see?
+All you had to do was stay still.
+Get away!
+Scram!
+Help!
+Shoo!
+Get it off me!
+I hope the wasp doesn't sting Daddy.
+Get away, you little pest!
+No, Daddy Pig is running too fast for the wasp to catch him.
+Let's eat our cake 
+before the wasp comes back.
+Oh no, we forgot to leave any for the ducks.
+I think I lost it.
+You said you would run around and get some exercise, Daddy Pig, 
+but I didn't believe you'd do it.
+Luckily, I managed to hang on to my slice of strawberry cake.
+Stop, Daddy!
+We promised the rest of the cake for the ducks.
+You're very lucky ducks.
+Say thank you to Daddy Pig.
+You're most welcome.
+It's time to go home.
+Say goodbye to the ducks.
+Bye-bye, ducks!
+See you next time.

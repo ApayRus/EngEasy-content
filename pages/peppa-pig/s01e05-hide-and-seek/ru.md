@@ -1,8 +1,8 @@
 ---
 type: richVideo
-title: 'Прятки'
-description: 'Пеппа жалуется, что Джорджа слишком легко найти, когда они играют в прятки.'
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e05-hide-and-seek.mp4'
+title: "Прятки"
+description: "Пеппа жалуется, что Джорджа слишком легко найти, когда они играют в прятки."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e05-hide-and-seek.mp4"
 ---
 
 Я Свинка Пеппа.
@@ -21,7 +21,8 @@ mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e05-hide-and-
 Пять,
 Шесть,
 Семь.
-Джордж как раз вовремя нашёл, где спрятаться.
+Джордж нашёл, где спрятаться
+как раз вовремя.
 Десять!
 Готовы или нет, а я иду искать!
 Пеппа должна найти, где прячется Джордж.

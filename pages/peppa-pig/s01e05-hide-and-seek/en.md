@@ -14,43 +14,43 @@ Hide and Seek
 Peppa and George are playing hide and seek.
 It is George's turn to hide.
 He must quickly find somewhere to hide before Peppa finishes counting.
-One, 
-Two, 
-Three, 
-Four, 
-Five, 
-Six, 
-Seven. 
-George has found somewhere to hide 
+One,
+Two,
+Three,
+Four,
+Five,
+Six,
+Seven.
+George has found somewhere to hide
 just in time.
-Ten! 
+Ten!
 Ready or not, here I come!
 Peppa has to find where George is hiding.
-Found you! 
+Found you!
 Peppa has found George.
 George, I could see you too easily.
 Now it is Peppa's turn to hide.
 1... um, 3...
 I'll help George to count.
-One, 
-two, 
-three, 
-four, 
-five, 
-six, 
-seven, 
-eight, 
-nine, 
-ten. 
+One,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+ten.
 Okay, George, open your eyes.
 George has to find where Peppa is hiding.
 Peppa isn't hiding under the table.
-George, 
+George,
 have you thought of looking upstairs?
-Peppa isn't under the bed. 
+Peppa isn't under the bed.
 What was that strange noise?
 Peppa isn't behind the curtain.
-There is that strange noise again. 
+There is that strange noise again.
 What can it be?
 George has found where Peppa was hiding.
 George found me!
@@ -59,23 +59,23 @@ Oh, I think George should have another turn.
 But George isn't very good at hiding.
 I'm sure he'll be better this time.
 Close your eyes and start counting.
-1, 
+1,
 2...
-Oh dear, 
+Oh dear,
 Peppa will easily find George.
 ...5...
-George, 
+George,
 come over here.
-8, 
-9, 
-10! 
+8,
+9,
+10!
 Ready or not, here I come!
 George isn't hiding under the table.
 But George always hides under the table.
 Have you thought of looking upstairs?
 I know where he is!
 George is in the toy basket.
-George is not in the toy basket. 
+George is not in the toy basket.
 Where can he be?
 Peppa cannot find George anywhere.
 Daddy, I can't find George anywhere.

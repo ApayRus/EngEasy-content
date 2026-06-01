@@ -4,25 +4,93 @@ title: School Play (s01e52)
 description: >-
   The playgroup do a play of "The Little Red Riding Hood". Pedro Pony feels a
   bit shy being in it.
-mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e52-school-play.mp4"
+mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e52-school-play.mp4'
 ---
-I'm Peppa Pig this is my little brother George this is mby pig and this is Daddy.
-Pig Peppa.
-Pig School play Peppa's play group are going to put on a play the Little Red Riding Hood hooray all the children have Parts in the play they have to practice at home.
-Peppa is going to be Little Red Riding Hood Mommy Pig has made her costume Daddy Pig is helping Peppa practice okay Peppa what do you say I'm Little Red Riding Hood very good then what um I'm going to visit my grandma I'm going to visit my grandma Bravo Peppa Danny dog is going to play the big bad.
-Bad wolf Granddad dog and mummy dog helping him practice I'm the big bad's wolf try not to laugh Danny you should be a bit scarier try it like this Dany I'm the big bad wolf I'm going to eat you all.
-Up you see yes that was really scary Pedro pony is going to play the Hunter he will rescue Peppa from the big bad wolf um I'm the Hunter and Pedro is a bit shy nay you say I'm going to chase you away you big bad wolf um go away naughty wolf very good Pedro Rebecca rabbit is going to be the grandma what do I say mommy let's say at the start of the play you get locked in a Cupboard by the big bad.
-Bad wolf then right at the end of the play you are rescued by the Hunter and you say thank.
-Say thank you thank you very good.
-Rebecca everyone has come to see the school play ladies and gentlemen Welcome to our play the Little Red Riding Hood first let us meet the actors.
-Meow please please for the sake of the actors no photography.
-Actors no photography please and now our play.
-Begins grandma is at home but who is this visitor on the big bad wolf well done.
-Wolf well done Danny um oh dear Danny has forgotten what he says next Grandma you must go in the cupet go in the cupet the big bad wolf is pretending to be.
-Grandma I am Little Red Riding Hood I'm going to visit my grandma Bravo Peppa daddy you must not take photos oops sorry Peppa carry on I'm going to visit my grandma oh you don't look like my Grandma what big eyes you have what big teeth you have you are not Grandma you are the big bad wolf oo help oh help but look who is here just in time Pedro the Hunter.
-Pedro the Hunter help oh help just in time Pedro the hunter Pedro is a bit shy Pedro would you like me to come on with you yes.
-Please you are a very naughty wolf I saved you Grandma hoor thank you bravo bravo done.
-Petra you are very.
-Good you are almost as good as.
-Me papa.
-Pig papa.
+
+Вот текст серии «School Play» (по ТВ-версии это Сезон 1, Серия 52) без таймкодов, без длинных тире и с каждым предложением на новой строке:
+
+I'm Peppa Pig.
+This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+School Play.
+Peppa and her friends are at playgroup.
+Madame Gazelle is organizing a school play.
+The play is called Little Red Riding Hood.
+Who would like to be Little Red Riding Hood?
+I want to be Little Red Riding Hood.
+Peppa is going to be Little Red Riding Hood.
+And who would like to be the Big Bad Wolf?
+Danny Dog wants to be the Big Bad Wolf.
+Arrr! I'm the Big Bad Wolf.
+Excellent, Danny.
+Rebecca Rabbit is going to be the Grandma.
+And Pedro Pony is going to be the Hunter.
+Now we must practice our lines.
+Peppa is practicing her lines at home.
+I am Little Red Riding Hood, and I am carrying a basket of food to my Grandma.
+Very good, Peppa.
+Daddy Pig and Mummy Pig are helping Peppa learn her lines.
+What happens next, Peppa?
+Then the Big Bad Wolf jumps out and says, I'm going to eat you all up.
+But Danny Dog is a very nice dog, so he might forget to be scary.
+Don't worry, Peppa, it's just a play.
+It is the night of the school play.
+All the parents are in the audience.
+Mummy Pig, Daddy Pig, and George are sitting in the front row.
+The curtains are opening.
+Peppa walks onto the stage.
+I am Little Red Riding Hood.
+I am going to visit my Grandma in her little cottage.
+Peppa sees the audience.
+There are a lot of people.
+Peppa feels a bit shy.
+She forgets her lines.
+Mummy Pig whispers from the audience.
+I am carrying a basket of food.
+Oh, yes.
+I am carrying a basket of food for my Grandma.
+Danny Dog comes onto the stage dressed as the wolf.
+Arrr! I am the Big Bad Wolf.
+Danny looks very scary.
+What are you doing in the woods, Little Red Riding Hood?
+I am going to see my Grandma.
+Then I shall run to her cottage first.
+Danny Dog runs to the cottage on the stage.
+Rebecca Rabbit is inside the cottage dressed as the Grandma.
+Hello, Grandma.
+Hello, Big Bad Wolf.
+Rebecca has forgotten that she is supposed to be scared of the wolf.
+Oh, dear.
+Madame Gazelle whispers from behind the curtain.
+Help, help, it's the Big Bad Wolf.
+Help, help, it's the Big Bad Wolf.
+Danny Dog pretends to lock Rebecca in the wardrobe.
+Now I shall pretend to be Grandma.
+Peppa knocks on the door.
+Knock, knock.
+Who's there?
+It's Little Red Riding Hood.
+Come in, my dear.
+Peppa enters the cottage.
+What big ears you have, Grandma.
+All the better to hear you with, my dear.
+What a big tummy you have, Grandma.
+Peppa is thinking of Daddy Pig.
+Hey, that's not in the story.
+What big teeth you have, Grandma.
+All the better to eat you with.
+Danny Dog jumps out of the bed.
+Pedro Pony rushes onto the stage dressed as the hunter.
+Stop, Big Bad Wolf.
+Pedro forgets what to do next.
+He looks at the audience.
+I need to go to the toilet.
+Everyone laughs.
+Danny Dog lets Rebecca out of the wardrobe.
+Look, Grandma is safe.
+The play is finished.
+The audience claps and cheers.
+Bravo! Bravo!
+Peppa and her friends bow.
+That was a wonderful school play.
+Everyone loved the school play.
+Peppa Pig.

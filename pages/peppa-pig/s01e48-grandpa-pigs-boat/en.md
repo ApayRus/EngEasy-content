@@ -2,16 +2,71 @@
 type: richVideo
 title: Grandpa Pig's Boat (s01e48)
 description: Peppa and George go on a day trip with Grandpa Pig on his boat.
-mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e48-grandpa-pigs-boat.mp4"
+mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e48-grandpa-pigs-boat.mp4'
 ---
-Expect Granny Pig and Grandpa Pig are taking Peppa and George out for a day on the river.
-On the river welcome aboard me hearties Oh Peppa George let's put your life jackets on when peppa and George are on grandpa pigs boat they must wear life jackets on this boat I'm the captain aye-aye captain when captain grandpa tells you all to do something you must do it.
-Captain grandpa never says anything silly of course not captain grandpa George.
-George raise the flag Granny Pig kick the wheel aye captain.
-Maybe you should go to the slower Grandpa Pig who died dear Granny Pig I don't want to use up all my petrol I liked it when we went fast don't worry Peppa.
-Peppa we'll go fast later here's granddad dog he's taking Danny dog out for a day on the river granddad dog is grandpa pigs very best friend I'm surprised your boat is still afloat granddad dog it must be almost as old as you are this old boats can go faster than your rusty bucket a day Grandpa Pig all right you old sea dog ratio prepare to lose.
-You two are acting like little children granddad dog called me a water hog you called him a sea dog fast scram ah you should say sorry.
-Should say sorry only if he says sorry first granddad's say sorry to Grandpa Pig is your best friend's know he's a water hog and my boat is faster than his all right sea dog let's race to the next bridge on the count of three one two you started to see these as fast as you could grandpa pigs boat has run out of petrol very clever captain grandpa maybe I did go a bit too vast how will we get home.
-Granddad dog can tow us home I'm not being towed by that sea dog I haven't offered to tow the water hog will you two ever grow up grandpa say sorry to granddad dog I'm sorry I called you a sea dog granddad's say sorry to Grandpa Pig I'm sorry I called you a water hog that's nice granddad dog would you be so kind as to tow us home it would be my pleasure madam.
-Madam catch this captain hi skipper granddad dog is grandpa pigs very best friend and that dog is telling grandpa pigs boat home the main thing is I won the race.
-The race Grandpa Pig.
+
+I'm Peppa Pig.
+This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+Grandpa Pig's Boat.
+Peppa and George are spending the day with Granny and Grandpa Pig.
+Grandpa Pig is taking everyone out on his boat.
+I love Grandpa Pig's boat.
+It is a beautiful sunny day.
+Welcome aboard, me hearties.
+Grandpa Pig is the captain of the boat.
+He wears a nice sailor's hat.
+Can I wear your hat, Grandpa?
+Of course you can, Peppa.
+Peppa looks like a real captain.
+Aye, aye, Captain Peppa.
+George wants to wear a hat too.
+Grandpa Pig gives George a little sailor's hat.
+George is very happy.
+Everyone gets onto the boat.
+Mummy Pig and Daddy Pig are waving from the riverbank.
+Have a lovely time.
+Goodbye.
+Grandpa Pig starts the engine.
+The boat moves smoothly along the river.
+Look at the ducks.
+Hello, ducks.
+The ducks are swimming next to the boat.
+Look, here comes another boat.
+It is Granddad Dog's boat.
+Granddad Dog is driving his boat very fast.
+Hello, Grandpa Pig.
+Hello, Granddad Dog.
+Grandpa Pig and Granddad Dog are very good friends.
+But they always argue about whose boat is the best.
+My boat is much faster than your old tub, Grandpa Pig.
+This is not an old tub, it is a classic river boat.
+Granddad Dog's boat splatters water everywhere as it rushes past.
+Splash!
+Oh dear, we are getting wet.
+Granddad Dog is a bit of a show-off.
+Grandpa Pig drives his boat gently down the river.
+It is very peaceful.
+Look, the ducks are following us because we have biscuits.
+Peppa throws some biscuits to the ducks.
+Quack, quack!
+Suddenly, Granddad Dog's boat stops.
+The engine is making a funny noise.
+Cough, splutter, bang.
+Oh no, Granddad Dog's boat has broken down.
+He is stuck in the middle of the river.
+It looks like you need a tow, Granddad Dog.
+No, I don't. I can fix it.
+Granddad Dog tries to start the engine, but it will not work.
+Please, Granddad Dog, let Grandpa Pig help you.
+All right, then.
+Grandpa Pig throws a rope to Granddad Dog.
+He ties the rope to Granddad Dog's boat.
+Grandpa Pig's boat pulls Granddad Dog's boat along the river.
+My boat is the strongest boat on the river.
+Yes, thank you, Grandpa Pig.
+Grandpa Pig safely tows Granddad Dog back to the boatyard.
+Well done, Grandpa Pig. You are a brilliant captain.
+Thank you, Peppa.
+Peppa and George love Grandpa Pig's boat.
+Everyone loves Grandpa Pig's boat.
+Peppa Pig.
