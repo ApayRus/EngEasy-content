@@ -1,77 +1,116 @@
 ---
 type: richVideo
-title: Mummy Pig's Birthday (s01e21)
-description: 'Peppa, George and Daddy Pig prepare a birthday surprise for Mummy Pig.'
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e21-mummy-pigs-birthday.mp4'
+title: "Mummy Pig's Birthday (s01e21)"
+description: "Peppa, George and Daddy Pig prepare a birthday surprise for Mummy Pig."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e21-mummy-pigs-birthday.mp4"
 ---
 
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
-Mummy Pig's Birthday.
+This is my little brother, George.
+This is Mommy Pig.
+And this is Daddy Pig.
+Peppa Pig: 
+Mommy Pig's Birthday.
 Today is Mummy Pig's birthday.
-Peppa and George have made her a birthday card.
-Happy birthday, Mummy!
-George, you're not meant to open it.
-Mummy Pig is opening her card.
-Oh, what a lovely card.
-And what's this?
-It's a beautiful picture of you and George.
-Thank you, Peppa, thank you, George.
-Now you must stay in bed, Mummy, because Daddy Pig is making you a special birthday breakfast.
-Daddy Pig is in the kitchen making breakfast.
+Daddy Pig has made Mummy Pig breakfast in bed.
 Happy birthday, Mummy Pig!
-Thank you, Daddy Pig.
-Is everything ready?
-Yes, here is your breakfast in bed, and a nice cup of tea.
-Thank you, everyone.
-You must stay in bed, Mummy, it's your birthday.
-We are going to make you a special birthday surprise.
-Can I get up now?
-No, you must stay in bed until we are ready.
-Okay.
-Peppa, George, and Daddy Pig go downstairs to make the surprise.
-Daddy Pig is making a birthday cake.
-Don't forget the candles, Daddy.
-I haven't forgotten, Peppa.
-George, you can help me decorate the cake.
-George loves decorating the cake.
-Now, we must get the living room ready.
-Peppa is blowing up balloons.
-Daddy Pig is putting up the decorations.
-This is going to be the best birthday party ever.
-Mummy Pig is still waiting upstairs.
-Can I come down now?
-No, not yet, Mummy!
-I'm getting a bit bored.
-Peppa and Daddy Pig are finishing the surprise.
-Everything is ready.
-Come down, Mummy!
-Mummy Pig comes downstairs.
-Surprise! Happy birthday, Mummy!
-Oh, wow, it's beautiful!
-Look at the cake, Mummy.
-George helped me decorate it.
-It's lovely, thank you.
-And here is your present.
-Open it, Mummy!
-Mummy Pig opens her birthday present.
-It's a beautiful new dress.
-Oh, it's wonderful, thank you so much!
-You must wear it tonight, Mummy, we are going to the theater.
-The theater? Wow!
-And Granny Pig and Grandpa Pig are coming to baby-sit.
-Hooray!
-Granny Pig and Grandpa Pig have arrived.
-Hello, everyone. Happy birthday, Mummy Pig!
-Thank you, Granny Pig.
-Are you ready, Mummy Pig?
-Yes, I'm ready.
-Mummy Pig is wearing her beautiful new dress.
-You look very pretty, Mummy.
+Peppa and George have made Mummy Pig a birthday card.
+Happy birthday, Mommy!
+Oh, what a lovely birthday surprise!
+And there are more surprises to come.
+Enjoy your birthday breakfast.
+Take your time.
+Mmm, Yummy!
+Quick! We have to get everything else ready.
+Daddy Pig has made a birthday cake for Mummy Pig.
+We've just got to put the candles on.
+One, 
+two...
+Here I come!
+Mommy Pig has finished her birthday breakfast.
+Mommy's coming!
+Oh no, 
+we're not ready yet!
+Who is it?
+It's Mommy. 
+Can I come in?
+No, no!
+Is there something secret going on?
+Oh, no...
+Nothing's going on, 
+but you can't come in.
+I see.
+Mommy Pig, 
+why don't you relax in the sitting room?
+That sounds nice. 
+Well, it is your birthday.
+Okay, Peppa.
+I think I know where the sitting room is.
+Here is a nice magazine.
 Thank you, Peppa.
-Have a lovely time at the theater.
-We will. Bye-bye!
-Bye-bye!
-Peppa and George love celebrating Mummy Pig's birthday.
-Everyone loves celebrating Mummy Pig's birthday.
-Peppa Pig.
+And here's some pretty music.
+Thank you, Peppa.
+We need the same number of candles as Mommy's age.
+One, 
+two, 
+three...
+Oh dear, 
+we haven't got nearly enough candles.
+Daddy, 
+how old is Mommy?
+I'll whisper it in your ear.
+Wow! 
+Really old!
+You know, I think three candles will be fine.
+Mommy Pig's birthday cake is ready.
+Hooray!
+We just have to put up the decorations in the sitting room.
+Hello, Mommy.
+Oh, there you all are. 
+I was getting a little bored.
+Mommy, would you like to have a nice walk in the garden?
+Do I have any choice?
+Nope.
+Bye-bye, Mommy! 
+Have a lovely walk!
+We'll call you when it's safe to come back in.
+I've forgotten what hard work birthdays were.
+Daddy Pig, Peppa, and George are decorating the sitting room.
+This is fun!
+Granny Pig and Grandpa Pig have arrived for Mommy Pig's birthday.
+Happy birthday, Mommy Pig!
+Aren't you coming inside?
+Oh, I can't come in yet.
+Daddy Pig, Peppa, and George are doing secret things for my birthday.
+How lovely! 
+See you later.
+Bye!
+Mommy, would you like to come inside now?
+I'd love to.
+Close your eyes.
+Keep your eyes closed, Mommy.
+One, 
+two, 
+three... 
+open your eyes!
+Happy birthday, Mommy!
+What a lovely surprise!
+Blow the candles out 
+and make a wish.
+Mommy, Mommy, open your present.
+Can you guess what it is?
+I've no idea.
+Open it and see.
+It's a beautiful dress!
+You're beautiful, Mommy!
+Now you just need somewhere nice to wear it.
+What's this? 
+Two tickets to the theater 
+tonight!
+Thank you!
+Mommy Pig loves going to the theater.
+And Granny Pig and I are going to babysit the little ones.
+Hooray!
+What a super birthday!
+I'm the luckiest mommy in the whole world!
+And the most beautiful.

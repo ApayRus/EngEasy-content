@@ -1,57 +1,76 @@
 ---
 type: richVideo
-title: Snow (s01e26)
-description: >-
-  Peppa and George have fun in the snow, throwing snowballs and making a
-  snowman.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e26-snow.mp4'
+title: "Snow (s01e26)"
+description: "Peppa and George have fun in the snow, throwing snowballs and making a snowman."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e26-snow.mp4"
 ---
 
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+This is my little brother George,
+this is Mommy Pig,
+and this is Daddy Pig.
+Peppa Pig:
 Snow.
-It is winter.
-Peppa and George are looking out of the window.
-Look, George, it's snowing.
-Snow!
-Peppa and George want to go outside.
-Can we go out in the snow, Mummy?
-Yes, you can, but you must dress up warm.
-Mummy Pig is putting on Peppa and George's coats.
-Don't forget your hats and scarves.
-And you must wear your boots.
-Peppa and George are ready to go outside.
-Look, everything is white.
-Peppa and George are running on the snow.
-It's very cold.
-Look at my footprints.
-George wants to make footprints too.
-Look, George, I can make a snowball.
-Peppa throws a snowball at George.
-George likes snowballs.
-George throws a snowball at Peppa.
-That's not fair, George, you're too little.
+Peppa and George are very excited today.
+It is snowing outside.
+Mommy, 
+can we go play in the snow?
+Yes, but it's very cold outside, 
+so you must wrap up warm.
+And don't forget to wear your hats and scarves and gloves.
+It is very cold outside, 
+Peppa and George must wear their hats 
+and scarves 
+and gloves.
+Come on George! 
+Peppa and George are making footprints in the snow.
+Peppa and George love making footprints in the snow.
+Oh dear,
+It's not funny.
+George, 
+Let's play snowballs.
+Peppa has made a snowball.
+Peppa and George are having a lot of fun.
+George,
+Come back a little piggie
+Oh dear
+Maybe this game is getting a little too rough.
+Sorry George. 
+George, let's do a snowman! 
 Peppa and George are making a snowman.
-First, we need a big snowball for the body.
-Daddy Pig comes outside.
-Hello, Peppa. Hello, George. Are you making a snowman?
-Yes, Daddy, but we need a head.
-I can help with that.
-Daddy Pig makes a snowball for the head.
-Now the snowman has a body and a head.
-What else does he need?
-He needs some eyes.
-Peppa finds two stones for the eyes.
-And a nose.
-George finds a carrot for the nose.
-What about his clothes?
-He needs a hat and a scarf.
-Daddy Pig gives the snowman his hat and scarf.
-Now the snowman looks very smart.
-Look, the snowman is wearing Daddy's hat.
-Daddy Pig is getting a bit cold.
-I think it's time to go inside and have some warm drink.
-Good idea, Daddy Pig.
-Peppa and George love playing in the snow.
-Everyone loves playing in the snow.
-Peppa Pig.
+First, they make the body.
+George, this is the snowman's body.
+Now, they make the snowman's head.
+Now, he needs arms and eyes and a mouth.
+George has found some sticks for the snowman's arms.
+Peppa has found some stones for the snowman's eyes and mouth.
+This is his face. 
+Now, the snowman needs a nose.
+Peppa has got a carrot 
+to make the snowman's nose.
+The snowman looks very happy.
+But maybe he is a bit cold.
+The snowman needs some clothes 
+to keep him warm.
+George has found some clothes to keep the snowman nice and warm.
+The snowman is wearing his hat 
+and scarf, 
+and gloves.
+Mommy, Daddy, 
+come and look. 
+Mummy Pig is wearing her hat 
+and scarf 
+and gloves.
+That is the best snowman I have ever seen.
+Daddy Pig looks quite cold.
+He isn't wearing his hat and scarf and gloves.
+Daddy, why aren't you wearing your hat 
+and scarf and gloves?
+I don't know where they are.
+I can't find them anywhere.
+I think I know where Daddy's hat, scarf, and gloves are.
+Daddy Pig's hat and scarf and gloves 
+are on the snowman.
+I want to be a nurse.
+I want to be a doctor.
+But who's going to be the sick person?

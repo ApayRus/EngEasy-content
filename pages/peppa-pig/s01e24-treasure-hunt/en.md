@@ -1,75 +1,111 @@
 ---
 type: richVideo
-title: Treasure Hunt (s01e24)
-description: Granny and Grandpa Pig prepare a treasure hunt for Peppa and George.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e24-treasure-hunt.mp4'
+title: "Treasure Hunt (s01e24)"
+description: "Granny and Grandpa Pig prepare a treasure hunt for Peppa and George."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e24-treasure-hunt.mp4"
 ---
 
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
-Treasure Hunt.
+This is my little brother George.
+This is Mommy Pig.
+And this is Daddy Pig.
+Peppa Pig: 
+Treasure Hunt!
 Granny Pig and Grandpa Pig are making a treasure hunt for Peppa and George.
-Grandpa Pig is hiding the treasure.
 Granny Pig is drawing the treasure map.
-Are you ready, Grandpa Pig?
-Yes, Granny, the treasure is hidden.
-Peppa and George have arrived.
-Hello, Granny Pig. Hello, Grandpa Pig.
-Hello, my little piggies.
-We've made a treasure hunt for you.
-Hurrah!
-Here is your treasure map.
-You must find the clues to get to the treasure.
-Look, Peppa, there is a cross on the map.
-That's where the first clue is.
-Where is the cross?
-It's next to the apple tree.
-Come on, George.
-Peppa and George run to the apple tree.
-I've found it.
-It's a little box.
-What's inside, Peppa?
-It's a message.
-What does it say?
-It has a picture of a flower.
-The next clue must be near the flowers.
-Let's look in the flowerbed.
-Peppa and George are looking for the next clue.
-George has found something.
-Look, George has found another box.
-Well done, George.
-What's inside?
-It's a key.
-A key? What is it for?
-Look at your map, Peppa.
-The map shows a key and a wheelbarrow.
-The key must be for something near the wheelbarrow.
-Come on.
-Peppa and George run to Grandpa Pig's wheelbarrow.
-There is a big box in the wheelbarrow.
-And it has a lock.
-Let's see if the key fits.
-Peppa puts the key in the lock.
-It fits.
-Peppa opens the box.
-What's inside?
-It's another message.
-This is the last clue.
-It says, "Look under the big stone."
-Where is the big stone?
-It's over there, near the pond.
-Peppa and George run to the big stone.
-It's too heavy to lift.
-Grandpa Pig, can you help us, please?
-Of course I can.
-Grandpa Pig lifts the big stone.
-Look, there's a chest.
-The treasure chest.
-Open it, Peppa.
-Peppa opens the treasure chest.
-Wow, gold coins.
-Chocolate gold coins.
-Everyone loves chocolate gold coins.
-Thank you, Granny Pig. Thank you, Grandpa Pig.
-That was the best treasure hunt ever.
-Peppa Pig.
+Grandpa Pig is burying the treasure in a secret place in the garden.
+Grandpa Pig, have you finished?
+Peppa and George will be here soon.
+No need to panic, Granny Pig.
+Peppa and her family are here.
+Quick, Grandpa Pig, 
+they're here!
+Almost done.
+Grandpa Pig just finished in time.
+Granny Pig, 
+we're here!
+Gangy ‘ig!
+Hello, my little ones!
+Grandpa Pig!
+Papa ‘ig!
+Ahoy there, me hearties!
+Peppa, George, 
+we've made you a treasure hunt.
+Somewhere in the garden is buried treasure.
+Wow, treasure!
+Where is it?
+You have to look for it.
+Here's a treasure map for Peppa.
+And George can wear my pirate hat!
+Ahoy there, Captain George!
+The map is a bit difficult.
+Daddy, can you help?
+Of course, Peppa, I'm very good with maps.
+It is a bit difficult.
+Daddy Pig, you're holding the map upside down.
+Yes, I thought as much.
+It's easy.
+The red cross shows where the treasure is.
+But where in the garden are those two apple trees?
+I don't know.
+Would you like a clue?
+Yes, please.
+The first clue is in a bottle.
+But where is the bottle?
+I can see it!
+Peppa has found the first clue: 
+a message in a bottle.
+Look, everyone, here's the bottle.
+Well done, Peppa.
+Let's see what the message says.
+It's a message from a pirate.
+Mommy, can you read the pirate's message?
+This pirate has very bad handwriting.
+The pirate's handwriting is excellent.
+No, I can't make it out at all.
+The pirate has clearly written: 
+follow the arrows.
+Follow the arrows?
+George has found the second clue: 
+sticks in the shape of an arrow.
+Look, they point this way.
+Peppa and George are following the arrows.
+Look, George, a key!
+Peppa has found the next clue: 
+a key.
+Well done, Peppa.
+Now you just have to find the treasure chest 
+that it unlocks.
+But there aren't any more clues.
+Maybe you should take another look at the map.
+Look, Peppa, 
+the map has two apple trees on it.
+Here's an apple tree, 
+and here's an apple tree.
+So the treasure must be here.
+Let's take a look.
+Oh, dear, 
+there doesn't seem to be anything here.
+Hang on, 
+there is something here.
+Wow, 
+treasure!
+Great, 
+well done!
+I've got the key to open it.
+Wow, 
+I can't believe it, 
+gold coins!
+They must be worth a fortune!
+It's better than that.
+They're not gold coins, 
+they are chocolate coins!
+And there's a chocolate coin for everybody.
+Hooray! 
+Peppa and George love chocolate coins.
+Everyone loves chocolate coins.
+Granny, Grandpa, 
+this is the best treasure hunt ever!
+I want to be a nurse.
+I want to be a doctor.
+But who's going to be the sick person?

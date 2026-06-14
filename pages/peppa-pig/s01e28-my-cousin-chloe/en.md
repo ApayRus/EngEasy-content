@@ -1,14 +1,15 @@
 ---
 type: richVideo
-title: My Cousin Chloé (s01e28)
-description: Peppa finds the "grown-up" games that Chloe Pig knows are quite difficult.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e28-my-cousin-chloe.mp4'
+title: "My Cousin Chloé (s01e28)"
+description: "Peppa finds the \"grown-up\" games that Chloe Pig knows are quite difficult."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e28-my-cousin-chloe.mp4"
 ---
 
-Вот текст серии «My Cousin Chloé» (по ТВ-версии это Сезон 1, Серия 28) без таймкодов, без длинных тире и с каждым предложением на новой строке:
-
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
+Peppa Pig: 
 My Cousin Chloé.
 Peppa and George are playing in the garden.
 Cousin Chloé is coming to visit today.

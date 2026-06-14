@@ -1,80 +1,99 @@
 ---
 type: richVideo
-title: Windy Castle (s01e27)
-description: >-
-  The family go to Windy Castle and see Granny and Grandpa Pig's house. On the
-  way, they play the I spy game.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e27-windy-castle.mp4'
+title: "Windy Castle (s01e27)"
+description: "The family go to Windy Castle and see Granny and Grandpa Pig's house. On the way, they play the I spy game."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e27-windy-castle.mp4"
 ---
 
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
-Windy Castle.
-Peppa and her family are going to Windy Castle.
-What is Windy Castle, Daddy?
+This is my little brother George.
+This is Mommy Pig.
+And this is Daddy Pig.
+Peppa Pig:
+Windy Castle!
+Peppa and her family are going out for the day.
+Peppa, George, 
+today we're going to Windy Castle.
+What's Windy Castle, Daddy?
 It's a castle on a very high hill.
-You can see for miles from the top.
-Is it far away?
-No, it's not far.
-But we need to look at the map to find the way.
-Daddy Pig is looking at the map.
-Are we nearly there yet?
-Not yet, Peppa.
-First, we go straight on, then we turn left.
-Daddy Pig is driving the car.
-Look, there's a big hill ahead.
-Is that Windy Castle, Daddy?
-No, Peppa, that's just a regular hill.
-Windy Castle is much higher than that.
-It is getting very windy.
-Look at the trees waving.
-Wwwoooo!
-George is pretending to be the wind.
-The car is climbing up a very steep road.
-Are we nearly there now?
-Yes, look, there it is.
-Windy Castle is on the very top of the hill.
-Peppa and her family have arrived at Windy Castle.
-It is very, very windy.
-Hold onto your hats.
-Peppa and George run up to the castle.
-Look, it's a big stone castle.
-Let's go to the top.
-Peppa and her family are climbing the stairs to the top of the tower.
-Wow, look at the view.
-You can see everything from up here.
-Look, there's Granny and Grandpa's house.
-Where, Peppa? I can't see it.
-It's over there, next to the little river.
-Oh, yes, I see it now.
-And look, there's a telescope.
-Daddy Pig lets Peppa look through the telescope.
-Wow, everything looks so close.
-I can see Granny Pig.
-She's waving at us.
-Hello, Granny Pig!
-She can't hear you, Peppa, she's too far away.
-Let me have a look.
-Daddy Pig looks through the telescope.
-Oh, dear.
-What's wrong, Daddy?
-I can't see anything.
-It's all blurry.
-That's because you're looking at your own finger, Daddy.
-Oh, so I am.
-Now I can see Granny and Grandpa's house.
-And look, Granny is calling us on the phone.
-Mummy Pig answers the phone.
-Hello, Granny Pig.
-Hello, Mummy Pig. I saw you all at Windy Castle.
-We saw you too.
-Come over for tea when you leave the castle.
-We'd love to. Bye-bye.
-Bye-bye.
-It is time to leave Windy Castle.
-Peppa and her family get back into the car.
-I like Windy Castle.
-You can see the whole world from the top.
-Peppa and George love visiting Windy Castle.
-Everyone loves visiting Windy Castle.
-Peppa Pig.
+George likes castles.
+Windy Castle sounds like a boring thing for boys.
+No, Peppa, you'll love it.
+There's a great view from the top of Windy Castle.
+You can even see Granny and Grandpa's house.
+Wow! Let's go!
+I'll map read and Mommy Pig will drive.
+Are you sure, Daddy Pig?
+When you map read, we always get lost and you get grumpy.
+We will not get lost and I will not get grumpy.
+Windy Castle, here we come!
+Are we there yet?
+Not quite.
+Oh, would you like to play a game?
+Yes, please.
+Let's play I Spy.
+Okay, I'll go first.
+Daddy Pig has to secretly look at something and the others have to guess what it is.
+I spy with my little eye something colored red.
+Red? My dress! That's red!
+No, it's not your dress.
+Hmm, the car! That's right, our red car.
+My turn.
+I spy with my little eye something blue.
+Hmm, George's blue shirt?
+Nope.
+Is it something in the car?
+No.
+Give up?
+Yes.
+The sky! The blue sky! I win!
+Daddy Pig, do you know where we are?
+I know exactly where we are.
+Although, this road doesn't look the same as it does on the map.
+Oh, Daddy Pig, we're lost!
+We are not lost.
+So, how do we get to Windy Castle from here?
+Just give me a moment.
+I know, we can ring Granny and Grandpa.
+There's no need to ring Granny and Grandpa.
+I'll get us to Windy Castle if it takes me all day.
+We haven't got all day.
+Hello, Grandpa Pig speaking.
+Grandpa Pig, we've got a bit lost on the way to Windy Castle.
+Oh, is Daddy Pig doing the map reading?
+Yes, Daddy Pig is doing the map reading and he's a bit grumpy at the moment.
+I am not grumpy.
+This is the best route.
+Keep on the main road until you see Windy Castle up ahead.
+Thank you, Grandpa Pig.
+We follow the main road and look out for Windy Castle.
+As I thought.
+Look, is that a castle?
+Yes, it's Windy Castle.
+Come on, car! Come on, car, you can make it!
+Hooray, Peppa and her family have arrived at Windy Castle.
+Wow, it's so tall!
+Let's go inside.
+The view from the top is fantastic.
+Wow, look at the view!
+Mommy, is that Granny and Grandpa's house?
+Yes, it is.
+It's so far away.
+Let's take a look through the telescope.
+Can I look first, please?
+Yes, but you must let George look next.
+Wow, the telescope makes everything look bigger.
+I can see Granny and Grandpa.
+Look, George! Granny Pig! Grandpa Pig!
+George is waving at Granny and Grandpa.
+Silly George, Granny and Grandpa are too far away to see you waving.
+I know, we can ring them.
+Hello, Grandpa Pig.
+We can see you from Windy Castle.
+Wave at us!
+Granny and Grandpa are waving at us.
+I love Windy Castle.
+Hello, Polly.
+Hello, Polly.
+What a sweet little parrot.
+What a sweet little parrot.
