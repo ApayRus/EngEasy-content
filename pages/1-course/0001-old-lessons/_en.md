@@ -7,8 +7,8 @@ pageTitlePrimary: false
 pageTitleSecondary: true
 pageDescriptionPrimary: false
 pageDescriptionSecondary: true
-itemTitlePrimary: true
+itemTitlePrimary: false
 itemTitleSecondary: true
 itemDescriptionPrimary: false
-itemDescriptionSecondary: false
+itemDescriptionSecondary: true
 ---
