@@ -1,0 +1,12 @@
+---
+type: richVideo
+title: "Chasing the Competitor"
+description: "Puss in Boots"
+mediaLink: "https://archive.org/download/puss-in-boots-31/4.mp4"
+---
+
+You are going to pay for this!
+No!
+Chupacabra!
+Chupacabra! Chupacabra!
+- Chupacabra! - You are a crazy woman!

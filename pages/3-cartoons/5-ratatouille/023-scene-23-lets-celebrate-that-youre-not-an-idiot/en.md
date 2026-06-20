@@ -1,0 +1,25 @@
+---
+type: richVideo
+title: "Let's Celebrate That You're Not an Idiot"
+description: "Ratatouille"
+mediaLink: "https://archive.org/download/ratatouille-scenes-42/23.mp4"
+---
+
+Drink now, there's plenty.
+Take a break, Little Chef. Get some air.
+We really did it tonight.
+Got your toque.
+Oh, seriously now.
+I'd love to have a little talk with you, Linguini, in my office.
+- Am I in trouble? - Trouble? No.
+A little wine, a friendly chat. Just us cooks.
+The plongeur won't be coming to you for advice anymore, eh, Colette?
+He's gotten all he needs.
+Toasting your success, eh, Linguini?
+Good for you.
+I just took it to be polite. I don't really drink, you know.
+Of course you don't. I wouldn't either if I was drinking that.
+But you would have to be an idiot of elephantine proportions
+not to appreciate this '61 Chateau Latour.
+And you, Monsieur Linguini, are no idiot.
+Let us toast your non-idiocy.

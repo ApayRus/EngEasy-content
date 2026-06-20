@@ -1,0 +1,22 @@
+---
+type: richVideo
+title: "Infiltrating the Castle"
+description: "Raya and the Last Dragon"
+mediaLink: "https://archive.org/download/raya-scenes-42/23.mp4"
+---
+
+(DRAMATIC MUSIC PLAYS)
+(LAUGHING AND TAUNTING)
+(CHITTERING AND SQUEAKING)
+(EXCLAIMING)
+(SUSPENSEFUL MUSIC PLAYING)
+All right, Dang Hai,
+I'll take that Dragon Gem piece.
+Whoa! I'm not Dang Hai.
+I'm Chai, the flower guy.
+Where is Dang Hai?
+(CHUCKLES) He's right over there.
+What? Who has his gem piece?
+(CHUCKLES) The most vicious chief
+Talon has ever seen.
+(DRAMATIC MUSIC PLAYS)

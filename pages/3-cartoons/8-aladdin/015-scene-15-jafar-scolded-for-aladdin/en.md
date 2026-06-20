@@ -1,0 +1,40 @@
+---
+type: richVideo
+title: 'Jafar Scolded for Aladdin'
+description: 'Aladdin'
+mediaLink: 'https://archive.org/download/27_20260619_20260619/15.mp4'
+---
+
+Jafar, this is an outrage.
+If it weren't for all your years of loyal service...
+From now on, you are to discuss sentencing of prisoners with me,
+before they are beheaded.
+I assure you, Your Highness, it won't happen again.
+Jasmine...
+Jafar. Let's put this whole messy business behind us.
+Please.
+My most abject and humblest apologies to you as well, Princess.
+At least some good will come of my being forced to marry.
+When I am queen, I will have the power to get rid of you.
+There, now. That's nice. All settled, then.
+Now, Jasmine, getting back to this suitor business... Jasmine?
+Jasmine!
+If only I had gotten that lamp.
+"I will have the power to get rid of you. "
+To think we gotta keep kissing up
+to that chump and his chump daughter
+
+- for the rest of our lives... - No, Iago.
+  Only until she finds a chump husband.
+  Then she'll have us banished.
+  Or beheaded.
+  Wait a minute. Jafar.
+  What if you were the chump husband?
+  What?
+  Okay, you marry the princess, all right?
+  And then you become the sultan.
+  Marry the shrew.
+  I become the sultan.
+- The idea has merit. - Yes, merit. Yes.
+  And then we drop papa-in-law and the little woman off a cliff.
+  I love the way your foul little mind works.

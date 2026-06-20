@@ -1,0 +1,83 @@
+---
+type: richVideo
+title: "Recruiting the Fox"
+description: "Zootopia"
+mediaLink: "https://archive.org/download/zootopia-scenes-36/14.mp4"
+---
+
+Here you go.
+One missing otter.
+That's it?
+Yikes! That is the smallest case file I've ever seen.
+Leads, none. Witnesses, none.
+And you're not in the computer system yet...
+so resources, none!
+Oh, I hope you didn't stake your career...
+on cracking this one!
+Okay. Last known sighting.
+Can I just borrow... Thank you.
+Popsicle?
+The murder weapon.
+Get your Popsicle.
+Yeah. Because that... What does that mean?
+It means...
+I have a lead.
+Hi! Hello? It's me, again!
+Hey, it's Officer Toot-Toot.
+No. Actually, it's Officer Hopps...
+and I'm here to ask you some questions about a case.
+What happened, meter maid?
+Did someone steal a traffic cone?
+It wasn't me.
+Hey, Carrots, you're going to wake the baby.
+I gotta get to work.
+This is important, sir.
+I think your $10 worth of popsicles can wait.
+I make 200 bucks a day, Fluff!
+365 days a year, since I was 12.
+And time is money. Hop along.
+Please, just look at the picture.
+You sold Mr. Otterton that Popsicle, right?
+Do you know him?
+I know everybody.
+And I also know that, somewhere...
+there's a toy store missing its stuffed animal...
+so why don't you get back to your box?
+Fine. Then we'll have to do this the hard way.
+Did you just boot my stroller?
+Nicholas Wilde, you are under arrest.
+Ha! For what? Hurting your feelings?
+Felony Tax Evasion.
+Yeah, $200 a day, 365 days a year...
+since you were 12.
+That's two decades, so times 20...
+which is $ 1,460, 000, I think.
+I mean, I am just a dumb bunny...
+but we are good at multiplying.
+Anyway, according to your tax forms...
+you reported, let me see here... zero!
+Unfortunately, lying on a federal form...
+is a punishable offense.
+Five years jail time.
+Well, it's my word against yours.
+200 bucks a day, Fluff!
+365 days a year, since I was 12.
+Actually, it's your word against yours.
+And if you want this pen, you're going to help me...
+find this poor, missing otter...
+or the only place you'll be selling popsicles...
+is the prison cafeteria.
+It's called a hustle, sweetheart.
+She hustled you.
+She hustled you good!
+You a cop now, Nick. You gonna need one of these.
+Have fun...
+working with the fuzz!
+Start talking.
+I don't know where he is.
+I only saw where he went.
+Great. Let's go.
+It's not exactly a place for, uh...
+a cute little bunny.
+Don't call me cute. Get in the car.
+Okay. You're the boss.

@@ -1,0 +1,47 @@
+---
+type: richVideo
+title: "29. Marty Bar"
+description: "Madagascar"
+mediaLink: "https://archive.org/download/madagascar-scenes-40/29.mp4"
+---
+
+I know. And then...
+- It's him. - Who is it?
+It's the pizza man. Who the heck do you think it is?
+Yes? Can I help you?
+Can I come to the fun side?
+Beg your pardon?
+You know, I've been kind of a jerk.
+But I've been thinking about what you said, and I'm sorry.
+Welcome to Casa del Wild. Take a load off.
+Hey, hey, wipe your feet.
+- Alex! - Mi casa is su casa.
+Very impressive.
+Hey, have a drink. It's on the house.
+This is seawater.
+Oh, you don't swallow it.
+It's just temporary till the plumbing's done.
+Hey, y'all look hungry.
+How would you like some of nature's goodness?
+You have food?
+The Fun Side Special, coming up.
+Seaweed on a stick.
+Seaweed?
+On a stick. Don't love it till you try it.
+That's unbelievable.
+- So good. - Well, thanks.
+It does kind of hit the spot, doesn't it?
+Well, maybe it could use a little lemon.
+No, it's great. It's really great. Doesn't get any better than this.
+Oh, but it does.
+Check this out.
+Wow. Would you look at that.
+It's like billions and billions of helicopters.
+It's a shooting star. Make a wish. Quick!
+How about a thick, juicy steak?
+You know what, Alex?
+I promise you I'm going to find you a steak tomorrow if it kills me.
+Thanks, Marty.
+It is getting late. I guess I'm going to...
+I think I'm going to hit the sack too.
+Sweet dreams, everyone.

@@ -1,0 +1,33 @@
+---
+type: richVideo
+title: "Setting Things Right"
+description: "Zootopia"
+mediaLink: "https://archive.org/download/zootopia-scenes-36/34.mp4"
+---
+
+Emmitt.
+Oh, Emmitt.
+Thank you.
+When I was a kid...
+...I thought Zootopia was this perfect place.
+Where everyone got along and anyone could be anything.
+Turns out...
+real life's a little bit more complicated...
+than a slogan on a bumper sticker
+Real life is messy.
+We all have limitations. We all make mistakes.
+Which means, hey, glass half-full...
+we all have a lot in common.
+And the more we try to understand one another...
+the more exceptional each of us will be.
+But we have to try.
+So, no matter what type of animal you are...
+from the biggest elephant...
+to our first fox...
+I implore you... Try.
+Try to make the world a better place.
+Look inside yourself...
+and recognize that change...
+starts with you.
+It starts with me.
+It starts with all of us.

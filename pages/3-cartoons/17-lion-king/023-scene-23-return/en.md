@@ -1,0 +1,28 @@
+---
+type: richVideo
+title: "Return"
+description: "The Lion King"
+mediaLink: "https://archive.org/download/lion-king-scenes-27/23.mp4"
+---
+
+Simba, wait up!
+-Ιt's awful, isn't it? -Ι didn't want to believe you.
+What made you come back?
+Ι finally got some sense knocked into me,
+and Ι've got the bump to prove it.
+Besides, this is my kingdom.
+Ιf Ι don't fight for it, who will?
+-Ι will. -Ιt's gonna be dangerous.
+Danger? Ι laugh in the face of danger.
+Ι see nothing funny about this.
+Timon! Pumbaa! What are you doing here?
+At your service, my liege.
+We're gonna fight your uncle for this?
+Yes, Timon. This is my home.
+Talk about your fixer-upper!
+Well, Simba, if it's important to you, we're with you to the end.
+Hyenas. Ι hate hyenas.
+So what's your plan for getting past those guys?
+-Live bait. -Good idea. Hey!
+Come on, Timon. You guys have to create a diversion.
+What do you want me to do, dress in drag and do the hula?

@@ -1,0 +1,55 @@
+---
+type: richVideo
+title: "Sisu's Death"
+description: "Raya and the Last Dragon"
+mediaLink: "https://archive.org/download/raya-scenes-42/36.mp4"
+---
+
+(TENSE MUSIC CONTINUES)
+(SOFT MUSIC PLAYING)
+I see you got my gift.
+I never thought I'd see this again.
+Well, uh...
+I tried to take good care of it.
+You're not the only dragon nerd here.
+(CHUCKLES)
+(SOFT TRIUMPHANT MUSIC PLAYING)
+(DRAMATIC MUSIC PLAYING)
+(BREATHES NERVOUSLY)
+The final piece.
+Time to bring everyone back.
+(WEAPON CREAKS)
+(INTENSE MUSIC PLAYING)
+Sisu and the gem pieces are coming with me.
+-Sisu! -Stay back!
+It was foolish to trust someone from Fang!
+Don't come any closer!
+Namaari,
+it doesn't have to be like this.
+I don't have any other choice.
+Hey. I got this.
+(SOFT MUSIC PLAYING)
+(NAMAARI BREATHING HEAVILY)
+I know you don't wanna hurt anybody.
+What are you doing?
+You just want a better world.
+Like we all do.
+Sisu...
+I trust you, Namaari.
+(SUSPENSEFUL MUSIC RISING)
+(RAYA GRUNTS)
+(NAMAARI EXCLAIMS)
+(EXCLAIMS) No!
+(TENSE MUSIC PLAYING)
+Sisu!
+(SPLASHES)
+No... (BREATHING HEAVILY)
+(BREATHING HEAVILY)
+(TENSE MUSIC RISING)
+What's happening?
+I don't know.
+It appears that with the last dragon gone,
+so too goes the water.
+Now there is nothing to stop the Druun.
+(OMINOUS MUSIC PLAYING)
+Nothing.

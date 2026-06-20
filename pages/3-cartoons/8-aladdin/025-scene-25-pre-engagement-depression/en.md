@@ -1,0 +1,62 @@
+---
+type: richVideo
+title: 'Pre-Engagement Depression'
+description: 'Aladdin'
+mediaLink: 'https://archive.org/download/27_20260619_20260619/25.mp4'
+---
+
+Sultan?
+They want me to be Sultan?
+Hail the conquering hero
+Aladdin, you've just won the heart of the princess.
+What are you gonna do next?
+Your line is, "I'm going to free the genie. "
+Any time.
+
+- Genie. I can't. - Sure you can.
+  You just go, "Genie, I wish you free. "
+  I'm serious.
+  Look, I'm sorry. I really am. But they wanna make me sultan.
+  No. They wanna make Prince Ali sultan.
+  Without you, I'm just Aladdin.
+- Al, you won. - Because of you.
+  The only reason anyone thinks I'm worth anything is because of you.
+  What if they find out I'm not really a prince?
+  What if Jasmine finds out? I'd lose her.
+  Genie, I can't keep this up on my own.
+  I can't wish you free.
+  Fine. I understand. After all, you've lied to everyone else.
+  Hey, I was beginning to feel left out.
+  Now, if you'll excuse me, master.
+  Genie, I'm really sorry.
+  Well, fine. Then just stay in there.
+  What are you guys looking at?
+  Look, I'm sorry.
+  Abu, I'm sorry. I didn't...
+  Wait. Come on.
+  What am I doing?
+  Genie's right.
+  I gotta tell Jasmine the truth.
+  Ali. Ali. Will you come here?
+  Well, here goes.
+  Jasmine? Where are you?
+  Out in the menagerie. Hurry.
+  I'm coming.
+  You got a problem, Pinky?
+  Jerk.
+  Boy, Jafar's gonna be happy to see you.
+  "Excellent work, lago. " Go on.
+  "No, really. On a scale of one to 10, you are an 11."
+  Jafar, you're too kind.
+  I'm embarrassed. I'm blushing.
+  People of Agrabah,
+  my daughter has finally chosen a suitor.
+  Jasmine.
+  Ali, where have you been?
+  Jasmine, there's something I got to tell you.
+  The whole kingdom's turned out for Father's announcement.
+  No. But, Jasmine, listen to me, please.
+- You don't understand... - Good luck.
+  Ali Ababwa!
+  Oh, boy.
+  Look at them, cheering that little pipsqueak.

@@ -1,0 +1,103 @@
+---
+type: richVideo
+title: "First Assignment"
+description: "Zootopia"
+mediaLink: "https://archive.org/download/zootopia-scenes-36/7.mp4"
+---
+
+Luxury apartments with charm.
+Complimentary delousing once a month.
+Don't lose your key.
+Thank you.
+Oh, hi! I'm Judy, your new neighbor.
+Yeah? Well, we're loud.
+Don't expect us to apologize for it.
+Greasy walls.
+Hey, shut up!
+Rickety bed.
+- You shut up! - You shut up!
+Will you shut up?
+Crazy neighbors.
+I said, "Shut up!"
+I love it!
+Shut your mouth, shut up.
+Shut up!
+Ah...
+Come on!
+He bared his teeth first!
+Mmm, mmm, mmm, mmm!
+Excuse me.
+Down here.
+Hi.
+O-M-Goodness!
+They really did hire a bunny! What!
+I gotta tell you, you are even cuter...
+than I thought you'd be!
+Oh, ah. You probably didn't know...
+but a bunny can call another bunny "cute"...
+but when other animals do it...
+it's a little...
+I am so sorry! Me, Benjamin Clawhauser...
+the guy everyone thinks is just a flabby...
+donut-loving cop, stereotyping you. Oh...
+No, it's okay. Oh, you've actually got...
+- There's a... - Um... A what?
+In your neck. The fold.
+- Where? Oh! - The... Mmm-hmm. Yes.
+There you went, you little dickens! Mmm.
+I should get to roll call, which way do I...?
+Oh, Bullpen's over there to the left.
+- Great. Thank you. - Aw...
+That poor little bunny's gonna get eaten alive.
+Hey, Officer Hopps.
+You ready to make the world a better place?
+Atten-hut!
+Hut! Hut! Hut!
+All right. All right! Everybody sit.
+I've got three items on the docket.
+First... we need to acknowledge...
+the elephant in the room.
+Francine...
+Happy birthday.
+Oh, yeah.
+Oh. Oh.
+Number two.
+There are some new recruits with us I should introduce...
+but I'm not going to...
+because I don't care.
+Finally, we have 14 missing mammal cases.
+All predators, from a giant polar bear...
+to a teensy little otter.
+And City Hall is right up my tail to find them.
+This is priority number one.
+Assignments.
+Officers Grizzoli...
+Fangmeyer, Delgato.
+Your teams take missing mammals...
+from the Rainforest District.
+Officers McHorn, Rhinowitz, Wolfard.
+Your teams take Sahara Square.
+Officers Higgins, Snarlov, Trunkaby.
+Tundratown.
+And finally, our first bunny...
+Officer Hopps.
+Parking Duty.
+Dismissed.
+Parking duty?
+- Chief! - Hmm.
+Chief Bogo?
+Sir, you said there were 14 missing mammal cases.
+- So? - So, I can handle one.
+You probably forgot...
+but I was top of my class at the Academy.
+Didn't forget. Just don't care.
+Sir, I'm not just some token bunny.
+Well, then writing 100 tickets a day...
+should be easy.
+100 tickets. I'm not gonna write 100 tickets.
+I'm gonna write 200 tickets.
+Before noon.
+Boom!
+200 tickets before noon!
+Oh...
+201.

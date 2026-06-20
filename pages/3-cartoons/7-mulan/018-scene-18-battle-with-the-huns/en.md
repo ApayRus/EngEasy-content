@@ -1,0 +1,57 @@
+---
+type: richVideo
+title: "Battle with the Huns"
+description: "Mulan"
+mediaLink: "https://archive.org/download/mulan-scenes-26/18.mp4"
+---
+
+What happened?
+You just gave away our position! Now we're...
+Get out of range!
+Save the cannons!
+Come on! Empty it! Empty it!
+Sure. Save the horse.
+Fire!
+Fire!
+Hold the last cannon.
+Prepare to fight. If we die, we die with honor.
+Yao, aim the cannon at Shan-Yu.
+Ping! Come back!
+Ping!
+Stop!
+All right. You might want to light that right about now.
+Quickly. Quickly!
+Come on! We gotta help!
+You missed! How could you miss?
+It was three feet in front of you!
+Mulan!
+Mulan!
+Mulan?
+No.
+Mulan!
+Man, you are one lucky bug.
+Shang!
+-Do you see them? -Yes.
+Perfect. Now we'll pull them to safety.
+Mulan! I found the lucky cricket!
+We need help.
+Nice. Very nice. You can sit by me.
+We're gonna die!
+We're gonna die! We are definitely gonna die.
+No way we survive this. Death is coming!
+I let them slip through my fingers.
+Pull!
+I knew we could do it. You the man!
+Sort of.
+Step back, guys. Give him some air.
+Ping?
+You are the craziest man I've ever met.
+And for that, I owe you my life.
+From now on, you have my trust.
+Let's hear it for Ping! The bravest of us all!
+You're king of the mountain!
+Yes, yes, yes!
+Ping! What's wrong?
+He's wounded! Get help!
+Ping, hold on.
+Hold on.

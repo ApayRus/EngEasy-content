@@ -1,6 +1,6 @@
 ---
-title: Dialogues on Various Topics
-description: Short practical dialogues grouped by everyday situations.
+title: Topics
+description: Real life situations giving you a vocabulary boost on a specific topic. Write to us in Telegram and we will add your topic to the collection
 listTitleMode: secondary
 listDescriptionMode: secondary
 pageTitlePrimary: false

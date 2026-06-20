@@ -1,0 +1,35 @@
+---
+type: richVideo
+title: "New Home"
+description: "Ratatouille"
+mediaLink: "https://archive.org/download/ratatouille-scenes-42/15.mp4"
+---
+
+So this is it.
+I mean, it's not much, but it's, you know...
+Not much.
+It could be worse.
+There's heat and light and a couch with a TV.
+So, you know, what's mine is yours.
+Are you...
+Is this a dream?
+The best kind of dream.
+One we can share.
+But why here?
+Why now?
+Why not here?
+Why not now?
+What better place to dream than in Paris?
+Morning, Little Chef. Rise and...
+Oh, no.
+Idiot! I knew this would happen!
+I let a rat into my place and tell him what's mine is his!
+Eggs, gone!
+Stupid! He's stolen food and hit the road! What did I expect?
+That's what I get for trusting a...
+Hi. Is that for me?
+That's good. What did you put in this?
+Where'd you get that?
+Look, it's delicious. But don't steal. I'll buy some spices, okay?
+no. We're going to be late. And on the first day!
+Come on, Little Chef!

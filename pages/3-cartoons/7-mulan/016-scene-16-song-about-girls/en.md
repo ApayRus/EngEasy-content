@@ -1,0 +1,41 @@
+---
+type: richVideo
+title: "Song about Girls"
+description: "Mulan"
+mediaLink: "https://archive.org/download/mulan-scenes-26/16.mp4"
+---
+
+For a long time we've been marching off to battle
+In our thundering herd we feel a lot like cattle
+Like a pounding beat our aching feet
+Aren't easy to ignore
+Think of instead
+A girl worth fighting for
+That's what I said.
+A girl worth fighting for
+I want her paler than the moon
+With eyes that shine like stars
+My girl will marvel at my strength
+Adore my battle scars
+I couldn't care less what she'll wear or what she looks like
+It all depends on what she cooks like
+Beef, pork, chicken
+Bet the local girls thought you were quite the charmer
+And I'll bet the ladies love a man in armor
+You can guess what we have missed the most
+Since we went off to war
+-What do we want? -A girl worth fighting for
+My girl will think I have no faults
+That I'm a major find
+How 'bout a girl who's got a brain
+Who always speaks her mind?
+My manly ways and turn of phrase
+Are sure to thrill her
+He thinks he's such a lady killer
+I've a girl back home who's unlike any other
+Yeah, the only girl who'd love him is his mother
+But when we come home in victory
+They'll line up at the door
+-What do we want? -A girl worth fighting for
+-Wish that I had -A girl worth fighting for
+A girl worth fighting...

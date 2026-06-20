@@ -1,0 +1,27 @@
+---
+type: richVideo
+title: "Note for Namaari"
+description: "Raya and the Last Dragon"
+mediaLink: "https://archive.org/download/raya-scenes-42/34.mp4"
+---
+
+If she refuses to help,
+we've just flushed our tactical advantage
+-into the dung pot. -I know.
+Yeah. She really has no reason to help us.
+I know!
+This jerky's terrible.
+I know!
+Are you sure those four miniature menaces
+will be successful?
+I don't know.
+(SUSPENSEFUL MUSIC PLAYING)
+-Huh? (GRUNTS AND GROANS) -(BODY THUDS)
+(SUSPENSEFUL MUSIC CONTINUES)
+Hmm?
+(GRUNTS)
+(SUSPENSEFUL MUSIC CONTINUES)
+(SUSPENSEFUL MUSIC RISING)
+(CHITTERING)
+Huh?
+(SOFT MUSIC PLAYING)

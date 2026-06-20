@@ -1,0 +1,27 @@
+---
+type: richVideo
+title: "Professional Jealousy"
+description: "Ratatouille"
+mediaLink: "https://archive.org/download/ratatouille-scenes-42/18.mp4"
+---
+
+That should do it.
+Congratulations. You were able to repeat your accidental success.
+But you'll need to know more than soup if you are to survive in my kitchen, boy.
+Colette will be responsible for teaching you how we do things here.
+Listen, I just want you to know
+how honored I am to be studying under such...
+No! You listen. I just want you to know exactly who you are dealing with.
+How many women do you see in this kitchen?
+Well, I...
+- Only me. Why do you think that is? - Well, I...
+Because haute cuisine is an antiquated hierarchy
+built upon rules written by stupid old men.
+Rules designed to make it impossible for women to enter this world.
+But still I'm here. How did this happen?
+Because, well, because you...
+Because I am the toughest cook in this kitchen.
+I've worked too hard for too long to get here
+and I am not going to jeopardize it for some garbage boy who got lucky.
+Got it?
+Wow!
