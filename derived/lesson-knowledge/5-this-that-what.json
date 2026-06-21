@@ -1,24 +1,18 @@
 {
   "generatedAt": "2026-06-20T22:55:16.132Z",
   "lesson": 5,
-  "slug": "5-to-be-wh-question",
+  "slug": "5-this-that-what",
   "path": [
     "course",
-    "to-be-wh-question"
+    "old-lessons",
+    "this-that-what"
   ],
-  "sourceFile": "content/pages/1-course/5-to-be-wh-question/en.md",
-  "sentenceCount": 46,
+  "sourceFile": "content/pages/1-course/0001-old-lessons/5-this-that-what/en.md",
+  "sentenceCount": 118,
   "knowledge": {
     "added": {
-      "grammar": [
-        "verbBe.present.question.wh"
-      ],
-      "morphology": [
-        "questionWord.base",
-        "article.base",
-        "noun.singular",
-        "demonstrative.singular"
-      ]
+      "grammar": [],
+      "morphology": []
     },
     "cumulative": {
       "grammar": [
@@ -26,8 +20,7 @@
         "verbBe.present.question",
         "verbBe.present.negative",
         "verbBe.present.question.negative",
-        "verbBe.present.question.negative.contracted",
-        "verbBe.present.question.wh"
+        "verbBe.present.question.negative.contracted"
       ],
       "morphology": [
         "verbBe.base",
@@ -40,11 +33,7 @@
         "contraction.short",
         "contraction.full",
         "fixedAdverb.base",
-        "interjection.base",
-        "questionWord.base",
-        "article.base",
-        "noun.singular",
-        "demonstrative.singular"
+        "interjection.base"
       ]
     }
   }

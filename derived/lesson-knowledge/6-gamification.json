@@ -1,24 +1,18 @@
 {
   "generatedAt": "2026-06-20T22:55:16.132Z",
-  "lesson": 5,
-  "slug": "5-to-be-wh-question",
+  "lesson": 6,
+  "slug": "6-gamification",
   "path": [
     "course",
-    "to-be-wh-question"
+    "info",
+    "gamification"
   ],
-  "sourceFile": "content/pages/1-course/5-to-be-wh-question/en.md",
-  "sentenceCount": 46,
+  "sourceFile": "content/pages/1-course/001-info/6-gamification/en.md",
+  "sentenceCount": 9,
   "knowledge": {
     "added": {
-      "grammar": [
-        "verbBe.present.question.wh"
-      ],
-      "morphology": [
-        "questionWord.base",
-        "article.base",
-        "noun.singular",
-        "demonstrative.singular"
-      ]
+      "grammar": [],
+      "morphology": []
     },
     "cumulative": {
       "grammar": [

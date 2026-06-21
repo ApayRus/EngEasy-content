@@ -1,24 +1,18 @@
 {
   "generatedAt": "2026-06-20T22:55:16.132Z",
-  "lesson": 5,
-  "slug": "5-to-be-wh-question",
+  "lesson": 28,
+  "slug": "28-present-continuous-question",
   "path": [
     "course",
-    "to-be-wh-question"
+    "old-lessons",
+    "present-continuous-question"
   ],
-  "sourceFile": "content/pages/1-course/5-to-be-wh-question/en.md",
-  "sentenceCount": 46,
+  "sourceFile": "content/pages/1-course/0001-old-lessons/28-present-continuous-question/en.md",
+  "sentenceCount": 90,
   "knowledge": {
     "added": {
-      "grammar": [
-        "verbBe.present.question.wh"
-      ],
-      "morphology": [
-        "questionWord.base",
-        "article.base",
-        "noun.singular",
-        "demonstrative.singular"
-      ]
+      "grammar": [],
+      "morphology": []
     },
     "cumulative": {
       "grammar": [
@@ -44,7 +38,9 @@
         "questionWord.base",
         "article.base",
         "noun.singular",
-        "demonstrative.singular"
+        "demonstrative.singular",
+        "preposition.base",
+        "conjunction.base"
       ]
     }
   }

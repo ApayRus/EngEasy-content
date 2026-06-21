@@ -1,20 +1,18 @@
 {
-  "generatedAt": "2026-06-20T22:55:16.131Z",
-  "lesson": 2,
-  "slug": "2-to-be-contracted",
+  "generatedAt": "2026-06-20T22:55:16.132Z",
+  "lesson": 3,
+  "slug": "3-to-be-negative",
   "path": [
     "course",
-    "to-be-contracted"
+    "old-lessons",
+    "to-be-negative"
   ],
-  "sourceFile": "content/pages/1-course/2-to-be-contracted/en.md",
-  "sentenceCount": 56,
+  "sourceFile": "content/pages/1-course/0001-old-lessons/3-to-be-negative/en.md",
+  "sentenceCount": 105,
   "knowledge": {
     "added": {
       "grammar": [],
-      "morphology": [
-        "contraction.short",
-        "contraction.full"
-      ]
+      "morphology": []
     },
     "cumulative": {
       "grammar": [

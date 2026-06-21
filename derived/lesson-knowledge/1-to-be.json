@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-05-24T23:39:37.555Z",
+  "generatedAt": "2026-06-20T22:55:16.131Z",
   "lesson": 1,
   "slug": "1-to-be",
-  "sourceFile": "content/pages/lessons/1-to-be/en.md",
+  "path": [
+    "course",
+    "to-be"
+  ],
+  "sourceFile": "content/pages/1-course/1-to-be/en.md",
+  "sentenceCount": 14,
   "knowledge": {
     "added": {
       "grammar": [

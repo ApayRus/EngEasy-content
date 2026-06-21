@@ -11,7 +11,8 @@ itemTitlePrimary: true
 itemTitleSecondary: true
 itemDescriptionPrimary: false
 itemDescriptionSecondary: false
+selfCheckAfterMaterials: true
 externalLink:
-  href: /syllabus
+  href: /course/syllabus
   title: Краткое содержание курса
 ---

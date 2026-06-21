@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-05-24T23:39:37.557Z",
+  "generatedAt": "2026-06-20T22:55:16.132Z",
   "lesson": 6,
   "slug": "6-where",
-  "sourceFile": "content/pages/lessons/6-where/en.md",
+  "path": [
+    "course",
+    "where"
+  ],
+  "sourceFile": "content/pages/1-course/6-where/en.md",
+  "sentenceCount": 36,
   "knowledge": {
     "added": {
       "grammar": [],

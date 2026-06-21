@@ -1,20 +1,17 @@
 {
   "generatedAt": "2026-06-20T22:55:16.131Z",
   "lesson": 2,
-  "slug": "2-to-be-contracted",
+  "slug": "2-hotel",
   "path": [
-    "course",
-    "to-be-contracted"
+    "topics",
+    "hotel"
   ],
-  "sourceFile": "content/pages/1-course/2-to-be-contracted/en.md",
-  "sentenceCount": 56,
+  "sourceFile": "content/pages/5-topics/2-hotel/en.md",
+  "sentenceCount": 116,
   "knowledge": {
     "added": {
       "grammar": [],
-      "morphology": [
-        "contraction.short",
-        "contraction.full"
-      ]
+      "morphology": []
     },
     "cumulative": {
       "grammar": [
@@ -27,9 +24,7 @@
         "verbBe.present.singular.third",
         "verbBe.present.plural",
         "adjective.base",
-        "pronoun.subject",
-        "contraction.short",
-        "contraction.full"
+        "pronoun.subject"
       ]
     }
   }

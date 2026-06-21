@@ -1,29 +1,23 @@
 {
   "generatedAt": "2026-06-20T22:55:16.132Z",
   "lesson": 4,
-  "slug": "4-to-be-negative",
+  "slug": "4-a-an",
   "path": [
     "course",
-    "to-be-negative"
+    "old-lessons",
+    "a-an"
   ],
-  "sourceFile": "content/pages/1-course/4-to-be-negative/en.md",
-  "sentenceCount": 60,
+  "sourceFile": "content/pages/1-course/0001-old-lessons/4-a-an/en.md",
+  "sentenceCount": 100,
   "knowledge": {
     "added": {
-      "grammar": [
-        "verbBe.present.negative",
-        "verbBe.present.question.negative",
-        "verbBe.present.question.negative.contracted"
-      ],
+      "grammar": [],
       "morphology": []
     },
     "cumulative": {
       "grammar": [
         "verbBe.present.statement",
-        "verbBe.present.question",
-        "verbBe.present.negative",
-        "verbBe.present.question.negative",
-        "verbBe.present.question.negative.contracted"
+        "verbBe.present.question"
       ],
       "morphology": [
         "verbBe.base",

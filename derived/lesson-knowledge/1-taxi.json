@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-20T22:55:16.131Z",
+  "lesson": 1,
+  "slug": "1-taxi",
+  "path": [
+    "topics",
+    "taxi"
+  ],
+  "sourceFile": "content/pages/5-topics/1-taxi/en.md",
+  "sentenceCount": 84,
+  "knowledge": {
+    "added": {
+      "grammar": [],
+      "morphology": []
+    },
+    "cumulative": {
+      "grammar": [],
+      "morphology": []
+    }
+  }
+}

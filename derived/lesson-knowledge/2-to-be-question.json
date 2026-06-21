@@ -1,20 +1,18 @@
 {
-  "generatedAt": "2026-06-20T22:55:16.131Z",
+  "generatedAt": "2026-06-20T22:55:16.132Z",
   "lesson": 2,
-  "slug": "2-to-be-contracted",
+  "slug": "2-to-be-question",
   "path": [
     "course",
-    "to-be-contracted"
+    "old-lessons",
+    "to-be-question"
   ],
-  "sourceFile": "content/pages/1-course/2-to-be-contracted/en.md",
-  "sentenceCount": 56,
+  "sourceFile": "content/pages/1-course/0001-old-lessons/2-to-be-question/en.md",
+  "sentenceCount": 70,
   "knowledge": {
     "added": {
       "grammar": [],
-      "morphology": [
-        "contraction.short",
-        "contraction.full"
-      ]
+      "morphology": []
     },
     "cumulative": {
       "grammar": [
