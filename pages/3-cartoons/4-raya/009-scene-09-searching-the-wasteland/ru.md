@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Поиски в пустоши"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/9.mp4"
 ---
 

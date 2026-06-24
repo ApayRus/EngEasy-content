@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Another House"
-description: "Coraline"
 mediaLink: "https://archive.org/download/coraline-scenes-31/19.ia.mp4"
 ---
 

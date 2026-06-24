@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Бесчувственность"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/21.mp4"
 ---
 

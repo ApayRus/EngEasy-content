@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Открытие зоопарка"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/3.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Семейные претензии"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/25.mp4"
 ---
 

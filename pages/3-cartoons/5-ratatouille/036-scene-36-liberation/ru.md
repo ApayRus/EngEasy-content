@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Освобождение"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/36.mp4"
 ---
 

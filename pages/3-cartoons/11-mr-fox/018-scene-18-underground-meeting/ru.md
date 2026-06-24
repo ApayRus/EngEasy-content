@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Подземная встреча "
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/18.mp4"
 ---
 

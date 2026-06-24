@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Совет лемуров: подружиться с Нью-Йоркскими гигантами"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/27.mp4"
 ---
 

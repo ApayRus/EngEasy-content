@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Знакомство осла со Шреком"
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/3.mp4"
 ---
 

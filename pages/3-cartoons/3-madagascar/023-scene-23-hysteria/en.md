@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "23. Hysteria"
-description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/23.mp4"
 ---
 

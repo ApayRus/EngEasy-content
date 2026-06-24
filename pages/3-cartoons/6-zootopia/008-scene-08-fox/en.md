@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Fox"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/8.mp4"
 ---
 

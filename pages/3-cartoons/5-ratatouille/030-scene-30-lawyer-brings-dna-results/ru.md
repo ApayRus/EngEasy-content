@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Адвокат приносит результат ДНК"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/30.mp4"
 ---
 

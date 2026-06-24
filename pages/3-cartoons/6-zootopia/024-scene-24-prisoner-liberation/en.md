@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Prisoner Liberation"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/24.mp4"
 ---
 

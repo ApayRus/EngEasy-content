@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "План похищения"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/5.mp4"
 ---
 

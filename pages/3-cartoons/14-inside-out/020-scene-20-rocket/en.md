@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Rocket"
-description: "Inside Out"
 mediaLink: "https://archive.org/download/inside-out-25/20.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Race"
-description: "Puss in Boots"
 mediaLink: "https://archive.org/download/puss-in-boots-31/14.mp4"
 ---
 

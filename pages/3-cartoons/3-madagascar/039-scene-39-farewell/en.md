@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "39. Farewell"
-description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/39.mp4"
 ---
 

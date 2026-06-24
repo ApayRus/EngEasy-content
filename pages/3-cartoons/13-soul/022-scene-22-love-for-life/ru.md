@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: 'Любовь к жизни'
-description: 'Душа'
 mediaLink: 'https://archive.org/download/30_20260619_202606/22.mp4'
 ---
 

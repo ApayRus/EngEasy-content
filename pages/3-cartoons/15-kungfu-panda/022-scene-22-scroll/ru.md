@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Свиток"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/22.mp4"
 ---
 

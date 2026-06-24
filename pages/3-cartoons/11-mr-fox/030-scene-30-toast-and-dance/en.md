@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Toast and Dance"
-description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/30.mp4"
 ---
 

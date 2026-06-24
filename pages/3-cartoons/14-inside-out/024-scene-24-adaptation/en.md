@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Adaptation"
-description: "Inside Out"
 mediaLink: "https://archive.org/download/inside-out-25/24.mp4"
 ---
 

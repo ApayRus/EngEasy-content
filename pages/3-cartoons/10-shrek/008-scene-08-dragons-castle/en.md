@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Dragon's Castle"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/8.mp4"
 ---
 

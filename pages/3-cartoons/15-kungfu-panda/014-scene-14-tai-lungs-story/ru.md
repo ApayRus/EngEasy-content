@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "История Тай Лунга"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/14.mp4"
 ---
 

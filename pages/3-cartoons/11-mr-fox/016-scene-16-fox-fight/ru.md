@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Разборка лисят"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/16.mp4"
 ---
 

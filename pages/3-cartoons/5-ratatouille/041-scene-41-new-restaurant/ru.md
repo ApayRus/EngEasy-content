@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Новый ресторан"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/41.mp4"
 ---
 

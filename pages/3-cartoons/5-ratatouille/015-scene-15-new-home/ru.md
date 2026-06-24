@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Новый дом"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/15.mp4"
 ---
 

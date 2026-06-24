@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Новая школа"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/6.mp4"
 ---
 

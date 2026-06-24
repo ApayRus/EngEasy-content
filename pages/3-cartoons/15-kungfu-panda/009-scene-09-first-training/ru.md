@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Первая тренировка"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/9.mp4"
 ---
 

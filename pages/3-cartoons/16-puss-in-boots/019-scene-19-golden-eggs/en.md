@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Golden Eggs"
-description: "Puss in Boots"
 mediaLink: "https://archive.org/download/puss-in-boots-31/19.mp4"
 ---
 

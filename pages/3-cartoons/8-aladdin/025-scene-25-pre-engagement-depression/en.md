@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: 'Pre-Engagement Depression'
-description: 'Aladdin'
 mediaLink: 'https://archive.org/download/27_20260619_20260619/25.mp4'
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Secret Ingredient"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/23.mp4"
 ---
 

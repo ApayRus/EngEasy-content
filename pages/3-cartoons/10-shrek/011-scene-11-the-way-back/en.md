@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "The Way Back"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/11.mp4"
 ---
 

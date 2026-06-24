@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Титры с песней"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/28.mp4"
 ---
 

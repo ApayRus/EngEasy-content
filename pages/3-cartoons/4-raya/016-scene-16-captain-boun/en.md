@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Captain Boun"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/16.mp4"
 ---
 

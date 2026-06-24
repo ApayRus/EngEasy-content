@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Выступление мэра"
-description: "Остров собак"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/2.mp4"
 ---
 

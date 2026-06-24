@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Король и Марис в разведке"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/31.mp4"
 ---
 

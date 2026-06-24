@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Освобождение пленников"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/24.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Император в плену"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/22.mp4"
 ---
 

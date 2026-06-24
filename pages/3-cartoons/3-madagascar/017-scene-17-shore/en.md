@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "17. Shore"
-description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/17.mp4"
 ---
 

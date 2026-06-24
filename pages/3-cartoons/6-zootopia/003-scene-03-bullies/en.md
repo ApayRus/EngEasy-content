@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Bullies"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/3.mp4"
 ---
 

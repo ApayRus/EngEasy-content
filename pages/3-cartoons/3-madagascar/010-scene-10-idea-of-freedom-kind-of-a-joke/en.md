@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "10. Idea of Freedom - Kind of a Joke"
-description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/10.mp4"
 ---
 

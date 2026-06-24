@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Секретный зуб"
-description: "Остров собак"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/25.mp4"
 ---
 

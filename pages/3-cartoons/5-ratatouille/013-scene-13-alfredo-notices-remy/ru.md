@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Альфредо заметил Реми"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/13.mp4"
 ---
 

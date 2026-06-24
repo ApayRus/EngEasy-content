@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Family Found"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/24.mp4"
 ---
 

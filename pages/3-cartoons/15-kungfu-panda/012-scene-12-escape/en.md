@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Escape"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/12.mp4"
 ---
 

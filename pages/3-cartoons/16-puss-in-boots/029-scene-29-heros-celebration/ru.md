@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Чествование героя"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/29.mp4"
 ---
 

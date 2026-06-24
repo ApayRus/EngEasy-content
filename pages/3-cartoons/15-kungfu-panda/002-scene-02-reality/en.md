@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Reality"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/2.mp4"
 ---
 

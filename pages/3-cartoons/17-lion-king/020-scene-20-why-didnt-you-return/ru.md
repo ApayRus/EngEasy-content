@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Почему ты не вернулся?"
-description: "Король Лев"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/20.mp4"
 ---
 

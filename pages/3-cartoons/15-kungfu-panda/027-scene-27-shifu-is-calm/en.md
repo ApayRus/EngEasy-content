@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Shifu is Calm"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/27.mp4"
 ---
 

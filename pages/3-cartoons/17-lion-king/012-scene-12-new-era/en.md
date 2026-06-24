@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "New Era"
-description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/12.mp4"
 ---
 

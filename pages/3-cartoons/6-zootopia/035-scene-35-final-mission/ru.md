@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Последнее задание"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/35.mp4"
 ---
 

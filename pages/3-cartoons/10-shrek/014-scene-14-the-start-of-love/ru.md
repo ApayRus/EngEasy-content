@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Начало любви "
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/14.mp4"
 ---
 

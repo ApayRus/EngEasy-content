@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Numbness"
-description: "Inside Out"
 mediaLink: "https://archive.org/download/inside-out-25/21.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Полицейская академия"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/4.mp4"
 ---
 

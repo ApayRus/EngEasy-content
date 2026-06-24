@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Landing in Talon"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/20.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Укрощение воришек"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/22.mp4"
 ---
 

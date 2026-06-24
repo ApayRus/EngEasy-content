@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Simba is Alive"
-description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/17.mp4"
 ---
 

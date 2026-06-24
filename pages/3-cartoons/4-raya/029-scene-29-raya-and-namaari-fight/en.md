@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Raya and Namaari Fight"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/29.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Статуя свободы"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/26.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Destroyed Village"
-description: "Mulan"
 mediaLink: "https://archive.org/download/mulan-scenes-26/17.mp4"
 ---
 

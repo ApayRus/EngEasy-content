@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Ego Gives In"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/39.mp4"
 ---
 

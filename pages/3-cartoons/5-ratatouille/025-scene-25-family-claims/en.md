@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Family Claims"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/25.mp4"
 ---
 

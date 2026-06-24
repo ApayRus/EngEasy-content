@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Mayor's Speech"
-description: "Isle of Dogs"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/2.mp4"
 ---
 

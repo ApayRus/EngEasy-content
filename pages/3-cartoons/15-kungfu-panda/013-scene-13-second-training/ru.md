@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Вторая тренировка"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/13.mp4"
 ---
 

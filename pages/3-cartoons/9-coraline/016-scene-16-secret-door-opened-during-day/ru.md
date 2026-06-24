@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Потайная дверь открылась днем"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/16.ia.mp4"
 ---
 

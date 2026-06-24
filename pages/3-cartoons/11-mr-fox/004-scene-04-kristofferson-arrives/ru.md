@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Кристоферсон приехал"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/4.mp4"
 ---
 

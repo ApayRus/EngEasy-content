@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Battle with the Huns"
-description: "Mulan"
 mediaLink: "https://archive.org/download/mulan-scenes-26/18.mp4"
 ---
 

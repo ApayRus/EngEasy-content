@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Предательство Намаари"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/7.mp4"
 ---
 

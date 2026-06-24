@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Возвращение пингвинов"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/36.mp4"
 ---
 

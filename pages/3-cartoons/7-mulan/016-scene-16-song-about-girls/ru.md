@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Песня про девушек"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/16.mp4"
 ---
 

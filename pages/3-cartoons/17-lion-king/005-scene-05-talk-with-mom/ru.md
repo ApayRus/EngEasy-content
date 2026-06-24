@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Разговор с мамой"
-description: "Король Лев"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/5.mp4"
 ---
 

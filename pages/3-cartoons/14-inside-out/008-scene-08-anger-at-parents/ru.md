@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Злость на родителей"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/8.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Все кланы в гостях у Раи"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/5.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Знакомство"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/1.mp4"
 ---
 

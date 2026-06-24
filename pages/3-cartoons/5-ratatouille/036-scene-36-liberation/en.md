@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Liberation"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/36.mp4"
 ---
 

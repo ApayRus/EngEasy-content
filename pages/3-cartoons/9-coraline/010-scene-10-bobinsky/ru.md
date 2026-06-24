@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Бабитский"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/10.ia.mp4"
 ---
 

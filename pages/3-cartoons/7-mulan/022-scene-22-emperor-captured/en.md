@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Emperor Captured"
-description: "Mulan"
 mediaLink: "https://archive.org/download/mulan-scenes-26/22.mp4"
 ---
 

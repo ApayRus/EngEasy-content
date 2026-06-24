@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Journey to Rescue Princess Fiona"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/7.mp4"
 ---
 

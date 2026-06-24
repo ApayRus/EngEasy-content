@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Завтра будет новый день"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/11.mp4"
 ---
 

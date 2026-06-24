@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Stone at Granny's"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/24.mp4"
 ---
 

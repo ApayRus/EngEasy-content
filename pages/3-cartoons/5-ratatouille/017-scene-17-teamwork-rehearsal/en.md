@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Teamwork Rehearsal"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/17.mp4"
 ---
 

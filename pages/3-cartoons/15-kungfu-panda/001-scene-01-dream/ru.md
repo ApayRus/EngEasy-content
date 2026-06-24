@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Сон"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/1.mp4"
 ---
 

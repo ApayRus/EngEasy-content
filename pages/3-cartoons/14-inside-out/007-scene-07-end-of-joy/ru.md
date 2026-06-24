@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Конец радости"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/7.mp4"
 ---
 

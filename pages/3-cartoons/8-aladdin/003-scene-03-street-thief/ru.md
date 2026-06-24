@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: 'Уличный вор'
-description: 'Аладдин'
 mediaLink: 'https://archive.org/download/27_20260619_20260619/3.mp4'
 ---
 

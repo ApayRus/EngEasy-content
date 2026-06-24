@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Love Song"
-description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/19.mp4"
 ---
 

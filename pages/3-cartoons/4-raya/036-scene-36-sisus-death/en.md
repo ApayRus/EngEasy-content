@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Sisu's Death"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/36.mp4"
 ---
 

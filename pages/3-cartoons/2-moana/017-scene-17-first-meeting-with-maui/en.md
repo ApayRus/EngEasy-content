@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: '17. First meeting with Maui'
-description: 'Moana'
 mediaLink: 'https://archive.org/download/20_20260619_202606/17.mp4'
 ---
 

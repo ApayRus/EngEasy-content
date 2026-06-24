@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Новая эра"
-description: "Король Лев"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/12.mp4"
 ---
 

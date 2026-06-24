@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Дом Мулан"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/2.mp4"
 ---
 

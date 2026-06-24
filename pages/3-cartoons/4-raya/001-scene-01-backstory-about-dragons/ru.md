@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Предыстория о драконах"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/1.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Prison"
-description: "Puss in Boots"
 mediaLink: "https://archive.org/download/puss-in-boots-31/24.mp4"
 ---
 

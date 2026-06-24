@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Урок химии"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/6.mp4"
 ---
 

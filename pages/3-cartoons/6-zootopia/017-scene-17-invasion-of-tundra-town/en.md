@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Invasion of Tundra Town"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/17.mp4"
 ---
 

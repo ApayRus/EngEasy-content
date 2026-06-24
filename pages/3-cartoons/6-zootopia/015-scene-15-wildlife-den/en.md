@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Wildlife Den"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/15.mp4"
 ---
 

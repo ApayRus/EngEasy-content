@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Awakening of Sisu"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/11.mp4"
 ---
 

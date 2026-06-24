@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Heist 2"
-description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/8.mp4"
 ---
 

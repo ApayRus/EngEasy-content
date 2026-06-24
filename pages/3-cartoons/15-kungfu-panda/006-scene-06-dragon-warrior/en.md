@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Dragon Warrior"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/6.mp4"
 ---
 

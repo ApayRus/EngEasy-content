@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Scroll"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/22.mp4"
 ---
 

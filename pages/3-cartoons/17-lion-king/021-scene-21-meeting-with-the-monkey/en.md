@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Meeting with the Monkey"
-description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/21.mp4"
 ---
 

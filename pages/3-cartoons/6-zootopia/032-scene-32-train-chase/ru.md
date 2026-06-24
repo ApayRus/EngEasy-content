@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Гонка на поезде"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/32.mp4"
 ---
 

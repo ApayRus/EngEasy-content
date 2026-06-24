@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Самолет "
-description: "Остров собак"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/6.mp4"
 ---
 

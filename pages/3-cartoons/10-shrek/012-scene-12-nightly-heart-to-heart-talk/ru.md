@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Ночной разговор по душам "
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/12.mp4"
 ---
 

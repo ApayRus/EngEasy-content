@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Битва с гуннами"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/18.mp4"
 ---
 

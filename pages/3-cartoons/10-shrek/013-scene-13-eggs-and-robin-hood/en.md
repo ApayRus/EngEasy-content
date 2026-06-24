@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Eggs and Robin Hood"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/13.mp4"
 ---
 

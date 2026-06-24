@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Лаборатория"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/31.mp4"
 ---
 

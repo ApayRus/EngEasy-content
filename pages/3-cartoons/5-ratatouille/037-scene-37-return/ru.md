@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Возвращение"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/37.mp4"
 ---
 

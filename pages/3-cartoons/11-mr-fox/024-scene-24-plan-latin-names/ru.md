@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "План: латинские названия"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/24.mp4"
 ---
 

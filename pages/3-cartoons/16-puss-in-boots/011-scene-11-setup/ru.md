@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Подстава"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/11.mp4"
 ---
 

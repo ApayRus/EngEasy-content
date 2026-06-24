@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Food Ran Out"
-description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/15.mp4"
 ---
 

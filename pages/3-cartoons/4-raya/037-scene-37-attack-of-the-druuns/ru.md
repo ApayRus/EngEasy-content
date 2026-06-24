@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Атака Друунов"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/37.mp4"
 ---
 

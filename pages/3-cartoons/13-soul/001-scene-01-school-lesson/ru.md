@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: 'Урок в школе'
-description: 'Душа'
 mediaLink: 'https://archive.org/download/30_20260619_202606/1.mp4'
 ---
 

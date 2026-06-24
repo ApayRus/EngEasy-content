@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Professional Jealousy"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/18.mp4"
 ---
 

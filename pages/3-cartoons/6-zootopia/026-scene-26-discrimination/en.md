@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Discrimination"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/26.mp4"
 ---
 

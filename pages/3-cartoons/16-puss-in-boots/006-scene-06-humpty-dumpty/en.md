@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Humpty Dumpty"
-description: "Puss in Boots"
 mediaLink: "https://archive.org/download/puss-in-boots-31/6.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Битва с крысами"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/25.ia.mp4"
 ---
 

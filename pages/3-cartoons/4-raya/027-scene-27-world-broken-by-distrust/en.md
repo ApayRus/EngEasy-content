@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "World Broken by Distrust"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/27.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "18. Jungle"
-description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/18.mp4"
 ---
 

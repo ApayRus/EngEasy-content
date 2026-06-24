@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Namaari in the Wasteland"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/12.mp4"
 ---
 

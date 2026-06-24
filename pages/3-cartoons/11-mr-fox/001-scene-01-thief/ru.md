@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Вор"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/1.mp4"
 ---
 

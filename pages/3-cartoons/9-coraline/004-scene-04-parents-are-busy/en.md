@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Parents are Busy"
-description: "Coraline"
 mediaLink: "https://archive.org/download/coraline-scenes-31/4.ia.mp4"
 ---
 

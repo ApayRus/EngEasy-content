@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Взросление"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/2.mp4"
 ---
 

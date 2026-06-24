@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Утро в новом доме"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/9.ia.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Neighbors Performance in Circus"
-description: "Coraline"
 mediaLink: "https://archive.org/download/coraline-scenes-31/17.ia.mp4"
 ---
 

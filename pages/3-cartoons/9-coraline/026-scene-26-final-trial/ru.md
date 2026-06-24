@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Последнее испытание"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/26.ia.mp4"
 ---
 

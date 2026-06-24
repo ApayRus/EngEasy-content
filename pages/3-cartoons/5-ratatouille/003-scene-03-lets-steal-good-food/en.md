@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Let's Steal Good Food"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/3.mp4"
 ---
 

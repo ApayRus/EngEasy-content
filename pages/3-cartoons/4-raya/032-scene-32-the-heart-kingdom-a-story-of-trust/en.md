@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "The Heart Kingdom: A Story of Trust"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/32.mp4"
 ---
 

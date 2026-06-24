@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Дворцовые интриги в стране Клык"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/33.mp4"
 ---
 

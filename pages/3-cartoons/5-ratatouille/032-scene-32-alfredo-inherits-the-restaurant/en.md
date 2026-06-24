@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Alfredo Inherits the Restaurant"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/32.mp4"
 ---
 

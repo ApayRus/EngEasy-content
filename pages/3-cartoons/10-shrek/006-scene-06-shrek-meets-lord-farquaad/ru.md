@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Шрек приходит к лорду Фаркуаду"
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/6.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Титры"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/25.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Яишница, Робин Гуд"
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/13.mp4"
 ---
 

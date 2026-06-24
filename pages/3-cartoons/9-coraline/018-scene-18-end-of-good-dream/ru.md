@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Конец хорошего сна"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/18.ia.mp4"
 ---
 

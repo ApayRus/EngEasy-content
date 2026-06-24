@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Монстр в изгнании"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/35.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Мартин пропал"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/11.mp4"
 ---
 

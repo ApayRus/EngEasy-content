@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Знакомство с Альфредо"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/14.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Остров честности - упал"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/17.mp4"
 ---
 

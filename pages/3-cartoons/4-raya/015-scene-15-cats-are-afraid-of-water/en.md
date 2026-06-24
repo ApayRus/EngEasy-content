@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Cats are Afraid of Water"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/15.mp4"
 ---
 

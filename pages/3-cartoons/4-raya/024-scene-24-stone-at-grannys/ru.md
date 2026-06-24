@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Камень у бабуси"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/24.mp4"
 ---
 

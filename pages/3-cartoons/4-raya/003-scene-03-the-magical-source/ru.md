@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Волшебный источник"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/3.mp4"
 ---
 

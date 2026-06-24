@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Что-нибудь новенькое"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/22.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "New Investigation"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/30.mp4"
 ---
 

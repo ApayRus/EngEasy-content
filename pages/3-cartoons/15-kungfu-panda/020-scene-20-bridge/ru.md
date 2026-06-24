@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Мост"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/20.mp4"
 ---
 

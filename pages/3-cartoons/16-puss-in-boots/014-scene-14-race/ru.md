@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Гонка"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/14.mp4"
 ---
 

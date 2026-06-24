@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Похищение 3"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/10.mp4"
 ---
 

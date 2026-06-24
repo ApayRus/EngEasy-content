@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Частное расследование"
-description: "Остров собак"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/23.mp4"
 ---
 

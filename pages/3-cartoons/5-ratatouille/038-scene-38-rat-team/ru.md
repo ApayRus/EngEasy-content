@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Крысиная команда"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/38.mp4"
 ---
 

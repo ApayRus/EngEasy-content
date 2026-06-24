@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Рая и Сису находят кристал"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/13.mp4"
 ---
 

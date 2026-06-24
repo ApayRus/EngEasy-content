@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Симба жив"
-description: "Король Лев"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/17.mp4"
 ---
 

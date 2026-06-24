@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Reviving Rain and Dragons"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/39.mp4"
 ---
 

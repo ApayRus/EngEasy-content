@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Разговор у водопада"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/21.mp4"
 ---
 

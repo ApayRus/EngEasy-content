@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Стейки во сне"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/30.mp4"
 ---
 

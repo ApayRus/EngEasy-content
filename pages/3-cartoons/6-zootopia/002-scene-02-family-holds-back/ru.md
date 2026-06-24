@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Семья тянет назад"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/2.mp4"
 ---
 

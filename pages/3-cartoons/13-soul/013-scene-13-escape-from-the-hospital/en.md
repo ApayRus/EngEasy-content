@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: 'Escape from the Hospital'
-description: 'Soul'
 mediaLink: 'https://archive.org/download/30_20260619_202606/13.mp4'
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Сон"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/7.ia.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Песня: Кто я внутри"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/6.mp4"
 ---
 

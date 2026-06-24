@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Everything Taken"
-description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/19.mp4"
 ---
 

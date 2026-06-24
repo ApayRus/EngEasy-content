@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Капитан Боун "
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/16.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Песня и титры"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/36.mp4"
 ---
 

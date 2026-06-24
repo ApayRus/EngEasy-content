@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Посмотреть на Париж"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/10.mp4"
 ---
 

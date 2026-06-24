@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Воин дракона"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/6.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Moving"
-description: "Inside Out"
 mediaLink: "https://archive.org/download/inside-out-25/3.mp4"
 ---
 

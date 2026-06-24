@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Город"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/3.mp4"
 ---
 

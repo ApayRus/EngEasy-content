@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Plan for the Fang Kingdom"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/31.mp4"
 ---
 

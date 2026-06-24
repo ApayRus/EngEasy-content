@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Too Late"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/5.mp4"
 ---
 

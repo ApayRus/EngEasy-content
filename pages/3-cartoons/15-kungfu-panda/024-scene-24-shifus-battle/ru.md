@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Битва Шифу"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/24.mp4"
 ---
 

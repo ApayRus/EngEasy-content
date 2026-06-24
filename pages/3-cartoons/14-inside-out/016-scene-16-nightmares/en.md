@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Nightmares"
-description: "Inside Out"
 mediaLink: "https://archive.org/download/inside-out-25/16.mp4"
 ---
 

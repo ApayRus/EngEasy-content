@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Скатывание в негатив"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/4.mp4"
 ---
 

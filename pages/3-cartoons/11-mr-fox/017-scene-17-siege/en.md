@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Siege"
-description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/17.mp4"
 ---
 

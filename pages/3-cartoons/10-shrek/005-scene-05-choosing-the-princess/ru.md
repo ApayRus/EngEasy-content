@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Выбор принцессы"
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/5.mp4"
 ---
 

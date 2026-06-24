@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Поезд"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/14.mp4"
 ---
 

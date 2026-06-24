@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Next Stop: Spine"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/25.mp4"
 ---
 

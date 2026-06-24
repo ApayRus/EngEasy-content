@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Убийство Сису"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/36.mp4"
 ---
 

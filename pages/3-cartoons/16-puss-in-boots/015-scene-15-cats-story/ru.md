@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "История кошки"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/15.mp4"
 ---
 

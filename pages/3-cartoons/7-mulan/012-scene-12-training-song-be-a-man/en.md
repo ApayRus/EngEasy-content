@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Training. Song - Be a Man"
-description: "Mulan"
 mediaLink: "https://archive.org/download/mulan-scenes-26/12.mp4"
 ---
 

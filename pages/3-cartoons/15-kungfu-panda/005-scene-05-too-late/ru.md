@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Не успел"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/5.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: 'Депрессия перед помолвкой'
-description: 'Аладдин'
 mediaLink: 'https://archive.org/download/27_20260619_20260619/25.mp4'
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Extra"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/10.mp4"
 ---
 

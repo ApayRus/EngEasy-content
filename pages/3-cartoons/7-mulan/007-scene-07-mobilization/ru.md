@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Мобилизация"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/7.mp4"
 ---
 

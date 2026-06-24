@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Fiona's Secret"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/16.mp4"
 ---
 

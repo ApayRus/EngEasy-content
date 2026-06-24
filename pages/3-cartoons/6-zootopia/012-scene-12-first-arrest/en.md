@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "First Arrest"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/12.mp4"
 ---
 

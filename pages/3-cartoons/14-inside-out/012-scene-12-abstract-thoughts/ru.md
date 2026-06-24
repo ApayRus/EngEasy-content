@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Абстрактные мысли"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/12.mp4"
 ---
 

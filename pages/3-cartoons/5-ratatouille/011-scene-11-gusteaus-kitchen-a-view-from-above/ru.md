@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Кухня Густо - взгляд сверху"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/11.mp4"
 ---
 

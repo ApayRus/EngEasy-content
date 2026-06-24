@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Train Chase"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/32.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Лемуры"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/19.mp4"
 ---
 

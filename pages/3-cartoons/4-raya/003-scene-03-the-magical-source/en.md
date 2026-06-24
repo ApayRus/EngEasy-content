@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "The Magical Source"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/3.mp4"
 ---
 

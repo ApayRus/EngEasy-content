@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Leaving the Base"
-description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/28.mp4"
 ---
 

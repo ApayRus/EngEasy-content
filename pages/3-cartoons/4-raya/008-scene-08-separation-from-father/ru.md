@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Расставание с отцом"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/8.mp4"
 ---
 

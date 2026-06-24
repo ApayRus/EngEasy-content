@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Репрессии"
-description: "Остров собак"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/15.mp4"
 ---
 

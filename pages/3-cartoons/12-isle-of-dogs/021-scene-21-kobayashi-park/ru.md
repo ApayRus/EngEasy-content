@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Кобайаши парк"
-description: "Остров собак"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/21.mp4"
 ---
 

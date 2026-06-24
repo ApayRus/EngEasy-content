@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Мастерская снов"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/15.mp4"
 ---
 

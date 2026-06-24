@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "На мотоцикле"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/26.mp4"
 ---
 

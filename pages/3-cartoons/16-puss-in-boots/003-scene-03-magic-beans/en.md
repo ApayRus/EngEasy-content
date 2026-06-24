@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Magic Beans"
-description: "Puss in Boots"
 mediaLink: "https://archive.org/download/puss-in-boots-31/3.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Титры 1"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/31.mp4"
 ---
 

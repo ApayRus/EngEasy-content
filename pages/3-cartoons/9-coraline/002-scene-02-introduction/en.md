@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Introduction"
-description: "Coraline"
 mediaLink: "https://archive.org/download/coraline-scenes-31/2.ia.mp4"
 ---
 

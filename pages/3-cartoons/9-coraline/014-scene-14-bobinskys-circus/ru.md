@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Цирк Бабитского"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/14.ia.mp4"
 ---
 

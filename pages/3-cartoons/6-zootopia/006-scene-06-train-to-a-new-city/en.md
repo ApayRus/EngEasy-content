@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Train to a New City"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/6.mp4"
 ---
 

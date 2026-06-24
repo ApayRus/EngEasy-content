@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Let's Celebrate That You're Not an Idiot"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/23.mp4"
 ---
 

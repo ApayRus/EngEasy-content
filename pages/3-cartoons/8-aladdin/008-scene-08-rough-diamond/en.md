@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: 'Rough Diamond'
-description: 'Aladdin'
 mediaLink: 'https://archive.org/download/27_20260619_20260619/8.mp4'
 ---
 

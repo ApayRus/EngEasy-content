@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Разговор у дерева"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/11.mp4"
 ---
 

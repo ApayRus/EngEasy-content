@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Boat to Talon"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/17.mp4"
 ---
 

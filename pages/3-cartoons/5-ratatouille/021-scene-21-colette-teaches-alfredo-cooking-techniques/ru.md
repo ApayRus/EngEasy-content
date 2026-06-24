@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Колетт учит Альфредо технике готовки"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/21.mp4"
 ---
 

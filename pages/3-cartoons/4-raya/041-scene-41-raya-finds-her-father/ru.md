@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Рая находит отца"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/41.mp4"
 ---
 

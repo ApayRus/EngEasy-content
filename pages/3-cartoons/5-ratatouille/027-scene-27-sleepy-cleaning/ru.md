@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Сонная уборка"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/27.mp4"
 ---
 

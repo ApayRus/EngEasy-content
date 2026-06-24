@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Gift of Smelling"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/2.mp4"
 ---
 

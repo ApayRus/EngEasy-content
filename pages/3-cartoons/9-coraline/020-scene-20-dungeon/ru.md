@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Темница"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/20.ia.mp4"
 ---
 

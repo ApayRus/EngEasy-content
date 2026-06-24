@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Празднование"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/21.mp4"
 ---
 

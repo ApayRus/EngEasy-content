@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Alone in the Mountains"
-description: "Mulan"
 mediaLink: "https://archive.org/download/mulan-scenes-26/20.mp4"
 ---
 

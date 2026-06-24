@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Намаари находит Раю"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/14.mp4"
 ---
 

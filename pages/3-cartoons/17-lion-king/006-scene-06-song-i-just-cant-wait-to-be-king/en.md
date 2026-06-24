@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Song - I Just Can't Wait to Be King"
-description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/6.mp4"
 ---
 

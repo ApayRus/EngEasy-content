@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Проигрыш"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/25.mp4"
 ---
 

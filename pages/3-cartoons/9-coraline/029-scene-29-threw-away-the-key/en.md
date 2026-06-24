@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Threw Away the Key"
-description: "Coraline"
 mediaLink: "https://archive.org/download/coraline-scenes-31/29.ia.mp4"
 ---
 

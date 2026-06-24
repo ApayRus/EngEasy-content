@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Dismissal"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/27.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Шопинг в кредит"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/21.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Imaginary Friend"
-description: "Inside Out"
 mediaLink: "https://archive.org/download/inside-out-25/11.mp4"
 ---
 

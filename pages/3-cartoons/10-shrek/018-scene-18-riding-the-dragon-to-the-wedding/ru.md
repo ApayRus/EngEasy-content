@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "На драконе на свадьбу "
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/18.mp4"
 ---
 

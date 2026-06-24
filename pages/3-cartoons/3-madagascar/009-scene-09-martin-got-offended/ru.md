@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Мартин обиделся"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/9.mp4"
 ---
 

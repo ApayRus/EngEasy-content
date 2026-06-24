@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Landing"
-description: "Puss in Boots"
 mediaLink: "https://archive.org/download/puss-in-boots-31/20.mp4"
 ---
 

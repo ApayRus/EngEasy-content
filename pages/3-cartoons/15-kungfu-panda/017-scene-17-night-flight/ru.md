@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Ночной полет"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/17.mp4"
 ---
 

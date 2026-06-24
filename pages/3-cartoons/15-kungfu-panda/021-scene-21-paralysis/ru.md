@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Паралич"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/21.mp4"
 ---
 

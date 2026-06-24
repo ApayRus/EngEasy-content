@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Ночь в новом доме"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/5.mp4"
 ---
 

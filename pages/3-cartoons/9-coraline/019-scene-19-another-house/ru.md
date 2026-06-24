@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Ещё один дом"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/19.ia.mp4"
 ---
 

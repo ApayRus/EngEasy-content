@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Cannibals"
-description: "Isle of Dogs"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/26.mp4"
 ---
 

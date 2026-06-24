@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Hockey Island Falls"
-description: "Inside Out"
 mediaLink: "https://archive.org/download/inside-out-25/13.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Fox Fight"
-description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/16.mp4"
 ---
 

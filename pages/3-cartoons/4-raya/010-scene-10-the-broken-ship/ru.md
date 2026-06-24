@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Разбитый корабль"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/10.mp4"
 ---
 

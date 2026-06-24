@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Истерика"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/23.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Новый дом"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/3.mp4"
 ---
 

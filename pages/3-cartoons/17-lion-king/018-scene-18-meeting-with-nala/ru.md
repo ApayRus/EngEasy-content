@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Встреча с Налой"
-description: "Король Лев"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/18.mp4"
 ---
 

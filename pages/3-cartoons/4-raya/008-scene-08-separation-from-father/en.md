@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Separation from Father"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/8.mp4"
 ---
 

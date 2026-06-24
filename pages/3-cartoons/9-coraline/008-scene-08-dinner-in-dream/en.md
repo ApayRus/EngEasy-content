@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Dinner in Dream"
-description: "Coraline"
 mediaLink: "https://archive.org/download/coraline-scenes-31/8.ia.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Тренировка едой"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/19.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Attack of the Druuns"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/37.mp4"
 ---
 

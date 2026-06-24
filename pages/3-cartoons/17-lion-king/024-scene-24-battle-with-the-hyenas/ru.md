@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Битва с гиенами"
-description: "Король Лев"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/24.mp4"
 ---
 

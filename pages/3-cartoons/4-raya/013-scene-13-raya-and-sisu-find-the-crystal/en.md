@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Raya and Sisu Find the Crystal"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/13.mp4"
 ---
 

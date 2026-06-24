@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Шифу спокоен"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/27.mp4"
 ---
 

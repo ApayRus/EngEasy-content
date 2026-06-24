@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Ответ на записку"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/35.mp4"
 ---
 

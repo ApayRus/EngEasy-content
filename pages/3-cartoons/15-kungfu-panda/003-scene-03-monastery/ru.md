@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Монастырь"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/3.mp4"
 ---
 

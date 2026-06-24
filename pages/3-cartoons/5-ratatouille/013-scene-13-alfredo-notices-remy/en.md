@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Alfredo Notices Remy"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/13.mp4"
 ---
 

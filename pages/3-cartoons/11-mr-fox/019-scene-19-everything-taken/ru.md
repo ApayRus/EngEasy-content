@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Забрали всё"
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/19.mp4"
 ---
 

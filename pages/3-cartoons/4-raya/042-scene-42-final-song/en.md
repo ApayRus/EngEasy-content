@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Final Song"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/42.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "На кухне "
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/12.mp4"
 ---
 

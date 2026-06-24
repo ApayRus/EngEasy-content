@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Reevaluation"
-description: "Isle of Dogs"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/5.mp4"
 ---
 

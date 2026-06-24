@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Dream"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/1.mp4"
 ---
 

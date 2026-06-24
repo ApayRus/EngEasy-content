@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Fairy Tale Creatures Relocation"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/2.mp4"
 ---
 

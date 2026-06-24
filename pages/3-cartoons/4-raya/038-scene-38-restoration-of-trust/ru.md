@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Возвращение доверия"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/38.mp4"
 ---
 

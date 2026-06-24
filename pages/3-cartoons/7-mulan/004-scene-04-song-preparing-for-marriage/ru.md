@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Песня: Подготовка к женитьбе"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/4.mp4"
 ---
 

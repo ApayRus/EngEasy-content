@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Nightly Heart-to-Heart Talk"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/12.mp4"
 ---
 

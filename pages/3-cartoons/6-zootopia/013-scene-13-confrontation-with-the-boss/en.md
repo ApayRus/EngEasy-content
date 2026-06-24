@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Confrontation with the Boss"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/13.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Водопад к одиночеству "
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/8.mp4"
 ---
 

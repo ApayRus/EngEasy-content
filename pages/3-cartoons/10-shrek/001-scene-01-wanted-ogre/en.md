@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Wanted: Ogre"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/1.mp4"
 ---
 

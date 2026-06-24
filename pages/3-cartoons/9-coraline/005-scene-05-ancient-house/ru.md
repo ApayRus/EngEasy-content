@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Старинный дом"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/5.ia.mp4"
 ---
 

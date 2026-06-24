@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Умный лис, тупой заяц"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/10.mp4"
 ---
 

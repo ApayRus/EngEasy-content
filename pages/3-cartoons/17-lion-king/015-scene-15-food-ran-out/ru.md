@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Кончилась еда"
-description: "Король Лев"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/15.mp4"
 ---
 

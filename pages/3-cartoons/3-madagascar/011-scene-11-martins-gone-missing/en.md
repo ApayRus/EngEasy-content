@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "11. Martin's Gone Missing"
-description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/11.mp4"
 ---
 

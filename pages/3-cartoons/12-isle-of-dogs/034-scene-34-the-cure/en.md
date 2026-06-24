@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "The Cure"
-description: "Isle of Dogs"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/34.mp4"
 ---
 

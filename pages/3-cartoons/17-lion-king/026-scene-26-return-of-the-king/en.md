@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Return of the King"
-description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/26.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Secret Door"
-description: "Coraline"
 mediaLink: "https://archive.org/download/coraline-scenes-31/6.ia.mp4"
 ---
 

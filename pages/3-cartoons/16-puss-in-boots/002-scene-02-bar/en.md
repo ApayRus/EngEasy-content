@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Bar"
-description: "Puss in Boots"
 mediaLink: "https://archive.org/download/puss-in-boots-31/2.mp4"
 ---
 

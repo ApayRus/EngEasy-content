@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Пришельцы"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/21.mp4"
 ---
 

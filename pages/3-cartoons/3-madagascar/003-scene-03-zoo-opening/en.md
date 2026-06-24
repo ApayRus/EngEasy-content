@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "3. Zoo Opening"
-description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/3.mp4"
 ---
 

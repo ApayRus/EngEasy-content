@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Celebration"
-description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/4.mp4"
 ---
 

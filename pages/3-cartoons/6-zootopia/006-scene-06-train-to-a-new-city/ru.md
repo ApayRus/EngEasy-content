@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Поезд в новый город"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/6.mp4"
 ---
 

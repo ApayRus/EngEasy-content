@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Затопление сидром  "
-description: "Бесподобный Мистер Фокс"
 mediaLink: "https://archive.org/download/mr-fox-33/20.mp4"
 ---
 

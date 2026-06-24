@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Whackbat"
-description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/9.mp4"
 ---
 

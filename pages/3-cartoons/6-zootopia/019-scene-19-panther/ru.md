@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Пантера"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/19.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Джунгли"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/18.mp4"
 ---
 

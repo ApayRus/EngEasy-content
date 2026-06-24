@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Caught by Wife"
-description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/12.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Свадьба (песня) "
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/20.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Friendship Island Falls"
-description: "Inside Out"
 mediaLink: "https://archive.org/download/inside-out-25/10.mp4"
 ---
 

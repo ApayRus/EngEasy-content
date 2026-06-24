@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Lawyer Brings DNA Results"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/30.mp4"
 ---
 

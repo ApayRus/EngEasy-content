@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Одна в горах"
-description: "Мулан"
 mediaLink: "https://archive.org/download/mulan-scenes-26/20.mp4"
 ---
 

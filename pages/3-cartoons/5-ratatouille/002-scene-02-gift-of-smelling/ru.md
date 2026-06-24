@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Дар чуять запахи"
-description: "Рататуй"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/2.mp4"
 ---
 

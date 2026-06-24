@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Плохие новости"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/15.mp4"
 ---
 

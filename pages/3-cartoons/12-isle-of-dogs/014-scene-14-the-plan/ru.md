@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "План"
-description: "Остров собак"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/14.mp4"
 ---
 

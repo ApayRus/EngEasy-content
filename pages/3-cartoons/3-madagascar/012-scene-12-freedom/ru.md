@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Свобода"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/12.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "За родителями"
-description: "Коралина"
 mediaLink: "https://archive.org/download/coraline-scenes-31/22.ia.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Драка Раи и Намаари"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/29.mp4"
 ---
 

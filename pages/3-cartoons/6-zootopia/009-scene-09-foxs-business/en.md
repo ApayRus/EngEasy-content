@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Fox's Business"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/9.mp4"
 ---
 

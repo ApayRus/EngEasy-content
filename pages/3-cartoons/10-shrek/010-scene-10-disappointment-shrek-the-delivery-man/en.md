@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Disappointment: Shrek the Delivery Man"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/10.mp4"
 ---
 

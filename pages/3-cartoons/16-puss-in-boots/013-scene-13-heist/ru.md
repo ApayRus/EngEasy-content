@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Ограбление"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/13.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Возвращение"
-description: "Головоломка"
 mediaLink: "https://archive.org/download/inside-out-25/22.mp4"
 ---
 

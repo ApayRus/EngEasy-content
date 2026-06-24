@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Betrayal of Namaari"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/7.mp4"
 ---
 

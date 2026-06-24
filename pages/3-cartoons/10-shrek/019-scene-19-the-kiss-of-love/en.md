@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "The Kiss of Love"
-description: "Shrek"
 mediaLink: "https://archive.org/download/shrek-scenes-20/19.mp4"
 ---
 

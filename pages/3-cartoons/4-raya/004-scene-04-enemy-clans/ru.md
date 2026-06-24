@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Вражеские кланы"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/4.mp4"
 ---
 

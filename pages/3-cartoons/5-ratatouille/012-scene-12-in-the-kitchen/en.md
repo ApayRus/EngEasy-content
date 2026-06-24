@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "In the Kitchen"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/12.mp4"
 ---
 

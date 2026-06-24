@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Побег"
-description: "Кунгфу панда"
 mediaLink: "https://archive.org/download/kungfu-panda-30/12.mp4"
 ---
 

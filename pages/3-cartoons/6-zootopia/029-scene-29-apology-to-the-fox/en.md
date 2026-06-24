@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Apology to the Fox"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/29.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Recruiting the Fox"
-description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/14.mp4"
 ---
 

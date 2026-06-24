@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Записка для Намаари"
-description: "Рая и последний дракон"
 mediaLink: "https://archive.org/download/raya-scenes-42/34.mp4"
 ---
 

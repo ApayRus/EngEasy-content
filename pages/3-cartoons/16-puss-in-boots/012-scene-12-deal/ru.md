@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Сделка"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/12.mp4"
 ---
 

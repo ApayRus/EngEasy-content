@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Airplane"
-description: "Isle of Dogs"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/6.mp4"
 ---
 

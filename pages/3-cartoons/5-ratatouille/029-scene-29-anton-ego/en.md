@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Anton Ego"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/29.mp4"
 ---
 

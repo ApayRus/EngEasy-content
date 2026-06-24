@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Волшебные бобы"
-description: "Кот в сапогах"
 mediaLink: "https://archive.org/download/puss-in-boots-31/3.mp4"
 ---
 

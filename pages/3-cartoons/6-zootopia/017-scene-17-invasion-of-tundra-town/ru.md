@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Вторжение в Тундра Таун"
-description: "Зверополис"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/17.mp4"
 ---
 

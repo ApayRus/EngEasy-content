@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Замок дракона "
-description: "Шрек"
 mediaLink: "https://archive.org/download/shrek-scenes-20/8.mp4"
 ---
 

@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Берег"
-description: "Мадагаскар"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/17.mp4"
 ---
 

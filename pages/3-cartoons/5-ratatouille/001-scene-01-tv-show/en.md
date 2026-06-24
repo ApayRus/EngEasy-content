@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "TV Show"
-description: "Ratatouille"
 mediaLink: "https://archive.org/download/ratatouille-scenes-42/1.mp4"
 ---
 

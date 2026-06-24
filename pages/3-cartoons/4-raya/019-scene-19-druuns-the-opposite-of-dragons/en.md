@@ -1,7 +1,6 @@
 ---
 type: richVideo
 title: "Druuns - The Opposite of Dragons"
-description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/19.mp4"
 ---
 
