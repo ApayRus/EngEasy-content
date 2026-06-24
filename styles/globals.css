@@ -44,7 +44,7 @@
 	/* === LESSON LAYER COLORS (light) === */
 	--primary-text-color: #4338ca;        /* indigo-700 — английский */
 	--primary-translit-color: #047857;    /* emerald-700 — транскрипция */
-	--secondary-text-color: #b91c1c;      /* red-700 — перевод */
+	--secondary-text-color: #64748b;      /* slate-500 — перевод */
 	--secondary-translit-color: #b45309;  /* amber-700 — IPA */
 
 	/* === TRANSITIONS === */
@@ -89,7 +89,7 @@
 		/* === LESSON LAYER COLORS (dark) === */
 		--primary-text-color: #818cf8;    /* indigo-400 — английский */
 		--primary-translit-color: #34d399;  /* emerald-400 — транскрипция */
-		--secondary-text-color: #f87171;  /* red-400 — перевод */
+		--secondary-text-color: #94a3b8;  /* slate-400 — перевод */
 		--secondary-translit-color: #fbbf24; /* amber-400 — IPA */
 	}
 }
