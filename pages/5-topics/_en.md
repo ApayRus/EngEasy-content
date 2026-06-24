@@ -1,6 +1,7 @@
 ---
 title: Topics
 description: Real life situations giving you a vocabulary boost on a specific topic. Write to us in Telegram and we will add your topic to the collection
+descriptionSEO: same
 listTitleMode: secondary
 listDescriptionMode: secondary
 pageTitlePrimary: false
