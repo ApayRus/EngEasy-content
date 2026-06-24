@@ -6,17 +6,17 @@ mediaLink: "https://archive.org/download/inside-out-25/7.mp4"
 ---
 
 Or we did, till I moved away.
--Hey, what gives? -Wait, what?
-Hey, Sadness! You touched a memory? We talked about this.
+-Hey, what gives?<br />-Wait, what?
+Hey, Sadness! You touched<br />a memory? We talked about this.
 Oh, yeah, I know. I'm sorry.
-Get back in your circle. (SIGHS) What's going on?
--Why won't it eject? -Get it out of there, Joy.
-(SNIFFLING) We used to play tag and stuff.
+Get back in your circle.<br />(SIGHS) What's going on?
+-Why won't it eject?<br />-Get it out of there, Joy.
+(SNIFFLING) We used<br />to play tag and stuff.
 Cool kids whispering at three o'clock!
-FEAR: Did you see that look? JOY: Oh, no.
+FEAR: Did you see that look?<br />JOY: Oh, no.
 They're judging us!
 (ALL STRAINING)
-JOY: Somebody help me! Grab that... Everybody put...
+JOY: Somebody help me!<br />Grab that... Everybody put...
 But everything's different now.
 Since we moved.
 (SNIFFLES)
@@ -29,31 +29,31 @@ But it's blue.
 (ALL GASP)
 No! Wait! Stop it! No! Ah! No!
 Joy, no.
--That's a Core Memory! -Hey!
--Joy, wait! -Stop it! Let go!
+-That's a Core Memory!<br />-Hey!
+-Joy, wait!<br />-Stop it! Let go!
 FEAR: Ah! The Core Memories!
 (EXCLAIMS)
 (GASPS)
 No, no, no, no!
--Whoa! -Whoa!
+-Whoa!<br />-Whoa!
 (FEAR GASPS)
 TEACHER: Thank you, Riley.
-I know it can be tough moving to a new place,
+I know it can be tough<br />moving to a new place,
 but we're happy to have you here.
-All right, everyone, get out your history books
+All right, everyone,<br />get out your history books
 and turn to chapter seven.
 Can I say that curse word now?
 (BOTH EXCLAIMING)
--(SADNESS SCREAMING) -Ah!
+-(SADNESS SCREAMING)<br />-Ah!
 Oh, no! One, two, three. Okay.
 I got them. Where are we?
 Long Term Memory? Wait...
 Goofball Island?
-SADNESS: Riley's Islands of Personality.
+SADNESS:<br />Riley's Islands of Personality.
 They're all down!
 Oh! This is bad.
 We... We can fix this!
-We just have to get back to Headquarters,
+We just have to<br />get back to Headquarters,
 plug the Core Memories in,
 and Riley will be back to normal.
 Riley has no Core Memories.

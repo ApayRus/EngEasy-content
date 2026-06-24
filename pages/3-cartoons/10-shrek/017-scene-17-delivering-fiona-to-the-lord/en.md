@@ -6,11 +6,11 @@ mediaLink: "https://archive.org/download/shrek-scenes-20/17.mp4"
 ---
 
 Shrek.
-- Are you all right? - Perfect!
+- Are you all right?<br />- Perfect!
 Never been better.
 I- I don't- There's something I have to tell you.
 You don't have to tell me anything, Princess.
-- I heard enough last night. - You heard what I said?
+- I heard enough last night.<br />- You heard what I said?
 Every word.
 I thought you'd understand?
 Oh, I understand!
@@ -49,7 +49,7 @@ There is the caterer, the cake, the band, the guest list.
 Captain, round up some guests.
 Fare-thee-well, ogre.
 Shrek, what are you doing? You let her get away.
-- Yeah? So what? - Shrek, there's something about her you don't know.
+- Yeah? So what?<br />- Shrek, there's something about her you don't know.
 Look, I talked to her last night. She's
 Yeah I know you talked to her last night. You're great pals, aren't ya?
 Now, if you two are such good friends, why didn't you follow her home?
@@ -58,7 +58,7 @@ I told you, didn't I? You're not coming home with me.
 I live alone! My swamp! Me! Nobody else!
 Understand? Nobody!
 Especially useless, pathetic, annoying, talking donkeys!
-- But. I thought - Yeah. You know what?
+- But. I thought<br />- Yeah. You know what?
 You thought wrong!
 Shrek.
 I heard there was a secret chord

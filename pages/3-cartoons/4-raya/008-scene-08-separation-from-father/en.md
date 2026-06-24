@@ -5,7 +5,7 @@ description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/8.mp4"
 ---
 
--(RUMBLING) -(CROWD EXCLAIMING INDISTINCTLY)
+-(RUMBLING)<br />-(CROWD EXCLAIMING INDISTINCTLY)
 (CRASHING)
 (SCREECHING)
 Druun.
@@ -13,15 +13,15 @@ Druun.
 (DRUUN SCREECHING)
 (BENJA GRUNTING)
 There's still magic in them!
--SPINE CHIEF: Get the pieces! -No! (GRUNTS)
+-SPINE CHIEF: Get the pieces!<br />-No! (GRUNTS)
 (INDISTINCT EXCLAIMING)
 Ba! Come on, we have to go!
 (BOTH GRUNTING)
 They're repelled by water.
 Hurry! Get to the river!
 (BENJA GRUNTS)
-YOUNG RAYA: Ba, get up! Come on!
-Please, we have to keep moving.
+YOUNG RAYA:<br />Ba, get up! Come on!
+Please, we have<br />to keep moving.
 Get up!
 (BENJA BREATHING HEAVILY)
 Ba! We don't have time!
@@ -29,17 +29,17 @@ Ba! We don't have time!
 (WOMAN SCREAMS)
 Stand up! I'll help...
 Raya, you have to listen.
-You are the Guardian of the Dragon Gem.
+You are the Guardian<br />of the Dragon Gem.
 Ba, why are you saying this?
--(CRASHES) -(YOUNG RAYA GRUNTS)
-There's still light in this. There's still hope.
+-(CRASHES)<br />-(YOUNG RAYA GRUNTS)
+There's still light in this.<br />There's still hope.
 No! We can make it together.
 (CRYING) You're okay.
-BENJA: Raya. Don't give up on them.
+BENJA: Raya.<br />Don't give up on them.
 I love you, my dewdrop.
 Ba?
--(BENJA GRUNTS) -YOUNG RAYA: (EXCLAIMS) No!
-(DRUUN SCREECHING AND RUMBLING)
+-(BENJA GRUNTS)<br />-YOUNG RAYA: (EXCLAIMS) No!
+(DRUUN SCREECHING<br />AND RUMBLING)
 (DRAMATIC MUSIC PLAYING)
 (YOUNG RAYA GASPING)
 Ba!

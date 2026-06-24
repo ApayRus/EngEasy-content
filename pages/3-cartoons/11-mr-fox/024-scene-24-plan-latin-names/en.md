@@ -5,71 +5,71 @@ description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/24.mp4"
 ---
 
-In a way, I'm almost glad that flood interrupted us,
-because I don't like the toast I was giving. I'm going to start over.
+In a way, I'm almost glad<br />that flood interrupted us,
+because I don't like<br />the toast I was giving.<br />I'm going to start over.
 (GRAND CHORAL PLAYING)
-When I look down this table, with the exquisite feast set before us,
-I see two terrific lawyers,
-a skilled pediatrician, a wonderful chef,
-a savvy real estate agent, an excellent tailor, a crack accountant,
-a gifted musician, a pretty good minnow fisherman,
-and possibly the best landscape painter working on the scene today.
-Maybe a few of you might even read my column from time to time.
+When I look down this table,<br />with the exquisite<br />feast set before us,
+I see two<br />terrific lawyers,
+a skilled pediatrician,<br />a wonderful chef,
+a savvy real estate agent,<br />an excellent tailor,<br />a crack accountant,
+a gifted musician,<br />a pretty good<br />minnow fisherman,
+and possibly the best<br />landscape painter working<br />on the scene today.
+Maybe a few of you<br />might even read my column<br />from time to time.
 I tend to doubt it.
-I also see a room full of wild animals.
-Wild animals with true natures and pure talents.
-With scientific-sounding Latin names that mean something about our DNA.
-Each with his own strengths and weaknesses due to his or her species.
-Anyway, I think it may very well be all the beautiful differences among us
-that might just give us the tiniest glimmer of a chance of saving my nephew
-and letting me make it up to you for getting us into this crazy whatever-it-is.
-I don't know, it's just a thought. Thank you for listening. Cheers, everyone.
+I also see a room<br />full of wild animals.
+Wild animals<br />with true natures<br />and pure talents.
+With scientific-sounding<br />Latin names that mean<br />something about our DNA.
+Each with his own<br />strengths and weaknesses<br />due to his or her species.
+Anyway, I think it may very<br />well be all the beautiful<br />differences among us
+that might just give us the<br />tiniest glimmer of a chance<br />of saving my nephew
+and letting me make it up<br />to you for getting us into<br />this crazy whatever-it-is.
+I don't know, it's just<br />a thought. Thank you for<br />listening. Cheers, everyone.
 (EXCLAIMS)
 KYLIE: Let's eat!
-What? I was just playing along with the bit he was doing.
+What? I was just<br />playing along with<br />the bit he was doing.
 Will you join me?
 I will.
-ALL: Oh, all right, I guess.
+ALL: Oh, all right,<br />I guess.
 Thank you.
-Let's start planning. Who knows shorthand?
-Great. Linda, Lutra lutra. You got some dry paper? Here we go.
-Mole, Talpa europea. What do you got?
+Let's start planning.<br />Who knows shorthand?
+Great. Linda, Lutra lutra.<br />You got some dry paper?<br />Here we go.
+Mole, Talpa europea.<br />What do you got?
 I can see in the dark.
-Incredible. We can use that. Linda?
+Incredible. We can<br />use that. Linda?
 Got it.
-Rabbit, Oryctolagus cuniculus.
+Rabbit,<br />Oryctolagus cuniculus.
 I'm fast.
-You bet you are. Linda? Got it.
-Beaver, Castor fiber. I chew through wood.
-Amazing ! Linda! Got it.
+You bet you are. Linda?<br />Got it.
+Beaver, Castor fiber.<br />I chew through wood.
+Amazing ! Linda!<br />Got it.
 Badger, Мeles meles!
 Demolitions expert.
 What? Since when?
-Explosions, flames, burning things!
-Demolitions expert. Okay, Linda? Got it.
+Explosions, flames,<br />burning things!
+Demolitions expert.<br />Okay, Linda?<br />Got it.
 Weasel, Мustela nivalis!
 Stop yelling !
 (WHOOPING EXCITEDLY)
-MR. FOX: Ash, get these little kids organized
-and put together a K. P. unit to keep this sewer clean.
+MR. FOX: Ash,<br />get these little<br />kids organized
+and put together a K. P. unit<br />to keep this sewer clean.
 It's good for morale.
 Done. What's K. P.?
-Um, I think it means janitors.
+Um, I think it<br />means janitors.
 (FIELD MOUSE SPEAKING SOFTLY)
-Me. Yo, over here, hey. I want to go. I want to fight.
-Good. Fabulous. Мicrotus pennsylvanicus.
+Me. Yo, over here, hey.<br />I want to go.<br />I want to fight.
+Good. Fabulous.<br />Мicrotus pennsylvanicus.
 (CHUCKLING)
-I didn't get a job yet. Or a Latin name. What's my strength?
-Listen, you're Kylie. You're an unbelievably nice guy.
-Your job is really just to be available, I think.
-I don't know your Latin name. I doubt they had opossums in ancient Rome.
-It's stupendous! Where's us?
+I didn't get a job yet.<br />Or a Latin name.<br />What's my strength?
+Listen, you're Kylie.<br />You're an unbelievably<br />nice guy.
+Your job is really<br />just to be available,<br />I think.
+I don't know your Latin name.<br />I doubt they had opossums<br />in ancient Rome.
+It's stupendous!<br />Where's us?
 Right here.
 Paint an X.
-МR. FOX: Dear Farmers Boggis, Bunce and Bean:
-I have no alternative but to agree to your terms.
-Move the station wagon and open the manhole cover
-below the drainpipe by the cobbler shop
-and meet me there at 10:00 A.М. sharp.
-I will hand myself over to you
-in exchange for the boy's safe return. Cordially, Мr. Fox.
+МR. FOX: Dear Farmers Boggis,<br />Bunce and Bean:
+I have no alternative<br />but to agree to your terms.
+Move the station wagon<br />and open the manhole cover
+below the drainpipe<br />by the cobbler shop
+and meet me there<br />at 10:00 A.М. sharp.
+I will hand myself<br />over to you
+in exchange for the<br />boy's safe return.<br />Cordially, Мr. Fox.

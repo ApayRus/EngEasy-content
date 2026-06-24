@@ -9,12 +9,12 @@ I know a girl from an island
 She stands apart from the crowd
 She loves the sea and her people
 She makes her whole family proud
-Sometimes the world seems against you
+Sometimes the world<br />seems against you
 The journey may leave a scar
 But scars can heal and reveal just
 Where you are
 The people you love will change you
-The things you have learned will guide you
+The things you have<br />learned will guide you
 And nothing on earth can silence
 The quiet voice still inside you
 And when that voice starts to whisper

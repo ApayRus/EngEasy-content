@@ -11,28 +11,28 @@ mediaLink: "https://archive.org/download/raya-scenes-42/19.mp4"
 (TUK TUK WHIMPERS)
 I know, buddy.
 You know, during the day,
-you can almost forget they're here,
+you can almost forget<br />they're here,
 but at night...
 (SCREECHING)
-This is why I never leave the boat.
+This is why<br />I never leave the boat.
 You're a smart kid.
-(SCREECHING CONTINUES DISTANTLY)
+(SCREECHING CONTINUES<br />DISTANTLY)
 What are Druun, anyways?
-SISU: A plague. Born from human discord.
+SISU: A plague.<br />Born from human discord.
 They've always been here.
-Waiting for a moment of weakness to attack.
-They're like the opposite of dragons.
-Instead of bringing water and life to the world,
+Waiting for a moment<br />of weakness to attack.
+They're like<br />the opposite of dragons.
+Instead of bringing water<br />and life to the world,
 they're like a relentless fire
-that consumes everything in its wake
-until there's nothing left except ash and stone.
+that consumes everything<br />in its wake
+until there's nothing left<br />except ash and stone.
 They took my family.
-(SOFT SENTIMENTAL MUSIC PLAYING)
+(SOFT SENTIMENTAL MUSIC<br />PLAYING)
 They took mine, too.
 (BREATHES DEEPLY)
 (WATER RIPPLING GENTLY)
 Looks like we're here.
-So, where are you guys heading after Talon?
+So, where are you guys heading<br />after Talon?
 I might be heading there, too.
 I mean, for a fee, of course.
 RAYA: (LAUGHS) Of course.

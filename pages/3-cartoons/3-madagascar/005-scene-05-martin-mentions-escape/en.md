@@ -5,35 +5,35 @@ description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/5.mp4"
 ---
 
-Yeah! You don't see that on Animal Planet.
+Yeah!<br />You don't see that on Animal Planet.
 Ha-ha.
-Well, show's over, folks. Thanks for coming.
+Well, show's over, folks.<br />Thanks for coming.
 I hope you thought it was fresh.
 I'll be here all week.
 In fact, I'll be here for my whole life.
-Three hundred and sixty-five days a year,
-including Christmas, Hanukkah, Halloween, Kwanzaa.
-Please don't forget to never spay or neuter your pets.
-And tip your cabbie, because he's broke.
-You, quadruped. Sprechen sie Englisch?
-I sprechen.
-- What continent is this? - Manhattan.
+Three hundred and sixty-five days<br />a year,
+including Christmas, Hanukkah,<br />Halloween, Kwanzaa.
+Please don't forget<br />to never spay or neuter your pets.
+And tip your cabbie,<br />because he's broke.
+You, quadruped.<br /><i>Sprechen sie Englisch?</i>
+<i>I sprechen.</i>
+- What continent is this?<br />- Manhattan.
 Hoover Dam! We're still in New York.
 Abort. Dive! Dive! Dive.
 Hey. You in the tux. Wait a minute.
 What are you guys doing?
 We're digging to Antarctica.
 Ant-who-tica?
-Can you keep a secret, my monochromatic friend?
-Do you ever see any penguins running free around New York City?
-Of course not. We don't belong here. It's just not natural.
-This is all some kind of whacked-out conspiracy.
-We're going to the wide-open spaces of Antarctica.
+Can you keep a secret,<br />my monochromatic friend?
+Do you ever see any penguins<br />running free around New York City?
+Of course not. We don't belong here.<br />It's just not natural.
+This is all<br />some kind of whacked-out conspiracy.
+We're going<br />to the wide-open spaces of Antarctica.
 To the wild.
 The wild? You could actually go there?
 That sounds great.
-Hey, hold up. Where is this place? Tell me where it is.
+Hey, hold up. Where is this place?<br />Tell me where it is.
 You didn't see anything.
-- Right? - Yes, sir.
+- Right?<br />- Yes, sir.
 I'm sorry. No, sir.
-For his final appearance of the day, the king of New York City.
+<i>For his final appearance of the day,<br />the king of New York City.</i>

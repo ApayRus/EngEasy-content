@@ -10,7 +10,7 @@ Who are you?
 Buddy, I am the Dragon Warrior.
 You?
 Him? He's a panda.
-You're a panda. What are you gonna do, big guy? Sit on me?
+You're a panda. What are<br />you gonna do, big guy? Sit on me?
 Don't tempt me.
 No. I'm gonna use this.
 You want it? Come and get it.
@@ -22,7 +22,7 @@ No!
 Finally! Oh, yes.
 The power of the Dragon Scroll is mine!
 It's nothing!
-It's okay. I didn't get it the first time, either.
+It's okay. I didn't get it<br />the first time, either.
 What?
 There is no secret ingredient.
 It's just you.

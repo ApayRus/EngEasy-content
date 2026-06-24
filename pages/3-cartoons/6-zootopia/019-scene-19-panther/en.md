@@ -10,24 +10,24 @@ Judy Hopps, ZPD.
 We just wanna know what happened to Emmitt Otterton.
 You...
 should be asking...
-- what happened to me. - Whoa!
+- what happened to me.<br />- Whoa!
 Uh, a teensy otter did that?
 What happened?
 He was an animal.
-Down...
-on all fours.
-He was a savage!
+<i>Down...</i>
+<i>on all fours.</i>
+<i>He was a savage!</i>
 There was no warning.
-He just kept yelling about the Night Howlers.
+He just kept yelling about<br />the Night Howlers.
 Over and over. The Night Howlers.
-So you know about the Night Howlers, too?
+So you know about<br />the Night Howlers, too?
 Good. Good, good.
 Because the Night Howlers...
-are exactly what we are here to talk about.
-- Right? - Yup.
+are exactly what we are here<br />to talk about.
+- Right?<br />- Yup.
 So, uh, so you just open the door...
 and tell us what you know...
-and we will tell you what we know. Okay?
+and we will tell you<br />what we know. Okay?
 Okay.
 Clever fox.
 Mr. Manchas?
@@ -39,23 +39,23 @@ What is wrong with him?
 I don't know!
 Jump!
 Come on!
-- Head down! - Oh. Oh!
+- Head down!<br />- Oh. Oh!
 Officer Hopps to Dispatch.
-Are you familiar with Gazelle, greatest singer
+Are you familiar with Gazelle,<br />greatest singer
 of our lifetime, angel with horns?
 Okay, hold on. Keep watching.
 Who's that beside her? Who is it?
-Wow, you are one hot dancer, Benjamin Clawhauser
+<i>Wow, you are one hot dancer,<br />Benjamin Clawhauser</i>
 It's me! Did you think it was real?
 It looks so real!
-It's not, it's just a new app. Hold on a second.
-Clawhauser!
-Clawhauser, listen to me, we have a 10-91!
-Jaguar gone savage!
+It's not, it's just a new app.<br />Hold on a second.
+<i>Clawhauser!</i>
+Clawhauser, listen to me,<br />we have a 10-91!
+<i>Jaguar gone savage!</i>
 Vine and Tuh-junja!
-- It's "Tuh-hunga!" - Whoa!
-Okay, we're sending backup! Hopps?
-Hopps!
+- It's "Tuh-hunga!"<br />- Whoa!
+<i>Okay, we're<br />sending backup! Hopps?</i>
+<i>Hopps!</i>
 There!
 Head for the sky trams!
 Get in! Carrots.
@@ -66,10 +66,10 @@ Buddy.
 One predator to another...
 No, no, no...
 Now, I can tell you're a little tense...
-so I'm just gonna give you a little personal space! Ah!
+so I'm just gonna give you<br />a little personal space! Ah!
 Rabbit, whatever you do, do not let go!
-- I'm gonna let go! - No, you, what?
-- One, two... - No...
+- I'm gonna let go!<br />- No, you, what?
+- One, two...<br />- No...
 I said, do not... Rabbit!
 Carrots. You saved my life.
 Well. That's what we do at the ZPD.

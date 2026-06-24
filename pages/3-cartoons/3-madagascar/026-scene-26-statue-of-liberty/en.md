@@ -5,23 +5,23 @@ description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/26.mp4"
 ---
 
-Can't wait to see the look on Marty's face when he sees this.
-Just look at him. He's helpless without us.
+Can't wait to see the look<br />on Marty's face when he sees this.
+Just look at him.<br />He's helpless without us.
 Shut up, Spalding.
-I've been standing here for hours, man. How long do I have to pose like this?
-She is finite
-I defy any rescue boat within a million miles
+I've been standing here for hours, man.<br />How long do I have to pose like this?
+She is <i>finite</i>
+I defy any rescue boat<br />within a million miles
 to miss this baby.
-When the moment is right, we will ignite the beacon of liberty
-and be rescued from this awful nightmare!
+When the moment is right,<br />we will ignite the beacon of liberty
+and be rescued<br />from this awful nightmare!
 What do you think? Pretty cool, huh?
-- How's the liberty fire going, Melman? - Great. Idiot.
+- How's the liberty fire going, Melman?<br />- Great. Idiot.
 I heard that.
-Why can't we just borrow some of Marty's fire?
+Why can't we just borrow<br />some of Marty's fire?
 That's wild fire.
-We're not using wild fire on Lady Liberty.
-- Now, rub, Melman. - I've been doing...
-I can't. I can't. I can't do it. I ju... I can't do it!
+We're not using wild fire<br />on Lady Liberty.
+- Now, rub, Melman.<br />- I've been doing...
+I can't. I can't. I can't do it.<br />I ju... I can't do it!
 Fire.
 Fire.
 Fire! Fire!

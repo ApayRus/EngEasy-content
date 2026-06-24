@@ -10,21 +10,21 @@ Princess Fiona?
 Princess, where are you?
 Princess?
 It's very spooky in here. I ain't playing no games.
-- Aah! - Oh, no! - No, help!
-- Shh! - Shrek! Shrek! Shrek! - No, it's okay. It's okay.
-- What did you do with the princess? -Donkey, shhh, I'm the princess.
-- Aah! - It's me, in this body.
+- Aah! - Oh,<br />no! - No, help!
+- Shh! - Shrek! Shrek! Shrek!<br />- No, it's okay. It's okay.
+- What did you do with the princess?<br />-Donkey, shhh, I'm the princess.
+- Aah!<br />- It's me, in this body.
 Oh, my God! You ate the princess!
 - Can you hear me? - Donkey!
-- Listen, keep breathing! I'll get you out of there! - No!
-- Shrek! Shrek! Shrek! - Shh.
-- Shrek! - This is me.
+- Listen, keep breathing! I'll get you out of there!<br />- No!
+- Shrek! Shrek! Shrek!<br />- Shh.
+- Shrek!<br />- This is me.
 Princess?
 What happened to you? You're, uh, uh,
 uh, different.
-- I'm ugly, okay? - Well, yeah!
+- I'm ugly, okay?<br />- Well, yeah!
 Was it something that you ate? 'Cause I told Shrek those rats was a bad idea.
-- You are what you eat, I said. Now- -No.
+- You are what you eat, I said. Now-<br />-No.
 I- I've been this way as long as I can remember.
 What do you mean? Look, I ain't never seen you like this before.
 It only happens when the sun goes down.
@@ -70,7 +70,7 @@ My only chance to live happily ever after is to marry my true love.
 - Don't you see, Donkey?
 That's just how it has to be.
 It's the only way to break the spell.
-- You at least gotta tell Shrek the truth. - No!
+- You at least gotta tell Shrek the truth.<br />- No!
 You can't breathe the word. No one must ever know.
 What's the point of being able to talk if you gotta keep secrets?
 Promise you won't tell. Promise!

@@ -11,17 +11,17 @@ Never really knowing why
 I wish I could be the perfect daughter
 But I come back to the water
 No matter how hard I try
-Every turn I take Every trail I track
-Every path I make Every road leads back
-To the place I know Where I cannot go
+Every turn I take<br />Every trail I track
+Every path I make<br />Every road leads back
+To the place I know<br />Where I cannot go
 Where I long to be
 See the line where the sky meets the sea
 It calls me
 And no one knows
 How far it goes
-If the wind in my sail on the sea Stays behind me
+If the wind in my sail on the sea<br />Stays behind me
 One day I'll know
-If I go, there's just no telling how far I'll go
+If I go, there's just no telling<br />how far I'll go
 I know everybody on this island
 Seems so happy on this island
 Everything is by design
@@ -29,9 +29,9 @@ Everything is by design
 I know everybody on this island
 Has a role on this island
 So maybe I can roll with mine
-I can lead with pride I can make us strong
-I'll be satisfied If I play along
-But the voice inside Sings a different song
+I can lead with pride<br />I can make us strong
+I'll be satisfied<br />If I play along
+But the voice inside<br />Sings a different song
 What is wrong with me
 See the light as it shines on the sea
 It's blinding
@@ -40,11 +40,11 @@ How deep it goes
 And it seems like it's calling out to me
 So come find me
 And let me know
-What's beyond that line Will I cross that line
+What's beyond that line<br />Will I cross that line
 The line where the sky meets the sea
 It calls me
 And no one knows
 How far it goes
-If the wind in my sail on the sea stays behind me
+If the wind in my sail on the sea<br />stays behind me
 One day I'll know
 How far I'll go

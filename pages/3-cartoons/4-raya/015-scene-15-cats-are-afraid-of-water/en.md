@@ -12,7 +12,7 @@ RAYA: Run!
 (SISU PANTING AND GRUNTING)
 Not like that! Two legs!
 SISU: Right!
--(PANTING) -(GRUNTING)
+-(PANTING)<br />-(GRUNTING)
 (EXCLAIMS)
 (CAT GROWLS)
 (GRUNTS)
@@ -23,17 +23,17 @@ RAYA: Tuk Tuk! Roll!
 (GRUNTS)
 SISU: Whoa!
 (WHIMPERING AND EXCLAIMING)
--RAYA: Jump! -(SISU EXCLAIMS)
+-RAYA: Jump!<br />-(SISU EXCLAIMS)
 (BOTH GRUNT)
 Who was that girl?
 That's Namaari.
-She's the backstabbing binturi that broke the world.
+She's the backstabbing binturi<br />that broke the world.
 (TENSE MUSIC PLAYING)
-Wow, those cats are really fast, huh?
-What do cats and Druun have in common?
+Wow, those cats<br />are really fast, huh?
+What do cats and Druun<br />have in common?
 Um... They have no souls?
 And they both hate water.
--Oh. -Hold on!
+-Oh.<br />-Hold on!
 (TUK TUK TRILLING)
 (SPLASHES)
 (GRUMBLES)

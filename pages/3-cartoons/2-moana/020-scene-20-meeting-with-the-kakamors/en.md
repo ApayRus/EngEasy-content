@@ -12,7 +12,7 @@ Wonder what they're here for.
 They're kinda cute.
 Ocean!
 Do something! Help us!
-The ocean doesn't help you, you help yourself!
+The ocean doesn't help you,<br />you help yourself!
 Tighten the halyard. Bind the stays!
 You can't sail?
 I, uh...
@@ -28,7 +28,7 @@ Heihei!
 Maui!
 They took the heart!
 That's a chicken.
-The heart is in the... (FRUSTRATED GRUNTING)
+The heart is in the...<br />(FRUSTRATED GRUNTING)
 We have to get him back!
 Maui!
 Cheeeehoooo!

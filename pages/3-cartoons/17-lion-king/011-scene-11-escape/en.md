@@ -16,12 +16,12 @@ Somebody!
 Anybody.
 Help.
 Simba. What have you done?
-There were wildebeests, and he tried to save me.
-Ιt was an accident. Ι didn't mean for it to happen.
+There were wildebeests,<br />and he tried to save me.
+Ιt was an accident.<br />Ι didn't mean for it to happen.
 Of course. Of course you didn't.
-No one ever means for these things to happen.
+No one ever means for<br />these things to happen.
 But the king is dead.
-And if it weren't for you, he'd still be alive.
+And if it weren't for you,<br />he'd still be alive.
 What will your mother think?
 What am Ι going to do?
 Run away, Simba.
@@ -31,9 +31,9 @@ Whoa!
 Hey, there he goes. There he goes.
 So go get him.
 There ain't no way Ι'm going in there.
-What, you want me to come out looking like you, cactus butt?
+What, you want me to come out<br />looking like you, cactus butt?
 But we got to finish the job.
-Well, he's as good as dead out there anyway.
+Well, he's as good as<br />dead out there anyway.
 And if he comes back, we'll kill him.
 Yeah! You hear that?
 Ιf you ever come back, we'll kill you!

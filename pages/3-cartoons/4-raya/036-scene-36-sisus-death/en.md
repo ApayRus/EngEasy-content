@@ -8,29 +8,29 @@ mediaLink: "https://archive.org/download/raya-scenes-42/36.mp4"
 (TENSE MUSIC CONTINUES)
 (SOFT MUSIC PLAYING)
 I see you got my gift.
-I never thought I'd see this again.
+I never thought<br />I'd see this again.
 Well, uh...
-I tried to take good care of it.
-You're not the only dragon nerd here.
+I tried to take<br />good care of it.
+You're not the only<br />dragon nerd here.
 (CHUCKLES)
-(SOFT TRIUMPHANT MUSIC PLAYING)
+(SOFT TRIUMPHANT MUSIC<br />PLAYING)
 (DRAMATIC MUSIC PLAYING)
 (BREATHES NERVOUSLY)
 The final piece.
 Time to bring everyone back.
 (WEAPON CREAKS)
 (INTENSE MUSIC PLAYING)
-Sisu and the gem pieces are coming with me.
--Sisu! -Stay back!
-It was foolish to trust someone from Fang!
+Sisu and the gem pieces<br />are coming with me.
+-Sisu!<br />-Stay back!
+It was foolish<br />to trust someone from Fang!
 Don't come any closer!
 Namaari,
-it doesn't have to be like this.
+it doesn't have to be<br />like this.
 I don't have any other choice.
 Hey. I got this.
 (SOFT MUSIC PLAYING)
 (NAMAARI BREATHING HEAVILY)
-I know you don't wanna hurt anybody.
+I know you don't wanna<br />hurt anybody.
 What are you doing?
 You just want a better world.
 Like we all do.
@@ -48,8 +48,8 @@ No... (BREATHING HEAVILY)
 (TENSE MUSIC RISING)
 What's happening?
 I don't know.
-It appears that with the last dragon gone,
+It appears that<br />with the last dragon gone,
 so too goes the water.
-Now there is nothing to stop the Druun.
+Now there is nothing<br />to stop the Druun.
 (OMINOUS MUSIC PLAYING)
 Nothing.

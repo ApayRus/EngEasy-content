@@ -12,14 +12,14 @@ Choose someone else.
 Please.
 (SOBBING)
 No.
-GRAMMA: You're a long ways past the reef.
+GRAMMA: You're a long ways<br />past the reef.
 Gramma?
 Guess I chose the right tattoo.
 Gramma!
 I tried, Gramma.
 I couldn't do it.
 It's not your fault.
-I never should have put so much on your shoulders.
+I never should have put so much<br />on your shoulders.
 If you are ready to go home...
 I will be with you.
 Why do you hesitate?

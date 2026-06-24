@@ -11,15 +11,15 @@ Let me out! You lying, slimy son of a...
 (HUMMING)
 You're welcome
 You're so welcome.
-No. I'm not going to Te Fiti with some kid.
+No. I'm not going to Te Fiti<br />with some kid.
 I'm going to get my hook.
-You have yours and I'm not Maui without mine.
+You have yours and<br />I'm not Maui without mine.
 Okay, talk to the back.
 Boat snack.
 (SCREAMING)
-Good riddance, you filthy pile of pebbles.
-Oh, no, no, no. Don't look at me like that.
-It's a beautiful cave. She's gonna love it.
+Good riddance,<br />you filthy pile of pebbles.
+Oh, no, no, no.<br />Don't look at me like that.
+It's a beautiful cave.<br />She's gonna love it.
 And I'm going to love you in ma belly.
 Now, let's fatten you up, drumstick.
 I could watch that all day.
@@ -43,8 +43,8 @@ Oh, come on!
 What is your problem?
 Are you afraid of it?
 No! No.
-(CHUCKLES NERVOUSLY) I'm not afraid.
-Stay out of it or you're sleeping in my armpit.
+(CHUCKLES NERVOUSLY)<br />I'm not afraid.
+Stay out of it<br />or you're sleeping in my armpit.
 You, stop it.
 That is not a heart. it is a curse.
 The second I took it, I got blasted outta the sky...
@@ -55,14 +55,14 @@ Hey, hey, hey! I'm a demigod, okay?
 Stop that. I will smite you!
 You wanna get smote?
 Smotten?
-Listen, that thing doesn't give you power to create life...
+Listen, that thing doesn't give you<br />power to create life...
 it's a homing beacon of death.
-If you don't put it away, bad things are gonna come for it.
+If you don't put it away,<br />bad things are gonna come for it.
 Come for this? The heart?
 You mean this heart right here?
-Don't, you can't raise your voice like that!
--- Come and get it! -- (MAUI SHUSHING)
+Don't, you can't<br />raise your voice like that!
+-- Come and get it!<br />-- (MAUI SHUSHING)
 You are gonna get us killed!
-No, I'm gonna get us to Te Fiti, so you can put it back.
+No, I'm gonna get us to Te Fiti,<br />so you can put it back.
 Thank you.
 You're welcome.

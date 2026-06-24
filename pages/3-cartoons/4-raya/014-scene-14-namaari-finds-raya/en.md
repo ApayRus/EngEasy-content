@@ -8,28 +8,28 @@ mediaLink: "https://archive.org/download/raya-scenes-42/14.mp4"
 (CAT GROWLING)
 Namaari.
 What's drippin', dep la?
-Oh, I see you've finally made a new friend.
+Oh, I see you've finally<br />made a new friend.
 And here I was worried
-you were gonna end up becoming a cat lady
+you were gonna end up<br />becoming a cat lady
 like me.
 (GROWLS)
-Something tells me you're not besties.
-Stealing Dragon Gem pieces, are we? Why?
-What can I say? Bling is my thing.
+Something tells me<br />you're not besties.
+Stealing Dragon Gem pieces,<br />are we? Why?
+What can I say?<br />Bling is my thing.
 Hmm.
-I gotta admit, Raya, until a few months ago,
+I gotta admit, Raya,<br />until a few months ago,
 I thought you were stone.
-But then, someone stole Fang's dragon scroll.
-Oh, is that why you're chasing me?
-And here I thought it was because you missed me.
-Are you really looking for Sisu?
+But then, someone stole<br />Fang's dragon scroll.
+Oh, is that why<br />you're chasing me?
+And here I thought<br />it was because you missed me.
+Are you really looking<br />for Sisu?
 (LAUGHING)
 What are you, 12?
-Yeah, I actually was looking for Sisu.
-Oh, and guess what? I found her.
+Yeah, I actually was looking<br />for Sisu.
+Oh, and guess what?<br />I found her.
 Say hi, Sisu.
 Hi!
 It's very nice to meet you,
-and I love your hair and your cats' hair.
+and I love your hair<br />and your cats' hair.
 (CHUCKLES)
 Take them.

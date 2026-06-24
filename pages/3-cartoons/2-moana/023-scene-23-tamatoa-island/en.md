@@ -8,13 +8,13 @@ mediaLink: 'https://archive.org/download/20_20260619_202606/23.mp4'
 Moana!
 (GASPS)
 MAUI: Enjoy your beauty rest?
-You know, a real wayfinder never sleeps...
-so they actually get where they need to go.
+You know,<br />a real wayfinder never sleeps...
+so they actually get<br />where they need to go.
 Muscle up, buttercup.
 We're here.
 You're sure this guy's gonna have your hook?
 Tamatoa? Oh, he'll have it.
-He's a scavenger. Collects stuff. Thinks it makes him look cool.
+He's a scavenger. Collects stuff.<br />Thinks it makes him look cool.
 Ah!
 And for Tamatoa, trust me...
 my hook is the coolest collectible.
@@ -26,11 +26,11 @@ to Lalotai.
 Realm of monsters?
 We're going to the realm of monsters?
 We? No. Me.
-You are gonna stay here with the other chicken. (CLUCKING)
+You are gonna stay here<br />with the other chicken. (CLUCKING)
 That's what I'm talking about. Gimme some.
-Come on. That was a good one. How do you not get it?
-I called her a chicken, there's a chicken on the boat.
-I know she's human, but that's not the...
+Come on. That was a good one.<br />How do you not get it?
+I called her a chicken,<br />there's a chicken on the boat.
+I know she's human,<br />but that's not the...
 You know what? Forget it. Forget it!
 I'm not explaining it to you.
 Cause then it's not funny.
@@ -51,13 +51,13 @@ You're what, eight? Can't sail.
 Obvious choice.
 It chose me for a reason.
 If the ocean's so smart...
-why didn't it just take the heart back to Te Fiti itself?
+why didn't it just take the heart<br />back to Te Fiti itself?
 Or bring me my hook?
 The ocean's straight up kooky-dooks.
 But I'm sure it's not wrong about you.
 You're the Chosen One!
 The ocean chose you for a reason.
-If you start singing, I'm gonna throw up.
+If you start singing,<br />I'm gonna throw up.
 So, not seeing an entrance.
 Yes, because it only appears...
 after a human sacrifice.

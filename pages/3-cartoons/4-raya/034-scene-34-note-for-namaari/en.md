@@ -6,17 +6,17 @@ mediaLink: "https://archive.org/download/raya-scenes-42/34.mp4"
 ---
 
 If she refuses to help,
-we've just flushed our tactical advantage
--into the dung pot. -I know.
-Yeah. She really has no reason to help us.
+we've just flushed<br />our tactical advantage
+-into the dung pot.<br />-I know.
+Yeah. She really has no reason<br />to help us.
 I know!
 This jerky's terrible.
 I know!
-Are you sure those four miniature menaces
+Are you sure<br />those four miniature menaces
 will be successful?
 I don't know.
 (SUSPENSEFUL MUSIC PLAYING)
--Huh? (GRUNTS AND GROANS) -(BODY THUDS)
+-Huh? (GRUNTS AND GROANS)<br />-(BODY THUDS)
 (SUSPENSEFUL MUSIC CONTINUES)
 Hmm?
 (GRUNTS)

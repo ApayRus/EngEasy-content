@@ -9,4 +9,4 @@ You are going to pay for this!
 No!
 Chupacabra!
 Chupacabra! Chupacabra!
-- Chupacabra! - You are a crazy woman!
+- Chupacabra!<br />- You are a crazy woman!

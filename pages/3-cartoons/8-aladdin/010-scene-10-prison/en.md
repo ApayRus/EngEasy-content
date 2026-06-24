@@ -10,10 +10,10 @@ I must have sounded so stupid to her.
 Aladdin! Hello!
 Abu. Down here.
 Come on, help me out of these.
-Hey, she was in trouble. She was worth it.
+Hey, she was in trouble.<br />She was worth it.
 Yeah, yeah, yeah.
-Don't worry, Abu. I'll never see her again.
-I'm a street rat, remember? And there's a law.
+Don't worry, Abu.<br />I'll never see her again.
+I'm a street rat, remember?<br />And there's a law.
 She's gotta marry a prince.
 She deserves a prince.
 I'm a fool.
@@ -22,15 +22,15 @@ Who are you?
 A lowly prisoner, like yourself.
 But together, perhaps we can be more.
 I'm listening.
-There is a cave, boy, a Cave of Wonders,
-filled with treasures beyond your wildest dreams.
-Treasure enough to impress even your princess, I'd wager.
-Jafar, can you hurry up? I'm dyin' in here.
+There is a cave, boy,<br />a Cave of Wonders,
+filled with treasures<br />beyond your wildest dreams.
+Treasure enough to impress<br />even your princess, I'd wager.
+Jafar, can you hurry up?<br />I'm dyin' in here.
 But the law says only a prince can...
-You've heard of the golden rule, haven't you?
+You've heard of the golden rule,<br />haven't you?
 Whoever has the gold makes the rules.
-Why would you share all of this wonderful treasure with me?
-I need a young pair of legs and a strong back to go in after it.
+Why would you share all of this<br />wonderful treasure with me?
+I need a young pair of legs<br />and a strong back to go in after it.
 One problem.
 It's out there. We're in here.
 Things aren't always what they seem.

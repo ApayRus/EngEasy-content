@@ -6,29 +6,29 @@ mediaLink: "https://archive.org/download/mulan-scenes-26/25.mp4"
 ---
 
 Mulan!
-Father, I brought you the sword of Shan-Yu.
+Father, I brought you<br />the sword of Shan-Yu.
 And the crest of the Emperor.
 They're gifts to honor the Fa family.
-The greatest gift and honor is having you for a daughter.
+The greatest gift and honor<br />is having you for a daughter.
 I've missed you so.
 I've missed you too, Baba.
 Great.
 She brings home a sword.
-If you ask me, she should've brought home a man.
+If you ask me,<br />she should've brought home a man.
 Excuse me. Does Fa Mulan live here?
 Thank you.
 Sign me up for the next war.
 Honorable Fa Zhou, I... Mulan!
 You forgot your helmet.
 Well, actually, it's your helmet, isn't it?
--I mean... -Would you like to stay for dinner?
+-I mean...<br />-Would you like to stay for dinner?
 Would you like to stay forever?
 Dinner would be great.
 Come on. Who did a good job?
 Come on. Tell me. Who did a good job?
 All right! You can be a guardian again.
 Take it, Cri-Kee!
-You know, she gets it from my side of the family.
+You know, she gets it<br />from my side of the family.
 Call out for egg rolls!
 Guardians.
 Thanks, Mushu.

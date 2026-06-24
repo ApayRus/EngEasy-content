@@ -10,41 +10,41 @@ Yeah! Go wild, man! Come on!
 Break out the wave!
 Excuse me.
 You're biting my butt.
-- No, I'm not. - Yes, you are.
-- What did you do? - You just bit me!
+- No, I'm not.<br />- Yes, you are.
+- What did you do?<br />- You just bit me!
 No. I didn't. Did I?
-- You kind of did. - He just bit me on the butt!
+- You kind of did.<br />- He just bit me on the butt!
 What the heck is wrong with you?
 Why'd you bite me?
-- Man, it's because you are his dinner. - What?
-- Excuse me? - That's dumb.
-Come, come, Maurice. What is a simple bite on the buttocks among friends?
+- Man, it's because you are his dinner.<br />- What?
+- Excuse me?<br />- That's dumb.
+Come, come, Maurice. What is a simple<br />bite on the buttocks among friends?
 Here, give me a nibble.
-The party is over, Julien. Your brilliant plan has failed.
+The party is over, Julien.<br />Your brilliant plan has failed.
 What are you talking about?
 Your friend here is what we call
-a deluxe-model hunting and eating machine.
+a deluxe-model hunting<br />and eating machine.
 And he eats steak, which is you.
-- Get out of here. - Okey-dokey, Maurice, I admit it.
+- Get out of here.<br />- Okey-dokey, Maurice, I admit it.
 The plan failed.
 All is lost! We're all doomed.
-The foosas will come back and gobble us with their mouths because
+The foosas will come back and<br />gobble us with their mouths because
 we are all steak.
 I'm steak! Me, me, me!
 Mr Alex cannot stay here.
-He belongs with his own kind on the foosa side of the island.
+He belongs with his own kind<br />on the foosa side of the island.
 By the power vested in me,
-by the law of the jungle, blah, blah, blah, blah...
-- Be gone! - What?
+by the law of the jungle,<br />blah, blah, blah, blah...
+- Be gone!<br />- What?
 Come on, do I look like a steak to you?
 Yeah!
-See, I told you I don't look like a... Wait. What you say?
+See, I told you I don't look like a...<br />Wait. What you say?
 Oh, yeah!
-- He's going savage. - Run for your lives.
+- He's going savage.<br />- Run for your lives.
 Marty, run!
-- A bull's eye. Excellent shot, Maurice. - Thank you.
+- A bull's eye. Excellent shot, Maurice.<br />- Thank you.
 I'm so sorry, Marty.
 What is wrong with me?
 Oh, no.
-What have I done? It's true. I'm a monster.
+What have I done?<br />It's true. I'm a monster.
 I got to get out of here.

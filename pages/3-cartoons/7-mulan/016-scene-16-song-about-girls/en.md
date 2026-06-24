@@ -5,37 +5,37 @@ description: "Mulan"
 mediaLink: "https://archive.org/download/mulan-scenes-26/16.mp4"
 ---
 
-For a long time we've been marching off to battle
-In our thundering herd we feel a lot like cattle
-Like a pounding beat our aching feet
-Aren't easy to ignore
-Think of instead
-A girl worth fighting for
+<i>For a long time<br /></i>we've <i>been marching off to battle</i>
+<i>In our thundering herd<br />we feel a lot like cattle</i>
+<i>Like a pounding beat<br />our aching feet</i>
+<i>Aren't easy to ignore</i>
+<i>Think of instead</i>
+<i>A girl worth fighting for</i>
 That's what I said.
-A girl worth fighting for
-I want her paler than the moon
-With eyes that shine like stars
-My girl will marvel at my strength
-Adore my battle scars
-I couldn't care less what she'll wear or what she looks like
-It all depends on what she cooks like
-Beef, pork, chicken
-Bet the local girls thought you were quite the charmer
-And I'll bet the ladies love a man in armor
-You can guess what we have missed the most
-Since we went off to war
--What do we want? -A girl worth fighting for
-My girl will think I have no faults
-That I'm a major find
-How 'bout a girl who's got a brain
-Who always speaks her mind?
-My manly ways and turn of phrase
-Are sure to thrill her
-He thinks he's such a lady killer
-I've a girl back home who's unlike any other
-Yeah, the only girl who'd love him is his mother
-But when we come home in victory
-They'll line up at the door
--What do we want? -A girl worth fighting for
--Wish that I had -A girl worth fighting for
-A girl worth fighting...
+<i>A girl worth fighting for</i>
+<i>I want her paler than the moon</i>
+<i>With eyes that shine like stars</i>
+<i>My girl will marvel at my strength</i>
+<i>Adore my battle scars</i>
+<i>I couldn't care less what she'll wear<br />or what she looks like</i>
+<i>It all depends on what she cooks like</i>
+<i>Beef, pork, chicken</i>
+<i>Bet the local girls<br />thought you were quite the charmer</i>
+<i>And I'll bet the ladies<br />love a man in armor</i>
+<i>You can guess what<br />we have missed the most</i>
+<i>Since we went off to war</i>
+<i>-What do we want?</i><br /><i>-A girl worth fighting for</i>
+<i>My girl will think I have no faults</i>
+<i>That I'm a major find</i>
+<i>How 'bout a girl who's got a brain</i>
+<i>Who always speaks her mind?</i>
+<i>My manly ways and turn of phrase</i>
+<i>Are sure to thrill her</i>
+<i>He thinks he's such a lady killer</i>
+<i>I've a girl back home<br />who's unlike any other</i>
+<i>Yeah, the only girl<br />who'd love him is his mother</i>
+<i>But when we come home in victory</i>
+<i>They'll line up at the door</i>
+<i>-What do we want?</i><br /><i>-A girl worth fighting for</i>
+<i>-Wish that I had<br />-A girl worth fighting for</i>
+<i>A girl worth fighting...</i>

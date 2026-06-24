@@ -9,16 +9,16 @@ Too skinny.
 Not good for bearing sons.
 Recite the final admonition.
 Well?
-Fulfill your duties calmly and respectfully.
+Fulfill your duties<br />calmly and respectfully.
 Reflect before you snack...
-Act! This shall bring you honor and glory.
+Act! This shall bring you<br />honor and glory.
 This way.
 Now, pour the tea.
 To please your future in-laws,
-you must demonstrate a sense of dignity
+you must demonstrate<br />a sense of dignity
 and refinement.
 You must also be poised.
--Pardon me. -And silent!
+-Pardon me.<br />-And silent!
 Could I just take that back?
 One moment.
 Why, you clumsy...
@@ -26,4 +26,4 @@ I think it's going well, don't you?
 Put it out! Put it out! Put it out!
 You are a disgrace!
 You may look like a bride,
-but you will never bring your family honor!
+but you will never<br />bring your family honor!

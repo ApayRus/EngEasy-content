@@ -12,7 +12,7 @@ She's mine now!
 Hello!
 Oh, no! Fly, little gosling, fly!
 No! It's not supposed to be this way!
-- Puss? - No.
+- Puss?<br />- No.
 I'm sorry.
 Thanks, Ginger.
 We should maybe cut that down.

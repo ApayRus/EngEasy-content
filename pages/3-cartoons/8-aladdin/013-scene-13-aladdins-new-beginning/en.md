@@ -18,30 +18,30 @@ Aladdin.
 My head.
 We're trapped.
 That two-faced son of a jackal!
-Whoever he was, he's long gone with that lamp.
+Whoever he was,<br />he's long gone with that lamp.
 Why, you hairy little thief.
-Looks like such a beat-up, worthless piece ofjunk.
-Hey, I think there's something written here,
+Looks like such a beat-up,<br />worthless piece ofjunk.
+Hey, I think there's<br />something written here,
 but it's hard to make out.
-10,000 years will give you such a crick in the neck.
+10,000 years will give you<br />such a crick in the neck.
 Hang on a second.
 Does it feel good to be outta there.
-I'm telling you, nice to be back, ladies and gentlemen.
-Hi. Where you from? What's your name?
+I'm telling you,<br />nice to be back, ladies and gentlemen.
+Hi. Where you from?<br />What's your name?
 Aladdin.
-Aladdin. Hello, Aladdin. Nice to have you on the show.
-Can we call you Al? Or maybe just Din?
-How about Laddie? Sounds like, "Here, boy. C'mon, laddie. "
-I must have hit my head harder than I thought.
+Aladdin. Hello, Aladdin.<br />Nice to have you on the show.
+Can we call you Al?<br />Or maybe just Din?
+How about Laddie? Sounds like,<br />"Here, boy. C'mon, laddie. "
+I must have hit my head<br />harder than I thought.
 Do you smoke? Mind if I do?
-Oh, sorry, Cheeta. Hope I didn't singe the fur.
-Yo, Rugman. Haven't seen you in a few millennia.
+Oh, sorry, Cheeta.<br />Hope I didn't singe the fur.
+Yo, Rugman. Haven't seen you<br />in a few millennia.
 Give me some tassel. Yeah. Yo, yo.
-Say, you're a lot smaller than my last master.
+Say, you're a lot smaller<br />than my last master.
 Either that or I'm gettin' bigger.
-Look at me from the side. Do I look different to you?
+Look at me from the side.<br />Do I look different to you?
 Wait a minute. I'm your master?
-That's right. He can be taught. What would you wish of me?
+That's right. He can be taught.<br />What would you wish of me?
 The ever impressive,
 the long contained,
 the often imitated,
@@ -49,11 +49,10 @@ but never duplicated...
 Duplicated, duplicated...
 Genie of the Lamp!
 Right here direct from the lamp,
-right here for your very much wish fulfilment.
+right here<br />for your very much wish fulfilment.
 Thank you.
-
-- Wish fulfilment? - Three wishes, to be exact.
-  And ixnay on the wishing for more wishes.
-  That's it. Three. Uno, dos, tres.
-  No substitutions, exchanges or refunds.
-  Now I know I'm dreaming.
+- Wish fulfilment?<br />- Three wishes, to be exact.
+And ixnay on the wishing<br />for more wishes.
+<i>That's it. Three. Uno, dos, tres.</i>
+No substitutions, exchanges or refunds.
+Now I know I'm dreaming.

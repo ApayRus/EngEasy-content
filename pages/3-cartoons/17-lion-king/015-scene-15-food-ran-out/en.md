@@ -16,25 +16,25 @@ No, no! Anything but that!
 I've got a lovely bunch of coconuts
 Deedle dee dee
 There they are a-standing in a row
-Big ones, small ones, some as big as your head
-Ι would never have had to do this with Mufasa.
+Big ones, small ones,<br />some as big as your head
+Ι would never have had<br />to do this with Mufasa.
 What? What did you say?
--Nothing. -You know the law.
-Never, ever mention that name in my presence. Ι am the king!
+-Nothing.<br />-You know the law.
+Never, ever mention that name<br />in my presence. Ι am the king!
 Yes, sire, you are the king.
-Ι... Ι only mentioned it to illustrate the differences
+Ι... Ι only mentioned it<br />to illustrate the differences
 in your royal managerial approaches.
--Hey, boss. -What is it this time?
--We got a bone to pick with you. -Ι'll handle this.
+-Hey, boss.<br />-What is it this time?
+-We got a bone to pick with you.<br />-Ι'll handle this.
 Scar, there's no food, no water.
-Yeah. Ιt's dinner time and we ain't got no stinking entrées.
+Yeah. Ιt's dinner time<br />and we ain't got no stinking entrées.
 Ιt's the lionesses' job to do the hunting.
 Yeah, but they won't go hunt.
--Eat Zazu. -You wouldn't want me.
+-Eat Zazu.<br />-You wouldn't want me.
 Ι'd be so tough and gamey and...
-Zazu, don't be ridiculous. All you need is a little garlic.
-Ι thought things were bad under Mufasa.
--What did you say? -Ι said Muf...
+Zazu, don't be ridiculous.<br />All you need is a little garlic.
+Ι thought things<br />were bad under Mufasa.
+-What did you say?<br />-Ι said Muf...
 Ι said qué pasa?
 Good. Now get out.
 But we're still hungry.

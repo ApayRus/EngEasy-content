@@ -5,8 +5,8 @@ description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/13.mp4"
 ---
 
-Okay. You're gonna have to be patient...
-and wait in line just like everyone else...
+Okay. You're gonna<br />have to be patient...
+and wait in line<br />just like everyone else...
 Mrs. Otterton. Okay?
 I popped the weasel!
 Hopps!
@@ -19,50 +19,50 @@ from stealing two dozen moldy onions.
 Mmm. Hate to disagree with you, sir...
 but those aren't onions.
 Those are a crocus varietal...
-called midnicampum holicithias.
+called <i>midnicampum holicithias.</i>
 They're a Class-C botanical, sir.
 Well, I grew up in a family...
-where plant husbandry was kind of a thing.
+where plant husbandry<br />was kind of a thing.
 Shut your tiny mouth now!
 Sir, I got the bad guy.
 That's my job.
 Your job is putting tickets...
 on parked cars!
-Chief...
-uh, Mrs. Otterton's here to see you again.
-- Not now. - Okay, I just didn't know . .
-If you'd want to take it this time.
-She seems really upset.
-- Not now! - Sir...
+<i>Chief...</i>
+<i>uh, Mrs. Otterton's here<br />to see you again.</i>
+- Not now.<br /><i>- Okay, I just didn't know . .</i>
+<i>If you'd want to take it this time.</i>
+<i>She seems really upset.</i>
+- Not now!<br />- Sir...
 I don't want to be a meter maid...
 I want to be a real cop.
-Do you think the mayor asked what I wanted...
+Do you think the mayor asked<br />what I wanted...
 when he assigned you to me?
 But, sir, if...
 Life isn't some cartoon musical...
 where you sing a little song...
-and your insipid dreams magically come true.
+and your insipid dreams<br />magically come true.
 So, let it go.
 Chief Bogo, please.
 Five minutes of your time. Please.
 I'm sorry, sir.
-I tried to stop her. She is super-slippery.
+I tried to stop her.<br />She is super-slippery.
 I gotta go sit down.
-Ma'am, as I've told you, we're doing everything we can.
-My husband has been missing for 10 days.
+Ma'am, as I've told you,<br />we're doing everything we can.
+My husband has been missing<br />for 10 days.
 His name is Emmitt Otterton.
 Yes, I know.
 He's a florist.
 We have two beautiful children.
 He would never just disappear.
-Ma'am, our detectives are very busy.
+Ma'am, our detectives<br />are very busy.
 Please.
-There's got to be somebody to find my Emmitt.
+There's got to be somebody<br />to find my Emmitt.
 Mrs. Otterton...
 I will find him.
 Oh!
 Thank you.
-- Bless you. - Oh!
+- Bless you.<br />- Oh!
 Bless you, little bunny.
 Oh.
 Take this.
@@ -79,19 +79,19 @@ and you're going to tell that otter...
 you're a former meter maid...
 with delusions of grandeur...
 who will not be taking the case!
-I just heard Officer Hopps is taking the case.
+I just heard Officer Hopps<br />is taking the case.
 Assistant Mayor Bellwether.
 The Mammal Inclusion Initiative...
 is really starting to pay off.
-Mayor Lionheart is just gonna be so jazzed!
-No, no, let's not tell the Mayor just yet.
-And I've sent it and it is done, so I did do that.
-All right. Well, I'd say the case is in good hands.
-Us little guys really need to stick together, right?
+Mayor Lionheart is just gonna<br />be so jazzed!
+No, no, let's not tell<br />the Mayor just yet.
+And I've sent it and it is<br />done, so I did do that.
+All right. Well, I'd say<br />the case is in good hands.
+Us little guys really need to<br />stick together, right?
 Like glue.
 Good one.
-Just call me if you ever need anything, okay?
-You've always got a friend at City Hall, Judy.
+Just call me if you ever<br />need anything, okay?
+You've always got a friend<br />at City Hall, Judy.
 All right, bye-bye.
 Thank you, ma'am.
 I will give you 48 hours.
@@ -103,4 +103,4 @@ Oh! Uh...
 Okay.
 Deal!
 Splendid.
-Clawhauser will give you the complete case file.
+Clawhauser will give you<br />the complete case file.

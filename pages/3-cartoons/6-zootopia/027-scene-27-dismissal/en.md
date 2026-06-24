@@ -26,12 +26,12 @@ Our city is 90% prey, Judy...
 and right now they're just really scared.
 You're a hero to them. They trust you.
 And so that's why Chief Bogo and I...
-want you to be the public face of the ZPD.
+want you to be<br />the public face of the ZPD.
 I'm... not...
 I'm not a hero.
-I came here to make the world a better place...
+I came here to make<br />the world a better place...
 but I think I broke it.
-Don't give yourself so much credit, Hopps.
+Don't give yourself<br />so much credit, Hopps.
 The world has always been broken...
 that's why we need good cops.
 Like you.
@@ -41,7 +41,7 @@ Help the city.
 Not tear it apart.
 I don't deserve this badge.
 Hopps...
-Judy, you've worked so hard to get here.
-It's what you wanted since you were a kid.
+Judy, you've worked<br />so hard to get here.
+It's what you wanted<br />since you were a kid.
 You can't quit.
 Thank you for the opportunity.

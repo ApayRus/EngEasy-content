@@ -10,48 +10,48 @@ You're gonna start a howl.
 I didn't start it!
 Come on.
 You are a clever bunny.
-It looks like this was a hospital.
+It looks like<br />this was a hospital.
 You know, after you. You're the cop.
 Hmm.
-- Okay, all clear. - Ugh.
+- Okay, all clear.<br />- Ugh.
 Huh.
 All this equipment is brand new.
 Carrots.
 Claw marks.
-Yeah, huge, huge claw marks. I mean, what kind of...
+Yeah, huge, huge claw marks.<br />I mean, what kind of...
 Mr. Manchas.
 It's him.
 We found our otter.
 Mr. Otterton.
-My name is Officer Judy Hopps. Your wife sent me to find you.
+My name is Officer Judy Hopps.<br />Your wife sent me to find you.
 We're gonna get you out of here now.
 Or not.
-Guess he's in no rush to get home to the missus.
+Guess he's in no rush<br />to get home to the missus.
 11, 12, 13, 14...
 Not including Manchas, it's 14.
-Chief Bogo handed out 14 missing mammal files.
+Chief Bogo handed out<br />14 missing mammal files.
 They're all here.
 All the missing mammals are right here.
-Enough! I don't want excuses, Doctor!
+Enough! I don't<br />want excuses, Doctor!
 I want answers.
 Mayor Lionheart, please.
 We're doing everything we can.
 Really?
-Because I got a dozen and a half animals here...
+Because I got a dozen<br />and a half animals here...
 who have gone off-the-rails crazy...
 and you can't tell me why.
-Now, I'd call that awfully far from "doing everything ."
+Now, I'd call that awfully far<br />from "doing everything ."
 Sir...
 it may be time to consider their biology.
 What? What do you mean "biology?"
-The only animals going savage are predators.
-We cannot keep it a secret. We need to come forward.
+The only animals<br />going savage are predators.
+We cannot keep it a secret.<br />We need to come forward.
 Hmm. Great idea. Tell the public.
 And how do you think they're...
 gonna feel about their mayor...
 who is a lion?
 I'll be ruined!
-Well, what does Chief Bogo say?
+Well,<br />what does Chief Bogo say?
 Chief Bogo doesn't know.
 And we are going to keep it that way.
 Oh, no, no, no!
@@ -59,6 +59,6 @@ Someone's here.
 Sir, you need to go, now!
 Security! Sweep the area!
 Great! We're dead. We're dead.
-That's it. I'm dead, you're dead. Everybody's dead!
+That's it. I'm dead,<br />you're dead. Everybody's dead!
 Can you swim?
-What? Can I swim? Yes, I can swim. Why?
+What? Can I swim?<br />Yes, I can swim. Why?

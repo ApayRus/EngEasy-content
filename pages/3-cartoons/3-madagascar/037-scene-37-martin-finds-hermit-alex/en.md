@@ -14,21 +14,21 @@ Alex! Alex! Alex!
 Alex!
 Alex!
 Snap out of it, Alex.
-The boat came back. We can get out of here.
-We can go back to civilisation, and everything will be like it used to be.
+The boat came back.<br />We can get out of here.
+We can go back to civilisation,<br />and everything will be like it used to be.
 Stay back.
 Please.
 I'm a monster.
-Alex, you're no monster. You're my friend.
+Alex, you're no monster.<br />You're my friend.
 We're a team. You and me, remember?
 I don't want to hurt you.
 Alex.
 I ain't leaving without you.
 Alex? I'm thinking of a song.
-It's a wonderful song. I'm sure you're familiar with it.
-Start spreadin' the news
-I'm leaving today
-We are a great big part of it
-Come on, you know the words. Two little words.
-Please don't make me sing this by myself.
-You really don't want to hear me sing this by myself.
+It's a wonderful song.<br />I'm sure you're familiar with it.
+<i>Start spreadin' the news</i>
+<i>I'm leaving today</i>
+<i>We are a great big part of it</i>
+Come on, you know the words.<br />Two little words.
+Please don't make me<br />sing this by myself.
+You really don't want to hear me<br />sing this by myself.

@@ -25,7 +25,7 @@ Bing Bong, Bing Bong
 Who's the best in every way
 And wants to sing this song to say
 Who's your friend who likes to play?
-Bing Bong, Bing Bong His rocket makes you yell "Hooray!"
+Bing Bong, Bing Bong<br />His rocket makes you yell "Hooray!"
 Bing Bong, Bing Bong
 Who's the best in every way
 And wants to sing the song to say...
@@ -33,23 +33,23 @@ And wants to sing the song to say...
 Come on!
 S Who's your friend who likes to play?
 S Bing Bong, Bing Bong
-S His rocket makes you yell "Hooray!" Bing Bong, Bing Bong
-/ Who's the best in every way And wants to sing this song to say
+S His rocket makes you yell "Hooray!"<br />Bing Bong, Bing Bong
+/ Who's the best in every way<br />And wants to sing this song to say
 S Who's your friend who likes to play? S
--(JOY GRUNTS) -BING BONG: Ow!
+-(JOY GRUNTS)<br />-BING BONG: Ow!
 (GROANS)
-BING BONG: Come on, Joy. One more time.
+BING BONG: Come on, Joy.<br />One more time.
 I got a feeling about this one.
 Bing Bong, Bing Bong
-His rocket makes you yell "Hooray!" Bing Bong, Bing Bong
-Who's the best in every way And wants to sing this song to say
-Who's your friend who likes to play? Bing Bong, Bing Bong
--Louder! Joy, sing louder! -(JOY SINGING)
+His rocket makes you yell "Hooray!"<br />Bing Bong, Bing Bong
+Who's the best in every way<br />And wants to sing this song to say
+Who's your friend who likes to play?<br />Bing Bong, Bing Bong
+-Louder! Joy, sing louder!<br />-(JOY SINGING)
 To sing this song to say
-Who's your friend who likes to... -(SCREAMS)
-Who's your friend who likes to play? Bing Bong, Bing Bong
-His rocket makes you yell "Hooray!" Bing Bong, Bing Bong
-Who's the best in every way and wants to sing this song to say
+Who's your friend who likes to...<br />-(SCREAMS)
+Who's your friend who likes to play?<br />Bing Bong, Bing Bong
+His rocket makes you yell "Hooray!"<br />Bing Bong, Bing Bong
+Who's the best in every way<br />and wants to sing this song to say
 Bing Bong
 We're gonna make it!
 Whoo-hoo! Bing Bong! We did it!

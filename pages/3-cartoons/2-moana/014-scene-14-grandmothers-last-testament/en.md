@@ -23,5 +23,5 @@ You will board my boat...
 sail across the sea...
 and restore the heart of Te Fiti.
 (VOICE BREAKING) I can't leave you.
-There is nowhere you could go that I won't be with you.
+There is nowhere you could go<br />that I won't be with you.
 Go!

@@ -11,24 +11,24 @@ We're alive!
 Listen...
 I appreciate what you did down there.
 Mm-hmm.
--- Took guts. -- Mm-hmm.
--- But... -- Mm-hmm.
+-- Took guts.<br />-- Mm-hmm.
+-- But...<br />-- Mm-hmm.
 I'm sorry.
-I'm trying to be sincere for once, and it feels like you're distracted.
+I'm trying to be sincere for once,<br />and it feels like you're distracted.
 No, no. No way!
-Really? Because you're looking at me like I have a...
+Really? Because you're looking at me<br />like I have a...
 (GASPS)
 shark head.
 What? Do you have a shark head?
 Look, the point is...
-for a little girl, child, thing, whatever...
-who had no business being down there...
+for a little girl, child, thing,<br />whatever...
+who had no business<br />being down there...
 you did me a solid.
 But you also almost died.
 And I couldn't even beat that dumb crab.
 So, chances of beating Te Kā?
 Bupkis.
-We're never making it to Te Fiti. This mission is cursed.
+We're never making it to Te Fiti.<br />This mission is cursed.
 It's not cursed.
 Shark head.
 It is not cursed.
@@ -39,28 +39,28 @@ We're dead soon
 We're dead soon
 Can you at least try?
 Giant hawk.
-Hey, it's okay, it's okay We're dead soon
+Hey, it's okay, it's okay<br />We're dead soon
 All right, break time's over.
 Get up.
 Why? Are you gonna give me a speech?
-Tell me I can beat Te Kā cause I'm "Maui?"
+Tell me I can beat Te Kā<br />cause I'm "Maui?"
 Take a hike, Tiny.
 How do you get your tattoos?
 They show up. When I earn them.
-How'd you earn that one? What's that for?
+How'd you earn that one?<br />What's that for?
 That's man's discovery of Nunya.
 What's Nunya?
 Nunya business.
 I'll just keep asking.
 What's it for?
 You need to stop doing that.
--- Back off. -- Just tell me what it is.
+-- Back off.<br />-- Just tell me what it is.
 I said back off.
 Is it why your hook's not working?
 You don't wanna talk, don't talk.
 You wanna throw me off the boat...
 throw me off.
-You wanna tell me I don't know what I'm doing...
+You wanna tell me<br />I don't know what I'm doing...
 I know I don't.
 I have no idea why the ocean chose me.
 You're right.

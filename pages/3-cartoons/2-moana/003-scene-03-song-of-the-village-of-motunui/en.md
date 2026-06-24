@@ -23,16 +23,16 @@ I wanna see
 Don't walk away
 Moana, stay on the ground now
 Our people will need a chief
--- And there you are -- There you are
+-- And there you are<br />-- There you are
 There comes a day
-When you're gonna look around And realize happiness is
+When you're gonna look around<br />And realize happiness is
 Where you are
 Consider the coconut
--- The what -- Consider its tree
-We use each part of the coconut It's all we need
+-- The what<br />-- Consider its tree
+We use each part of the coconut<br />It's all we need
 We make our nets from the fibers
 The water is sweet inside
-We use the leaves to build fires We cook up the meat inside
+We use the leaves to build fires<br />We cook up the meat inside
 Consider the coconuts
 The trunks and the leaves
 The island gives us what we need
@@ -43,12 +43,12 @@ And when we look to the future
 There you are
 You'll be okay
 In time you'll learn just as I did
-You must find happiness right where you are
-I like to dance with the water The undertow and the waves
-The water is mischievous Ha! I like how it misbehaves
-The village may think I'm crazy Or say that I drift too far
-But once you know what you like Well, there you are
-You are your father's daughter Stubbornness and pride
-Mind what he says but remember You may hear a voice inside
-And if the voice starts to whisper To follow the farthest star
-Moana, that voice inside is who you are
+You must find happiness<br />right where you are
+I like to dance with the water<br />The undertow and the waves
+The water is mischievous<br />Ha! I like how it misbehaves
+The village may think I'm crazy<br />Or say that I drift too far
+But once you know what you like<br />Well, there you are
+You are your father's daughter<br />Stubbornness and pride
+Mind what he says but remember<br />You may hear a voice inside
+And if the voice starts to whisper<br />To follow the farthest star
+Moana, that voice inside<br />is who you are

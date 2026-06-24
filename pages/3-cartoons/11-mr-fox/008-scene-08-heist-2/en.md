@@ -11,6 +11,6 @@ mediaLink: "https://archive.org/download/mr-fox-33/8.mp4"
 (KYLIE SNEEZES)
 (ROOSTER CROWING)
 (BOTH LAUGHING QUIETLY)
-MR. FOX: (WHISPERING) Shh ! Shh !
+MR. FOX: (WHISPERING)<br />Shh ! Shh !
 (MRS. FOX GASPS)
 MRS. FOX: Huh.

@@ -10,7 +10,7 @@ Shifu, are you okay?
 Po.
 You're alive.
 Or we're both dead.
-No, Master, I didn't die. I defeated Tai Lung.
+No, Master, I didn't die.<br />I defeated Tai Lung.
 You did?
 Wow. It is as Oogway foretold.
 You are the Dragon Warrior.
@@ -21,7 +21,7 @@ And to me.
 Thank you.
 Thank you, Po.
 Thank you. Thank you.
-No! Master! No, no, no, don't die, Shifu, please!
+No! Master! No, no, no,<br />don't die, Shifu, please!
 I'm not dying, you idiot!
 Dragon Warrior.
 I am simply at peace. Finally.

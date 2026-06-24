@@ -15,12 +15,12 @@ Oh, your half? Hmm.
 Yes, my half. I helped rescue the princess.
 I did half the work, I get half the booty.
 Now hand me that big old rock, the one that looks like your head.
-- Back off! - No, you back off.
-- This is my swamp! - Our swamp.
-- Let go, Donkey! - You let go.
-- Stubborn jackass! - Smelly ogre.
+- Back off!<br />- No, you back off.
+- This is my swamp!<br />- Our swamp.
+- Let go, Donkey!<br />- You let go.
+- Stubborn jackass!<br />- Smelly ogre.
 Fine!
-- Hey, hey, come back here. I'm not through with you yet. - Well, I'm through with you.
+- Hey, hey, come back here. I'm not through with you yet.<br />- Well, I'm through with you.
 Uh-uh. Well, you know, with you it's always, "Me, me, me!"
 Well, guess what! Now it's my turn!
 So you just shut up and pay attention!
@@ -32,7 +32,7 @@ Because that's what friend do! They forgive each other!
 Oh, yeah. You're right, Donkey.
 I forgive you... for stabbin' me in the back!
 Ohh! You're so wrapped up in layers, onion boy, you're afraid of your own feelings.
-- Go away! - There you are, doing it again just like you did to Fiona.
+- Go away!<br />- There you are, doing it again just like you did to Fiona.
 And all she ever do was like you, maybe even love you.
 Love me? She said I was ugly, a hideous creature.
 I heard the two of you talking.
@@ -41,8 +41,8 @@ She was talking about, uh, somebody else.
 She wasn't talking about me?
 Well, then who was she talking about?
 Uh-uh, no way. I ain't saying anything. You don't wanna listen to me.
-- Right? Right? - Donkey!
-- No! - Okay, look.
+- Right? Right?<br />- Donkey!
+- No!<br />- Okay, look.
 I'm sorry, all right?
 Hmph.
 I'm sorry.
@@ -67,25 +67,25 @@ Whoo!
 People of DuLoc,
 we gather here today...
 to bear witness...
-- to the union... - Um-
-- of our new king- - Excuse me.
+- to the union...<br />- Um-
+- of our new king-<br />- Excuse me.
 - Could we just skip ahead to the "I do's"?
 Go on.
 Go ahead, have some fun. If we need you, I'll whisle. How about that?
 Shrek, wait, wait! Wait a minute!
-- You want to do this right, don't you? - What are you talking about?
+- You want to do this right, don't you?<br />- What are you talking about?
 There's a line, There's a line you gotta wait for.
 The preacher's gonna say, "Speak now or forever hold your peace. "
-- That's when you say, "I object!" - I don't have time for this!
+- That's when you say, "I object!"<br />- I don't have time for this!
 Wait, wait. What are you doing? Listen to me!
-- Look, you love this woman, don't you? - Yes.
-- You wanna hold her? - Yes.
-- Please her? - Yes!
+- Look, you love this woman, don't you?<br />- Yes.
+- You wanna hold her?<br />- Yes.
+- Please her?<br />- Yes!
 Then you got to, got to try a little tenderness
-- The chicks love that romantic crap! - All right! Cut it out.
-- When does this guy say the line? - We gotta check it out.
+- The chicks love that romantic crap!<br />- All right! Cut it out.
+- When does this guy say the line?<br />- We gotta check it out.
 - And so, by the power vested in me,
-- What do you see? - The whole town's in there.
-- I know pronounce you husband and wife, - They're at the altar.
-- king and queen. - Mother Fletcher! He already said it.
+- What do you see?<br />- The whole town's in there.
+- I know pronounce you husband and wife,<br />- They're at the altar.
+- king and queen.<br />- Mother Fletcher! He already said it.
 - Oh, for the love of Pete!

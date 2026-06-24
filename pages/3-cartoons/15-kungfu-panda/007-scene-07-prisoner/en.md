@@ -5,7 +5,7 @@ description: "Kung Fu Panda"
 mediaLink: "https://archive.org/download/kungfu-panda-30/7.mp4"
 ---
 
-Wait! Wait, wait, wait! I bring a message
+Wait! Wait, wait, wait!<br />I bring a message
 from Master Shifu.
 What?
 "Double the guard"?
@@ -14,8 +14,8 @@ What?
 You doubt my prison security?
 Absolutely not.
 Shifu does. I'm just the messenger.
-I'll give you a message for your Master Shifu.
-Escape from Chor Ghom Prison is impossible!
+I'll give you a message<br />for your Master Shifu.
+Escape from Chor Ghom Prison<br />is impossible!
 Impressive, isn't it?
 It's very impressive.
 It's very impressive.
@@ -28,16 +28,16 @@ What are you doing?
 Oh, my.
 Behold Tai Lung.
 I'm just gonna wait right here.
-It's nothing to worry about. It's perfectly safe.
+It's nothing to worry about.<br />It's perfectly safe.
 Crossbows! At the ready!
 Crossbows?
 Hey, tough guy, did you hear?
-Oogway's giving someone the Dragon Scroll, and it's not gonna be you.
+Oogway's giving someone the Dragon<br />Scroll, and it's not gonna be you.
 Don't get him mad.
-What's he gonna do about it? I've got him completely immobilized.
+What's he gonna do about it?<br />I've got him completely immobilized.
 Did I step on the wittle kitty's tail?
 I'm good. I've seen enough.
-I'll tell Shifu he has nothing to worry about.
+I'll tell Shifu<br />he has nothing to worry about.
 No, he doesn't.
 I'll tell him that.
 Can we please go now?

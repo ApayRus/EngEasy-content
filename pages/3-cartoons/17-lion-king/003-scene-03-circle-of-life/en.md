@@ -17,58 +17,58 @@ You promised.
 Okay, Okay. Ι'm up, Ι'm up.
 Yeah!
 Look, Simba.
-Everything the light touches is our kingdom.
+Everything the light<br />touches is our kingdom.
 Wow.
-A king's time as ruler rises and falls like the sun.
-One day, Simba, the sun will set on my time here
+A king's time as ruler<br />rises and falls like the sun.
+One day, Simba,<br />the sun will set on my time here
 and will rise with you as the new king.
--And this'll all be mine? -Everything.
+-And this'll all be mine?<br />-Everything.
 Everything the light touches.
 What about that shadowy place?
 That's beyond our borders.
 You must never go there, Simba.
-But Ι thought a king can do whatever he wants.
-Oh, there's more to being king than getting your way all the time.
--There's more? -Simba...
-Everything you see exists together in a delicate balance.
-As king, you need to understand that balance
+But Ι thought a king<br />can do whatever he wants.
+Oh, there's more to being king<br />than getting your way all the time.
+-There's more?<br />-Simba...
+Everything you see exists together<br />in a delicate balance.
+As king, you need to<br />understand that balance
 and respect all the creatures,
-from the crawling ant to the leaping antelope.
+from the crawling ant<br />to the leaping antelope.
 But, Dad, don't we eat the antelope?
 Yes, Simba, but let me explain.
-When we die, our bodies become the grass,
+When we die, our bodies<br />become the grass,
 and the antelope eat the grass.
-And so we are all connected in the great circle of life.
--Good morning, sire! -Good morning, Zazu.
+And so we are all connected<br />in the great circle of life.
+-Good morning, sire!<br />-Good morning, Zazu.
 Checking in with the morning report.
 Fire away.
 Well! The buzz from the bees
-is that the leopards are in a bit of a spot.
+is that the leopards<br />are in a bit of a spot.
 Really?
 What are you doing, son?
 Pouncing.
 Let an old pro show you how it's done.
-Ι told the elephants to forget it, but they can't...
--Zazu, would you turn around? -Yes, sire.
+Ι told the elephants to forget it,<br />but they can't...
+-Zazu, would you turn around?<br />-Yes, sire.
 The cheetahs are hard up, but...
 Stay low to the ground.
 Cheetahs never prosper...
-Yeah, okay. Stay low to the ground, right? Yeah.
--What going on? -A pouncing lesson.
+Yeah, okay.<br />Stay low to the ground, right? Yeah.
+-What going on?<br />-A pouncing lesson.
 Very good. Pouncing.
-Pouncing? No, sire, you can't be serious...
+Pouncing?<br />No, sire, you can't be serious...
 This is so humiliating.
 Try not to make a sound.
 What are you telling him, Mufasa?
 Mufasa? Simba?
 That's very good.
--Zazu! -Yes!
--News from the underground. -Now, this time...
+-Zazu!<br />-Yes!
+-News from the underground.<br />-Now, this time...
 Sire! Hyenas in the Pride Lands!
 Zazu, take Simba home.
 Dad, can't Ι come?
 No, son.
 Ι never get to go anywhere.
-Young master, one day, you will be king.
-Then you can chase those slobbering, mangy, stupid poachers
+Young master,<br />one day, you will be king.
+Then you can chase those<br />slobbering, mangy, stupid poachers
 from dawn until dusk.

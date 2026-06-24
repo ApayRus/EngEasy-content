@@ -6,7 +6,7 @@ mediaLink: "https://archive.org/download/zootopia-scenes-36/35.mp4"
 ---
 
 All right. All right, enough! Shut it!
-We have some new recruits with us this morning...
+We have some new recruits<br />with us this morning...
 including our first fox.
 Who cares?
 Huh, you should have your own line...
@@ -23,7 +23,7 @@ Dismissed.
 Just kidding!
 We have reports of a street racer...
 tearing up Savannah Central.
-Find him, shut him down.
+<i>Find him, shut him down.</i>
 So, are all rabbits bad drivers...
 or is it just you?
 Oops. Sorry.

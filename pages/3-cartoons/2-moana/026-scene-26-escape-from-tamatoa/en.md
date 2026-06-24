@@ -5,7 +5,7 @@ description: 'Moana'
 mediaLink: 'https://archive.org/download/20_20260619_202606/26.mp4'
 ---
 
--- MOANA: Hey! -- Huh?
+-- MOANA: Hey!<br />-- Huh?
 I got something shiny for ya!
 The heart of Te Fiti.
 You can't run from me!
@@ -21,7 +21,7 @@ What about the heart?
 He can have it. I've got a better one.
 Yes, I have the...
 Wait a minute.
-I see, she's taken a barnacle and she's covered it in...
+I see, she's taken a barnacle<br />and she's covered it in...
 bioluminescent algae as a diversion.
 Come back here!
 Cheeeehoooo!

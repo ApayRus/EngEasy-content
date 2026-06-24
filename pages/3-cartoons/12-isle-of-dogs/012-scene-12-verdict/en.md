@@ -6,20 +6,20 @@ mediaLink: "https://archive.org/download/isle-of-dogs-36/12.mp4"
 ---
 
 My ward, Atari,
-has been kidnapped against his will
-by a pack of disobedient, contagious, infected animals.
-He will be rescued promptly, returned to safety,
-and grounded for the duration of his childhood years.
+has been kidnapped<br />against his will
+by a pack of disobedient,<br />contagious, infected animals.
+He will be rescued promptly,<br />returned to safety,
+and grounded for the duration<br />of his childhood years.
 His five dog-abductors
-have been identified through the use
-of advanced Tooth-and-Tail Recognition Software:
-They will, of course, be captured
+have been identified<br />through the use
+of advanced Tooth-and-Tail<br />Recognition Software:
+They will, of course,<br />be captured
 and violently destroyed.
-Chief ought to get a check-up, too.
+Chief ought to<br />get a check-up, too.
 He looks worse than anybody.
-I wish somebody spoke his language.
+I wish somebody<br />spoke his language.
 Sit-o!
-Well, I understood that. Sit down.
+Well, I understood that.<br />Sit down.
 Sit-o!
 Chief! Sit!
 I don't sit.

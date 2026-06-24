@@ -23,7 +23,7 @@ mediaLink: "https://archive.org/download/raya-scenes-42/39.mp4"
 (JOYFUL MUSIC PLAYING)
 (WATER RUSHING)
 (WATER RUSHING)
--RAYA: Tuk Tuk! -(EXCLAIMS)
+-RAYA: Tuk Tuk!<br />-(EXCLAIMS)
 Oh! (LAUGHING)
 (TRIUMPHANT MUSIC RISING)
 (MUSIC SWELLING)
@@ -39,7 +39,7 @@ Pengu!
 (LAUGHING)
 (TRIUMPHANT MUSIC CONTINUES)
 (MUSIC SWELLING)
--(SPLASHES) -(LAUGHING)
+-(SPLASHES)<br />-(LAUGHING)
 Raya.
 Sisu.
 I am so hungry.
@@ -48,9 +48,9 @@ Not that hungry.
 (LAUGHING)
 (SOFT MUSIC PLAYING)
 (EXCLAIMS) Sisu!
-Aw, it's good to breathe in your glorious dragon stench again.
-Okay, I take that as a compliment.
+Aw, it's good to breathe in<br />your glorious dragon stench again.
+Okay, I take that<br />as a compliment.
 (COOING AND LAUGHING)
 (BREATHES DEEPLY)
 (CRYING)
-(SOFT SENTIMENTAL MUSIC PLAYING)
+(SOFT SENTIMENTAL MUSIC<br />PLAYING)

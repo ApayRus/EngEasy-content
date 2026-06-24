@@ -28,7 +28,7 @@ Please shut it!
 (SCREAMING)
 (GRUNTING)
 (OTHER MOTHER SCREAMING)
-OTHER MOTHER: Don't leave me! Don't leave me!
+OTHER MOTHER:<br />Don't leave me! Don't leave me!
 I'll die without you!
 (BANGING)
 (SCREAMS)
@@ -38,13 +38,13 @@ I'll die without you!
 MOM: Coraline, we're home.
 Mom! Dad! I missed you so much!
 (DAD CHUCKLES)
-Missed us? Oh, no. You broke my favorite snow globe.
-I didn't break it. It must've broke when you escaped.
+Missed us? Oh, no.<br />You broke my favorite snow globe.
+I didn't break it.<br />It must've broke when you escaped.
 And cut your knee.
-Coraline, I asked you to count all the windows,
+Coraline, I asked you<br />to count all the windows,
 not put your knee through them.
--But... -Well, get yourself cleaned up.
--We're going out tonight. -(EXCLAIMS) We got a lot to celebrate.
+-But...<br />-Well, get yourself cleaned up.
+-We're going out tonight.<br />-(EXCLAIMS) We got a lot to celebrate.
 You're talking about your garden catalog?
 Of course. What else?
 CORALINE: But look at the snow on your...

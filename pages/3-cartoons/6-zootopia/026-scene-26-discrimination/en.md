@@ -5,27 +5,27 @@ description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/26.mp4"
 ---
 
-More bad news in this city gripped by fear
-A caribou is in critical condition...
-the victim of a mauling...
-by a savage polar bear
-This, the 27th such attack, comes just one week...
-after ZPD Officer Judy Hopps connected the violence...
-to traditionally predatory animals.
-Meanwhile, a peace rally organized...
-by pop star Gazelle...
-was marred by protest.
-Go back to the forest predator!
-I'm from the savanna!
-Zootopia is a unique place.
-It's a crazy, beautiful, diverse city...
-where we celebrate our differences.
-This is not the Zootopia I know
-The Zootopia I know is better than this.
-We don't just blindly assign blame.
-We don't know why these attacks keep happening...
-but it is irresponsible...
-to label all predators as savages.
+<i>More bad news<br />in this city gripped by fear</i>
+<i>A caribou is in critical condition...</i>
+<i>the victim of a mauling...</i>
+<i>by a savage polar bear</i>
+<i>This, the 27th such attack,<br />comes just one week...</i>
+<i>after ZPD Officer Judy Hopps<br />connected the violence...</i>
+<i>to traditionally predatory animals.</i>
+<i>Meanwhile, a peace rally organized...</i>
+<i>by pop star Gazelle...</i>
+<i>was marred by protest.</i>
+<i>Go back to the forest predator!</i>
+<i>I'm from the savanna!</i>
+<i>Zootopia is a unique place.</i>
+<i>It's a crazy, beautiful, diverse city...</i>
+<i>where we celebrate our differences.</i>
+<i>This is not the Zootopia I know</i>
+<i>The Zootopia I know<br />is better than this.</i>
+<i>We don't just blindly assign blame.</i>
+<i>We don't know why these<br />attacks keep happening...</i>
+<i>but it is irresponsible...</i>
+<i>to label all predators as savages.</i>
 That's not my Emmitt.
-We cannot let fear divide us.
-Please give me back the Zootopia I love.
+<i>We cannot<br />let fear divide us.</i>
+<i>Please give me back<br />the Zootopia I love.</i>

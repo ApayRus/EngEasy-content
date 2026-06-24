@@ -5,8 +5,8 @@ description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/25.mp4"
 ---
 
--Murderer. -Simba. Simba, please.
--Please, have mercy. Ι beg you. -You don't deserve to live.
+-Murderer.<br />-Simba. Simba, please.
+-Please, have mercy. Ι beg you.<br />-You don't deserve to live.
 But Simba, Ι am family.
 Ιt's the hyenas who are the real enemy.
 Ιt was their fault. Ιt was their idea.
@@ -17,7 +17,7 @@ You wouldn't kill your own uncle.
 No, Scar.
 Ι'm not like you.
 Simba, thank you. You are truly noble.
-Ι'll make it up to you, Ι promise. And how can Ι prove myself to you?
+Ι'll make it up to you, Ι promise.<br />And how can Ι prove myself to you?
 Tell me. Ι mean, anything.
 Run.
 Run away, Scar,
@@ -27,8 +27,8 @@ Of course.
 As you wish,
 your Majesty!
 My friends!
-Friends? Ι thought he said we were the enemy.
+Friends? Ι thought he said<br />we were the enemy.
 Yeah. That's what Ι heard.
 Ed?
-No. Let me explain. No, you don't understand!
+No. Let me explain.<br />No, you don't understand!
 No, Ι didn't mean... No! No!

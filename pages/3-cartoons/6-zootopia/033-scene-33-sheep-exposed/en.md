@@ -10,14 +10,14 @@ Judy!
 Judy!
 Mayor Bellwether!
 We found out what's happening.
-Someone's darting predators with a serum.
+Someone's darting<br />predators with a serum.
 That's what's making them go savage.
-I'm so proud of you, Judy. You did just a super job!
+I'm so proud of you, Judy.<br />You did just a super job!
 Thank you, ma'am.
 How did you know where to find us?
-I'll go ahead and I'll take that case now.
+I'll go ahead and<br />I'll take that case now.
 Uh, you know what?
-I think Nick and I will just take this to the ZPD.
+I think Nick and I will just<br />take this to the ZPD.
 Run.
 Get them.
 Ahh!
@@ -30,13 +30,13 @@ Pass.
 Come on out, Judy.
 Take the case.
 Get it to Bogo.
-I'm not gonna leave you behind. That's not happening.
+I'm not gonna leave you<br />behind. That's not happening.
 I can't walk.
 Just... We'll think of something.
-We're on the same team, Judy.
+We're on<br />the same team, Judy.
 Underestimated, underappreciated.
 Aren't you sick of it?
-Predators. They may be strong and loud...
+Predators.<br />They may be strong and loud...
 but prey outnumber predators 10 to 1.
 Think of it.
 90% of the population...
@@ -47,7 +47,7 @@ Over there!
 Help!
 Well, you should have just stayed...
 on the carrot farm, huh?
-It really is too bad. I... I did like you.
+It really is too bad.<br />I... I did like you.
 What are you going to do? Kill me?
 No, of course not.
 He is.
@@ -75,31 +75,31 @@ Bleh...
 Blood! Blood! Blood and death.
 All right, you know, you're milking it.
 Besides, I think we got it. I think we got it.
-We got it up there, thank you, Yakety-yak!
+We got it up there,<br />thank you, Yakety-yak!
 You laid it all out beautifully.
 What?
-Yeah... Oh, are you looking for the serum?
+Yeah... Oh, are you<br />looking for the serum?
 Well, it's right here.
 What you've got in the weapon there?
-Those are blueberries. From my family's farm.
-They are delicious. You should try some.
-I framed Lionheart. I can frame you, too.
+Those are blueberries.<br />From my family's farm.
+They are delicious.<br />You should try some.
+I framed Lionheart.<br />I can frame you, too.
 It's my word against yours.
 Ooh, actually...
-And I'll dart every predator . .
-In Zootopia to keep it that way.
+<i>And<br />I'll dart every predator . .</i>
+<i>In Zootopia to keep it that way.</i>
 ...it's your word against yours.
 It's called a hustle, sweetheart. Boom.
-Former mayor Dawn Bellwether is behind bars today...
-guilty of masterminding the savage attacks...
-that have plagued Zootopia of late.
-Her predecessor, Leodore Lionheart...
-denies any knowledge of her plot...
-claiming he was just trying to protect the city.
-Did I falsely imprison those animals?
-Well, yes. Yes, I did.
-It was a classic "doing the wrong thing...
-"for the right reason" kind of a deal.
-In related news, doctors say...
-the Night Howler antidote is proving effective...
-in rehabilitating the afflicted predators.
+<i>Former mayor Dawn Bellwether<br />is behind bars today...</i>
+<i>guilty of masterminding<br />the savage attacks...</i>
+<i>that have plagued Zootopia of late.</i>
+<i>Her predecessor, Leodore Lionheart...</i>
+<i>denies any knowledge of her plot...</i>
+<i>claiming he was just trying<br />to protect the city.</i>
+<i>Did I falsely imprison those animals?</i>
+<i>Well, yes. Yes, I did.</i>
+<i>It was a classic<br />"doing the wrong thing...</i>
+<i>"for the right reason" kind of a deal.</i>
+<i>In related news, doctors say...</i>
+<i>the Night Howler antidote<br />is proving effective...</i>
+<i>in rehabilitating<br />the afflicted predators.</i>

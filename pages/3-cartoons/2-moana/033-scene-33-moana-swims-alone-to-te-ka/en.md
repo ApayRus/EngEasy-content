@@ -14,7 +14,7 @@ Te Kā can't follow us into the water.
 We make it past the barrier islands...
 we make it to Te Fiti.
 None of which you understand...
--- because you are a chicken. -- (CLUCKING)
+-- because you are a chicken.<br />-- (CLUCKING)
 (ROARING)
 (GRUNTING)
 (YELPS)

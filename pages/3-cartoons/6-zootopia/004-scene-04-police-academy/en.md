@@ -11,8 +11,8 @@ ecosystems within its city limits.
 Tundratown...
 Sahara Square...
 Rainforest District, to name a few.
-You're gonna have to master all of them...
-before you hit the streets, or guess what?
+You're gonna have<br />to master all of them...
+before you hit the streets,<br />or guess what?
 You'll be dead!
 Scorching sandstorm!
 You're dead, Bunny Bumpkin!
@@ -27,30 +27,30 @@ You're dead. Dead, dead, dead!
 Whoa...
 Filthy toilet!
 You're dead, Fluff Butt.
-Just quit and go home, fuzzy bunny!
-There's never been a bunny cop.
-- Never. - Never.
-Just a stupid, carrot-farming dumb bunny.
-As mayor of Zootopia, I am proud to announce...
-that my Mammal inclusion initiative has produced...
-its first police academy graduate.
-Valedictorian of her class...
-ZPD's very first rabbit officer...
-Judy Hopps.
+<i>Just quit and go home, fuzzy bunny!</i>
+<i>There's never been<br />a bunny cop.</i>
+<i>- Never.<br />- Never.</i>
+<i>Just a stupid,<br />carrot-farming dumb bunny.</i>
+<i>As mayor of Zootopia,<br />I am proud to announce...</i>
+<i>that my Mammal inclusion<br />initiative has produced...</i>
+<i>its first police academy graduate.</i>
+<i>Valedictorian of her class...</i>
+<i>ZPD's very first rabbit officer...</i>
+<i>Judy Hopps.</i>
 Oh, gosh.
-Assistant Mayor Bellwether, her badge.
-- Oh, yes. Right! - Thank you.
+<i>Assistant Mayor Bellwether, her badge.</i>
+- Oh, yes. Right!<br /><i>- Thank you.</i>
 Yay, Judy!
-Judy...
-it is my great privilege to officially assign you...
-to the heart of Zootopia:
-Precinct One.
-City Center
+<i>Judy...</i>
+<i>it is my great privilege<br />to officially assign you...</i>
+<i>to the heart of Zootopia:</i>
+<i>Precinct One.</i>
+<i>City Center</i>
 Congratulations, Officer Hopps.
 I won't let you down.
-This has been my dream since I was a kid.
+This has been my dream<br />since I was a kid.
 It's a real proud day for us little guys.
-Bellwether, make room, will you? Come on.
-Okay, Officer Hopps. Let's see those teeth!
-- Officer Hopps, right here! - Look this way please!
+Bellwether, make room,<br />will you? Come on.
+Okay, Officer Hopps.<br />Let's see those teeth!
+- Officer Hopps, right here!<br />- Look this way please!
 Hold still. Smile!

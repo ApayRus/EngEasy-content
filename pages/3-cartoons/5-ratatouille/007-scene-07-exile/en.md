@@ -7,45 +7,45 @@ mediaLink: "https://archive.org/download/ratatouille-scenes-42/7.mp4"
 
 What's taking those kids so long?
 L'Aquila saffron. Italian. Huh?
-Gusteau says it's excellent. Good thing the old lady is a food love...
-Forget mystique. This is about your cooking.
+Gusteau says it's excellent.<br />Good thing the old lady is a food love...
+Forget mystique.<br />This is about your cooking.
 Hey! That's Gusteau. Emile, look.
-Great cooking is not for the faint of heart.
-You must be imaginative, strong hearted.
+Great cooking<br />is not for the faint of heart.
+You must be imaginative,<br />strong hearted.
 You must try things that may not work.
-And you must not let anyone define your limits
+And you must not let anyone<br />define your limits
 because of where you come from.
 Your only limit is your soul.
-What I say is true. Anyone can cook. But only the fearless can be great.
+What I say is true. Anyone can cook.<br />But only the fearless can be great.
 Pure poetry.
 But it was not to last.
-Gusteau's restaurant lost one of its five stars
-after a scathing review by France's top food critic, Anton Ego.
+Gusteau's restaurant lost<br />one of its five stars
+after a scathing review<br />by France's top food critic, Anton Ego.
 It was a severe blow to Gusteau,
-and the brokenhearted chef died shortly afterwards,
-which, according to tradition, meant the loss of another star.
+and the brokenhearted chef<br />died shortly afterwards,
+which, according to tradition,<br />meant the loss of another star.
 Gusteau is dead?
 Run!
 No, you'll lead her to the colony!
-- Help, Remy, help! - Emile! Start swinging the light!
+- Help, Remy, help!<br />- Emile! Start swinging the light!
 Try to grab you.
 Emile, swing to me.
 Evacuate! Everyone, to the boats.
-- Let me through! - The book.
+- Let me through!<br />- The book.
 Excuse me. Move, move.
 Go, go, go, go. Move, move, move.
 Get the bridge up! Move it, move it!
 Hey, Johnny! Hurry!
 Push off. Come on.
 Get hold!
-- Take the baby. Here! - Give me your paw.
+- Take the baby. Here!<br />- Give me your paw.
 Hey, wait for me!
-Is everybody here? Do we have everybody?
-- Wait a minute. Where's Remy? - Right here. I'm coming.
+Is everybody here?<br />Do we have everybody?
+- Wait a minute. Where's Remy?<br />- Right here. I'm coming.
 I'm coming!
-Hold on, Son. Give him something to grab on to.
+Hold on, Son.<br />Give him something to grab on to.
 Come on, boy. Paddle, Son.
 Come on. Reach for it.
 You can do it.
-- Remy! - Dad!
-Come on. You can make it. You can make it.
+- Remy!<br />- Dad!
+Come on. You can make it.<br />You can make it.

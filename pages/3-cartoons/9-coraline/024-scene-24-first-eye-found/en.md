@@ -21,7 +21,7 @@ So sorry. Mother making me.
 Don't wanna hurt you!
 Take it!
 (PANTING)
-Bless you, miss: You found me!
-But there's two eyes still lost:
+<i>Bless you, miss: You found me!</i>
+<i>But there's two eyes still lost:</i>
 Don't worry. I'm getting the hang of it.
 (FAINT RUMBLING)

@@ -5,14 +5,14 @@ description: "Coraline"
 mediaLink: "https://archive.org/download/coraline-scenes-31/26.ia.mp4"
 ---
 
-Oh, God. I've lost the game. I've lost everything.
+Oh, God. I've lost the game.<br />I've lost everything.
 (SOBBING)
 (CAT MEOWS)
-I think I mentioned that I don't like rats at the best of times.
-I think you might have said something like that.
+I think I mentioned<br />that I don't like rats at the best of times.
+I think you might have said<br />something like that.
 It looked like you needed this one, however.
 Thank you.
-I'm heading inside. I still have to find my parents.
+I'm heading inside.<br />I still have to find my parents.
 Come on, quickly!
 (PANTING)
 (CAT GROWLS)
@@ -27,10 +27,10 @@ You have a very funny way of showing it.
 So where are they? The ghost eyes?
 Hold on. We aren't finished yet. Are we?
 No, I suppose not.
-After all, you still need to find your old parents, don't you?
+After all, you still need to find<br />your old parents, don't you?
 Too bad you won't have this.
 (CHUCKLES)
-Be clever, miss: Even if you win, she'll never let you go!
+<i>Be clever, miss:</i><br /><i>Even if you win, she'll never let you go!</i>
 I already know where you've hidden them.
 (CHUCKLES)
 Well, produce them.

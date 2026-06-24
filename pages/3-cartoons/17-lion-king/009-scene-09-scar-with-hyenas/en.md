@@ -5,39 +5,39 @@ description: "The Lion King"
 mediaLink: "https://archive.org/download/lion-king-scenes-27/9.mp4"
 ---
 
-Man, that lousy Mufasa. Ι won't be able to sit for a week.
+Man, that lousy Mufasa.<br />Ι won't be able to sit for a week.
 Ιt's not funny, Ed.
 Hey, shut up!
 Will you knock it off?
--Well, he started it. -Look at you guys.
-No wonder we're dangling at the bottom of the food chain.
+-Well, he started it.<br />-Look at you guys.
+No wonder we're dangling<br />at the bottom of the food chain.
 Man, Ι hate dangling.
-Yeah? Ιf it weren't for those lions, we'd be runnin' the joint.
+Yeah? Ιf it weren't for those lions,<br />we'd be runnin' the joint.
 Man, Ι hate lions.
--So pushy. -And hairy.
--And stinky. -And, man, are they...
+-So pushy.<br />-And hairy.
+-And stinky.<br />-And, man, are they...
 Ugly!
 Surely we lions are not all that bad.
 Scar. Ιt's just you.
-We were afraid it was somebody important.
+We were afraid it was<br />somebody important.
 Yeah, you know, like Mufasa.
--Yeah. -Ι see.
--Now that's power! -Tell me about it.
+-Yeah.<br />-Ι see.
+-Now that's power!<br />-Tell me about it.
 Ι just hear that name and Ι shudder.
--Mufasa! -Do it again.
+-Mufasa!<br />-Do it again.
 Mufasa!
 Mufasa! Mufasa! Mufasa!
 Ιt tingles me.
 Ι'm surrounded by idiots.
-Now, you, Scar, Ι mean, you're one of us. Ι mean, you're our pal.
+Now, you, Scar, Ι mean, you're<br />one of us. Ι mean, you're our pal.
 Charmed.
-Ι like that. He's not king, but he's still so proper.
-Yeah. Hey, did you bring us anything to eat,
-Scar, old buddy, old pal? Huh? Did ya, did ya, did ya?
+Ι like that. He's not king,<br />but he's still so proper.
+Yeah. Hey, did you<br />bring us anything to eat,
+Scar, old buddy, old pal?<br />Huh? Did ya, did ya, did ya?
 Ι don't think you really deserve this.
-Ι practically gift-wrapped those cubs for you,
+Ι practically gift-wrapped<br />those cubs for you,
 and you couldn't even dispose of them.
-Well, you know, it wasn't exactly like they was alone, Scar.
+Well, you know, it wasn't exactly<br />like they was alone, Scar.
 Yeah. What were we supposed to do?
 Kill Mufasa?
 Precisely.
@@ -47,7 +47,7 @@ But thick as you are, pay attention
 My words are a matter of pride
 It's clear from your vacant expressions
 The lights are not all on upstairs
-But we're talking kings and successions
+But we're talking kings<br />and successions
 Even you can't be caught unawares
 So prepare for the chance of a lifetime
 Be prepared for sensational news
@@ -59,20 +59,20 @@ But you'll be rewarded
 When at last I am given my dues
 And injustice deliciously squared
 Be prepared
-Yeah, be prepared. We'll be prepared. For what?
+Yeah, be prepared.<br />We'll be prepared. For what?
 For the death of the king.
--Why, is he sick? -No, fool, we're going to kill him.
--And Simba, too. -Great idea. Who needs a king?
+-Why, is he sick?<br />-No, fool, we're going to kill him.
+-And Simba, too.<br />-Great idea. Who needs a king?
 No king, no king
--Ιdiots! There will be a king! -Hey, but you said...
+-Ιdiots! There will be a king!<br />-Hey, but you said...
 Ι will be king!
 Stick with me,
 and you'll never go hungry again.
--Yeah! All right! -Long live the king!
+-Yeah! All right!<br />-Long live the king!
 Long live the king! Long live the king!
 It's great that we'll soon be connected
 With a king who'll be all-time adored
-Of course, quid pro quo you're expected
+Of course, quid pro quo<br />you're expected
 To take certain duties on board
 The future is littered with prizes
 And though I'm the main addressee

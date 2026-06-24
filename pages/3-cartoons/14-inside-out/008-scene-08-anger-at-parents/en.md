@@ -7,29 +7,29 @@ mediaLink: "https://archive.org/download/inside-out-25/8.mp4"
 
 So, as it turns out, the green trash can
 is not recycling, it's for greens.
--Like compost. And eggshells. -Mmm.
+-Like compost. And eggshells.<br />-Mmm.
 And the blue one is recycling.
--MOM: And the black one is trash. -Riley is acting so weird.
+-MOM: And the black one is trash.<br />-Riley is acting so weird.
 Why is she acting so weird?
-What do you expect? All the Islands are down.
+What do you expect?<br />All the Islands are down.
 Joy would know what to do.
 That's it.
-Until she gets back, we just do what Joy would do!
+Until she gets back,<br />we just do what Joy would do!
 Great idea. Anger, Fear, Disgust,
 how are we supposed to be happy?
 MOM: Hey, Riley. I've got good news!
-I found a junior hockey league right here in San Francisco.
+I found a junior hockey league<br />right here in San Francisco.
 And get this: Try-outs are tomorrow
 after school. What luck, right?
--Hockey? -Uh-oh. What do we do?
+-Hockey?<br />-Uh-oh. What do we do?
 (STUTTERING) Guys, this is...
 You pretend to be Joy.
-Won't it be great to be back out on the ice?
+Won't it be great to be<br />back out on the ice?
 Oh, yeah, that sounds fantastic.
-What was that? That wasn't anything like Joy!
--Uh, because I'm not Joy. -Yeah, no kidding.
+What was that?<br />That wasn't anything like Joy!
+-Uh, because I'm not Joy.<br />-Yeah, no kidding.
 Did you guys pick up on that?
--Mmm-hmm. Something's wrong. -Totally.
+-Mmm-hmm. Something's wrong.<br />-Totally.
 Should we ask her?
 Let's probe. But keep it subtle,
 so she doesn't notice.
@@ -40,24 +40,24 @@ What? Okay. Um, hmm.
 It was fine, I guess. I don't know.
 Oh. Very smooth. That was just like Joy.
 Something is definitely going on.
-She's never acted like this before. What should we do?
-We're going to find out what's happening.
+She's never acted like this before.<br />What should we do?
+We're going to<br />find out what's happening.
 But we'll need support.
 Signal the husband.
 Ahem!
-ANNOUNCER: With a nice pass over to Reeves,
+ANNOUNCER: With a nice<br />pass over to Reeves,
 comes across ...and nice!
 (CLEARS THROAT)
-Uh-oh. She's looking at us. Uh, what did she say?
-What? Oh! Sorry, sir. No one was listening.
-Is it garbage night? We left the toilet seat up?
+Uh-oh. She's looking at us.<br />Uh, what did she say?
+What? Oh! Sorry, sir.<br />No one was listening.
+Is it garbage night?<br />We left the toilet seat up?
 What? What is it, woman? What?
 Ugh, he's making that stupid face again.
-MOM'S ANGER: I could strangle him right now.
+MOM'S ANGER: I could<br />strangle him right now.
 Signal him again.
 Ah! So, Riley, how was school?
--You got to be kidding me! -Seriously?
-For this we gave up that Brazilian helicopter pilot?
+-You got to be kidding me!<br />-Seriously?
+For this we gave up<br />that Brazilian helicopter pilot?
 Move! I'll be Joy.
 School was great, all right?
 Riley. Is everything okay?
@@ -65,15 +65,15 @@ Ugh!
 Sir, she just rolled her eyes at us.
 What is her deal?
 All right, make a show of force.
-I don't want to have to put "the foot" down.
+I don't want to have to<br />put "the foot" down.
 No, not the foot!
 Riley, I do not like this new attitude.
 Oh, I'll show you attitude, old man.
 No. No, no, no! Stay happy!
-What is your problem? Just leave me alone!
+What is your problem?<br />Just leave me alone!
 Sir, reporting high levels of sass!
 Take it to DEFCON Two.
-You heard that, gentlemen. DEFCON Two.
+You heard that, gentlemen.<br />DEFCON Two.
 (ALARMS BLARING)
 Listen, young lady, I don't know where
 this disrespectful attitude came from...

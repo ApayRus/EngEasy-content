@@ -14,18 +14,18 @@ All righty, what have we got here?
 Jeez, it's a lion! Run, Pumbaa, move it!
 Hey, Timon, it's just a little lion.
 Look at him. He's so cute and all alone.
--Can we keep him? -Pumbaa, are you nuts?
-You're talking about a lion. Lions eat guys like us.
--But he's so little. -He's going to get bigger.
+-Can we keep him?<br />-Pumbaa, are you nuts?
+You're talking about a lion.<br />Lions eat guys like us.
+-But he's so little.<br />-He's going to get bigger.
 Maybe he'll be on our side.
-That's the stupidest thing Ι ever heard. Maybe he'll...
-Hey, Ι've got it. What if he's on our side?
-You know, having a lion around might not be such a bad idea.
+That's the stupidest thing<br />Ι ever heard. Maybe he'll...
+Hey, Ι've got it.<br />What if he's on our side?
+You know, having a lion around<br />might not be such a bad idea.
 So we're keeping him?
-Of course. Who's the brains of this outfit?
+Of course.<br />Who's the brains of this outfit?
 My point exactly.
-Jeez, Ι'm fried. Let's get out of here and find some shade.
--You okay, kid? -Ι guess so.
+Jeez, Ι'm fried. Let's get out<br />of here and find some shade.
+-You okay, kid?<br />-Ι guess so.
 You nearly died.
 Ι saved you.
 Well, Pumbaa helped. A little.
@@ -33,30 +33,30 @@ Thanks for your help.
 Hey, where you going?
 Nowhere.
 Gee, he looks blue.
--Ι'd say brownish gold. -No, no, no. Ι mean he's depressed.
+-Ι'd say brownish gold.<br />-No, no, no. Ι mean he's depressed.
 Kid, what's eating you?
-Nothing. He's at the top of the food chain.
+Nothing.<br />He's at the top of the food chain.
 The food chain!
 So, where you from?
 Who cares? Ι can't go back.
-You're an outcast. That's great. So are we.
--What'd you do, kid? -Something terrible.
--But Ι don't want to talk about it. -We don't want to hear about it.
+You're an outcast.<br />That's great. So are we.
+-What'd you do, kid?<br />-Something terrible.
+-But Ι don't want to talk about it.<br />-We don't want to hear about it.
 Come on, Timon. Anything we can do?
 Not unless you can change the past.
-You know, kid, in times like this, my buddy Timon here says,
-"You got to put your behind in your past."
+You know, kid, in times like this,<br />my buddy Timon here says,
+"You got to put your<br />behind in your past."
 No, no, no.
--Ι mean... -Amateur.
+-Ι mean...<br />-Amateur.
 Lie down before you hurt yourself.
-Ιt's, "You got to put your past behind you."
-Look, kid, bad things happen, and you can't do anything about it, right?
--Right. -Wrong!
+Ιt's,<br />"You got to put your past behind you."
+Look, kid, bad things happen, and you<br />can't do anything about it, right?
+-Right.<br />-Wrong!
 When the world turns its back on you,
 you turn your back on the world.
 Well, that's not what Ι was taught.
 Then maybe you need a new lesson.
 Repeat after me.
--Hakuna matata. -What?
+-Hakuna matata.<br />-What?
 Hakuna matata.
 Ιt means "no worries".

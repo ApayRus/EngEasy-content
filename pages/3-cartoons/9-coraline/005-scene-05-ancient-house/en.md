@@ -11,7 +11,7 @@ Ew!
 (SCREAMING)
 No. No, no, no. No.
 (SCREAMING)
-One boring blue boy in a painfully boring painting.
+One boring blue boy<br />in a painfully boring painting.
 Four incredibly boring windows
 and no more doors.
 All right, Iittle me. Where are you hiding?

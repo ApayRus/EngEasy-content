@@ -7,15 +7,15 @@ mediaLink: "https://archive.org/download/raya-scenes-42/7.mp4"
 
 (TUK TUK TRILLING)
 (GASPS SOFTLY)
-The spirit of Sisu. I can feel it.
-It's the last bit of dragon magic
+The spirit of Sisu.<br />I can feel it.
+It's the last bit<br />of dragon magic
 left in the whole world.
-YOUNG NAMAARI: I see why Heart guards it so closely.
-Thank you, dep la. You've been very helpful.
--(GRUNTS) -(DRAMATIC MUSIC PLAYING)
+YOUNG NAMAARI: I see why<br />Heart guards it so closely.
+Thank you, dep la.<br />You've been very helpful.
+-(GRUNTS)<br />-(DRAMATIC MUSIC PLAYING)
 (YOUNG RAYA GASPING)
-In a different world, maybe we could have been friends,
-but I have to do what's right for Fang.
+In a different world, maybe<br />we could have been friends,
+but I have to do<br />what's right for Fang.
 (GRUNTING)
 (SUSPENSEFUL MUSIC PLAYING)
 (BOTH GRUNTING)
@@ -23,38 +23,38 @@ but I have to do what's right for Fang.
 (TUK TUK SQUEAKING)
 (GRUNTING)
 (GROANS)
--(FIRES) -(YOUNG RAYA EXCLAIMS)
-Chief Virana, I'm so glad Fang accepted our invitation.
+-(FIRES)<br />-(YOUNG RAYA EXCLAIMS)
+Chief Virana, I'm so glad<br />Fang accepted our invitation.
 (FLARE WHISTLING)
 (OMINOUS MUSIC PLAYING)
 Huh?
-There is no way you're taking Sisu's gem.
+There is no way<br />you're taking Sisu's gem.
 Sorry. It's Fang's now.
 (SUSPENSEFUL MUSIC PLAYING)
 (GASPS)
 (GRUNTS)
 (GRUNTING)
--(CONTINUES GRUNTING) -(BLADES CLASHING)
+-(CONTINUES GRUNTING)<br />-(BLADES CLASHING)
 (EXCLAIMING)
-You will not set foot on the Dragon Gem's inner circle.
-FEMALE SPINE WARRIOR: What's going on?
+You will not set foot on<br />the Dragon Gem's inner circle.
+FEMALE SPINE WARRIOR:<br />What's going on?
 SPINE CHIEF: What is this?
-FEMALE SPINE WARRIOR: Fang's making a play for the gem!
+FEMALE SPINE WARRIOR: Fang's<br />making a play for the gem!
 No! Spine should have the gem!
-TAIL CHIEF: Not if we get to it first!
+TAIL CHIEF:<br />Not if we get to it first!
 MAN: Our blades say different.
-(CROWD CHATTERING INDISTINCTLY)
+(CROWD CHATTERING<br />INDISTINCTLY)
 Listen to me!
 We have a choice.
 We can tear each other apart,
-or we can come together and build a better world.
+or we can come together<br />and build a better world.
 It's not too late.
-I still believe we can be Kumandra again.
+I still believe<br />we can be Kumandra again.
 (SENTIMENTAL MUSIC PLAYING)
 (GRUNTS PAINFULLY)
 Ba!
--TAIL CHIEF: Out of my way! -(INDISTINCT EXCLAIMING)
-SPINE CHIEF: The gem belongs to Spine!
+-TAIL CHIEF: Out of my way!<br />-(INDISTINCT EXCLAIMING)
+SPINE CHIEF:<br />The gem belongs to Spine!
 SPINE CHIEF: Give me the gem!
 (SHATTERING)
 (DRAMATIC MUSIC PLAYING)

@@ -8,26 +8,26 @@ mediaLink: "https://archive.org/download/zootopia-scenes-36/34.mp4"
 Emmitt.
 Oh, Emmitt.
 Thank you.
-When I was a kid...
-...I thought Zootopia was this perfect place.
-Where everyone got along and anyone could be anything.
-Turns out...
-real life's a little bit more complicated...
-than a slogan on a bumper sticker
-Real life is messy.
-We all have limitations. We all make mistakes.
-Which means, hey, glass half-full...
-we all have a lot in common.
-And the more we try to understand one another...
-the more exceptional each of us will be.
-But we have to try.
-So, no matter what type of animal you are...
-from the biggest elephant...
-to our first fox...
-I implore you... Try.
-Try to make the world a better place.
-Look inside yourself...
-and recognize that change...
-starts with you.
-It starts with me.
-It starts with all of us.
+<i>When I was a kid...</i>
+<i>...I thought Zootopia<br />was this perfect place.</i>
+<i>Where everyone got along<br />and anyone could be anything.</i>
+<i>Turns out...</i>
+<i>real life's a little bit<br />more complicated...</i>
+<i>than a slogan on a bumper sticker</i>
+<i>Real life is messy.</i>
+<i>We all have limitations.<br />We all make mistakes.</i>
+<i>Which means, hey, glass half-full...</i>
+<i>we all have a lot in common.</i>
+<i>And the more we try<br />to understand one another...</i>
+<i>the more exceptional<br />each of us will be.</i>
+<i>But we have to try.</i>
+<i>So, no matter what type<br />of animal you are...</i>
+<i>from the biggest elephant...</i>
+<i>to our first fox...</i>
+<i>I implore you... Try.</i>
+<i>Try to make the world a better place.</i>
+<i>Look inside yourself...</i>
+<i>and recognize that change...</i>
+<i>starts with you.</i>
+<i>It starts with me.</i>
+<i>It starts with all of us.</i>

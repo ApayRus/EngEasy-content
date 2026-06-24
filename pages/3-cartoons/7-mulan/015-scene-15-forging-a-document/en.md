@@ -5,45 +5,45 @@ description: "Mulan"
 mediaLink: "https://archive.org/download/mulan-scenes-26/15.mp4"
 ---
 
-You think your troops are ready to fight?
-They would not last a minute against the Huns!
--They completed their training. -Those boys
-are no more fit to be soldiers than you are to be Captain.
+You think your troops<br />are ready to fight?
+They would not last<br />a minute against the Huns!
+-They completed their training.<br />-Those boys
+are no more fit to be soldiers<br />than you are to be Captain.
 Once the General reads my report,
 your troops will never see battle.
-No, you don't! I've worked too hard to get Mulan into this war.
+No, you don't! I've worked too hard<br />to get Mulan into this war.
 This guy's messin' with my plan.
 We're not finished!
-Be careful, Captain. The general may be your father,
+Be careful, Captain.<br />The general may be your father,
 but I am the Emperor's counsel.
-And by the way, I got that job on my own.
+And by the way,<br />I got that job on my own.
 You're dismissed.
 I'll hold him and you punch.
 Or not.
-For what it's worth, I think you're a great captain.
--I saw that. -What?
+For what it's worth,<br />I think you're a great captain.
+-I saw that.<br />-What?
 You like him, don't you?
 No!
-Yeah, all right. Yeah, sure. Go to your tent!
-I think it's time we took this war into our own hands.
+Yeah, all right. Yeah, sure.<br />Go to your tent!
+I think it's time we took this war<br />into our own hands.
 Let me see what you got.
-"From General Li. Dear son, we're waiting for Huns at the pass.
-"It would mean a lot if you'd come and back us up."
-That's great, except you forgot, "And since we're out of potpourri,
-"perhaps you wouldn't mind bringing up some."
+"From General Li. Dear son,<br />we're waiting for Huns at the pass.
+"It would mean a lot<br />if you'd come and back us up."
+That's great, except you forgot,<br />"And since we're out of potpourri,
+"perhaps you wouldn't mind<br />bringing up some."
 Hello! This is the army!
-Make it sound more urgent! Know what I'm talkin' about?
+Make it sound more urgent!<br />Know what I'm talkin' about?
 That's better. Much better. Let's go.
 Khanny, baby. We need a ride.
 Insubordinate ruffians!
 You men owe me a new pair of slippers!
 And I do not squeal like a girl.
 Urgent news from the General.
-What's the matter? You've never seen a black and white before?
+What's the matter? You've never<br />seen a black and white before?
 Who are you?
-Excuse me? I think the question is, who are you?
-We're in a war, man! There's no time for stupid questions!
-I should have your hat for that. Snatch it right off your head.
-But I'm feeling gracious today, so carry on before I report you.
-Captain, urgent news from the General! We're needed at the front.
-Pack your bags, Cri-Kee. We're movin' out.
+Excuse me?<br />I think the question is, who are you?
+We're in a war, man!<br />There's no time for stupid questions!
+I should have your hat for that.<br />Snatch it right off your head.
+But I'm feeling gracious today,<br />so carry on before I report you.
+Captain, urgent news from the General!<br />We're needed at the front.
+Pack your bags, Cri-Kee.<br />We're movin' out.

@@ -6,17 +6,17 @@ mediaLink: "https://archive.org/download/zootopia-scenes-36/17.mp4"
 ---
 
 Closed. Great.
-Mmm. And I will bet you...
-you don't have a warrant to get in. Hmm?
+Mmm.<br />And I will bet you...
+you don't have<br />a warrant to get in. Hmm?
 Darn it. It's a bummer.
 You wasted the day on purpose.
 Madam, I have a fake badge.
-I would never impede your pretend investigation.
-It's not a pretend investigation. Look, see?
+I would never impede<br />your pretend investigation.
+It's not a pretend<br />investigation. Look, see?
 See him? This otter is missing.
-Well, then they should've gotten a real cop to find him.
+Well, then they should've<br />gotten a real cop to find him.
 What is your problem?
-Does seeing me fail somehow make you feel better...
+Does seeing me fail somehow<br />make you feel better...
 about your own sad, miserable life?
 It does. 100%.
 Now, since you're sans warrant...
@@ -26,15 +26,15 @@ Hey!
 First off, you throw like a bunny.
 Second, you're a very sore loser.
 See you later, Officer Fluff.
-So sad this is over. I wish I could've helped more.
+So sad this is over.<br />I wish I could've helped more.
 The thing is, you don't need a warrant...
 if you have probable cause...
 and I'm pretty sure I saw...
 a shifty lowlife climbing the fence.
 So you're helping plenty. Come on.
-2-9-T-H-D-0-3. This is it!
+2-9-T-H-D-0-3.<br />This is it!
 Polar bear fur.
-- Oh, my God! - What? What?
+- Oh, my God!<br />- What? What?
 The Velvety Pipes of Jerry Vole.
 But on CD.
 Who still uses CDs?
@@ -44,18 +44,18 @@ Those are claw marks.
 You ever seen anything like this?
 No.
 Oh, wait, look.
-This is him, Emmitt Otterton.
+This is him,<br />Emmitt Otterton.
 He was definitely here.
 What do you think happened?
-Well, now, wait a minute.
-Polar bear fur, Rat Pack music, fancy cup?
+Well, now,<br />wait a minute.
+Polar bear fur,<br />Rat Pack music, fancy cup?
 I know whose car this is. We got to go.
 Why? Whose car is it?
-The most feared crime-boss in Tundratown.
+The most feared crime-boss<br />in Tundratown.
 They call him Mr. Big.
-And he does not like me. So we gotta go!
+And he does not like me.<br />So we gotta go!
 I'm not leaving. This is a crime scene.
-Well, it's gonna be an even bigger crime scene...
+Well, it's gonna be<br />an even bigger crime scene...
 if Mr. Big finds me here...
 so we're leaving right now.
 Raymond!

@@ -19,16 +19,16 @@ I'm not a big fat panda.
 I'm the big fat panda.
 The Wuxi Finger Hold!
 Oh, you know this hold?
-You're bluffing. You're bluffing. Shifu didn't teach you that.
+You're bluffing. You're bluffing.<br />Shifu didn't teach you that.
 Nope.
 I figured it out. Skadoosh.
 Look!
 The Dragon Warrior.
-That's my boy! That big, lovely kung fu warrior is my son!
+That's my boy! That big, lovely<br />kung fu warrior is my son!
 Yes!
 Thanks, Dad.
 Hey, guys.
 Master.
--Master. -Master.
+-Master.<br />-Master.
 Master?
 Master Shifu!

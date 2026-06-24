@@ -11,7 +11,7 @@ We're here?
 See, told you I could do it!
 Motunui?
 I'm home?
--- TUI: Moana! -- Dad?
+-- TUI: Moana!<br />-- Dad?
 SINA: Moana!
 Mom?
 Help!

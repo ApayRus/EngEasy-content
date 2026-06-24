@@ -10,17 +10,17 @@ I object!
 Oh, now what does he want?
 Hi, everyone. Havin' a good time, are ya?
 I love DuLoc, first of all.
-- Very clean. - What are you doing here?
+- Very clean.<br />- What are you doing here?
 Really, it's rude enough being alive when no one wants you.
-- but showing up uninvited to a wedding- - Fiona!
-- I need to talk to you. - Oh, now you wanna talk?
+- but showing up uninvited to a wedding-<br />- Fiona!
+- I need to talk to you.<br />- Oh, now you wanna talk?
 Well, it's a little late for that, so if you'll excuse me-
-- But you can't marry him. - And why not?
+- But you can't marry him.<br />- And why not?
 Because- Because he's just marrying you so he can be king.
 Outrageous! Fiona, don't listen to him.
-- He's not your true love. - And what do you know about true love?
+- He's not your true love.<br />- And what do you know about true love?
 Well, I- Uh-
-I mean- - Oh, this is precious.
+I mean-<br />- Oh, this is precious.
 the ogre has fallen in love with the princess!
 - Oh, good Lord.
 An ogre and a princess!
@@ -35,20 +35,20 @@ that explains a lot.
 Ugh! It's disgusting!
 Guards! Guards!
 I order you to get that out of my sight now! Get them!
-- Get them both! - No, no!
+- Get them both!<br />- No, no!
 This hocus-pocus alters nothing. This marriage is binding, and that makes me king!
-- See? See? - No, let go of me! Shrek!
-- No! Don't just stand there, you morons.
+- See? See?<br />- No, let go of me! Shrek!
+- No!<br />Don't just stand there, you morons.
 Get out of my way! Fiona!
 Arrgh!
 I'll make you regret the day we met. I'll see you drawn and quartered!
-- You'll beg for death to save you! - No! Shrek!
-- And as for you, my wife. - Fiona!
+- You'll beg for death to save you!<br />- No! Shrek!
+- And as for you, my wife.<br />- Fiona!
 I'll have you locked back in that tower for the rest of your days!
 - I am king!
 I will have order! I will have perfection! I will have-
 Aaah!
-- Aah! - All right. Nobody move.
+- Aah!<br />- All right. Nobody move.
 I got a dragon here, and I'm not afraid to use it.
 - I'm a donkey on the edge!
 Celebrity marriages. They never last, do they?

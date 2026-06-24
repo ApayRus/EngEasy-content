@@ -5,50 +5,49 @@ description: 'Aladdin'
 mediaLink: 'https://archive.org/download/27_20260619_20260619/18.mp4'
 ---
 
-Make way for Prince Ali
-Say, "Hey, it's Prince Ali"
-Hey, clear the way in the old bazaar
-Hey you, let us through It's a bright new star
-Oh come, be the first on your block To meet his eye
-Make way, here he comes Ring bells, bang the drums
-You're gonna love this guy
-Prince Ali, fabulous he Ali Ababwa
-Genuflect, show some respect Down on one knee
-Now, try your best to stay calm
-Brush up your Sunday salaam
-Then come and meet His spectacular coterie
-Prince Ali, mighty is he Ali Ababwa
-Strong as 10 regular men definitely
-He faced the galloping hordes
-A hundred bad guys with swords
-Who sent those goons to their lords? Why, Prince Ali
-He's got 75 golden camels
+<i>Make way for Prince Ali</i>
+<i>Say, "Hey, it's Prince Ali"</i>
+<i>Hey, clear the way in the old bazaar</i>
+<i>Hey you, let us through<br />It's a bright new star</i>
+<i>Oh come, be the first on your block<br />To meet his eye</i>
+<i>Make way, here he comes<br />Ring bells, bang the drums</i>
+<i>You're gonna love this guy</i>
+<i>Prince Ali, fabulous he<br />Ali Ababwa</i>
+<i>Genuflect, show some respect<br />Down on one knee</i>
+<i>Now, try your best to stay calm</i>
+<i>Brush up your Sunday salaam</i>
+<i>Then come and meet<br />His spectacular coterie</i>
+<i>Prince Ali, mighty is he<br />Ali Ababwa</i>
+<i>Strong as 10 regular men definitely</i>
+<i>He faced the galloping hordes</i>
+<i>A hundred bad guys with swords</i>
+<i>Who sent those goons to their lords?<br />Why, Prince Ali</i>
+<i>He's got 75 golden camels</i>
 Don't they look lovely, June?
-Purple peacocks, he's got 53
+<i>Purple peacocks, he's got 53</i>
 Fabulous, Harry. I love the feathers.
-When it comes to exotic-type mammals
-Has he got a zoo I'm telling you
-It's a world-class menagerie
-Prince Ali, handsome is he Ali Ababwa
-That physique, how can I speak Weak at the knee
-Well, get on out in that square
-Adjust your veil and prepare
-To gawk and grovel and stare At Prince Ali
-
-- He's got 95 white Persian monkeys - He's got the monkeys
-- Let's see the monkeys - And to view them he charges no fee
-  He's generous So generous
-  He's got slaves He's got servants and flunkies
-  Proud to work for him They bow to his whim, love serving him
-  They're just lousy with loyalty to Ali
-  Prince Ali
-  Prince Ali, Amorous he Ali Ababwa
-  Heard your princess Was a sight lovely to see
-  And that, good people, is why
-  He got dolled up and dropped by
-  With 60 elephants, llamas galore
-  With bears and lions A brass band and more
-  With his 40 fakirs His cooks, his bakers
-  His birds that warble on key
-  Make way
-  For Prince Ali
+<i>When it comes to exotic-type mammals</i>
+<i>Has he got a zoo<br />I'm telling you</i>
+<i>It's a world-class menagerie</i>
+<i>Prince Ali, handsome is he<br />Ali Ababwa</i>
+<i>That physique, how can I speak<br />Weak at the knee</i>
+<i>Well, get on out in that square</i>
+<i>Adjust your veil and prepare</i>
+<i>To gawk and grovel and stare<br />At Prince Ali</i>
+<i>- He's got 95 white Persian monkeys<br />- He's got the monkeys</i>
+<i>- Let's see the monkeys<br />- And to view them he charges no fee</i>
+<i>He's generous<br />So generous</i>
+<i>He's got slaves<br />He's got servants and flunkies</i>
+<i>Proud to work for him<br />They bow to his whim, love serving him</i>
+<i>They're just lousy with loyalty to Ali</i>
+<i>Prince Ali</i>
+<i>Prince Ali, Amorous he<br />Ali Ababwa</i>
+<i>Heard your princess<br />Was a sight lovely to see</i>
+<i>And that, good people, is why</i>
+<i>He got dolled up and dropped by</i>
+<i>With 60 elephants, llamas galore</i>
+<i>With bears and lions<br />A brass band and more</i>
+<i>With his 40 fakirs<br />His cooks, his bakers</i>
+<i>His birds that warble on key</i>
+<i>Make way</i>
+<i>For Prince Ali</i>

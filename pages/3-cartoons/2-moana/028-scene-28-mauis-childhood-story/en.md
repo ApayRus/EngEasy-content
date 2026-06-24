@@ -25,7 +25,7 @@ So they'd love you.
 It was never enough.
 Maybe the gods found you for a reason.
 Maybe the ocean brought you to them...
-because it saw someone who was worthy of being saved.
+because it saw someone<br />who was worthy of being saved.
 But the gods aren't the ones who make you Maui.
 You are.
 Okay, okay.

@@ -5,9 +5,9 @@ description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/31.mp4"
 ---
 
-Just watch it.
-Doug is the opposite of friendly
-He's unfriendly
+<i>Just watch it.</i>
+<i>Doug is the opposite of friendly</i>
+<i>He's unfriendly</i>
 Come on.
 The weasel wasn't lying.
 Yeah, looks like old Doug's cornered...
@@ -18,16 +18,16 @@ Cheetah in Sahara Square. Got it.
 You serious? Yeah, I know they're fast.
 I can hit him.
 Listen, I hit a tiny little otter...
-through the open window of a moving car.
-Yeah, I'll buzz you when it's done.
+through the open window<br />of a moving car.
+Yeah, I'll buzz you<br />when it's done.
 Or you'll see it on the news.
 You know, whichever comes first.
-Hey, Doug, open up! We've got your latte.
-All right. Woolter and Jesse are back, so I'm leaving now.
+Hey, Doug, open up!<br />We've got your latte.
+All right. Woolter and Jesse<br />are back, so I'm leaving now.
 Out.
-Hey. Where are you going? Get back here!
-What are you doing? He's gonna see you!
+Hey. Where<br />are you going? Get back here!
+What are you doing?<br />He's gonna see you!
 What are you looking at? Hey!
-Whatever you're thinking, stop thinking it. Carrots!
+Whatever you're thinking,<br />stop thinking it. Carrots!
 Carrots!
-It better have the extra foam this time.
+It better have<br />the extra foam this time.

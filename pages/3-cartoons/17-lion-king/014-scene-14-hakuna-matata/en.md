@@ -14,23 +14,23 @@ For the rest of your days
 It's our problem-free philosophy
 Hakuna matata
 Hakuna matata?
--Yeah. Ιt's our motto. -What's a motto?
+-Yeah. Ιt's our motto.<br />-What's a motto?
 Nothin'. What's-a-motto with you?
-You know, kid, these two words will solve all your problems.
-That's right. Take Pumbaa, for example. Why...
+You know, kid, these two words<br />will solve all your problems.
+That's right.<br />Take Pumbaa, for example. Why...
 When he was a young warthog
 When I was a young warthog
--Very nice. -Thanks.
-He found his aroma lacked a certain appeal
-He could clear the savanna after every meal
+-Very nice.<br />-Thanks.
+He found his aroma<br />lacked a certain appeal
+He could clear the savanna<br />after every meal
 I'm a sensitive soul
 Though I seem thick-skinned
-And it hurt that my friends never stood downwind
--And, oh, the shame -He was ashamed
--Thought of changing my name -Oh, what's in a name?
+And it hurt that my friends<br />never stood downwind
+-And, oh, the shame<br />-He was ashamed
+-Thought of changing my name<br />-Oh, what's in a name?
 And I got downhearted
--How did you feel? -Every time that I...
--Hey, not in front of the kids. -Oh, sorry.
+-How did you feel?<br />-Every time that I...
+-Hey, not in front of the kids.<br />-Oh, sorry.
 Hakuna matata
 What a wonderful phrase
 Hakuna matata
@@ -42,16 +42,16 @@ It's our problem-free
 Philosophy
 Hakuna matata
 Welcome to our humble home.
--You live here? -We live wherever we want.
+-You live here?<br />-We live wherever we want.
 Yep. Home is where your rump rests.
 Ιt's beautiful.
 Ι'm starved.
 Ι'm so hungry Ι could eat a whole zebra.
 We're fresh out of zebra.
 Any antelope?
--Hippo? -Nope.
-Listen, kid, if you live with us, you have to eat like us.
-Hey, this looks like a good spot to rustle up some grub.
+-Hippo?<br />-Nope.
+Listen, kid, if you live with us,<br />you have to eat like us.
+Hey, this looks like a good spot<br />to rustle up some grub.
 What's that?
 A grub. What's it look like?
 Gross.
@@ -69,7 +69,7 @@ Oh, well. Hakuna matata.
 Slimy, yet satisfying.
 That's it.
 Hakuna matata
--Hakuna... -It means no worries
+-Hakuna...<br />-It means no worries
 For the rest of your days
 It's our problem-free
 Philosophy

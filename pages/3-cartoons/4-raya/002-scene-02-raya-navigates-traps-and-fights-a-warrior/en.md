@@ -10,14 +10,14 @@ mediaLink: "https://archive.org/download/raya-scenes-42/2.mp4"
 (RINGS)
 (DRAMATIC MUSIC PLAYING)
 (RAIN PATTERING)
-(SOFT SUSPENSEFUL MUSIC PLAYING)
+(SOFT SUSPENSEFUL MUSIC<br />PLAYING)
 Hmm.
 (EXCLAIMS)
 Huh.
-Looks like someone's trying to be clever.
+Looks like someone's trying<br />to be clever.
 (SQUEAKING)
 All right, Tuk Tuk,
-let's show 'em what clever really looks like.
+let's show 'em<br />what clever really looks like.
 (TRILLING)
 (WHOOSHING)
 YOUNG RAYA: Tuk Tuk!
@@ -25,7 +25,7 @@ Come on!
 Focus!
 Thank you.
 (SQUEAKS)
-Hey, bud, that was awesome. Give me some shell.
+Hey, bud, that was awesome.<br />Give me some shell.
 (LAUGHS) I got ya.
 (WHOOSHING)
 (GRUNTS)
@@ -39,13 +39,13 @@ Whoa.
 Wait a second.
 This feels too easy.
 Chief Benja.
-I know it's your job to try and stop me,
+I know it's your job<br />to try and stop me,
 but you won't.
-BENJA: Don't mistake spirit for skill, young one.
-I promise you will not set foot
-on the Dragon Gem's inner circle.
+BENJA: Don't mistake spirit<br />for skill, young one.
+I promise<br />you will not set foot
+on the Dragon Gem's<br />inner circle.
 Not even a toe.
-You might wanna take out that blade.
+You might wanna take out<br />that blade.
 You're gonna need it.
 BENJA: Not today.
 (SUSPENSEFUL MUSIC PLAYING)

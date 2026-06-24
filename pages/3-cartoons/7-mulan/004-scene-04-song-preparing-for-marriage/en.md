@@ -5,64 +5,64 @@ description: "Mulan"
 mediaLink: "https://archive.org/download/mulan-scenes-26/4.mp4"
 ---
 
-This is what you give me to work with
-Well, honey, I've seen worse
-We're gonna turn this sow's ear
-Into a silk purse
+<i>This is what you give me to work with</i>
+<i>Well, honey, I've seen worse</i>
+<i>We're gonna turn this</i> sow's <i>ear</i>
+<i>Into a silk purse</i>
 It's freezing.
-It would have been warm if you were here on time.
-We'll have you washed and dried
-Primped and polished till you glow with pride
-Trust my recipe for instant bride
--Mulan, what's this? -Notes,
+It would have been warm<br />if you were here on time.
+<i>We'll have you washed and dried</i>
+<i>Primped and polished<br />till you glow with pride</i>
+<i>Trust my recipe for instant bride</i>
+-Mulan, what's this?<br />-Notes,
 in case I forget something.
-Hold this. We'll need more luck than I thought.
-Wait and see when we're through
-Boys will gladly go to war for you
--With good fortune -And a great hairdo
-You'll bring honor to us all
-A girl can bring her family
-Great honor in one way
-By striking a good match
-And this could be the day
-Men want girls with good taste
--Calm -Obedient
-Who work fast-paced
--With good breeding -And a tiny waist
-You'll bring honor to us all
-We all must serve our Emperor
-Who guards us from the Huns
-The men by bearing arms
-A girl by bearing sons
-When we're through you can't fail
-Like a lotus blossom soft and pale
-How could any fellow say, "No sale"
-You'll bring honor to us all
-You'll bring honor to us all
-You'll bring honor to us all
+Hold this.<br />We'll need more luck than I thought.
+<i>Wait and see when we're through</i>
+<i>Boys will gladly go to war for you</i>
+<i>-With good fortune<br />-And a great hairdo</i>
+<i>You'll bring honor to us all</i>
+<i>A girl can bring her family</i>
+<i>Great honor in one way</i>
+<i>By striking a good match</i>
+<i>And this could be the day</i>
+<i>Men want girls with good taste</i>
+<i>-Calm</i><br /><i>-Obedient</i>
+<i>Who work fast-paced</i>
+<i>-With good breeding<br />-And a tiny waist</i>
+<i>You'll bring honor to us all</i>
+<i>We all must serve our Emperor</i>
+<i>Who guards us from the Huns</i>
+<i>The men by bearing arms</i>
+<i>A girl by bearing sons</i>
+<i>When we're through you can't fail</i>
+<i>Like a lotus blossom soft and pale</i>
+<i>How could any fellow say, "No sale"</i>
+<i>You'll bring honor to us all</i>
+<i>You'll bring honor to us all</i>
+<i>You'll bring honor to us all</i>
 There. You're ready.
 Not yet. An apple for serenity.
 A pendant for balance.
-Beads of jade
-For beauty
-You must proudly
-Show it
-Now add a cricket
-Just for luck
-And even you can't blow It
-Ancestors, hear my plea
-Help me not to make a fool of me
-And to not uproot my family tree
-Keep my father standing tall
-Scarier than the undertaker
-We are meeting our matchmaker
-Destiny, guard our girls
-And our future as it fast unfurls
-Please look kindly on these cultured pearls
-Each a perfect porcelain doll
--Please bring honor to us -Please bring honor to us
--Please bring honor to us -Please bring honor to us
-Please bring honor to us all
+<i>Beads of jade</i>
+<i>For beauty</i>
+<i>You must proudly</i>
+<i>Show it</i>
+<i>Now add a cricket</i>
+<i>Just for luck</i>
+<i>And even you can't blow It</i>
+<i>Ancestors, hear my plea</i>
+<i>Help me not to make a fool of me</i>
+<i>And to not uproot my family tree</i>
+<i>Keep my father standing tall</i>
+<i>Scarier than the undertaker</i>
+<i>We are meeting our matchmaker</i>
+<i>Destiny, guard our girls</i>
+<i>And our future as it fast unfurls</i>
+<i>Please look kindly<br />on these cultured pearls</i>
+<i>Each a perfect porcelain doll</i>
+<i>-Please bring honor to us</i><br /><i>-Please bring honor to us</i>
+<i>-Please bring honor to us</i><br /><i>-Please bring honor to us</i>
+<i>Please bring honor to us all</i>
 "Fa Mulan."
--Present. -Speaking without permission.
+-Present.<br />-Speaking without permission.
 Who spit in her bean curd?

@@ -19,14 +19,14 @@ Mom? Dad!
 How did this happen?
 (CORALINE GASPS)
 She's taken them.
-They're not coming back, are they? Mom and Dad.
+They're not coming back, are they?<br />Mom and Dad.
 Not on their own.
 Only one thing to do.
 (CLATTERING)
-You know, you're walking right into her trap.
+You know,<br />you're walking right into her trap.
 I have to go back.
 They are my parents.
-Challenge her, then. She may not play fair, but she won't refuse.
+Challenge her, then.<br />She may not play fair, but she won't refuse.
 She's got a thing for games.
 Hmm.
 Okay.

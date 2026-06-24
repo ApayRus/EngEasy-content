@@ -11,21 +11,21 @@ It's gone. My poison oak! It's gone!
 Huh.
 (KETTLE WHISTLING)
 It was incredibly real, Mom.
-Only you weren't really you. You were my other mother.
+Only you weren't really you.<br />You were my other mother.
 Buttons for eyes, huh?
-Coraline, you only dreamed you ate all that chicken.
+Coraline, you only dreamed<br />you ate all that chicken.
 Take your multivitamin at least.
 You were in the dream, too, Dad.
-You had wild-looking pajamas and orange monkey slippers.
-(LAUGHS) Orange? My monkey slippers are blue.
-Psst! Can you get me some of that magic mud you were talking about?
-Because I have a terrible case of writer's rash on my...
+You had wild-looking pajamas<br />and orange monkey slippers.
+(LAUGHS) Orange?<br />My monkey slippers are blue.
+Psst! Can you get me some of that<br />magic mud you were talking about?
+Because I have a terrible case<br />of writer's rash on my...
 (MOM CLEARS THROAT)
-If the real Charlie Jones wants his pages edited,
+If the real Charlie Jones<br />wants his pages edited,
 he better wrap them up ASAP.
-Coraline, why don't you go visit downstairs?
-I bet those actresses would love to hear your dream.
-Miss Spink and Forcible? But you said they're dingbats.
+Coraline,<br />why don't you go visit downstairs?
+I bet those actresses<br />would love to hear your dream.
+Miss Spink and Forcible?<br />But you said they're dingbats.
 Mmm-hmm.
 Bobinsky. Bobinsky. Bobinsky.
 (SNIFFS)

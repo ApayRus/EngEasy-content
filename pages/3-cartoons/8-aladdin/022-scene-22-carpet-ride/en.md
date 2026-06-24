@@ -5,63 +5,62 @@ description: 'Aladdin'
 mediaLink: 'https://archive.org/download/27_20260619_20260619/22.mp4'
 ---
 
-I can show you the world
-Shining, shimmering, splendid
-Tell me, Princess
-Now, when did you last Let your heart decide
-I can open your eyes
-Take you wonder by wonder
-Over, sideways and under
-On a magic carpet ride
-A whole new world
-A new fantastic point of view
-No one to tell us no Or where to go
-Or say we're only dreaming
-A whole new world
-A dazzling place I never knew
-But when I'm way up here It's crystal clear
-That now I'm in A whole new world with you
-Now I'm in A whole new world with you
-Unbelievable sights
-Indescribable feeling
-Soaring, tumbling, freewheeling
-Through an endless diamond sky
-
-- A whole new world - Don't you dare close your eyes
-- A hundred thousand things to see - Hold your breath, it gets better
-  I'm like a shooting star I've come so far
-  I can't go back to where I used to be
-- A whole new world - Every turn a surprise
-- With new horizons to pursue - Every moment red-letter
-  I'll chase them anywhere There's time to spare
-  Let me share This whole new world with you
-- A whole new world - A whole new world
-- That's where we'll be - That's where we'll be
-- A thrilling chase - A wondrous place
-  For you and me
-- It's all so magical. - Yeah.
-  It's a shame Abu had to miss this.
-  Nah. He hates fireworks.
-  He doesn't like flying, either.
-  That is... Oh, no.
-  You are the boy from the market. I knew it.
-- Why did you lie to me? - Jasmine, I'm sorry.
-- Did you think I was stupid? - No.
-- That I wouldn't figure it out? - No.
-  I mean, I hoped you wouldn't. No, that's not what I meant.
-  Who are you? Tell me the truth.
-  The truth?
-  The truth.
-  The truth is...
-  I sometimes dress as a commoner
-  to escape the pressures of palace life.
-  But I really am a prince.
-  Why didn't you just tell me?
-  Well, you know,
-  royalty going out into the city in disguise,
-  it sounds a little strange, don't you think?
-  Not that strange.
-  Good night, my handsome prince.
-  Sleep well, Princess.
-  Yes!
-  For the first time in my life, things are starting to go right.
+<i>I can show you the world</i>
+<i>Shining, shimmering, splendid</i>
+<i>Tell me, Princess</i>
+<i>Now, when did you last<br />Let your heart decide</i>
+<i>I can open your eyes</i>
+<i>Take you wonder by wonder</i>
+<i>Over, sideways and under</i>
+<i>On a magic carpet ride</i>
+<i>A whole new world</i>
+<i>A new fantastic point of view</i>
+<i>No one to tell us no<br />Or where to go</i>
+<i>Or say we're only dreaming</i>
+<i>A whole new world</i>
+<i>A dazzling place<br />I never knew</i>
+<i>But when I'm way up here<br />It's crystal clear</i>
+<i>That now I'm in<br />A whole new world with you</i>
+<i>Now I'm in<br />A whole new world with you</i>
+<i>Unbelievable sights</i>
+<i>Indescribable feeling</i>
+<i>Soaring, tumbling, freewheeling</i>
+<i>Through an endless diamond sky</i>
+<i>- A whole new world<br />- Don't you dare close your eyes</i>
+<i>- A hundred thousand things to see<br />- Hold your breath, it gets better</i>
+<i>I'm like a shooting star<br />I've come so far</i>
+<i>I can't go back to where I used to be</i>
+<i>- A whole new world<br />- Every turn a surprise</i>
+<i>- With new horizons to pursue<br />- Every moment red-letter</i>
+<i>I'll chase them anywhere<br />There's time to spare</i>
+<i>Let me share<br />This whole new world with you</i>
+<i>- A whole new world<br />- A whole new world</i>
+<i>- That's where we'll be<br />- That's where we'll be</i>
+<i>- A thrilling chase<br />- A wondrous place</i>
+<i>For you and me</i>
+- It's all so magical.<br />- Yeah.
+It's a shame Abu had to miss this.
+Nah. He hates fireworks.
+He doesn't like flying, either.
+That is... Oh, no.
+You are the boy from the market.<br />I knew it.
+- Why did you lie to me?<br />- Jasmine, I'm sorry.
+- Did you think I was stupid?<br />- No.
+- That I wouldn't figure it out?<br />- No.
+I mean, I hoped you wouldn't.<br />No, that's not what I meant.
+Who are you? Tell me the truth.
+The truth?
+The truth.
+The truth is...
+I sometimes dress as a commoner
+to escape the pressures of palace life.
+But I really am a prince.
+Why didn't you just tell me?
+Well, you know,
+royalty going out into the city<br />in disguise,
+it sounds a little strange,<br />don't you think?
+Not that strange.
+Good night, my handsome prince.
+Sleep well, Princess.
+Yes!
+For the first time in my life,<br />things are starting to go right.

@@ -6,23 +6,23 @@ mediaLink: "https://archive.org/download/ratatouille-scenes-42/39.mp4"
 ---
 
 Colette, wait! Colette.
-- You came back. Colette... - Don't say a word.
-If I think about it, I might change my mind.
+- You came back. Colette...<br />- Don't say a word.
+If I think about it,<br />I might change my mind.
 Just tell me what the rat wants to cook.
 Ratatouille? It's a peasant dish.
-Are you sure you want to serve this to Ego?
-What? I am making ratatouille. Well, how would you prepare it?
+Are you sure<br />you want to serve this to Ego?
+What? I am making ratatouille.<br />Well, how would you prepare it?
 Ratatouille? They must be joking.
 No, it can't be.
-Who cooked the ratatouille? I demand to know!
+Who cooked the ratatouille?<br />I demand to know!
 I can't remember the last time
-I asked a waiter to give my compliments to the chef.
-And now I find myself in the extraordinary position
+I asked a waiter<br />to give my compliments to the chef.
+And now I find myself<br />in the extraordinary position
 of having my waiter be the chef.
 Thanks, but I'm just your waiter tonight.
 Then who do I thank for the meal?
 Excuse me a minute.
 You must be the chef...
-If you wish to meet the chef, you will have to wait
+If you wish to meet the chef,<br />you will have to wait
 until all the other customer have gone.
 So be it.

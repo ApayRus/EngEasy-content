@@ -9,15 +9,15 @@ We're under attack! Light the signal!
 Light the fire now! Light the signal!
 Now all of China knows you're here.
 Perfect.
-Your Majesty, the Huns have crossed our northern border.
-Impossible. No one can get through the Great Wall.
+Your Majesty, the Huns have<br />crossed our northern border.
+Impossible.<br />No one can get through the Great Wall.
 Shan-Yu is leading them.
-We'll set up defenses around your palace immediately.
-No. Send your troops to protect my people. Chi Fu.
+We'll set up defenses<br />around your palace immediately.
+No. Send your troops<br />to protect my people. Chi Fu.
 Yes, Your Highness?
-Deliver conscription notices throughout all the provinces.
-Call up reserves and as many new recruits as possible.
-Forgive me, Your Majesty, but I believe my troops can stop him.
+Deliver conscription notices<br />throughout all the provinces.
+Call up reserves<br />and as many new recruits as possible.
+Forgive me, Your Majesty,<br />but I believe my troops can stop him.
 I won't take any chances, General.
 A single grain of rice can tip the scale.
-One man may be the difference between victory and defeat.
+One man may be the difference<br />between victory and defeat.

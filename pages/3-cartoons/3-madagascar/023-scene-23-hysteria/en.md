@@ -5,16 +5,16 @@ description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/23.mp4"
 ---
 
-Get me out of here! We got to get out of here!
-- Help! - What are you doing?
+Get me out of here!<br />We got to get out of here!
+- Help!<br />- What are you doing?
 I'm swimming back to New York.
-I know my chances are slim, but I have to try!
-- You can't swim! - I said my chances are slim!
-Nature! It's all over me! Get it off! I can't see! I can't see!
+I know my chances are slim,<br />but I have to try!
+- You can't swim!<br />- I said my chances are slim!
+Nature! It's all over me! Get it off!<br />I can't see! I can't see!
 I can see!
-Look. There's obviously just been a little mistake.
-The people didn't dump us here on purpose.
-As soon as they realise what happened, they'll come looking for us, right?
+Look. There's obviously<br />just been a little mistake.
+The people didn't dump us here<br />on purpose.
+As soon as they realise what happened,<br />they'll come looking for us, right?
 Yeah, right.
-I don't know the words But we're born free
-You know something? I bet they're already on their way.
+<i>I don't know the words<br />But we're born free</i>
+You know something?<br />I bet they're already on their way.

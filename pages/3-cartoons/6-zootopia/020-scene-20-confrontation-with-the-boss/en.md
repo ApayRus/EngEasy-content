@@ -7,16 +7,16 @@ mediaLink: "https://archive.org/download/zootopia-scenes-36/20.mp4"
 
 Hmm.
 Well, this should be good.
-I thought this was just a missing mammal case...
+I thought this was<br />just a missing mammal case...
 but it's way bigger.
 Mr. Otterton did not just disappear.
-I believe he and this jaguar, they went savage, sir.
+I believe he and this jaguar,<br />they went savage, sir.
 Savage? This isn't the Stone Age, Hopps.
 Animals don't "go savage."
 I thought so, too, until I saw this.
 What? He was right here.
 The "savage" jaguar?
-Sir, I know what I saw. He almost killed us!
+Sir, I know what I saw.<br />He almost killed us!
 Or, maybe any aggressive predator...
 looks savage to you rabbits.
 Let's go!
@@ -29,7 +29,7 @@ Two days to find the otter...
 or you quit.
 That was the deal.
 Badge.
-- But, sir, we... - Badge!
+- But, sir, we...<br />- Badge!
 Uh, no.
 What did you say, fox?
 Sorry. What I said was, "no."
@@ -39,14 +39,14 @@ and a three-wheeled joke-mobile...
 and two days to solve a case...
 you guys haven't cracked in two weeks?
 Yeah.
-It's no wonder she needed to get help from a fox.
-None of you guys were gonna help her, were you?
-- Ho... - Here's the thing, Chief.
+It's no wonder she needed<br />to get help from a fox.
+None of you guys<br />were gonna help her, were you?
+- Ho...<br />- Here's the thing, Chief.
 You gave her the 48 hours...
 so, technically, we still have...
 10 left to find our Mr. Otterton...
 and that is exactly what we're gonna do.
 So, if you'll excuse us...
-we have a very big lead to follow and a case to crack.
+we have a very big lead<br />to follow and a case to crack.
 Good day.
 Officer Hopps.

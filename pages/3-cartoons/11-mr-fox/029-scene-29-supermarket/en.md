@@ -5,53 +5,53 @@ description: "Fantastic Mr.Fox"
 mediaLink: "https://archive.org/download/mr-fox-33/29.mp4"
 ---
 
-These three, in this reporter's opinion, obsessed farmers
-remain convinced the fox in question will eventually reappear. Why?
-Foxes aren't meant to live in a sewer.
+These three, in this<br />reporter's opinion,<br />obsessed farmers
+remain convinced<br />the fox in question will<br />eventually reappear. Why?
+Foxes aren't meant<br />to live in a sewer.
 They're refugees.
-All they have to eat down there is. . .
+All they have to eat<br />down there is. . .
 Trash!
 And not much of it.
 Uh-huh.
-Thank you, farmers. For Action 1 2, this is Dan Peabody.
+Thank you, farmers.<br />For Action 1 2,<br />this is Dan Peabody.
 What is it?
-His tonsils are a little swollen.
+His tonsils are<br />a little swollen.
 Is it serious?
-No. Hopefully, he won't have to lose them.
+No. Hopefully,<br />he won't have<br />to lose them.
 Lose the tonsils?
 I'm hungry.
 Have some water. Here.
-BEAVER: We try to keep things simple.
-WEASEL: This is the first time I've been to a party where no one serves anything.
+BEAVER: We try to<br />keep things simple.
+WEASEL: This is the first time<br />I've been to a party where<br />no one serves anything.
 (CUBS CHANTING)
 My darlings.
-ASH: Where are we going? MR. FOX: Nobody knows.
-ASH: We were in the middle of a meditation practice.
-Watch your step. Let's see, where does this lead?
-Oh, no. Foxy, it's filthy.
-MR. FOX: Keep a good grip, everyone.
+ASH: Where are we going?<br />MR. FOX: Nobody knows.
+ASH: We were in the middle<br />of a meditation practice.
+Watch your step.<br />Let's see, where<br />does this lead?
+Oh, no. Foxy,<br />it's filthy.
+MR. FOX: Keep a good grip,<br />everyone.
 This better be worth it.
-MR. FOX: I think I see a little sliver of light. What's this? Is it a door?
-You're a terrible actor, Foxy.
-(SNIFFING) Do you smell something? Is that Freon?
-Shh ! I'm going to open this trap door and see if something's on the other side.
-I highly doubt it, though. There's probably just more sewer.
-Wouldn't it be surprising if. . . ASH: Open it.
-Look, there's a whole enormous, glorious, gigantic supermarket up here.
-And they close early on weekends.
+MR. FOX: I think I see<br />a little sliver of light.<br />What's this? Is it a door?
+You're a terrible actor,<br />Foxy.
+(SNIFFING) Do you smell<br />something? Is that Freon?
+Shh ! I'm going to open this<br />trap door and see if<br />something's on the other side.
+I highly doubt it, though.<br />There's probably<br />just more sewer.
+Wouldn't it be<br />surprising if. . .<br />ASH: Open it.
+Look, there's a whole<br />enormous, glorious, gigantic<br />supermarket up here.
+And they close<br />early on weekends.
 (ALL EXCLAIMlNG lN WONDER)
-You really are kind of a quote-unquote "fantastic" fox.
-I try. Get enough to share with everybody.
-Remember, the Rabbits are vegetarians and Badger supposedly can't eat walnuts.
+You really are kind<br />of a quote-unquote<br />"fantastic" fox.
+I try. Get enough to<br />share with everybody.
+Remember, the Rabbits<br />are vegetarians and Badger<br />supposedly can't eat walnuts.
 (ALL SNARLING)
-I guess now that Kristofferson's dad is already down to single pneumonia
-he'll be going home soon.
-Actually, when he spoke to me from the hospital
-he said he was already talking to Weasel
-about real estate availability in our sewer system.
-Really? Well, now's the time to buy.
+I guess now that<br />Kristofferson's dad is already<br />down to single pneumonia
+he'll be going<br />home soon.
+Actually, when he spoke<br />to me from the hospital
+he said he was<br />already talking<br />to Weasel
+about real estate<br />availability in our<br />sewer system.
+Really? Well, now's<br />the time to buy.
 Ha!
-Okay. I get it. Is that your trademark?
+Okay. I get it.<br />Is that your trademark?
 I'm pregnant again.
 (GASPS) Wow.
-I think we're both glowing.
+I think we're<br />both glowing.

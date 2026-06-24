@@ -6,58 +6,57 @@ mediaLink: 'https://archive.org/download/27_20260619_20260619/3.mp4'
 ---
 
 Stop! Thief!
-I'll have your hands for a trophy, street rat.
+I'll have your hands for a trophy,<br />street rat.
 All this for a loaf of bread?
-
-- There he is! - You won't get away so easy!
-  You think that was easy?
-  You two, over that way, and you, follow me.
-- We'll find him. - Morning, ladies.
-  Getting into trouble a little early today, aren't we, Aladdin?
-  Trouble? No way. You're only in trouble if you get caught.
-- Gotcha. - I'm in trouble.
-  And this time...
-  Perfect timing, Abu, as usual.
-- Abu. - Come on. Let's get outta here.
-  Gotta keep one jump Ahead of the bread line
-  One swing ahead of the sword
-  I steal only what I can't afford
-  That's everything
-  One jump ahead of the lawmen
-  That's all, and that's no joke
-  These guys don't appreciate I'm broke
-- Riffraff - Street rat
-- Scoundrel - Take that
-  Just a little snack, guys
-  Rip him open Take it back, guys
-  I can take a hint Gotta face the facts
-- You're my only friend, Abu - Who?
-  Oh, it's sad Aladdin's hit the bottom
-  He's become a one-man rise in crime
-  I'd blame parents Except he hasn't got 'em
-  Gotta eat to live Gotta steal to eat
-  Tell you all about it When I got the time
-  One jump ahead of the slowpokes One skip ahead of my doom
-  Next time gonna use a nom de plume
-  There he is
-  One jump ahead of the hit men One hit ahead of the flock
-  I think I'll take a stroll Around the block
-- Stop, thief - Vandal
-- Abu - Scandal
-  Let's not be too hasty
-  Still I think he's rather tasty
-  Gotta eat to live Gotta steal to eat
-  Otherwise we'd get along
-  Wrong
-  Get him!
-  He's got a sword!
-  You idiots. We've all got swords.
-- One jump ahead of the hoofbeats - Vandal!
-- One hop ahead of the hump - Street rat!
-- One trick ahead of disaster - Scoundrel!
-  They're quick, but I'm much faster
-  Here goes, better throw my hand in
-  Wish me happy landin' All I gotta do is jump
-  And now, esteemed effendi, we feast. All right.
-  Here. Go on. Take it.
-  Don't.
+- There he is!<br />- You won't get away so easy!
+You think that was easy?
+You two, over that way,<br />and you, follow me.
+- We'll find him.<br />- Morning, ladies.
+Getting into trouble a little early<br />today, aren't we, Aladdin?
+Trouble? No way.<br />You're only in trouble if you get caught.
+- Gotcha.<br />- I'm in trouble.
+And this time...
+Perfect timing, Abu, as usual.
+- Abu.<br />- Come on. Let's get outta here.
+<i>Gotta keep one jump<br />Ahead of the bread line</i>
+<i>One swing ahead of the sword</i>
+<i>I steal only what I can't afford</i>
+<i>That's everything</i>
+<i>One jump ahead of the lawmen</i>
+<i>That's all, and that's no joke</i>
+<i>These guys don't appreciate I'm broke</i>
+<i>- Riffraff<br />- Street rat</i>
+<i>- Scoundrel<br />- Take that</i>
+<i>Just a little snack, guys</i>
+<i>Rip him open<br />Take it back, guys</i>
+<i>I can take a hint<br />Gotta face the facts</i>
+<i>- You're my only friend, Abu<br />- Who?</i>
+<i>Oh, it's sad Aladdin's hit the bottom</i>
+<i>He's become a one-man rise in crime</i>
+<i>I'd blame parents<br />Except he hasn't got 'em</i>
+<i>Gotta eat to live<br />Gotta steal to eat</i>
+<i>Tell you all about it<br />When I got the time</i>
+<i>One jump ahead of the slowpokes<br />One skip ahead of my doom</i>
+<i>Next time gonna use a nom de plume</i>
+<i>There he is</i>
+<i>One jump ahead of the hit men<br />One hit ahead of the flock</i>
+<i>I think I'll take a stroll<br />Around the block</i>
+<i>- Stop, thief<br />- Vandal</i>
+<i>- Abu<br />- Scandal</i>
+<i>Let's not be too hasty</i>
+<i>Still I think he's rather tasty</i>
+<i>Gotta eat to live<br />Gotta steal to eat</i>
+<i>Otherwise we'd get along</i>
+<i>Wrong</i>
+Get him!
+He's got a sword!
+You idiots. We've all got swords.
+<i>- One jump ahead of the hoofbeats<br />- Vandal!</i>
+<i>- One hop ahead of the hump<br />- Street rat!</i>
+<i>- One trick ahead of disaster<br />- Scoundrel!</i>
+<i>They're quick, but I'm much faster</i>
+<i>Here goes, better throw my hand in</i>
+<i>Wish me happy landin'<br />All I gotta do is jump</i>
+And now, esteemed effendi, we feast.<br />All right.
+Here. Go on. Take it.
+Don't.

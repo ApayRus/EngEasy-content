@@ -20,8 +20,8 @@ wrong.
 I have no excuse.
 I'm sorry.
 (GASPS)
-You know, it'd be rude to refuse a gift from a goddess.
+You know, it'd be rude to refuse<br />a gift from a goddess.
 Cheeeehoooo!
 Thank you.
-Your kind gesture is deeply appreciated.
+Your kind gesture is<br />deeply appreciated.
 Cheeeehoooo.

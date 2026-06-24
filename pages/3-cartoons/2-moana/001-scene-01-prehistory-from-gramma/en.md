@@ -62,7 +62,7 @@ No one goes outside the reef.
 We are safe here. There is no darkness.
 There are no monsters.
 Monsters!
--- There's no monsters, no monsters... -it's the darkness!
+-- There's no monsters, no monsters...<br />-it's the darkness!
 No, there is nothing beyond our reef, but storms and rough seas.
 I'm gonna throw up.
 TUI: As long as we stay on our very safe island...

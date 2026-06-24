@@ -15,15 +15,15 @@ Dewdrop?
 (CRIES) Ba!
 (CRYING)
 Is that really her?
-Chief Benja, your daughter did you proud.
-Hope you don't mind, she brought some friends.
+Chief Benja,<br />your daughter did you proud.
+Hope you don't mind,<br />she brought some friends.
 (SOFT MUSIC CONTINUES)
 (GIGGLING)
 Ba? (CHUCKLES)
 Welcome to Kumandra.
 (MUSIC RISING)
 (LAUGHS)
-(LITTLE NOI LAUGHING AND SPEAKING GIBBERISH)
+(LITTLE NOI LAUGHING<br />AND SPEAKING GIBBERISH)
 (MUSIC CONTINUES RISING)
 (MUSIC SWELLING)
 (MUSIC FLOURISHES TO AN END)

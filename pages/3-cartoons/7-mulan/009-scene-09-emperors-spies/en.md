@@ -7,12 +7,12 @@ mediaLink: "https://archive.org/download/mulan-scenes-26/9.mp4"
 
 Imperial scouts.
 Shan-Yu.
-Nice work, gentlemen. You found the Hun army.
+Nice work, gentlemen.<br />You found the Hun army.
 The Emperor will stop you.
 Stop me? He invited me.
-By building his wall, he challenged my strength.
+By building his wall,<br />he challenged my strength.
 I'm here to play his game.
-Go! Tell your Emperor to send his strongest armies.
+Go! Tell your Emperor<br />to send his strongest armies.
 I'm ready.
-How many men does it take to deliver a message?
+How many men does it take<br />to deliver a message?
 One.

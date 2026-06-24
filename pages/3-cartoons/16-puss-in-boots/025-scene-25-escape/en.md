@@ -16,19 +16,19 @@ Nice try.
 I hope you can forgive me.
 Apology accepted!
 I don't really have time for you.
-I have to save the town from the Great Terror!
+I have to save the town<br />from the Great Terror!
 Wait, Puss!
 Don't you see? I'm here because...
-I am here because you made me realize
-that there is something I care about more than gold.
+I am here<br />because you made me realize
+that there is something<br />I care about more than gold.
 Something?
 OK. Someone.
-He's about two feet tall, wears high heels.
+He's about two feet tall,<br />wears high heels.
 Handsome?
 He's very handsome.
 A real beefcake?
-- A stallion? - Yes.
-- Tiger? - Oh, brother.
+- A stallion?<br />- Yes.
+- Tiger?<br />- Oh, brother.
 But this does not make us even.
 Freeze!
 Yes, it does.
@@ -37,7 +37,7 @@ I saved you!
 You owed me one.
 You didn't tell me about Humpty.
 So now you owe me two.
-- You're a lot of work. - I know. But I am worth it!
+- You're a lot of work.<br />- I know. But I am worth it!
 You are not getting away, Puss In Boots!
 Wrong boots.
 Kitty!

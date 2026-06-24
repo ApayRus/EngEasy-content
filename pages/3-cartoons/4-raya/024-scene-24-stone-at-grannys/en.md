@@ -5,44 +5,44 @@ description: "Raya and the Last Dragon"
 mediaLink: "https://archive.org/download/raya-scenes-42/24.mp4"
 ---
 
-Those folks were, like, crazy mad.
-I just wanted to bring some gifts
+Those folks were,<br />like, crazy mad.
+I just wanted<br />to bring some gifts
 to the Talon chief Dang Hai.
-Is that who you're looking for, dear?
-(GASPS EXCITEDLY) I know exactly where he is.
+Is that who<br />you're looking for, dear?
+(GASPS EXCITEDLY)<br />I know exactly where he is.
 You do?
 Mm-hmm. I will take you there.
-See? That's what I've been trying to tell my girl Raya.
-And she's all like, "You can't trust people."
+See? That's what I've been<br />trying to tell my girl Raya.
+And she's all like,<br />"You can't trust people."
 "Don't talk to anyone."
-"I only eat terrible foods I dried myself."
+"I only eat terrible foods<br />I dried myself."
 (LAUGHS) Come, dear.
-Chief Dang Hai is just outside the city,
+Chief Dang Hai<br />is just outside the city,
 beyond the gates.
-SISU: Away from the water, huh? Wow.
-He really likes living on the edge.
+SISU: Away from<br />the water, huh? Wow.
+He really likes living<br />on the edge.
 Hi there, Dang Hai.
 Um, I'm Sisu,
-and I've come here to offer you some...
+and I've come here<br />to offer you some...
 (EERIE MUSIC PLAYING)
 Uh...
--(LOUD RUMBLING) -(DRUUN SCREECHING)
+-(LOUD RUMBLING)<br />-(DRUUN SCREECHING)
 Now, you're gonna tell me
-where I can find those other Dragon Gem pieces,
-or I'll have to leave you outside with that thing.
+where I can find<br />those other Dragon Gem pieces,
+or I'll have to leave you<br />outside with that thing.
 Take your pick.
 But I... I trusted you.
 Big mistake.
 You better talk fast.
--It looks hungry. -(DRUUN SCREECHING)
+-It looks hungry.<br />-(DRUUN SCREECHING)
 SISU: No. No, no. No, no, no!
 Raya!
 DANG HU: Stop her!
-RAYA: Sisu, I told you to stay on the boat.
+RAYA: Sisu, I told you<br />to stay on the boat.
 SISU: Sorry!
-Hold on to this for me, will ya?
--(DRAMATIC MUSIC PLAYING) -(FOG HISSING)
+Hold on to this for me,<br />will ya?
+-(DRAMATIC MUSIC PLAYING)<br />-(FOG HISSING)
 (EXCLAIMING)
 RAYA: Fog?
-SISU: Yeah. That was my brother Jagan's magic.
-RAYA: Okay. Three down, two to go.
+SISU: Yeah. That was<br />my brother Jagan's magic.
+RAYA: Okay.<br />Three down, two to go.

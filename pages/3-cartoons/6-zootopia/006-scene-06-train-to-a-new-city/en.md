@@ -5,46 +5,46 @@ description: "Zootopia"
 mediaLink: "https://archive.org/download/zootopia-scenes-36/6.mp4"
 ---
 
-Oh, oh, oh, oh, oh!
-Oh, oh, oh, oh, oh!
-Oh, oh, oh, oh, oh!
-Oh, oh, oh, oh, oh!
-I messed up tonight I lost another fight
-Lost to myself But I'll just start again
-I keep falling down
-I keep on hitting the ground
-But I always get up now
-To see what's next
-Birds don't just fly
-They fall down and get up
-Nobody learns without getting it wrong
-I won't give up No I won't give in
-Till I reach the end And then I'll start again
-No I won't leave
-I want to try everything
-I want to try even though I could fail
-I won't give up No, I won't give in
-Till I reach the end
-Then I'll start again
-No, I won't leave I want to try everything
-I want to try even though I could fail
-Oh, oh, oh, oh, oh!
-Try everything
-Oh, oh, oh, oh, oh!
-Try everything
-Oh, oh, oh, oh, oh!
-Try everything
-Oh, oh, oh, oh, oh!
-I'll keep on making those new mistakes
-I'll keep on making them every day
-Those new mistakes
-Oh, oh, oh, oh, oh!
-Try everything
-Oh, oh, oh, oh, oh!
-Try everything
-Oh, oh, oh, oh, oh!
-Try everything
-Oh, oh, oh, oh, oh!
-Try everything
-I'm Gazelle. Welcome to Zootopia.
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>I messed up tonight<br />I lost another fight</i>
+<i>Lost to myself<br />But I'll just start again</i>
+<i>I keep falling down</i>
+<i>I keep on hitting the ground</i>
+<i>But I always get up now</i>
+<i>To see what's next</i>
+<i>Birds don't just fly</i>
+<i>They fall down and get up</i>
+<i>Nobody learns<br />without getting it wrong</i>
+<i>I won't give up<br />No I won't give in</i>
+<i>Till I reach the end<br />And then I'll start again</i>
+<i>No I won't leave</i>
+<i>I want to try everything</i>
+<i>I want to try<br />even though I could fail</i>
+<i>I won't give up<br />No, I won't give in</i>
+<i>Till I reach the end</i>
+<i>Then I'll start again</i>
+<i>No, I won't leave<br />I want to try everything</i>
+<i>I want to try<br />even though I could fail</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Try everything</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Try everything</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Try everything</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>I'll keep on making those new mistakes</i>
+<i>I'll keep on making them every day</i>
+<i>Those new mistakes</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Try everything</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Try everything</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Try everything</i>
+<i>Oh, oh, oh, oh, oh!</i>
+<i>Try everything</i>
+<i>I'm Gazelle. Welcome to Zootopia.</i>
 Welcome to the Grand Pangolin Arms.

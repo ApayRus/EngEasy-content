@@ -5,27 +5,27 @@ description: "Isle of Dogs"
 mediaLink: "https://archive.org/download/isle-of-dogs-36/34.mp4"
 ---
 
-Well, the brain surgery was a complete success.
+Well, the brain surgery<br />was a complete success.
 But his left kidney failed
-due to the stress of the operation.
-But, what about the right one?
-He lost it in a train-crash three years ago.
+due to the stress<br />of the operation.
+But, what about<br />the right one?
+He lost it in a train-crash<br />three years ago.
 Take my left kidney...
 give it to Atari-kun.
-According to a long-standing statute
+According<br />to a long-standing statute
 unique to Uni Prefecture,
 in the event of the death,
-disappearance, or felony-prosecution
+disappearance,<br />or felony-prosecution
 of the chosen candidate
-on, while, during, or concurrent
-with the Re-Election-Night ceremony,
+on, while, during,<br />or concurrent
+with the Re-Election-Night<br />ceremony,
 all powers and authorities
-vested in his or her designated office
-transfer forthwith to his or her
-next-of-kin and/or appointed heir.
+vested in his or her<br />designated office
+transfer forthwith<br />to his or her
+next-of-kin and/or<br />appointed heir.
 In other words,
-Atari Kobayashi is the new mayor of Megasaki City!
-You heard me right: Atari Kobayashi
-is the new mayor of Megasaki City!
-Let's hope that new kidney works.
+Atari Kobayashi is the new<br />mayor of Megasaki City!
+You heard me right:<br />Atari Kobayashi
+is the new mayor<br />of Megasaki City!
+Let's hope<br />that new kidney works.
 Boy, what a night!

@@ -5,33 +5,33 @@ description: "Madagascar"
 mediaLink: "https://archive.org/download/madagascar-scenes-40/19.mp4"
 ---
 
-Okay, let's make a good impression on the people.
+Okay, let's make a good impression<br />on the people.
 Smiles, everyone. Let's get it together.
-- Is that the best you can do? - Oh, I'm not smiling. It's gas.
+- Is that the best you can do?<br />- Oh, I'm not smiling. It's gas.
 Well, great. Let's make gas look good.
-- Wow! - It's not people. It's animals.
+- Wow!<br />- It's not people. It's animals.
 California animals. Dude.
 This is like a Puffy party.
-I like to move it, move it I like to move it, move it
-- Ya like to - Move it
-I like to move it, move it I like to move it, move it
-I like to move it, move it
-- Ya like to - Move it
-I like to move it, move it You like to move it, move it
-She like to move it, move it
-- He like to - Move it
-All girls all over the world
-Original King Julien 'pon yer case, man
-I love how all the girls that love to move their body
-When ya move your body, ya do
-Move it nice and sweet and sassy, all right
+<i>I like to move it, move it<br />I like to move it, move it</i>
+<i>- Ya like to<br />- Move it</i>
+<i>I like to move it, move it<br />I like to move it, move it</i>
+<i>I like to move it, move it</i>
+<i>- Ya like to<br />- Move it</i>
+<i>I like to move it, move it<br />You like to move it, move it</i>
+<i>She like to move it, move it</i>
+<i>- He like to<br />- Move it</i>
+<i>All girls all over the world</i>
+<i>Original King Julien 'pon yer case, man</i>
+<i>I love how all the girls<br />that love to move their body</i>
+<i>When ya move your body, ya do</i>
+<i>Move it nice and sweet and sassy,<br />all right</i>
 What kind of zoo is this?
-I just saw 26 blatant health code violations.
-I'm loving San Diego. This place is off the chizain.
+I just saw 26<br />blatant health code violations.
+I'm loving San Diego.<br />This place is off the chizain.
 Twenty-seven.
-Woman, physically fit, physically fit
-Physically, physically, physically fit Woman, physically fit, physically fit
+<i>Woman, physically fit, physically fit</i>
+<i>Physically, physically, physically fit<br />Woman, physically fit, physically fit</i>
 We should've brought chips and dip.
 Wait.
-Where's Alex? What happened to him? He was right behind us. Wasn't he?
-I don't know where he's at, but he's missing one heck of a party.
+Where's Alex? What happened to him?<br />He was right behind us. Wasn't he?
+I don't know where he's at, but he's<br />missing one heck of a party.

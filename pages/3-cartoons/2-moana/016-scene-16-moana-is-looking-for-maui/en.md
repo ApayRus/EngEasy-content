@@ -5,10 +5,10 @@ description: 'Moana'
 mediaLink: 'https://archive.org/download/20_20260619_202606/16.mp4'
 ---
 
-I am Moana of Motunui. You will board my boat...
-sail across the sea and restore the heart of Te Fiti.
--- (GRUNTING) I am Moana... -- (THUDDING)
--- of Motu... -- (THUDDING CONTINUES)
+I am Moana of Motunui.<br />You will board my boat...
+sail across the sea<br />and restore the heart of Te Fiti.
+-- (GRUNTING) I am Moana...<br />-- (THUDDING)
+-- of Motu...<br />-- (THUDDING CONTINUES)
 ...nui.
 (THUDDING CONTINUES)
 Heihei?

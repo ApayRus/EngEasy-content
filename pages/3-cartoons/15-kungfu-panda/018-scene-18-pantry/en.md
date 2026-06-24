@@ -8,9 +8,9 @@ mediaLink: "https://archive.org/download/kungfu-panda-30/18.mp4"
 What? I eat when I'm upset, okay?
 No need to explain.
 I thought you might be Monkey.
-He hides his almond cookies on the top shelf.
+He hides his almond cookies<br />on the top shelf.
 Don't tell Monkey.
--Look at you. -Yeah, I know, I disgust you.
+-Look at you.<br />-Yeah, I know, I disgust you.
 No, I mean, how did you get up there?
 I don't know. I guess...
 I don't know. I was getting a cookie.

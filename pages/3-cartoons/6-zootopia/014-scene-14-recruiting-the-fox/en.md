@@ -8,51 +8,51 @@ mediaLink: "https://archive.org/download/zootopia-scenes-36/14.mp4"
 Here you go.
 One missing otter.
 That's it?
-Yikes! That is the smallest case file I've ever seen.
-Leads, none. Witnesses, none.
-And you're not in the computer system yet...
+Yikes! That is the smallest<br />case file I've ever seen.
+Leads, none.<br />Witnesses, none.
+And you're not<br />in the computer system yet...
 so resources, none!
-Oh, I hope you didn't stake your career...
+Oh, I hope you didn't stake<br />your career...
 on cracking this one!
-Okay. Last known sighting.
+Okay.<br />Last known sighting.
 Can I just borrow... Thank you.
 Popsicle?
 The murder weapon.
 Get your Popsicle.
-Yeah. Because that... What does that mean?
+Yeah. Because that...<br />What does that mean?
 It means...
 I have a lead.
 Hi! Hello? It's me, again!
 Hey, it's Officer Toot-Toot.
 No. Actually, it's Officer Hopps...
-and I'm here to ask you some questions about a case.
+and I'm here to ask you<br />some questions about a case.
 What happened, meter maid?
 Did someone steal a traffic cone?
 It wasn't me.
-Hey, Carrots, you're going to wake the baby.
+Hey, Carrots, you're going<br />to wake the baby.
 I gotta get to work.
 This is important, sir.
-I think your $10 worth of popsicles can wait.
-I make 200 bucks a day, Fluff!
+I think your $10 worth<br />of popsicles can wait.
+I make<br />200 bucks a day, Fluff!
 365 days a year, since I was 12.
 And time is money. Hop along.
 Please, just look at the picture.
-You sold Mr. Otterton that Popsicle, right?
+You sold Mr. Otterton<br />that Popsicle, right?
 Do you know him?
 I know everybody.
 And I also know that, somewhere...
-there's a toy store missing its stuffed animal...
+there's a toy store missing<br />its stuffed animal...
 so why don't you get back to your box?
-Fine. Then we'll have to do this the hard way.
+Fine. Then we'll have<br />to do this the hard way.
 Did you just boot my stroller?
 Nicholas Wilde, you are under arrest.
-Ha! For what? Hurting your feelings?
+Ha! For what?<br />Hurting your feelings?
 Felony Tax Evasion.
 Yeah, $200 a day, 365 days a year...
 since you were 12.
 That's two decades, so times 20...
 which is $ 1,460, 000, I think.
-I mean, I am just a dumb bunny...
+I mean,<br />I am just a dumb bunny...
 but we are good at multiplying.
 Anyway, according to your tax forms...
 you reported, let me see here... zero!
@@ -60,17 +60,17 @@ Unfortunately, lying on a federal form...
 is a punishable offense.
 Five years jail time.
 Well, it's my word against yours.
-200 bucks a day, Fluff!
-365 days a year, since I was 12.
+<i>200 bucks a day, Fluff!</i>
+<i>365 days a year, since I was 12.</i>
 Actually, it's your word against yours.
-And if you want this pen, you're going to help me...
+And if you want this pen,<br />you're going to help me...
 find this poor, missing otter...
-or the only place you'll be selling popsicles...
+or the only place you'll be<br />selling popsicles...
 is the prison cafeteria.
 It's called a hustle, sweetheart.
 She hustled you.
 She hustled you good!
-You a cop now, Nick. You gonna need one of these.
+You a cop now, Nick.<br />You gonna need one of these.
 Have fun...
 working with the fuzz!
 Start talking.

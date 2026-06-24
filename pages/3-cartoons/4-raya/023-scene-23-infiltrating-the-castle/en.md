@@ -11,12 +11,12 @@ mediaLink: "https://archive.org/download/raya-scenes-42/23.mp4"
 (EXCLAIMING)
 (SUSPENSEFUL MUSIC PLAYING)
 All right, Dang Hai,
-I'll take that Dragon Gem piece.
+I'll take that<br />Dragon Gem piece.
 Whoa! I'm not Dang Hai.
 I'm Chai, the flower guy.
 Where is Dang Hai?
-(CHUCKLES) He's right over there.
+(CHUCKLES)<br />He's right over there.
 What? Who has his gem piece?
-(CHUCKLES) The most vicious chief
+(CHUCKLES)<br />The most vicious chief
 Talon has ever seen.
 (DRAMATIC MUSIC PLAYS)

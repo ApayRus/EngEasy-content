@@ -23,19 +23,19 @@ Let's finish this, binturi.
 (BOTH GRUNTING)
 (GRUNTING)
 (BOTH GRUNT)
--(RUMBLING) -(CROWD EXCLAIMING)
--(DRUUN SCREECHING) -(GASPS)
+-(RUMBLING)<br />-(CROWD EXCLAIMING)
+-(DRUUN SCREECHING)<br />-(GASPS)
 (GRUNTS)
--(RAYA AND NAMAARI GRUNTING) -BOUN: Raya!
+-(RAYA AND NAMAARI GRUNTING)<br />-BOUN: Raya!
 (BOTH GRUNTING)
 TONG: She cannot see us.
-Raya's blinded by her own rage.
-(GASPS) The gem's powers are fading!
+Raya's blinded<br />by her own rage.
+(GASPS)<br />The gem's powers are fading!
 (DRUUN SCREECHING)
-All these people are Druun food
+All these people<br />are Druun food
 if we don't get them out.
 (TONG GRUNTS AFFIRMATIVELY)
-Come on! Trust me, it's gonna be okay.
+Come on!<br />Trust me, it's gonna be okay.
 Stupid Druun! Out of my way!
 Go, go, go!
 (WHIMPERING)
@@ -45,60 +45,60 @@ Up we go! Yep!
 (EXCLAIMS)
 (SPEAKING GIBBERISH)
 MAN: Go, go! Hurry!
-BOUN: Get to the water! Keep going! Keep going!
+BOUN: Get to the water!<br />Keep going! Keep going!
 (DRAMATIC MUSIC PLAYING)
 BOUN: Come on! Come on!
 (CRASHING)
 (RAYA AND NAMAARI GRUNTING)
--(WEAPONS CLASHING) -(BOTH GRUNTING)
+-(WEAPONS CLASHING)<br />-(BOTH GRUNTING)
 (EXCLAIMS)
 (GRUNTING)
--(GRUNTS PAINFULLY) -(GRUNTS)
+-(GRUNTS PAINFULLY)<br />-(GRUNTS)
 (BOTH GRUNTING)
 (GRUNTS LOUDLY)
 (COUGHING)
--(BOTH GRUNTING) -(WEAPONS CLASHING)
+-(BOTH GRUNTING)<br />-(WEAPONS CLASHING)
 (DRAMATIC MUSIC CONTINUES)
 (BOTH CONTINUE GRUNTING)
 (GRUNTS PAINFULLY)
 (CLATTERS)
 (BREATHING HEAVILY)
-I never meant for any of this to happen.
+I never meant<br />for any of this to happen.
 (YELLS) Liar!
 (CRYING)
-I don't care if you believe me.
+I don't care<br />if you believe me.
 Sisu did.
 (BREATHING HEAVILY)
-NAMAARI: But you didn't trust her.
+NAMAARI:<br />But you didn't trust her.
 That's why we're here.
 Do whatever you want.
-But you're as much to blame for Sisu's death as I am.
+But you're as much to blame<br />for Sisu's death as I am.
 (SOFT DRAMATIC MUSIC PLAYING)
-BOUN: Tong, there's still people back there!
-Hurry! We're running out of time!
+BOUN: Tong, there's still<br />people back there!
+Hurry!<br />We're running out of time!
 TONG: Got it!
 Everyone, out! Come with me!
 (PEOPLE EXCLAIMING)
 (CRYING)
--(DRUUN SCREECHING) -(BOUN GRUNTING)
+-(DRUUN SCREECHING)<br />-(BOUN GRUNTING)
 (RAYA GRUNTING)
 (BOTH GRUNTING)
 (TONG EXCLAIMS)
-(LITTLE NOI SPEAKING GIBBERISH)
+(LITTLE NOI<br />SPEAKING GIBBERISH)
 (EXCLAIMS)
 (CHITTERING)
 (TUK TUK EXCLAIMS)
 (DRAMATIC MUSIC PLAYING)
-RAYA: Okay, Tuk, these are the last of 'em.
+RAYA: Okay, Tuk,<br />these are the last of 'em.
 Go! We're right behind you.
 (DRUUN SCREECHING)
 Tuk Tuk!
 (TUK TUK EXCLAIMS)
--(NAMAARI GRUNTING) -(DRUUN SCREECH)
+-(NAMAARI GRUNTING)<br />-(DRUUN SCREECH)
 What are you waiting for? Go!
 (TUK TUK EXCLAIMS)
--(RUMBLING) -(GRUNTS)
--(NAMAARI GRUNTS) -BOUN: (YELLS) Raya!
+-(RUMBLING)<br />-(GRUNTS)
+-(NAMAARI GRUNTS)<br />-BOUN: (YELLS) Raya!
 It's the one who slayed Sisu!
 (ALL EXCLAIMING)
 (RAYA BREATHING HEAVILY)

@@ -7,43 +7,43 @@ mediaLink: "https://archive.org/download/raya-scenes-42/35.mp4"
 
 (SIGHS DEEPLY)
 TONG: There's too much spice.
-Uh, no. There's too much bamboo.
+Uh, no.<br />There's too much bamboo.
 TONG: What do you know?
-You have the taste buds of a tall baby.
-Well, you dress like a tall baby.
-Give me the spoon! I'm taking over!
-Back off, tidal wave. I'm the professional here.
+You have the taste buds<br />of a tall baby.
+Well, you dress like<br />a tall baby.
+Give me the spoon!<br />I'm taking over!
+Back off, tidal wave.<br />I'm the professional here.
 May I?
 (SLURPS)
 Whoa!
 That's good.
-RAYA: It's just a little something my ba showed me.
+RAYA: It's just a little<br />something my ba showed me.
 Aw. Did he also show you
-how to make that delicious jerky?
-(CHUCKLES) No, that was all me.
+how to make<br />that delicious jerky?
+(CHUCKLES)<br />No, that was all me.
 (CHUCKLES)
-It'll be nice to share a meal with him again.
+It'll be nice to share a meal<br />with him again.
 BOUN: I know what you mean.
-I have this really obnoxious sister
+I have this really<br />obnoxious sister
 who always tousles my hair.
 (CHUCKLES SOFTLY)
 I can't wait to see her the most.
 After we win the day,
-I look forward to filling my eyeball
-with the joytastic image of my village full again.
+I look forward<br />to filling my eyeball
+with the joytastic image<br />of my village full again.
 (CON-BABY MUMBLING)
-And you will be reunited with your family, Noi.
+And you will be reunited<br />with your family, Noi.
 Uh, what did you just call her?
 Noi. It's her name.
 (BURPS)
 It's written on her collar.
 Have none of you ever checked?
-And they think of me as the ruffian.
+And they think of me<br />as the ruffian.
 (FLARE WHISTLING)
 What's that mean?
 It means we're on.
 (TENSE MUSIC PLAYING)
 Sisu,
 until we get that gem
-and confirm Namaari's actually on our side,
+and confirm Namaari's actually<br />on our side,
 promise me you'll stay hidden.

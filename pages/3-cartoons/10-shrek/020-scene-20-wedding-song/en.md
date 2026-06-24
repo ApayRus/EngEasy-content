@@ -14,7 +14,7 @@ And then I saw her face
 Now I'm a believer
 And not a trace
 Of doubt in my mind
-- I'm in love - Ooh-aah
+- I'm in love<br />- Ooh-aah
 I'm a believer I couldn't leave her
 If I tried
 God bless us, every one.
@@ -24,19 +24,19 @@ Not a trace
 Of doubt in my mind
 I'm in love Ooh-ahh
 I'm a believer I couldn't leave her if I tried
-- Ooh! - Uh!
+- Ooh!<br />- Uh!
 Then I saw her face
 Now I'm a believer
 Not a trace
 Of doubt in my mind
 I'm in love I'm a believer
 Come on!
-I believe, I believe I believe, I believe
-I believe, I believe I believe, I believe, I believe, hey
+I believe, I believe<br />I believe, I believe
+I believe, I believe<br />I believe, I believe, I believe, hey
 Y'all sing it with me!
 Believe
 I believe
-- I believe - I'm a believer
+- I believe<br />- I'm a believer
 I believe
-Oh, that's funny. Oh. Oh.
-I can't breathe. I can't breathe.
+Oh, that's funny.<br />Oh. Oh.
+I can't breathe.<br />I can't breathe.
