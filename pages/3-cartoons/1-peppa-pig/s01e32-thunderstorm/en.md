@@ -3,6 +3,7 @@ type: richVideo
 title: Thunderstorm (s01e32)
 description: Peppa and George learn about thunderstorms.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e32-thunderstorm.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e32-thunderstorm.json'
 ---
 
 Вот текст серии «Thunderstorm» (по ТВ-версии это Сезон 1, Серия 32) без таймкодов, без длинных тире и с каждым предложением на новой строке:

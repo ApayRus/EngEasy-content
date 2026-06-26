@@ -3,6 +3,7 @@ type: richVideo
 title: At the Beach (s01e46)
 description: The family go out to the beach.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e46-at-the-beach.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e46-at-the-beach.json'
 ---
 
 Вот текст серии «At the Beach» (по ТВ-версии это Сезон 1, Серия 45) без таймкодов, без длинных тире и с каждым предложением на новой строке:

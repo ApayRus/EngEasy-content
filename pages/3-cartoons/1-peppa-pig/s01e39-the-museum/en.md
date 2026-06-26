@@ -3,6 +3,7 @@ type: richVideo
 title: The Museum (s01e39)
 description: The family go to the museum.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e39-the-museum.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e39-the-museum.json'
 ---
 
 Вот текст серии «The Museum» (по ТВ-версии это Сезон 1, Серия 39) без таймкодов, без длинных тире и с каждым предложением на новой строке:

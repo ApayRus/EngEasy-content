@@ -5,6 +5,7 @@ description: >-
   The playgroup do a play of "The Little Red Riding Hood". Pedro Pony feels a
   bit shy being in it.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e52-school-play.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e52-school-play.json'
 ---
 
 Вот текст серии «School Play» (по ТВ-версии это Сезон 1, Серия 52) без таймкодов, без длинных тире и с каждым предложением на новой строке:

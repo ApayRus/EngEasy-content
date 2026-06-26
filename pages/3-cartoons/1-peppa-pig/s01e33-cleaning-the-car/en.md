@@ -3,6 +3,7 @@ type: richVideo
 title: Cleaning the Car (s01e33)
 description: 'The family want to go out for a drive, but the car is filthy.'
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e33-cleaning-the-car.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e33-cleaning-the-car.json'
 ---
 
 Вот текст серии «Cleaning the Car» (по ТВ-версии это Сезон 1, Серия 33) без таймкодов, без длинных тире и с каждым предложением на новой строке:

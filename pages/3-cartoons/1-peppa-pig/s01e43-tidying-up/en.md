@@ -3,6 +3,7 @@ type: richVideo
 title: Tidying Up (s01e43)
 description: "Peppa and George's room is messy, so the family tidy the place up."
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e43-tidying-up.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e43-tidying-up.json'
 ---
 
 Вот текст серии «Tidying Up» (по ТВ-версии это Сезон 1, Серия 42) без таймкодов, без длинных тире и с каждым предложением на новой строке:

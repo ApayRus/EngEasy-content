@@ -5,6 +5,7 @@ description: >-
   Daddy Pig is too big to get inside the tent, so he sleeps outside, but not for
   long.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e35-camping.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e35-camping.json'
 ---
 
 Вот текст серии «Camping» (по ТВ-версии это Сезон 1, Серия 35) без таймкодов, без длинных тире и с каждым предложением на новой строке:

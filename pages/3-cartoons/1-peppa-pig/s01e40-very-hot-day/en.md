@@ -3,6 +3,7 @@ type: richVideo
 title: Very Hot Day (s01e40)
 description: The family find ways to stay cool on a hot day after the muddy puddles dry up.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e40-very-hot-day.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e40-very-hot-day.json'
 ---
 
 Вот текст серии «Very Hot Day» (по ТВ-версии это Сезон 1, Серия 40) без таймкодов, без длинных тире и с каждым предложением на новой строке:

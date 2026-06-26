@@ -1,8 +1,9 @@
 ---
 type: richVideo
-title: "Muddy Puddles (s01e01)"
-description: "Peppa and George get very muddy after playing their favourite game - Muddy Puddles."
+title: "Peppa Pig S01E01"
+description: "Subtitle authoring draft for the first Peppa Pig episode."
 mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e01-muddy-puddles.mp4"
+peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e01-muddy-puddles.json"
 ---
 
 I'm Peppa Pig.

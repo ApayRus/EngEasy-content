@@ -5,6 +5,7 @@ description: >-
   Peppa holds a fancy dress party at her house, but she notices it is hard to
   pick the best costume.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e38-fancy-dress-party.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e38-fancy-dress-party.json'
 ---
 
 Вот текст серии «Fancy Dress Party» (по ТВ-версии это Сезон 1, Серия 38) без таймкодов, без длинных тире и с каждым предложением на новой строке:

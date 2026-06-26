@@ -3,6 +3,7 @@ type: richVideo
 title: The Sleepy Princess (s01e36)
 description: Mummy and Daddy Pig make up a story for Peppa and George to go to sleep.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e36-the-sleepy-princess.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e36-the-sleepy-princess.json'
 ---
 
 I'm Peppa Pig.

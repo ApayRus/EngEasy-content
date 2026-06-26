@@ -5,6 +5,7 @@ description: >-
   Peppa and George make puppets for Chloe Pig's new puppet theatre, and put on a
   play about Uncle Pig sleeping all the time.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e41-chloes-puppet-show.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e41-chloes-puppet-show.json'
 ---
 
 I'm Peppa Pig.

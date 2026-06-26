@@ -5,6 +5,7 @@ description: >-
   On a trip to Granny and Grandpa Pig's house, George is hesitant and picky to
   eat vegetables.
 mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e34-lunch.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e34-lunch.json'
 ---
 
 Вот текст серии «Lunch» (по ТВ-версии это Сезон 1, Серия 34) без таймкодов, без длинных тире и с каждым предложением на новой строке:
