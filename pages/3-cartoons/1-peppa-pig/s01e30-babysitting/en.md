@@ -1,81 +1,88 @@
 ---
 type: richVideo
-title: Babysitting (s01e30)
-description: >-
-  Granny and Grandpa Pig look after Peppa and George while Mummy and Daddy Pig
-  go out for the night.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e30-babysitting.mp4'
-peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e30-babysitting.json'
+title: "Babysitting (s01e30)"
+description: "Granny and Grandpa Pig look after Peppa and George while Mummy and Daddy Pig go out for the night."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e30-babysitting.mp4"
+peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e30-babysitting.json"
 ---
 
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
+Peppa Pig.
 Babysitting.
 Mummy Pig and Daddy Pig are going out for the evening.
 Granny Pig and Grandpa Pig are coming to babysit.
-Are you ready, Mummy Pig?
-Yes, I'm ready.
-Look, here are Granny and Grandpa.
-Hello, everyone.
-Hello, Granny Pig. Hello, Grandpa Pig.
-Now, children, you must be on your best behavior for Granny and Grandpa.
-We will, Mummy.
-Have a lovely time.
-Goodbye.
-Goodbye.
-Mummy Pig and Daddy Pig have gone out.
-Right, you two, what would you like to do?
-We want to watch television.
-Can we watch television, please?
-Well, I think it's nearly time for bed.
-Oh, please, Granny Pig, just a little television.
-All right, just a little bit.
-Peppa and George are watching television.
-Grandpa Pig is asleep on the sofa.
-Look at Grandpa, he's asleep.
-Wake up, Grandpa.
-What? Who? Oh, hello.
-It is time for bed now, children.
-Peppa and George go upstairs to bed.
-Brushing teeth.
-Now into bed.
-Pull the covers up.
-Goodnight, Peppa. Goodnight, George.
-Goodnight, Granny. Goodnight, Grandpa.
-Granny Pig and Grandpa Pig go back downstairs.
-Ah, peaceful at last.
-Would you like a cup of tea, Grandpa Pig?
-Yes, please, Granny Pig.
-What's that noise?
-It is the sound of jumping.
-Peppa and George are jumping on the bed.
-Peppa, George, you must be quiet and go to sleep.
-We're not tired, Grandpa.
-Well, you must stay in bed.
-Can you tell us a story, Grandpa?
-All right, I'll tell you a story about a little piggy.
-Once upon a time, there was a little piggy...
-Grandpa Pig falls asleep.
-Grandpa?
-Grandpa Pig is snoring.
-He's fallen asleep.
-Let's go downstairs and see Granny.
-Peppa and George creep downstairs.
-Hello, Granny Pig.
-Hello, you two. What are you doing downstairs?
-Grandpa fell asleep.
-And we wanted to see you.
-Come on, back to bed.
-Granny Pig tucks Peppa and George into bed.
-Goodnight, my little darlings.
-Mummy Pig and Daddy Pig have come home.
-Hello, Granny Pig. Did the children behave?
-They were absolute angels.
-They went straight to sleep.
-Let's go and look at them.
-Mummy Pig, Daddy Pig, Granny, and Grandpa go to see the children.
-Peppa and George are fast asleep.
-And look, Grandpa Pig is asleep in the chair too.
-Everyone is very quiet.
-Goodnight, everyone.
-Peppa Pig.
+Granny Pig! Grandpa Pig!
+Granny Pig! Grandpa Pig!
+Hello, my little ones.
+Hello 
+Peppa, George, Into your beds, quick.
+Good night, my little piggies.
+Good night. Sleep tight.
+Good night, Mummy.
+Good night, Daddy.
+What little darlings.
+Now go to sleep quickly.
+Yes, Mummy.
+So well behaved.
+Mummy Pig and Daddy Pig are leaving for their evening out.
+Peppa and George are so good.
+They just fell asleep when Mummy Pig told them to.
+This babysitting is easy.
+George.
+George, are you awake?
+What strange noises.
+I wonder if we should check upstairs.
+Peppa.
+George.
+Are you awake?
+Well, I never.
+Fast asleep.
+So it wasn't Peppa and George making all that noise.
+I can't hear anything.
+I think they really have fallen asleep.
+Let's watch some television.
+Gardening 
+Today we are talking about roses.
+Oh, I love gardening programs.
+The Giftsgate is a particularly thorny rose.
+To prune it, start by lopping off the head 
+and then snip away the budding shoots.
+Granny Pig!
+Peppa! George!
+You should be in bed asleep.
+George and I aren't sleeping at all.
+Can we watch TV with you?
+Well, I suppose watching a little TV might make you sleepy.
+Hooray!
+Icelandic roses are a rare treat for the discerning horticulturalist, 
+but they are prone to wilting in temperate habitats.
+This program is very boring.
+Grandpa Pig, 
+can you play that game where you throw us up and catch us?
+Okay, 
+but just one turn each.
+Oh! You seem heavier than before.
+Now it's George's turn.
+My turn!
+Higher! Higher!
+Maybe Grandpa Pig is a bit tired.
+I know, 
+Granny Pig.
+Let's play catch.
+Uh... you're it.
+Catch us if you can.
+Catch me!
+I'm going to catch you.
+Mummy Pig and Daddy Pig are back home.
+I hope our little piggies are asleep.
+Hello?
+Anyone here?
+The little piggies are asleep.
+And so are the big piggies.
+Hello, Polly.
+Hello, Polly.
+What a sweet little parrot.
+What a sweet little parrot.

@@ -1,65 +1,101 @@
 ---
 type: richVideo
-title: Pancakes (s01e29)
-description: >-
-  The family have pancakes for breakfast. Daddy Pig flips his all the way to the
-  kitchen ceiling and it gets stuck.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e29-pancakes.mp4'
-peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e29-pancakes.json'
+title: "Pancakes (s01e29)"
+description: "The family have pancakes for breakfast. Daddy Pig flips his all the way to the kitchen ceiling and it gets stuck."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e29-pancakes.mp4"
+peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e29-pancakes.json"
 ---
 
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
+Peppa Pig.
 Pancakes.
-Mummy Pig is making pancakes for breakfast.
+It is tea time, 
+and Mummy Pig has a surprise for everyone.
+Today is a day for pancakes.
+Pancakes!
+Delicious!
 I love pancakes.
 Everyone loves pancakes.
-Can I help make them, Mummy?
-You can watch, Peppa, but the stove is very hot.
-First, we need some batter.
-Mummy Pig pours the batter into the frying pan.
-Now for the exciting part.
-We have to flip the pancake.
-Mummy Pig flips the pancake high into the air.
-And she catches it safely back in the pan.
-Wow!
-Do another one, Mummy.
-Mummy Pig flips another pancake.
-This one is for Peppa.
-Yum, yum, delicious.
-Now it's Daddy Pig's turn to have a pancake.
-I think I can flip my pancake even higher than you did, Mummy Pig.
-Be careful, Daddy Pig, don't flip it too high.
-Don't worry, I am an expert at flipping pancakes.
-Daddy Pig pours the batter.
-He waits for the pancake to cook.
-Are you ready?
-Watch this.
-Daddy Pig flips the pancake very, very high.
-It goes right up to the ceiling.
-And it sticks to the ceiling.
+I'm the expert at flipping the pancakes over.
+Leave that to me.
+Are you sure, Daddy Pig?
+Last time you got a bit grumpy when you dropped the pancake on the floor.
+I did not get grumpy.
+There was a problem with the frying pan.
+Mummy, can we help make the pancakes, please?
+Yes, you can help me make the batter.
+First, I put some flour in the bowl.
+Ooh!
+Now I add an egg.
+Now the milk.
+And I give it all a stir.
+Mummy, can I stir?
+Yes, of course, Peppa.
+Peppa loves stirring.
+George wants to stir as well.
+No, George.
+Like this.
+Okay, that's enough stirring.
+You two sit at the table while I cook the pancakes.
+Mummy Pig is going to flip the pancake over.
+Hooray!
+You could flip it higher, Mummy Pig.
+You can show us how when you flip your own pancake, Daddy Pig.
+This first pancake is for George.
+Mummy Pig pours a little syrup on George's pancake.
+Delicious!
+This pancake is for Peppa.
+Hooray!
+You could flip it higher, Mummy Pig.
+You will get a chance to show me when you flip your own pancake, Daddy Pig.
+Syrup, please.
+Mmm, delicious.
+This pancake is for Mummy Pig.
+Hooray!
+You still aren't flipping them high enough, Mummy Pig.
+The next pancake is yours, Daddy Pig.
+So now you can show us how it should be done.
+Delicious!
+Is everyone watching?
+The secret of making a good pancake 
+is to flip it high into the air.
+One, 
+two, 
+three...
+Hoopla!
+Silly Daddy!
+Oh...
+Maybe that was just a bit too high.
+What a shame.
+That was the last pancake.
+It should be a simple matter to get it down.
 Oh dear.
-Where is it, Daddy?
-It's stuck on the ceiling.
-Oh, Daddy Pig, I told you not to flip it too high.
-Don't worry, it will come down in a minute.
-Everyone waits for the pancake to fall.
-But the pancake stays on the ceiling.
-We can't leave it up there, Daddy Pig.
-How can we get it down?
-I know, let's jump up and down.
-Peppa, George, and Mummy Pig jump up and down.
-But the pancake does not move.
-I think we need a bigger bump.
-Daddy Pig jumps up and down.
-The whole house shakes.
-The pancake falls off the ceiling.
-And it lands right on Daddy Pig's face.
-Look, Daddy Pig has a pancake mask.
-Daddy Pig looks very funny.
-Can I eat your pancake, Daddy?
-Yes, you can, Peppa.
-Peppa eats the pancake off Daddy Pig's face.
-Delicious.
-Everyone loves pancakes.
-Peppa Pig.
+Daddy Pig cannot reach his pancake.
+Don't worry, Daddy Pig.
+I think I know a way to get it down.
+Let's go upstairs, children.
+This way.
+What is Mummy Pig planning to do?
+On the count of three, we all have to start jumping up and down.
+One...
+Two...
+Three...
+Jump!
+What are they doing?
+It worked!
+Now Daddy Pig has his pancake.
+Daddy has a pancake on his head.
+Syrup on your pancake, Daddy Pig?
+Yes, please.
+One...
+Two...
+Three!
+Hoopla!
+Delicious!
+Silly daddy!
+I want to be a nurse.
+I want to be a doctor.
+But who's going to be the sick person?

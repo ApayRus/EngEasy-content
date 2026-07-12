@@ -1,71 +1,93 @@
 ---
-type: richVideo
-title: Very Hot Day (s01e40)
-description: The family find ways to stay cool on a hot day after the muddy puddles dry up.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e40-very-hot-day.mp4'
-peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e40-very-hot-day.json'
+title: "Very Hot Day (s01e40)"
+description: "The family find ways to stay cool on a hot day after the muddy puddles dry up."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e40-very-hot-day.mp4"
+peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e40-very-hot-day.json"
 ---
 
-Вот текст серии «Very Hot Day» (по ТВ-версии это Сезон 1, Серия 40) без таймкодов, без длинных тире и с каждым предложением на новой строке:
-
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
-Very Hot Day.
-The sun is shining brightly.
-It is a very hot day.
-Peppa and George are playing in the garden.
-It is too hot to run around.
-Mummy, it's very hot today.
-Yes, Peppa, it is a very hot day.
-Can we go in our paddling pool?
-That's a good idea.
-Daddy Pig is inflating the paddling pool.
-Daddy Pig is very out of breath.
-Phew, that is hard work.
-Mummy Pig fills the paddling pool with water from the hosepipe.
-The water is nice and cold.
-Peppa and George have their swimming costumes on.
-Peppa jumps into the paddling pool.
-Splish, splash!
-Deliciously cold.
-George wants to go in too.
-Splish, splash!
-George likes the cold water.
-Peppa and George are having lots of fun.
-Mummy Pig and Daddy Pig are sitting in the sun.
-It is getting even hotter.
-Phew, I am roasting.
-Would you like an ice cream, Daddy Pig?
-Yes, please, Mummy Pig.
-Look, here comes Miss Rabbit with her ice cream van.
-Ice cream!
-Peppa and George run to the ice cream van.
-Hello, Miss Rabbit.
-Hello, everyone. What would you like?
-Can I have a corn, please?
-And a dinosaur lolly for George.
-Dinosaur! Grrr!
-And what for Mummy and Daddy?
-A large dish of chocolate ice cream, please.
-Miss Rabbit gives everyone their ice cream.
-Thank you, Miss Rabbit.
-Everyone loves ice cream on a hot day.
-Peppa eats her ice cream very quickly.
-Look at George, his ice cream is melting.
-George's ice cream is dripping onto his shirt.
-Oh dear, George, you must eat it before it melts.
-Daddy Pig's ice cream is melting too.
-It is dripping onto his tummy.
-Oh, dear.
-Daddy Pig jumps into the paddling pool to cool down.
-Splash!
-Look at Daddy Pig.
-He has splashed all the water out of the pool.
-Oh, Daddy Pig.
-Sorry, everyone.
-Mummy Pig fills the paddling pool again.
-Now everyone is in the paddling pool.
-Peppa, George, Mummy Pig, and Daddy Pig.
-This is the best way to cool down on a very hot day.
-Everyone loves very hot days.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
 Peppa Pig.
+Very Hot Day.
+the sun is shining. 
+It is a very hot day.
+What a lovely hot day.
+Peppa and George are wearing their boots. 
+They are going to jump in muddy puddles.
+I love muddy puddles.
+Oh dear. 
+The sun is so hot that the puddles have dried up.
+Mummy! Daddy! 
+The puddles are all dry and we can't jump in them.
+Never mind, Peppa. 
+It's so sunny you can play in the paddling pool instead.
+Yes, the paddling pool!
+First, you have to change into your swimming costumes.
+Yes, Mummy.
+Peppa and George are wearing their swimming costumes.
+Mummy Pig is wearing her swimming costume 
+and Daddy Pig is wearing his swimming costume.
+Because it's so hot, you need sun cream.
+So oily and yucky.
+What a fuss about nothing.
+Yes, we all need sun cream today.
+Oh, come on, George. 
+Let's get some air into this paddling pool.
+Daddy Pig is pumping up the paddling pool.
+Easy as pie.
+Peppa holds the hose 
+and Mummy Pig turns on the water.
+Where's the water?
+Peppa and George love their paddling pool.
+Ice cream! Ice cream!
+Miss Rabbit, the ice cream lady.
+Ice cream!
+On very hot days, Miss Rabbit sells ice cream.
+Mummy, Daddy, can George and I have an ice cream, please?
+Oh well, I suppose it is an especially hot day.
+Hooray!
+Please can I have one as well?
+Everyone likes ice cream.
+Hello, Mummy Pig, Peppa and George.
+Hello, Miss Rabbit.
+What ice creams would you like?
+Can I have a coat, please, Miss Rabbit?
+Of course you may, Peppa.
+Thank you.
+The same for me and one for Daddy Pig, please.
+And what would young Mr George like?
+Dinosaur.
+A dinosaur? 
+Silly George. 
+He always says dinosaur for everything.
+Well, 
+it just so happens that I do have a dinosaur-shaped ice lolly.
+Dinosaur!
+George, you should eat your ice lolly before it melts.
+Dinosaur.
+George loves his dinosaur ice lolly so much, he doesn't want to eat it.
+Thank you, Miss Rabbit.
+Enjoy the weather.
+George, I really think you should eat your ice lolly before it melts and 
+falls on the ground.
+Oh dear. 
+George's dinosaur ice lolly has melted and fallen on the ground.
+Never mind, George. 
+You can share Daddy's ice cream. 
+I'm sure he won't mind.
+It is so warm. Daddy Pig has fallen asleep.
+Daddy Pig does look hot. 
+Let's take water on Daddy to cool him down.
+Good idea, Peppa. 
+What happened?
+You were all red and hot, Daddy Pig, 
+So I put water on you.
+Oh, I see. 
+Thank you, Peppa.
+Look, the puddles are back.
+Quick, George, let's get our boots.
+Peppa and George are wearing their boots.
+Peppa and George love the hot day, 
+but most of all they love jumping up and down in muddy puddles.

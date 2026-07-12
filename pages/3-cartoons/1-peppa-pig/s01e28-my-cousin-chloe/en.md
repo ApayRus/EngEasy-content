@@ -7,92 +7,113 @@ peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e28-my-cousin
 ---
 
 I'm Peppa Pig.
-This is my little brother George, 
-this is Mommy Pig, 
-and this is Daddy Pig.
-Peppa Pig: 
-My Cousin Chloé.
-Peppa and George are playing in the garden.
-Cousin Chloé is coming to visit today.
-Chloé is older than Peppa and George.
-She is a big girl.
-Chloé has arrived.
-Hello, Chloé.
-Hello, Peppa. Hello, George.
-Hello, Chloé.
-Peppa wants to show Chloé her games.
-Let's play a game, Chloé.
-What shall we play?
-Let's play my favorite game.
-It's called "Peppa says".
-How do you play that?
-I say "Peppa says hop", and everyone has to hop.
-If I just say "hop" and don't say "Peppa says", you mustn't hop.
-That sounds a bit like a game for little children.
-No, it's a very grown-up game.
-Let's play.
-Peppa says hop!
-Peppa, Chloé, and George are hopping.
-Peppa says clap your hands!
-Everyone claps their hands.
-Now, turn around!
-Chloé does not turn around.
-Aha! I didn't say "Peppa says".
-George turned around, so George is out.
-George is sad.
-Don't cry, George, you can watch us play.
-Now it's just you and me, Chloé.
-Peppa says touch your toes.
-Chloé touches her toes.
-Sit down.
-Chloé does not sit down.
-You're very good at this game, Chloé.
-Yes, it's a bit too easy for me.
-Let's play a different game.
-A game for big children.
-What game do big children play?
-We play a game called "Sly Fox".
-How do you play "Sly Fox"?
-One person is the Sly Fox.
-They stand at the end of the garden with their back turned.
-Everyone else has to sneak up on them.
-But when the Sly Fox turns around, you must freeze.
-If you move, you have to go back to the start.
-I want to be the Sly Fox.
-Chloé is the Sly Fox.
-Peppa and George are sneaking up on Chloé.
-Chloé turns around.
-Peppa and George freeze.
-Chloé turns her back again.
-Peppa and George run closer.
-Chloé turns around quickly.
-George moves.
-George, you moved! You have to go back to the start.
-George goes back to the fence.
-Now it's just Peppa.
-Peppa creeps very quietly.
-Chloé turns around.
-Peppa is perfectly still.
-Peppa is very close to Chloé.
-Chloé turns her back.
-Peppa tags Chloé.
-I won! I won!
-Well done, Peppa.
-You are very good at big girl games.
-Daddy Pig and Mummy Pig come out into the garden.
-Hello, children. Having fun?
-Yes, Daddy, we are playing big children games.
-Can we play too?
-Yes, you can. Daddy Pig can be the Sly Fox.
-Daddy Pig stands at the end of the garden.
-Everyone is sneaking up on Daddy Pig.
-Daddy Pig turns around.
-Everyone freezes.
-Daddy Pig turns his back.
-Everyone runs closer.
-Daddy Pig turns around.
-Look at Daddy Pig's big tummy.
-Daddy Pig laughs.
-Daddy Pig moved! Daddy Pig is out!
-Everyone loves playing games in the garden.
+This is my little brother George.
+This is Mummy Pig.
+And this is Daddy Pig.
 Peppa Pig.
+My Cousin Chloe!
+Peppa and George are playing in the garden.
+To me, George!
+You threw the ball too hard, George.
+The rules say I win.
+Now it's my turn.
+I win again!
+Peppa, George, 
+today your big cousin Chloe is coming to visit.
+Cousin Chloe!
+George, Chloe is a big girl like me, 
+so don't be sad 
+if she finds you too little to play with.
+Oh, I'm sure Chloe will play with both of you.
+Chloe's here!
+Auntie Pig has brought Chloe to spend the day at Peppa's house.
+Chloe is Peppa and George's cousin.
+Chloe is a bit older than Peppa and George.
+Hello, Chloe!
+Hello, Peppa! Hello, George!
+See you later.
+Do you want to play a game?
+Yes! Let's play catch!
+Peppa loves playing catch.
+Do you still play catch?
+That's a game for little children.
+Oh, 
+we only play catch because George likes it.
+Okay. Let's play it for George.
+Do you play it with the proper rules or the baby rules?
+Proper rules.
+I'll start.
+Peppa, you're it!
+Catch me if you can!
+Peppa is "it," 
+she has to chase Chloe and George.
+You can't catch me!
+George, I'm going to easily catch you.
+You're so little.
+That's not fair!
+You're helping George.
+That's because he's little.
+Do you want me to help you?
+No. I don't need help.
+I'm a big girl like you.
+Come on then, Peppa.
+Try and catch us!
+You can't catch us!
+You can't catch us!
+This is a silly game.
+Can we play something else?
+Okay.
+I know a really good game for big children.
+It's called Sly Fox.
+Sly Fox?
+I want to play Sly Fox!
+What is it?
+One person is the Sly Fox, 
+and the others creep up on them.
+Me, me! I want to be the Sly Fox!
+Peppa is the Sly Fox.
+While her back is turned, the others creep up on her.
+But if Peppa turns around and sees someone move, 
+they have to go back to the start.
+George, I saw you move.
+Back to the start!
+Got you!
+I win!
+You moved before I was ready.
+The rules say I can move whenever I like.
+Don't they, George?
+Now it's Chloe's turn to be the Sly Fox.
+Peppa and George must stay very still.
+Peppa, I saw you move.
+Back to the start!
+It's not fair!
+You looked for too long.
+The rules say I can look as long as I want.
+Back to the start!
+George is the winner!
+Can we play a different game?
+Yes, but only if it's a grown-up game.
+I know!
+Let's play my favorite game.
+It's very grown-up.
+George, do you know what Peppa's favorite game is?
+Peppa's favorite game is jumping up and down in muddy puddles.
+George, if you jump in puddles, you must wear your boots.
+I've brought some boots for you too, Chloe.
+I'm too grown-up to jump in muddy puddles.
+Oh, 
+so am I.
+George loves jumping in muddy puddles.
+Secretly, Peppa would love to jump in the puddles 
+but she wants to look grown-up.
+I hear there's some puddle jumping going on.
+Mummy Pig and Daddy Pig love jumping in muddy puddles.
+It does look fun.
+Yes, it does.
+Maybe there's a rule that says big girls can jump in muddy puddles.
+Yes, that's a good rule.
+Race you!
+Race you!
+Peppa and Chloe love jumping up and down in muddy puddles.
+Everyone loves jumping up and down in muddy puddles.
+Even grown-up girls.

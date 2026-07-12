@@ -1,8 +1,8 @@
 ---
 type: richVideo
-title: "The Tree House (s01e37)"
-mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e37-lunch.mp4"
-peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e37-lunch.json"
+title: 'The Tree House (s01e37)'
+mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e37-the-tree-house.mp4'
+peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e37-the-tree-house.json'
 ---
 
 Peppa and George are visiting Granny Pig and Grandpa Pig.

@@ -1,77 +1,84 @@
 ---
 type: richVideo
-title: Ballet Lesson (s01e31)
-description: Peppa goes to her first ballet lesson.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e31-ballet-lesson.mp4'
-peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e31-ballet-lesson.json'
+title: "Ballet Lesson (s01e31)"
+description: "Peppa goes to her first ballet lesson."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e31-ballet-lesson.mp4"
+peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e31-ballet-lesson.json"
 ---
 
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
+Peppa Pig.
 Ballet Lesson.
 Peppa is going to her very first ballet lesson.
-Mummy, what is ballet?
-It is a beautiful dance, Peppa.
-Can I do ballet, Mummy?
-Yes, you can.
-Madame Gazelle is the ballet teacher.
-Hello, everyone.
-Hello, Madame Gazelle.
-Today we have a new pupil, Peppa Pig.
-Hello, Peppa.
-Hello, everyone.
-First, we must put on our ballet shoes.
-Peppa puts on her pink ballet shoes.
-Now, we stand in a line.
-We are going to learn the first position.
-Madame Gazelle shows the children how to stand.
-Heels together, toes out.
-Peppa tries to do the first position.
-Like this, Madame Gazelle?
-Very good, Peppa.
-Now, we are going to do a plié.
-Bend your knees, then straighten them.
-Plié.
-The children do a plié.
-Now, we are going to do a demi-plié.
-That means a little bend.
-Demi-plié.
-Next, we are going to leap like a deer.
-Madame Gazelle leaps gracefully through the air.
-The children try to leap.
-Look at me, I'm a deer.
-George and Daddy Pig come to pick up Peppa.
-Is the lesson finished?
-Yes, Daddy.
-Look what I can do.
-Peppa shows Daddy Pig a ballet leap.
-Very nice, Peppa.
-Ballet is very difficult, Daddy.
-You have to be very graceful.
-I can be graceful.
-Daddy Pig tries to do a ballet leap.
-The whole room shakes.
-Oh dear, Daddy Pig.
-Daddy Pig is not very graceful.
-I used to do a bit of ballet myself when I was a young pig.
-Did you, Daddy?
-Yes, I was very good at the big leaps.
-Can we go home now, please?
-Yes, let's go home.
-In the garden, Peppa is practicing her ballet.
-Look at me, Mummy, I'm a beautiful ballerina.
-You look very pretty, Peppa.
-George wants to do ballet too.
-No, George, ballet is for big girls.
-You can't do ballet.
-Daddy Pig comes out into the garden.
-Anyone can do ballet, Peppa.
-Even George.
-Daddy Pig shows George how to bend his knees.
-Plié.
-George does a plié.
-Well done, George.
-Now, let's all do a big leap.
-Peppa, George, Mummy Pig, and Daddy Pig all leap in the air.
-Everyone loves doing ballet.
+This is Madame Gazelle, the ballet teacher.
+You must be young Peppa.
+I am Madame Gazelle.
+Hello, Madame.
+Oh, so sweet.
+Welcome to your first lesson of the ballet. 
+I'll pick you up later.
+Bye-bye.
+Enjoy yourself.
+Here are Peppa's friends.
+Candy Cat.
+Suzy Sheep.
+Danny Dog.
+Rebecca Rabbit.
+And Pedro Pony.
+Children, 
+today we have a new pupil.
 Peppa Pig.
+Now, Peppa, run and join your friends.
+Hello, everyone.
+Hello, Peppa.
+Children,
+We begin with demi-plié.
+Demi-plié.
+Now a little jump.
+With grace and beauty.
+Grace and beauty.
+Grace and beauty.
+The ballet lesson is a lot of fun.
+Raise your arms.
+Imagine that you are beautiful swans.
+And what noise do you think a swan might make?
+Grace and beauty.
+Peppa loves dancing.
+Everyone loves dancing.
+Mummy! Mummy!
+We all danced as swans.
+Peppa did very well.
+I had to dance beautifully and gracefully.
+That's lovely.
+Can I show you how I did it?
+Let's get home first.
+Then you can show Daddy Pig and George and me.
+Bye-bye.
+Peppa and Mummy Pig are home.
+Daddy! George!
+I'm going to show you how to do ballet.
+Is it difficult?
+It was easy for me.
+But you, George, and Mummy will find it very hard.
+First we need music.
+Good.
+Now, George, Daddy and Mummy, 
+you must copy what I do.
+Madame Gazelle used funny words, 
+but really it's just bending your knees and jumping.
+Ah, the petit jeté.
+Daddy, 
+you know the funny words.
+Mummy Pig and I used to be quite good at ballet.
+Do be careful, Daddy Pig.
+Our favourite was the pas de deux.
+Hoopla!
+That wasn't quite how I remembered it.
+Silly Daddy Pig.
+Maybe we should leave the ballet to Peppa.
+Yes.
+I am the best at it.
+I am a beautifull swan.
