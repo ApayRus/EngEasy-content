@@ -1,0 +1,99 @@
+---
+type: richAudio
+title: "red herring"
+mediaLink: "https://archive.org/download/hobbit_130/8-10.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/8-10.json"
+---
+some dropped to the ground,
+others raced along the branches,
+swung from tree to tree,
+or cast new ropes across the dark spaces.
+They made for his noise far quicker than he had expected.
+They were frightfully angry.
+Quite apart from the stones
+no spider has ever liked being called Attercop,
+and Tomnoddy of course is insulting to anybody.
+Off Bilbo scuttled to a fresh place,
+but several of the spiders had run now to different points in the glade where they lived,
+and were busy spinning webs across all the spaces between the tree-stems.
+Very soon the hobbit would be caught in a thick fence of them all round him —
+that at least was the spiders’ idea.
+Standing now in the middle of the hunting and spinning insects
+Bilbo plucked up his courage
+and began a new song:
+Lazy Lob and crazy Cob are weaving webs to wind me.
+I am far more sweet than other meat,
+but still they cannot find me!
+Here am I, naughty little fly;
+you are fat and lazy.
+You cannot trap me, though you try,
+in your cobwebs crazy.
+With that he turned and found that the last space between two tall trees had been closed with a web —
+but luckily not a proper web,
+only great strands of double-thick spider-rope run hastily backwards and forwards from trunk to trunk.
+Out came his little’ sword.
+He slashed the threads to pieces and went off singing.
+The spiders saw the sword,
+though I don’t suppose they knew what it was,
+and at once the whole lot of them came hurrying after the hobbit along the ground and the branches,
+hairy legs waving,
+nippers and spinners snapping,
+eyes popping,
+full of froth and rage.
+They followed him into the forest until Bilbo had gone as far as he dared.
+Then quieter than a mouse he stole back.
+He had precious little time, he knew,
+before the spiders were disgusted and came back to their trees where the dwarves were hung.
+In the meanwhile he had to rescue them.
+The worst part of the job was getting up on to the long branch where the bundles were dangling.
+I don’t suppose he would have managed it,
+if a spider had not luckily left a rope hanging down;
+with its help,
+though it stuck to his hand and hurt him,
+he scrambled up —
+only to meet an old slow wicked fat-bodied spider
+who had remained behind to guard the prisoners,
+and had been busy pinching them to see which was the juiciest to eat.
+It had thought of starting the feast while the others were away,
+but Mr. Baggins was in a hurry,
+and before the spider knew what was happening
+it felt his Sting and rolled off the branch dead.
+Bilbo’s next job was to loose a dwarf.
+What was he to do?
+If he cut the string which hung him up,
+the wretched dwarf would tumble thump to the ground a good way below.
+Wriggling along the branch
+which made all the poor dwarves dance and dangle like ripe fruit
+he reached the first bundle.
+“Fili or Kili,”
+he thought by the tip of a blue hood
+sticking out at the top.
+“Most likely Fili,”
+he thought by the tip of a long nose poking out of the winding threads.
+He managed by leaning over to cut most of the strong sticky threads that bound him round,
+and then,
+sure enough,
+with a kick and a struggle most of Fili emerged.
+I am afraid Bilbo actually laughed at the sight of him
+jerking his stiff arms and legs
+as he danced on the spider-string under his armpits,
+just like one of those funny toys bobbing on a wire.
+Somehow or other Fili was got on to the branch,
+and then he did his best to help the hobbit,
+although he was feeling very sick and ill from spider-poison,
+and from hanging most of the night and the next day
+wound round and round with only his nose to breathe through.
+It took him ages to get the beastly stuff out of his eyes and eyebrows,
+and as for his beard,
+he had to cut most of it off.
+Well,
+between them they started to haul up first one dwarf and then another and slash them free.
+None of them were better off than Fili,
+and some of them were worse.
+Some had hardly been able to breathe at all
+long noses are sometimes useful you see,
+and some had been more poisoned.
+In this way they rescued Kili,
+Bifur,
+Bofur,
+Dori and Nori.

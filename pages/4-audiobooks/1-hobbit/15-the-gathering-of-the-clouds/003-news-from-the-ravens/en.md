@@ -1,0 +1,115 @@
+---
+type: richAudio
+title: "News from the Ravens"
+mediaLink: "https://archive.org/download/hobbit_130/15-3.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/15-3.json"
+---
+As they worked
+the ravens brought them constant tidings.
+In this way
+they learned that the Elvenking had
+turned aside to the Lake,
+and they still had a breathing space.
+Better still,
+they heard that three of their ponies had escaped
+and were wandering wild
+far down the banks of the Running River,
+not far from where the rest of their stores had been left.
+So while the others went on with their work,
+Fili and Kili were sent,
+guided by a raven,
+to find the ponies
+and bring back all they could.
+They were four days gone,
+and by that time
+they knew that the joined armies of the Lake-men and the Elves
+were hurrying towards the Mountain.
+But now their hopes were higher;
+for they had food
+for some weeks
+with care —
+chiefly cram,
+of course,
+and they were very tired of it;
+but cram is much better than nothing —
+and already the gate was blocked with a wall of squared stones laid dry,
+but very thick
+and high across the opening.
+There were holes in the wall
+through which they could see
+or shoot
+but no entrance.
+They climbed in or out with ladders,
+and hauled stuff up with ropes.
+For the issuing of the stream
+they had contrived a small low arch
+under the new wall;
+but near the entrance
+they had so altered the narrow bed
+that a wide pool stretched from the mountain-wall to the head of the fall
+over which the stream went towards Dale.
+Approach to the Gate was now only possible,
+without swimming,
+along a narrow ledge of the cliff,
+to the right as one looked outwards from the wall.
+The ponies they had brought only to the head of the steps above the old bridge,
+and unloading them there
+had bidden them return to their masters
+and sent them back riderless to the South.
+There came a night when suddenly there were many lights
+as of fires and torches
+away south in Dale before them.
+“They have come!”
+called Balin.
+“And their camp is very great.
+They must have come into the valley
+under the cover of dusk along both banks of the river.”
+That night the dwarves slept little.
+The morning was still pale
+when they saw a company approaching.
+From behind their wall
+they watched them come up to the valley’s head
+and climb slowly up.
+Before long they could see that both men of the lake
+armed as if for war
+and elvish bowmen
+were among them.
+At length the foremost of these
+climbed the tumbled rocks
+and appeared at the top of the falls;
+and very great was their surprise
+to see the pool before them
+and the Gate blocked with a wall of new-hewn stone.
+As they stood pointing and speaking to one another
+Thorin hailed them:
+“Who are you,”
+he called in a very loud voice,
+“that come as if in war to the gates of Thorin son of Thrain,
+King under the Mountain,
+and what do you desire?”
+But they answered nothing.
+Some turned swiftly back,
+and the others after gazing for a while at the Gate and its defences
+soon followed them.
+That day the camp was moved
+and was brought right between the arms of the Mountain.
+The rocks echoed then with voices and with song,
+as they had not done for many a day.
+There was the sound, too,
+of elven-harps and of sweet music;
+and as it echoed up towards them
+it seemed that the chill of the air was warmed,
+and they caught faintly
+the fragrance of woodland flowers blossoming in spring.
+Then Bilbo longed to escape from the dark fortress
+and to go down and join in the mirth and feasting by the fires.
+Some of the younger dwarves were moved in their hearts, too,
+and they muttered that they wished things had fallen out otherwise
+and that they might welcome such folk as friends;
+but Thorin scowled.
+Then the dwarves themselves
+brought forth harps and instruments regained from the hoard,
+and made music to soften his mood;
+but their song was not as elvish song,
+and was much like the song they had sung long before
+in Bilbo’s little hobbit-hole.

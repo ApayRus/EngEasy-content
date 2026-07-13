@@ -1,0 +1,112 @@
+---
+type: richAudio
+title: "And here is the attacker, the devil's sake"
+mediaLink: "https://archive.org/download/hobbit_130/6-2.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/6-2.json"
+---
+All of a sudden you gave one of your blinding flashes,
+and we saw the goblins running back yelping.
+You shouted ‘follow me everybody!’
+and everybody ought to have followed.
+We thought everybody had.
+There was no time to count,
+as you know quite well,
+till we had dashed through the gate-guards,
+out of the lower door,
+and helter-skelter down here.
+And here we are —
+without the burglar,
+confusticate him!”
+“And here’s the burglar!”
+said Bilbo stepping down into the middle of them,
+and slipping off the ring.
+Bless me,
+how they jumped!
+Then they shouted with surprise and delight.
+Gandalf was as astonished as any of them,
+but probably more pleased than all the others.
+He called to Balin
+and told him what he thought of a look— out man who let people walk right into them like that without warning.
+It is a fact that Bilbo’s reputation went up a very great deal with the dwarves after this.
+If they had still doubted that he was really a first-class burglar,
+in spite of Gandalf’s words,
+they doubted no longer.
+Balin was the most puzzled of all;
+but everyone said it was a very clever bit of work.
+Indeed Bilbo was so pleased with their praise
+that he just chuckled inside and said nothing whatever about the ring;
+and when they asked him how he did it, he said:
+“O, just crept along, you know —
+very carefully and quietly.”
+“Well,
+it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,”
+said Balin,
+“and I take off my hood to you.”
+Which he did.
+“Balin at your service,”
+said he.
+“Your servant, Mr. Baggins,”
+said Bilbo.
+Then they wanted to know all about his adventures after they had lost him,
+and he sat down and told them everything
+— except about the finding of the ring
+“not just now ”
+he thought.
+They were particularly interested in the riddle-competition,
+and shuddered most appreciatively at his description of Gollum.
+“And then I couldn’t think of any other question with him sitting beside me,”
+ended Bilbo;
+“so I said
+‘what’s in my pocket?’
+And he couldn’t guess in three goes. So I said:
+‘what about your promise?
+Show me the way out!’
+But he came at me to kill me, and I ran, and fell over,
+and he missed me in the dark.
+Then I followed him,
+because I heard him talking to himself.
+He thought I really knew the way out,
+and so he was making for it.
+And then he sat down in the entrance,
+and I could not get by.
+So I jumped over him and escaped,
+and ran down to the gate.”
+“What about guards?”
+they asked.
+“Weren’t there any?”
+“O yes! lots of them;
+but I dodged ‘em.
+I got stuck in the door,
+which was only open a crack,
+and I lost lots of buttons,” he said sadly looking at his torn clothes.
+“But I squeezed through all right — and here I am.”
+The dwarves looked at him with quite a new respect,
+when he talked about dodging guards,
+jumping over Gollum,
+and squeezing through,
+as if it was not very difficult or very alarming.
+“What did I tell you?”
+said Gandalf laughing.
+“Mr. Baggins has more about him than you guess.”
+He gave Bilbo a queer look from under his bushy eyebrows,
+as he said this,
+and the hobbit wondered if he guessed at the part of his tale that he had left out.
+Then he had questions of his own to ask,
+for if Gandalf had explained it all by now to the dwarves,
+Bilbo had not heard it.
+He wanted to know how the wizard had turned up again,
+and where they had all got to now.
+The wizard, to tell the truth,
+never minded explaining his cleverness more than once,
+so now he had told Bilbo that both he and Elrond had been well aware of the presence of evil goblins in that part of the mountains.
+But their main gate used to come out on a different pass,
+one more easy to travel by,
+so that they often caught people benighted near their gates.
+Evidently people had given up going that way,
+and the goblins must have opened their new entrance at the top of the pass the dwarves had taken,
+quite recently,
+because it had been found quite safe up to now.
+“I must see if I can’t find a more or less decent giant to block it up again,”
+said Gandalf,
+“or soon there will be no getting over the mountains at all.”
+As soon as Gandalf had heard Bilbo’s yell he realized what had happened.

@@ -1,0 +1,109 @@
+---
+type: richAudio
+title: "The force of death from hunger and thirst"
+mediaLink: "https://archive.org/download/hobbit_130/9-1.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/9-1.json"
+---
+Chapter 9.
+Barrels Out of Bonds
+The day after the battle with the spiders
+Bilbo and the dwarves made one last despairing effort to find a way out before they died of hunger and thirst.
+They got up and staggered on in the direction which eight out of the thirteen of them
+guessed to be the one in which the path lay;
+but they never found out if they were right.
+Such day as there ever was in the forest
+was fading once more into the blackness of night,
+when suddenly out sprang the light of many torches all round them,
+like hundreds of red stars.
+Out leaped Wood-elves with their bows and spears
+and called the dwarves to halt.
+There was no thought of a fight.
+Even if the dwarves had not been in such a state
+that they were actually glad to be captured,
+their small knives,
+the only weapons they had,
+would have been of no use against the arrows of the elves
+that could hit a bird’s eye in the dark.
+So they simply stopped dead and sat down and waited —
+all except Bilbo,
+who popped on his ring and slipped quickly to one side.
+That is why,
+when the elves bound the dwarves in a long line, one behind the other,
+and counted them,
+they never found or counted the hobbit.
+Nor did they hear or feel him trotting along well behind their torch-light
+as they led off their prisoners into the forest.
+Each dwarf was blindfold,
+but that did not make much difference,
+for even Bilbo
+with the use of his eyes
+could not see where they were going,
+and neither he nor the others
+knew where they had started from anyway.
+Bilbo had all he could do to keep up with the torches,
+for the elves were making the dwarves go as fast as ever they could,
+sick and weary as they were.
+The king had ordered them to make haste.
+Suddenly the torches stopped,
+and the hobbit had just time to catch them up
+before they began to cross the bridge.
+This was the bridge that led across the river to the king’s doors.
+The water flowed dark and swift and strong beneath;
+and at the far end were gates before the mouth of a huge cave
+that ran into the side of a steep slope
+covered with trees.
+There the great beeches came right down to the bank,
+till their feet were in the stream.
+Across this bridge the elves thrust their prisoners,
+but Bilbo hesitated in the rear.
+He did not at all like the look of the cavern-mouth
+and he only made up his mind not to desert his friends
+just in time to scuttle over at the heels of the fast elves,
+before the great gates of the king closed behind them with a clang.
+Inside the passages were lit with red torch-light,
+and the elf-guards sang as they marched along the twisting,
+crossing, and echoing paths.
+These were not like those of the goblin-cities:
+they were smaller,
+less deep underground,
+and filled with a cleaner air.
+In a great hall with pillars hewn out of the living stone
+sat the Elvenking on a chair of carven wood.
+On his head was a crown of berries and red leaves,
+for the autumn was come again.
+In the spring he wore a crown of woodland flowers.
+In his hand he held a carven staff of oak.
+The prisoners were brought before him;
+and though he looked grimly at them,
+he told his men to unbind them,
+for they were ragged and weary.
+“Besides they need no ropes in here,”
+said he.
+“There is no escape from my magic doors
+for those who are once brought inside.”
+Long and searchingly he questioned the dwarves about their doings,
+and where they were going to,
+and where they were coming from;
+but he got little more news out of them
+than out of Thorin.
+They were surly and angry
+and did not even pretend to be polite.
+“What have we done, O king?”
+said Balin,
+who was the eldest left.
+“Is it a crime to be lost in the forest,
+to be hungry and thirsty,
+to be trapped by spiders?
+Are the spiders your tame beasts or your pets,
+if killing them makes you angry?”
+Such a question of course made the king angrier than ever,
+and he answered:
+“It is a crime to wander in my realm without leave.
+Do you forget that you were in my kingdom,
+using the road that my people made?
+Did you not three times pursue and trouble my people in the forest
+and rouse the spiders with your riot and clamour?
+After all the disturbance you have made
+I have a right to know what brings you here,
+and if you will not tell me now,
+I will keep you all in prison until you have learned sense and manners!”

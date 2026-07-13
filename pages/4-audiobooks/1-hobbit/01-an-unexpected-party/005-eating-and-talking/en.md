@@ -1,0 +1,118 @@
+---
+type: richAudio
+title: "Eating and talking"
+mediaLink: "https://archive.org/download/hobbit_130/1-5.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/1-5.json"
+---
+Already it had almost become a throng.
+Some called for ale,
+and some for porter,
+and one for coffee,
+and all of them for cakes;
+so the hobbit was kept very busy for a while.
+A big jug of coffee had just been set in the hearth,
+the seed-cakes were gone,
+and the dwarves were starting on a round of buttered scones,
+when there came
+a loud knock.
+Not a ring,
+but a hard rat-tat on the hobbit’s beautiful green door.
+Somebody was banging with a stick!
+Bilbo rushed along the passage,
+very angry,
+and altogether bewildered and bewuthered —
+this was the most awkward Wednesday he ever remembered.
+He pulled open the door with a jerk,
+and they all fell in,
+one on top of the other.
+More dwarves, four more!
+And there was Gandalf behind,
+leaning on his staff and laughing.
+He had made quite a dent on the beautiful door;
+he had also, by the way,
+knocked out the secret mark that he had put there the morning before.
+“Carefully!
+Careflly!” he said.
+“It is not like you, Bilbo, to keep friends waiting on the mat,
+and then open the door like a pop-gun!
+Let me introduce Bifur,
+Bofur,
+Bombur,
+and especially Thorin!”
+“At your service!”
+said Bifur,
+Bofur, and Bombur standing in a row.
+Then they hung up two yellow hoods and a pale green one;
+and also a sky-blue one with a long silver tassel.
+This last belonged to Thorin,
+an enormously important dwarf,
+in fact no other than the great Thorin Oakenshield himself,
+who was not at all pleased at falling flat on Bilbo’s mat with Bifur,
+Bofur,
+and Bombur on top of him.
+For one thing Bombur was immensely fat and heavy.
+Thorin indeed was very haughty,
+and said nothing about service;
+but poor Mr. Baggins said he was sorry so many times,
+that at last he grunted
+“pray don’t mention it,”
+and stopped frowning.
+“Now we are all here!”
+said Gandalf,
+looking at the row of thirteen hoods —
+the best detachable party hoods
+and his own hat hanging on the pegs.
+“Quite a merry gathering!
+I hope there is something left for the late-comers to eat and drink!
+What’s that?
+Tea!
+No thank you!
+A little red wine, I think, for me.”
+“And for me,”
+said Thorin.
+“And raspberry jam and apple-tart,”
+said Bifur.
+“And mince-pies and cheese,”
+said Bofur.
+“And pork-pie and salad,”
+said Bombur.
+“And more cakes and ale and coffee, if you don’t mind,”
+called the other dwarves through the door.
+“Put on a few eggs, there’s a good fellow!”
+Gandalf called after him,
+as the hobbit stumped off to the pantries.
+“And just bring out the cold chicken and pickles!”
+“Seems to know as much about the inside of my larders as I do myself!”
+thought Mr. Baggins,
+who was feeling positively flummoxed,
+and was beginning to wonder whether a most wretched adventure had not come right into his house.
+By the time he had got all the bottles and dishes and knives and forks and glasses and plates and spoons and things piled up on big trays,
+he was getting very hot,
+and red in the face,
+and annoyed.
+“Confusticate and bebother these dwarves!” he said aloud.
+“Why don’t they come and lend a hand?”
+Lo and behold!
+there stood Balin and Dwalin at the door of the kitchen,
+and Fili and Kili behind them,
+and before he could say knife
+they had whisked the trays and a couple of small tables into the parlour
+and set out everything afresh.
+Gandalf sat at the head of the party
+with the thirteen dwarves all round:
+and Bilbo sat on a stool at the fireside,
+nibbling at a biscuit
+(his appetite was quite taken away),
+and trying to look as if this was all perfectly ordinary
+and not in the least an adventure.
+The dwarves ate and ate, and talked and talked,
+and time got on.
+At last they pushed their chairs back,
+and Bilbo made a move to collect the plates and glasses.
+“I suppose you will all stay to supper?”
+he said in his politest unpressing tones.
+“Of course!”
+said Thorin.
+“And after. We shan’t get through the business till late,
+and we must have some music first.
+Now to clear up!”

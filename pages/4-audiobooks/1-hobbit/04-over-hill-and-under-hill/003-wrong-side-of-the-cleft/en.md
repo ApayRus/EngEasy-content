@@ -1,0 +1,122 @@
+---
+type: richAudio
+title: "Wrong side of the cleft"
+mediaLink: "https://archive.org/download/hobbit_130/4-3.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/4-3.json"
+---
+Of course he gave a very loud yell,
+as loud a yell as a hobbit can give,
+which is surprising for their size.
+Out jumped the goblins,
+big goblins,
+great ugly-looking goblins,
+lots of goblins,
+before you could say rocks and blocks.
+There were six to each dwarf, at least,
+and two even for Bilbo;
+and they were all grabbed and carried through the crack,
+before you could say tinder and flint.
+But not Gandalf.
+Bilbo’s yell had done that much good.
+It had wakened him up wide in a splintered second,
+and when goblins came to grab him,
+there was a terrible flash like lightning in the cave,
+a smell like gunpowder,
+and several of them fell dead.
+The crack closed with a snap,
+and Bilbo and the dwarves were on the wrong side of it!
+Where was Gandalf?
+Of that neither they nor the goblins had any idea,
+and the goblins did not wait to find out.
+It was deep,
+deep,
+dark,
+such as only goblins that have taken to living in the heart of the mountains can see through.
+The passages there were crossed and tangled in all directions,
+but the goblins knew their way,
+as well as you do to the nearest post— office
+and the way went down and down,
+and it was most horribly stuffy.
+The goblins were very rough,
+and pinched unmercifully,
+and chuckled and laughed in their horrible stony voices;
+and Bilbo was more unhappy even than when the troll had picked him up by his toes.
+He wished again and again for his nice bright hobbit-hole.
+Not for the last time.
+Now there came a glimmer of a red light before them.
+The goblins began to sing,
+or croak,
+keeping time with the flap of their flat feet on the stone,
+and shaking their prisoners as well.
+Clap!
+Snap!
+the black crack!
+Grip,
+grab!
+Pinch,
+nab!
+And down,
+down to Goblin-town
+You go, my lad!
+Clash,
+crash!
+Crush,
+smash!
+Hammer and tongs!
+Knocker and gongs!
+Pound, pound,
+far underground! Ho, ho! my lad!
+Swish,
+smack!
+Whip
+crack!
+Batter and beat!
+Yammer and bleat!
+Work, work! Nor dare to shirk,
+While Goblins quaff,
+and Goblins laugh,
+Round and round far underground Below, my lad!”
+It sounded truly terrifying.
+The walls echoed to the clap, stap
+and the crush, smash!
+and to the ugly laughter of their
+ho, ho! my lad!
+The general meaning of the song was only too plain;
+for now the goblins took out whips and whipped them with a swish, smack!,
+and set them running as fast as they could in front of them;
+and more than one of the dwarves were already yammering and bleating like anything,
+when they stumbled into a big cavern.
+It was lit by a great red fire in the middle,
+and by torches along the walls,
+and it was full of goblins.
+They all laughed and stamped and clapped their hands,
+when the dwarves
+(with poor little Bilbo at the back and nearest to the whips
+came running in,
+while the goblin-drivers whooped and cracked their whips behind.
+The ponies were already there huddled in a corner;
+and there were all the baggages and packages lying broken open,
+and being rummaged by goblins,
+and smelt by goblins,
+and fingered by goblins,
+and quarreled over by goblins.
+I am afraid that was the last they ever saw of those excellent little ponies,
+including a jolly sturdy little white fellow that Elrond had lent to Gandalf — давать взаймы, на время ),
+since his horse was not suitable for the mountain-paths.
+For goblins eat horses and ponies and donkeys
+(and other much more dreadful things ),
+and they are always hungry.
+Just now however the prisoners were thinking only of themselves.
+The goblins chained their hands behind their backs
+and linked them all together in a line
+and dragged them to the far end of the cavern with little Bilbo tugging at the end of the row.
+There in the shadows on a large flat stone sat a tremendous goblin with a huge head,
+and armed goblins were standing round him carrying the axes and the bent swords that they use.
+Now goblins are cruel,
+wicked,
+and bad-hearted.
+They make no beautiful things,
+but they make many clever ones.
+They can tunnel and mine as well as any but the most skilled dwarves,
+when they take the trouble,
+though they are usually untidy and dirty.

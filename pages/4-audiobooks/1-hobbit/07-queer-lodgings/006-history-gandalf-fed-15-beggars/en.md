@@ -1,0 +1,106 @@
+---
+type: richAudio
+title: "History Gandalf fed 15 beggars"
+mediaLink: "https://archive.org/download/hobbit_130/7-6.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/7-6.json"
+---
+“And me!”
+gasped Bombur
+pulling up behind.
+He was fat,
+and also angry at being left till last.
+He refused to wait five minutes,
+and followed immediately after the other two.
+“Well,
+now there are fifteen of you;
+and since goblins can count,
+I suppose that is all that there were up the trees.
+Now perhaps we can finish this story without any more interruptions.”
+Mr. Baggins saw then how clever Gandalf had been.
+The interruptions had really made Beorn more interested in the story,
+and the story had kept him from sending the dwarves off at once like suspicious beggars.
+He never invited people into his house,
+if he could help it.
+He had very few friends
+and they lived a good way away;
+and he never invited more than a couple of these to his house at a time.
+Now he had got fifteen strangers sitting in his porch!
+By the time the wizard had finished his tale
+and had told of the eagles’ rescue
+and of how they had all been brought to the Carrock,
+the sun had fallen behind the peaks of the Misty Mountains
+and the shadows were long in Beorn’s garden.
+“A very good tale!”
+said he.
+“The best I have heard for a long while.
+If all beggars could tell such a good one,
+they might find me kinder.
+You may be making it all up, of course,
+but you deserve a supper for the story all the same.
+Let’s have something to eat!”
+“Yes, please!”
+they all said together.
+“Thank you very much!”
+Inside the hall it was now quite dark.
+Beorn clapped his hands,
+and in trotted four beautiful white ponies and several large long-bodied grey dogs.
+Beorn said something to them in a queer language like animal noises turned into talk.
+They went out again and soon came back carrying torches in their mouths,
+which they lit at the fire
+and stuck in low brackets on the pillars of the hall about the central hearth.
+The dogs could stand on their hind-legs when they wished,
+and carry things with their fore-feet.
+Quickly they got out boards and trestles from the side walls
+and set them up near the fire.
+Then
+baa-baa-baa!
+was heard,
+and in came some snow-white sheep
+led by a large coal— black ram.
+One bore a white cloth embroidered at the edges with figures of animals;
+others bore on their broad backs trays with bowls and platters and knives and wooden spoons,
+which the dogs took and quickly laid on the trestle tables.
+These were very low,
+low enough even for Bilbo to sit at comfortably.
+Beside them a pony pushed two low-seated benches with wide rush-bottoms
+and little short thick legs
+for Gandalf and Thorin,
+while at the far end
+he put Beorn’s big black chair of the same sort
+in which he sat with his great legs stuck far out under the table.
+These were all the chairs he had in his hall,
+and he probably had them low like the tables
+for the convenience of the wonderful animals that waited on him.
+What did the rest sit on?
+They were not forgotten.
+The other ponies came in rolling round drum— shaped sections of logs,
+smoothed and polished,
+and low enough even for Bilbo;
+so soon they were all seated at Beorn’s table,
+and the hall had not seen such a gathering for many a year.
+There they had a supper,
+or a dinner,
+such as they had not had since they left the Last Homely House in the West
+and said good-bye to Elrond.
+The light of the torches and the fire flickered about them,
+and on the table were two tall red beeswax candles.
+All the time they ate,
+Beorn in his deep rolling voice told tales of the wild lands on this side of the mountains,
+and especially of the dark and dangerous wood,
+that lay outstretched far to North and South a day’s ride before them,
+barring their way to the East,
+the terrible forest of Mirkwood.
+The dwarves listened and shook their beards,
+for they knew that they must soon venture into that forest
+and that after the mountains
+it was the worst of the perils they had to pass
+before they came to the dragon’s stronghold.
+When dinner was over
+they began to tell tales of their own,
+but Beorn seemed to be growing drowsy
+and paid little heed to them.
+They spoke most of gold and silver and jewels
+and the making of things by smith-craft,
+and Beorn did not appear to care for such things:
+there were no things of gold or silver in his hall,
+and few save the knives were made of metal at all.

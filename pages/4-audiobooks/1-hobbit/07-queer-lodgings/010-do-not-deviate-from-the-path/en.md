@@ -1,0 +1,104 @@
+---
+type: richAudio
+title: "Do not deviate from the path"
+mediaLink: "https://archive.org/download/hobbit_130/7-10.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/7-10.json"
+---
+The time is not yet come for nuts
+though it may be past and gone indeed before you get to the other side,
+and nuts are about all that grows there fit for food;
+in there the wild things are dark,
+queer, and savage.
+I will provide you with skins for carrying water,
+and I will give you some bows and arrows.
+But I doubt very much whether anything you find in Mirkwood will be wholesome to eat or to drink.
+There is one stream there, I know,
+black and strong which crosses the path.
+That you should neither drink of,
+nor bathe in;
+for I have heard that it carries enchantment
+and a great drowsiness and forgetfulness.
+And in the dim shadows of that place
+I don’t think you will shoot anything,
+wholesome or unwholesome,
+without straying from the path.
+That you MUST NOT do, for any reason.
+“That is all the advice I can give you.
+Beyond the edge of the forest I cannot help you much;
+you must depend on your luck and your courage and the food I send with you.
+At the gate of the forest I must ask you to send back my horse and my ponies.
+But I wish you all speed,
+and my house is open to you,
+if ever you come back this way again.”
+They thanked him, of course,
+with many bows and sweepings of their hoods
+and with many an
+“at your service,
+O master of the wide wooden halls!”
+But their spirits sank at his grave words,
+and they all felt that the adventure was far more dangerous than they had thought,
+while all the time,
+even if they passed all the perils of the road,
+the dragon was waiting at the end.
+All that morning they were busy with preparations.
+Soon after midday they ate with Beorn for the last time,
+and after the meal they mounted the steeds he was lending them,
+and bidding him many farewells
+they rode off through his gate at a good pace.
+As soon as they left his high hedges at the east of his fenced lands
+they turned north and then bore to the north-west.
+By his advice they were no longer making for the main forest-road to the south of his land.
+Had they followed the pass,
+their path would have led them down the stream from the mountains
+that joined the great river miles south of the Carrock.
+At that point there was a deep ford which they might have passed,
+if they had still had their ponies,
+and beyond that a track led to the skirts of the wood
+and to the entrance of the old forest road.
+But Beorn had warned them
+that that way was now often used by the goblins,
+while the forest-road itself,
+he had heard,
+was overgrown and disused at the eastern end
+and led to impassable marshes
+where the paths had long been lost.
+Its eastern opening had also always been far to the south of the Lonely Mountain,
+and would have left them still with a long and difficult northward march
+when they got to the other side.
+North of the Carrock
+the edge of Mirkwood drew closer to the borders of the Great River,
+and though here the Mountains too drew down nearer,
+Beorn advised them to take this way;
+for at a place a few days’ ride due north of the Carrock
+was the gate of a little-known pathway through Mirkwood
+that led almost straight towards the Lonely Mountain.
+“The goblins,”
+Beorn had said,
+“will not dare to cross the Great River for a hundred miles north of the Carrock
+nor to come near my house —
+it is well protected at night! —
+but I should ride fast;
+for if they make their raid soon
+they will cross the river to the south
+and scour all the edge of the forest so as to cut you off,
+and Wargs run swifter than ponies.
+Still you are safer going north,
+even though you seem to be going back nearer to their strongholds;
+for that is what they will least expect,
+and they will have the longer ride to catch you.
+Be off now as quick as you may!”
+That is why they were now riding in silence,
+galloping wherever the ground was grassy and smooth,
+with the mountains dark on their left,
+and in the distance the line of the river with its trees drawing ever closer.
+The sun had only just turned west when they started,
+and till evening it lay golden on the land about them.
+It was difficult to think of pursuing goblins behind,
+and when they had put many miles between them and Beorn’s house
+they began to talk and to sing again
+and to forget the dark forest-path that lay in front.
+But in the evening when the dusk came on
+and the peaks of the mountains glowered against the sunset
+they made a camp and set a guard,
+and most of them slept uneasily with dreams in which there came the howl of hunting wolves
+and the cries of goblins.

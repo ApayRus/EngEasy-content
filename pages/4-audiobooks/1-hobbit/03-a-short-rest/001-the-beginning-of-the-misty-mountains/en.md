@@ -1,0 +1,95 @@
+---
+type: richAudio
+title: "The beginning of the Misty Mountains"
+mediaLink: "https://archive.org/download/hobbit_130/3-1.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/3-1.json"
+---
+Chapter 3.
+A Short Rest
+They did not sing or tell stories that day,
+even though the weather improved;
+nor the next day,
+nor the day after.
+They had begun to feel that danger was not far away on either side.
+They camped under the stars,
+and their horses had more to eat than they had;
+for there was plenty of grass,
+but there was not much in their bags,
+even with what they had got from the trolls.
+One morning they forded a river at a wide shallow place full of the noise of stones and foam.
+The far bank was steep and slippery.
+When they got to the top of it,
+leading their ponies,
+they saw that the great mountains had marched down very near to them.
+Already they seemed only a day’s easy journey from the feet of the nearest.
+Dark and drear it looked,
+though there were patches of sunlight on its brown sides,
+and behind its shoulders the tips of snow-peaks gleamed.
+“Is that The Mountain?”
+asked Bilbo in a solemn voice,
+looking at it with round eyes.
+He had never seen a thing that looked so big before.
+“Of course not!” said Balin.
+“That is only the beginning of the Misty Mountains,
+and we have to get through, or over, or under those somehow,
+before we can come into Wilderland beyond.
+And it is a deal of a way even from the other side of them to the Lonely Mountain in the East
+where Smaug lies on our treasure.”
+“O!”
+said Bilbo,
+and just at that moment he felt more fared
+than he ever remembered feeling before.
+He was thinking once again of his comfortable chair before the fire
+in his favourite sitting-room in his hobbit-hole,
+and of the kettle singing.
+Not for the last time!
+Now Gandalf led the way.
+“We must not miss the road,
+or we shall be done for,”
+he said.
+“We need food, for one thing,
+and rest in reasonable safety —
+also it is very necessary to tackle the Misty Mountains by the proper path,
+or else you will get lost in them,
+and have to come back and start at the beginning again
+(if you ever get back at all ).”
+They asked him where he was making for,
+and he answered:
+“You are come to the very edge of the Wild,
+as some of you may know.
+Hidden somewhere ahead of us
+is the fair valley of Rivendell where Elrond lives in the Last Homely House.
+I sent a message by my friends, and we are expected.”
+That sounded nice and comforting,
+but they had not got there yet,
+and it was not so easy as it sounds to find the Last Homely House west of the Mountains.
+There seemed to be no trees and no valleys and no hills to break the ground in front of them,
+only one vast slope going slowly up and up to meet the feet of the nearest mountain,
+a wide land the colour of heather and crumbling rock,
+with patches and slashes of grass-green and moss-green
+showing where water might be.
+Morning passed,
+afternoon came;
+but in all the silent waste there was no sign of any dwelling.
+They were growing anxious,
+for they now saw that the house might be hidden almost anywhere between them and the mountains.
+They came on unexpected valleys,
+narrow with deep sides,
+that opened suddenly at their feet,
+and they looked down surprised to see trees below them and running water at the bottom.
+There were gullies that they could almost leap over;
+but very deep with waterfalls in them.
+There were dark ravines that one could neither jump nor climb into.
+There were bogs,
+some of them green pleasant places to look at
+with flowers growing bright and tall;
+but a pony that walked there with a pack on its back would never have come out again.
+It was indeed a much wider land from the ford to the mountains
+than ever you would have guessed.
+Bilbo was astonished.
+The only path was marked with white stones
+some of which were small,
+and others were half covered with moss or heather.
+Altogether it was a very slow business following the track,
+even guided by Gandalf,
+who seemed to know his way about pretty well.

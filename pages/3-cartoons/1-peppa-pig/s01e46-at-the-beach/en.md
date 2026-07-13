@@ -1,82 +1,108 @@
 ---
 type: richVideo
-title: At the Beach (s01e46)
-description: The family go out to the beach.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e46-at-the-beach.mp4'
-peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e46-at-the-beach.json'
+title: "At the Beach (s01e46)"
+description: "The family go out to the beach."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e46-at-the-beach.mp4"
+peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e46-at-the-beach.json"
 ---
 
-Вот текст серии «At the Beach» (по ТВ-версии это Сезон 1, Серия 45) без таймкодов, без длинных тире и с каждым предложением на новой строке:
-
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
+Peppa Pig.
 At the Beach.
 Peppa and her family are going to the beach.
-I love the beach.
-Mummy Pig and Daddy Pig have lots of bags.
-We have brought everything we need for a wonderful day.
-Here is the beach.
-Look at all the sand.
-And look at the sea.
-Peppa and George want to go into the sea straight away.
-Can we go for a swim, Mummy?
-Yes, but you must put on your water wings first.
-Peppa and George put on their inflatable water wings.
-Now you can go in.
-The water is nice and warm.
-Splish, splash!
-George likes splashing Peppa.
-Don't splash me, George.
-Daddy Pig is sitting on a deckchair in the sun.
-This is the life.
-No work, just relaxing.
-Mummy Pig is putting sun cream on Peppa and George.
-We don't want you to get sunburned.
-Now, let's build a sandcastle.
-Daddy Pig wants to help build a giant sandcastle.
-We need a big bucket.
-George has a small bucket and Peppa has a big one.
-First, we put sand in the bucket.
-Then we pat it down.
-And then we turn it upside down.
-Look, a beautiful sandcastle.
-Let's put some shells on the top.
-George finds a very big shell.
-Well done, George.
-Now, let's dig a big hole.
-Daddy Pig digs a very deep hole in the sand.
-Be careful, Daddy Pig, don't fall in.
-I'm an expert at digging holes, Peppa.
-It is time for lunch.
-Mummy Pig opens the picnic basket.
-We have sandwiches and fruit.
-Yum, yum.
-After lunch, Daddy Pig goes to sleep on his towel.
-Daddy Pig is snoring.
-Look at Daddy, he's asleep.
-Let's bury him in the sand.
-Peppa and George cover Daddy Pig with sand.
-They leave only his head sticking out.
-Now he is a sand pig.
-The tide is coming in.
-The water is getting closer to Daddy Pig's feet.
-Wake up, Daddy Pig, the sea is coming.
-What? Oh, hello.
-Daddy Pig tries to get up, but he is stuck in the sand.
-Help, I can't move.
-Mummy Pig helps Daddy Pig get out of the sand.
-Look at all the sand on your tummy, Daddy.
-Daddy Pig runs into the sea to wash the sand off.
-Splash!
-Now it is time to go home.
-Have we got everything?
-The buckets, the spades, the towels.
-Where is Daddy Pig's hat?
-I can't find my straw hat.
-Look, it's floating in the sea.
-Daddy Pig swims out to get his hat.
-Got it.
-Now we can go home.
 Peppa and George love going to the beach.
+What a lot of stuff.
+We must be careful not to forget anything when we go.
+Sunshade,
+beach bag,
+towels,
+buckets and spades,
+and a spotty ball.
+Good.
+Now before you start playing,
+you need some sun cream on.
+The sun is very hot,
+so Peppa and George have to have sun cream on.
+Let's try out this spotty ball.
+It seems to work.
+What a great spotty ball.
+George,
+you throw the ball and I will catch it.
+George, catch!
+Oh dear.
+George is too little to catch the ball.
+Never mind, George.
+Would you and Peppa like to have a paddle in the sea?
+Yes, please, Daddy.
+Let's put your water wings on.
+There we go.
+You look very smart in your water wings, George.
+My turn! My turn!
+Good.
+Now we can play in the water.
+Hoorey!
+Is the water cold?
+It's lovely and warm.
+You started it, Daddy Pig.
+Maybe that's enough splashing.
+Daddy!
+I love being at the beach.
+Peppa and George love the beach.
 Everyone loves the beach.
-Peppa Pig.
+Peppa, George,
+would you like to play with your buckets and spades?
+Yes, please, Mummy.
+Daddy! Daddy!
+Can we bury you in the sand?
+Uh, well...
+Please, Daddy.
+No. All right.
+Yippee!
+Peppa and George are burying Daddy Pig in the sand.
+Steady on!
+There.
+Now you can't escape.
+My head is getting a bit hot.
+Can I have my straw hat?
+Well, 
+if you say please.
+Please, can I have my straw hat?
+Yes, you may, Daddy.
+That's nice.
+Maybe I'll just have a little sleep.
+George,
+let's make sandcastles.
+Peppa and George are making sandcastles.
+First we put sand in the bucket 
+like this.
+We turn the buckets upside down,
+and tap them,
+and lift the bucket up.
+Hey presto!
+A sandcastle.
+Hey presto!
+Another sandcastle.
+Peppa! George!
+Home time.
+Don't leave any stuff behind.
+Let's check that we haven't forgotten anything.
+Towels,
+beach bag,
+sunshade,
+and the spotty ball.
+That's everything.
+I'm sure we've forgotten something.
+Of course!
+We forgot the hat.
+Daddy!
+We forgot Daddy!
+Yes,
+we forgot Daddy Pig.
+What?
+Daddy!
+We almost left you behind.
+But George remembered you.
+Well, I'm glad George remembered me.

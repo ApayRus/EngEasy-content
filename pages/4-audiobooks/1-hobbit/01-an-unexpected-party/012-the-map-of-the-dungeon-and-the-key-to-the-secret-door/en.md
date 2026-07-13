@@ -1,0 +1,127 @@
+---
+type: richAudio
+title: "The map of the dungeon and the key to the secret door"
+mediaLink: "https://archive.org/download/hobbit_130/1-12.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/1-12.json"
+---
+“I have often wondered about my father’s and my grandfather’s escape.
+I see now they must have had a private Side-door
+which only they knew about.
+But apparently they made a map,
+and I should like to know how Gandalf got hold of it,
+and why it did not come down to me,
+the rightful heir.”
+“I did not ‘get hold of it,’
+I was given it,”
+said the wizard.
+“Your grandfather Thror was killed, you remember,
+in the mines of Moria by Azog the Goblin —“
+“Curse his name, yes,”
+said Thorin.
+“And Thrain your father went away on the twenty-first of April,
+a hundred years ago last Thursday,
+and has never been seen by you since —“
+“True,
+true,”
+said Thorin.
+“Well,
+your father gave me this to give to you;
+and if I have chosen my own time and way of handing it over,
+you can hardly blame me,
+considering the trouble I had to find you.
+Your father could not remember his own name when he gave me the paper,
+and he never told me yours;
+so on the whole I think I ought to be praised and thanked.
+Here it is,”
+said he handing the map to Thorin.
+“I don’t understand,”
+said Thorin,
+and Bilbo felt he would have liked to say the same.
+The explanation did not seem to explain.
+“Your grandfather,”
+said the wizard slowly and grimly,
+“gave the map to his son for safety
+before he went to the mines of Moria.
+Your father went away to try his luck with the map
+after your grandfather was killed;
+and lots of adventures of a most unpleasant sort he had,
+but he never got near the Mountain.
+How he got there I don’t know,
+but I found him a prisoner
+in the dungeons of the Necromancer.”
+“Whatever were you doing there?”
+asked Thorin with a shudder,
+and all the dwarves shivered.
+“Never you mind.
+I was finding things out,
+as usual;
+and a nasty dangerous business it was.
+Even I,
+Gandalf,
+only just escaped.
+I tried to save your father,
+but it was too late.
+He was witless and wandering,
+and had forgotten almost everything except the map and the key.”
+“We have long ago paid the goblins of Moria,”
+said Thorin;
+“we must give a thought to the Necromancer.”
+“Don’t be absurd!
+He is an enemy quite beyond the powers of all the dwarves put together,
+if they could all be collected again from the four corners of the world.
+The one thing your father wished
+was for his son to read the map
+and use the key.
+The dragon and the Mountain are more than big enough tasks for you!”
+“Hear, hear!”
+said Bilbo,
+and accidentally said it aloud.
+“Hear what?”
+they all said turning suddenly towards him,
+and he was so flustered that he answered
+“Hear what I have got to say!”
+“What’s that?”
+they asked.
+“Well,
+I should say that you ought to go East and have a look round.
+After all there is the Side-door,
+and dragons must sleep sometimes, I suppose.
+If you sit on the doorstep long enough,
+I daresay you will think of something.
+And well,
+don’t you know,
+I think we have talked long enough for one night,
+if you see what I mean.
+What about bed, and an early start, and all that?
+I will give you a good breakfast before you go.”
+“Before we go, I suppose you mean,”
+said Thorin.
+“Aren’t you the burglar?
+And isn’t sitting on the door-step your job,
+not to speak of getting inside the door?
+But I agree about bed and breakfast.
+I like eggs with my ham, when starting on a journey:
+fried not poached,
+and mind you don’t break ‘em.”
+After all the others had ordered their breakfasts
+without so much as a please
+(which annoyed Bilbo very much),
+they all got up.
+The hobbit had to find room for them all,
+and filled all his spare— rooms and made beds on chairs and sofas,
+before he got them all stowed and went to his own little bed
+very tired
+and not altogether happy.
+One thing he did make his mind up about
+was not to bother to get up very early and cook everybody else’s wretched breakfast.
+The Tookishness was wearing off,
+and he was not now quite so sure that he was going on any journey in the morning.
+As he lay in bed he could hear Thorin still humming to himself in the best bedroom next to him:
+Far over the misty mountains cold
+To dungeons deep and caverns old
+We must away, ere break of day,
+To find our long-forgotten gold.
+Bilbo went to sleep with that in his ears,
+and it gave him very uncomfortable dreams.
+It was long after the break of day,
+when he woke up.

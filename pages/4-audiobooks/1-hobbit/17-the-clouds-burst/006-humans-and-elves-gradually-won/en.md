@@ -1,0 +1,87 @@
+---
+type: richAudio
+title: "Humans and Elves gradually won"
+mediaLink: "https://archive.org/download/hobbit_130/17-6.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/17-6.json"
+---
+And as the valley widened
+his onset grew ever slower.
+His numbers were too few.
+His flanks were unguarded.
+Soon the attackers were attacked,
+and they were forced into a great ring,
+facing every way,
+hemmed all about with goblins and wolves returning to the assault.
+The bodyguard of Bolg came howling against them,
+and drove in upon their ranks like waves upon cliffs of sand.
+Their friends could not help them,
+for the assault from the Mountain was renewed with redoubled force,
+and upon either side
+men and elves were being slowly beaten down.
+On all this
+Bilbo looked with misery.
+He had taken his stand on Ravenhill among the Elves —
+partly because there was more chance of escape from that point,
+and partly
+with the more Tookish part of his mind
+because if he was going to be in a last desperate stand,
+he preferred on the whole
+to defend the Elvenking.
+Gandalf, too, I may say, was there,
+sitting on the ground
+as if in deep thought,
+preparing, I suppose,
+some last blast of magic before the end.
+That did not seem far off.
+“It will not be long now,”
+thought Bilbo,
+“before the goblins win the Gate,
+and we are all slaughtered or driven down and captured.
+Really it is enough to make one weep,
+after all one has gone through.
+I would rather old Smaug had been left with all the wretched treasure,
+than that these vile creatures should get it,
+and poor old Bombur,
+and Balin and Fili and Kili
+and all the rest come to a bad end;
+and Bard too,
+and the Lake-men and the merry elves.
+Misery me!
+I have heard songs of many battles,
+and I have always understood that defeat may be glorious.
+It seems very uncomfortable,
+not to say distressing.
+I wish I was well out of it.”
+The clouds were torn by the wind,
+and a red sunset slashed the West.
+Seeing the sudden gleam in the gloom
+Bilbo looked round.
+He gave a great cry:
+he had seen a sight that made his heart leap,
+dark shapes small yet majestic
+against the distant glow.
+“The Eagles!
+The Eagles!”
+he shouted.
+“The Eagles are coming!”
+Bilbo’s eyes were seldom wrong.
+The eagles were coming down the wind,
+line after line,
+in such a host as must have gathered from all the eyries of the North.
+“The Eagles!
+the Eagles!”
+Bilbo cried,
+dancing and waving his arms.
+If the elves could not see him
+they could hear him.
+Soon they too took up the cry,
+and it echoed across the valley.
+Many wondering eyes
+looked up,
+though as yet nothing could be seen except from the southern shoulders of the Mountain.
+“The Eagles!”
+cried Bilbo once more,
+but at that moment a stone hurtling from above
+smote heavily on his helm,
+and he fell with a crash
+and knew no more.

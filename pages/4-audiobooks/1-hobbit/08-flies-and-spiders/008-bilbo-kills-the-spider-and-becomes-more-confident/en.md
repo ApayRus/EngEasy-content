@@ -1,0 +1,102 @@
+---
+type: richAudio
+title: "Bilbo kills the spider and becomes more confident"
+mediaLink: "https://archive.org/download/hobbit_130/8-8.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/8-8.json"
+---
+He could only see the thing’s eyes,
+but he could feel its hairy legs as it struggled to wind its abominable threads round and round him.
+It was lucky that he had come to his senses in time.
+Soon he would not have been able to move at all.
+As it was,
+he had a desperate fight before he got free.
+He beat the creature off with his hands —
+it was trying to poison him to keep him quiet,
+as small spiders do to flies —
+until he remembered his sword and drew it out.
+Then the spider jumped back,
+and he had time to cut his legs loose.
+After that it was his turn to attack.
+The spider evidently was not used to things that carried such stings at their sides,
+or it would have hurried away quicker.
+Bilbo came at it before it could disappear
+and struck it with his sword right in the eyes.
+Then it went mad and leaped and danced and flung out its legs in horrible jerks,
+until he killed it with another stroke;
+and then he fell down and remembered nothing more for a long while.
+There was the usual dim grey light of the forest-day about him when he came to his senses.
+The spider lay dead beside him,
+and his sword-blade was stained black.
+Somehow the killing of the giant spider,
+all alone by himself in the dark without the help of the wizard
+or the dwarves or of anyone else,
+made a great difference to Mr. Baggins.
+He felt a different person,
+and much fiercer and bolder in spite of an empty stomach,
+as he wiped his sword on the grass and put it back into its sheath.
+“I will give you a name,”
+he said to it,
+“and I shall call you Sting.”
+After that he set out to explore.
+The forest was grim and silent,
+but obviously he had first of all to look for his friends,
+who were not likely to be very far off,
+unless they had been made prisoners by the elves or worse things.
+Bilbo felt that it was unsafe to shout,
+and he stood a long while wondering in what direction the path lay,
+and in what direction he should go first to look for the dwarves.
+“O!
+why did we not remember Beorn’s advice, and Gandalf’s!”
+he lamented.
+“What a mess we are in now!
+We!
+I only wish it was we:
+it is horrible being all alone.”
+In the end he made as good a guess as he could at the direction from which the cries for help had come in the night —
+and by luck
+he was born with a good share of it
+he guessed more or less right,
+as you will see.
+Having made up his mind
+he crept along as cleverly as he could.
+Hobbits are clever at quietness,
+especially in woods,
+as I have already told you;
+also Bilbo had slipped on his ring before he started.
+That is why the spiders neither saw nor heard him coming.
+He had picked his way stealthily for some distance,
+when he noticed a place of dense black shadow ahead of him
+black even for that forest,
+like a patch of midnight
+that had never been cleared away.
+As he drew nearer,
+he saw that it was made by spider-webs one behind and over and tangled with another.
+Suddenly he saw, too,
+that there were spiders huge and horrible sitting in the branches above him,
+and ring or no ring he trembled with fear
+lest they should discover him.
+Standing behind a tree
+he watched a group of them for some time,
+and then in the silence and stillness of the wood
+he realized that these loathsome creatures were speaking one to another.
+Their voices were a sort of thin creaking and hissing,
+but he could make out many of the words that they said.
+They were talking about the dwarves!
+“It was a sharp struggle,
+but worth it,”
+said one.
+“What nasty thick skins they have to be sure,
+but I’ll wager there is good juice inside.”
+“Aye,
+they’ll make fine eating,
+when they’ve hung a bit,”
+said another.
+“Don’t hang ‘em too long,”
+said a third.
+“They’re not as fat as they might be.
+Been feeding none too well of late, I should guess.”
+“Kill’em, I say,”
+hissed a fourth;
+“kill ‘em now and hang ‘em dead for a while.”
+“They’re dead now, I’ll warrant,”
+said the first.

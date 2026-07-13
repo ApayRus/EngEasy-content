@@ -1,0 +1,123 @@
+---
+type: richAudio
+title: "Gandalf and Bilbo rode on horseback beside the King of the Elves"
+mediaLink: "https://archive.org/download/hobbit_130/18-4.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/18-4.json"
+---
+Gandalf and Bilbo rode behind the Elvenking,
+and beside them strode Beorn,
+once again in man’s shape,
+and he laughed and sang in a loud voice upon the road.
+So they went on
+until they drew near to the borders of Mirkwood,
+to the north of the place where the Forest River ran out.
+Then they halted,
+for the wizard and Bilbo would not enter the wood,
+even though the king bade them stay a while in his halls.
+They intended to go along the edge of the forest,
+and round its northern end in the waste that lay between it
+and the beginning of the Grey Mountains.
+It was a long and cheerless road,
+but now that the goblins were crushed,
+it seemed safer to them
+than the dreadful pathways under the trees.
+Moreover
+Beorn was going that way too.
+“Farewell! O Elvenking!”
+said Gandalf.
+“Merry be the greenwood,
+while the world is yet young!
+And merry be all your folk!”
+“Farewell!
+O Gandalf!”
+said the king.
+“May you ever appear where you are most needed and least expected!
+The oftener you appear in my halls
+the better shall I be pleased!”
+“I beg of you,”
+said Bilbo stammering
+and standing on one foot,
+“to accept this gift!”
+and he brought out a necklace of silver and pearls
+that Dain had given him at their parting.
+“In what way have I earned such a gift, O hobbit?”
+said the king.
+“Well, er,
+I thought,
+don’t you know,”
+said Bilbo rather confused,
+“that, er,
+some little return should be made for your,
+er,
+hospitality.
+I mean even a burglar has his feelings.
+I have drunk much of your wine and eaten much of your bread.”
+“I will take your gift,
+O Bilbo the Magnificent!”
+said the king gravely.
+“And I name you
+elf-friend and blessed.
+May your shadow never grow less
+or stealing would be too easy!
+Farewell!”
+Then the elves turned towards the Forest,
+and Bilbo started on his long road home.
+He had many hardships and adventures before he got back.
+The Wild was still the Wild,
+and there were many other things in it in those days besides goblins;
+but he was well guided and well guarded —
+the wizard was with him,
+and Beorn for much of the way —
+and he was never in great danger again.
+Anyway by mid-winter
+Gandalf and Bilbo had come all the way back,
+along both edges of the Forest,
+to the doors of Beorn’s house;
+and there for a while they both stayed.
+Yule-tide was warm and merry there;
+and men came from far and wide to feast at Beorn’s bidding.
+The goblins of the Misty Mountains were now few and terrified,
+and hidden in the deepest holes they could find;
+and the Wargs had vanished from the woods,
+so that men went abroad without fear.
+Beorn indeed became a great chief afterwards in those regions
+and ruled a wide land between the mountains and the wood;
+and it is said that for many generations
+the men of his line had the power of taking bear’s shape,
+and some were grim men and bad,
+but most were in heart like Beorn,
+if less in size and strength.
+In their day
+the last goblins were hunted from the Misty Mountains
+and a new peace came over the edge of the Wild.
+It was spring,
+and a fair one with mild weathers and a bright sun,
+before Bilbo and Gandalf
+took their leave at last of Beorn,
+and though he longed for home
+Bilbo left with regret,
+for the flowers of the gardens of Beorn were in springtime
+no less marvelous
+than in high summer.
+At last they came up the long road,
+and reached the very pass where the goblins had captured them before.
+But they came to that high point at morning,
+and looking backward
+they saw a white sun shining over the out-stretched lands.
+There behind lay Mirkwood,
+blue in the distance,
+and darkly green
+at the nearer edge
+even in the spring.
+There far away was the Lonely Mountain on the edge of eyesight.
+On its highest peak
+snow yet unmelted
+was gleaming pale.
+“So comes snow after fire,
+and even dragons have their ending!”
+said Bilbo,
+and he turned his back on his adventure.
+The Tookish part was getting very tired,
+and the Baggins was daily getting stronger.
+“I wish now only to be in my own arm-chair!”
+he said.

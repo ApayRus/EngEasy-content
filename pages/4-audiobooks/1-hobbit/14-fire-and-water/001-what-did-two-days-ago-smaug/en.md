@@ -1,0 +1,101 @@
+---
+type: richAudio
+title: "What did two days ago Smaug"
+mediaLink: "https://archive.org/download/hobbit_130/14-1.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/14-1.json"
+---
+Chapter 14.
+Fire and Water
+Now if you wish,
+like the dwarves,
+to hear news of Smaug,
+you must go back again to the evening when he smashed the door and flew off in rage,
+two days before.
+The men of the lake-town Esgaroth were mostly indoors,
+for the breeze was from the black East and chill,
+but a few were walking on the quays, and watching,
+as they were fond of doing,
+the stars shine out from the smooth patches of the lake
+as they opened in the sky.
+From their town the Lonely Mountain was mostly screened by the low hills at the far end of the lake,
+through a gap in which the Running River came down from the North.
+Only its high peak could they see in clear weather,
+and they looked seldom at it,
+for it was ominous
+and dreary
+even in the light of morning.
+Now it was lost and gone,
+blotted in the dark.
+Suddenly it flickered back to view;
+a brief glow touched it and faded.
+“Look!”
+said one.
+“The lights again!
+Last night the watchmen saw them start and fade from midnight until dawn.
+Something is happening up there.”
+“Perhaps the King under the Mountain is forging gold,”
+said another.
+“It is long since he went north.
+It is time the songs began to prove themselves again.”
+“Which king?”
+said another with a grim voice.
+“As like as not it is the marauding fire of the Dragon,
+the only king under the Mountain we have ever known.”
+“You are always foreboding gloomy things!”
+said the others.
+“Anything from floods to poisoned fish.
+Think of something cheerful!”
+Then suddenly a great light appeared in the low place in the hills and the northern end of the lake turned golden.
+“The King beneath the Mountain!”
+they shouted.
+“His wealth is like the Sun,
+his silver like a fountain,
+his rivers golden run!
+The river is running gold from the Mountain!”
+they cried,
+and everywhere windows were opening and feet were hurrying.
+There was once more a tremendous excitement and enthusiasm.
+But the grim-voiced fellow ran hotfoot to the Master.
+“The dragon is coming or I am a fool!”
+he cried.
+“Cut the bridges!
+To arms! To arms!”
+Then warning trumpets were suddenly sounded,
+and echoed along the rocky shores.
+The cheering stopped and the joy was turned to dread.
+So it was that the dragon did not find them quite unprepared.
+Before long,
+so great was his speed,
+they could see him as a spark of fire rushing towards them and growing ever huger and more bright,
+and not the most foolish doubted that the prophecies had gone rather wrong.
+Still they had a little time.
+Every vessel in the town was filled with water,
+every warrior was armed,
+every arrow and dart was ready,
+and the bridge to the land was thrown down and destroyed,
+before the roar of Smaug’s terrible approach grew loud,
+and the lake rippled red as fire beneath the awful beating of his wings.
+Amid shrieks and wailing and the shouts of men
+he came over them,
+swept towards the bridges and was foiled!
+The bridge was gone,
+and his enemies were on an island in deep water —
+too deep and dark and cool for his liking.
+If he plunged into it,
+a vapour and a steam would arise enough to cover all the land with a mist for days;
+but the lake was mightier than he,
+it would quench him
+before he could pass through.
+Roaring he swept back over the town.
+A hail of dark arrows leaped up and snapped and rattled on his scales and jewels,
+and their shafts fell back kindled by his breath burning and hissing into the lake.
+No fireworks you ever imagined equalled the sights that night.
+At the twanging of the bows and the shrilling of the trumpets
+the dragon’s wrath blazed to its height,
+till he was blind and mad with it.
+No one had dared to give battle to him for many an age;
+nor would they have dared now,
+if it had not been for the grim-voiced man
+Bard was his name,
+who ran to and fro cheering on the archers
+and urging the Master to order them to fight to the last arrow.

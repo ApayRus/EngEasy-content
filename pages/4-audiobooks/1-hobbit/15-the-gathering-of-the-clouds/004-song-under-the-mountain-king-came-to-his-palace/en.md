@@ -1,0 +1,106 @@
+---
+type: richAudio
+title: "Song: \"Under the Mountain King came to his palace\""
+mediaLink: "https://archive.org/download/hobbit_130/15-4.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/15-4.json"
+---
+Under the Mountain dark and tall
+The King has come unto his hall!
+His foe is dead,
+the Worm of Dread,
+And ever so his foes shall fall.
+The sword is sharp, the spear is long,
+The arrow swift, the Gate is strong;
+The heart is bold that looks on gold;
+The dwarves no more shall suffer wrong.
+The dwarves of yore made mighty spells,
+While hammers fell like ringing bells
+In places deep,
+where dark things sleep,
+In hollow halls beneath the fells.
+On silver necklaces they strung
+The light of stars, on crowns they hung
+The dragon-fire,
+from twisted wire
+The melody of harps they wrung.
+The mountain throne once more is freed!
+O! wandering folk,
+the summons heed!
+Come haste! Come haste!
+across the waste!
+The king of friend and kin has need.
+Now call we over mountains cold,
+‘Come back unto the caverns old ’!
+Here at the Gates the king awaits,
+His hands are rich with gems and gold.
+The king is come unto his hall
+Under the Mountain dark and tall.
+The Worm of Dread
+is slain and dead,
+And ever so our foes shall fall!
+This song appeared to please Thorin,
+and he smiled again and grew merry;
+and he began reckoning the distance to the Iron Hills
+and how long it would be before Dain could reach the Lonely Mountain,
+if he had set out as soon as the message reached him.
+But Bilbo’s heart fell,
+both at the song and the talk:
+they sounded much too warlike.
+The next morning
+early
+a company of spearmen was seen crossing the river,
+and marching up the valley.
+They bore with them the green banner of the Elvenking and the blue banner of the Lake,
+and they advanced until they stood right before the wall at the Gate.
+Again Thorin hailed them in a loud voice:
+“Who are you
+that come armed for war to the gates of Thorin son of Thrain,
+King under the Mountain?”
+This time he was answered.
+A tall man stood forward,
+dark of hair and grim of face,
+and he cried:
+“Hail Thorin!
+Why do you fence yourself like a robber in his hold?
+We are not yet foes,
+and we rejoice that you are alive beyond our hope.
+We came expecting to find none living here;
+yet now that we are met
+there is matter for a parley and a council.”
+“Who are you,
+and of what would you parley?”
+“I am Bard,
+and by my hand was the dragon slain and your treasure delivered.
+Is that not a matter that concerns you?
+Moreover
+I am by right descent the heir of Girion of Dale,
+and in your hoard is mingled much of the wealth of his halls and town,
+which of old Smaug stole.
+Is not that a matter of which we may speak?
+Further
+in his last battle
+Smaug destroyed the dwellings of the men of Esgaroth,
+and I am yet the servant of their Master.
+I would speak for him
+and ask whether you have no thought for the sorrow and misery of his people.
+They aided you in your distress,
+and in recompense
+you have thus far brought ruin only,
+though doubtless undesigned.”
+Now these were fair words and true,
+if proudly and grimly spoken;
+and Bilbo thought that Thorin would at once admit what justice was in them.
+He did not, of course,
+expect that any one would remember that it was he who discovered all by himself
+the dragon’s weak spot;
+and that was just as well,
+for no one ever did.
+But also he did not reckon with the power that gold has
+upon which a dragon has long brooded,
+nor with dwarvish hearts.
+Long hours in the past days
+Thorin had spent in the treasury,
+and the lust of it was heavy on him.
+Though he had hunted chiefly for the Arkenstone,
+yet he had an eye for many another wonderful thing that was lying there,
+about which were wound old memories of the labours and the sorrows of his race.

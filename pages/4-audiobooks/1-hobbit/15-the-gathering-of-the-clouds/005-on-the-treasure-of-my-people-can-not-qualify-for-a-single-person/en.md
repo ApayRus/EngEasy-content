@@ -1,0 +1,103 @@
+---
+type: richAudio
+title: "On the treasure of my people can not qualify for a single person"
+mediaLink: "https://archive.org/download/hobbit_130/15-5.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/15-5.json"
+---
+“You put your worst cause last
+and in the chief place,”
+Thorin answered.
+“To the treasure of my people no man has a claim,
+because Smaug who stole it from us
+also robbed him of life or home.
+The treasure was not his
+that his evil deeds should be amended with a share of it.
+The price of the goods and the assistance that we received of the Lake-men we will fairly pay —
+in due time.
+But nothing will we give,
+not even a loaf’s worth,
+under threat of force.
+While an armed host lies before our doors,
+we look on you as foes and thieves.
+“It is in my mind to ask what share of their inheritance you would have paid to our kindred,
+had you found the hoard unguarded
+and us slain.”
+“A just question,”
+replied Bard.
+“But you are not dead,
+and we are not robbers.
+Moreover the wealthy may have pity beyond right on the needy that befriended them
+when they were in want.
+And still
+my other claims remain unanswered..”
+“I will not parley,
+as I have said,
+with armed men at my gate.
+Nor at all with the people of the Elvenking,
+whom I remember with small kindness.
+In this debate they have no place.
+Begone now
+ere our arrows fly!
+And if you would speak with me again,
+first dismiss the elvish host to the woods where it belongs,
+and then return,
+laying down your arms before you approach the threshold.”
+“The Elvenking is my friend,
+and he has succoured the people of the Lake in their need,
+though they had no claim but friendship on him,”
+answered Bard.
+“We will give you time to repent your words.
+Gather your wisdom ere we return!”
+Then he departed
+and went back to the camp.
+Ere many hours were past,
+the banner-bearers returned,
+and trumpeters stood forth
+and blew a blast:
+“In the name of Esgaroth
+and the Forest,”
+one cried,
+“we speak unto Thorin Thrain’s son Oakenshield,
+calling himself the King under the Mountain,
+and we bid him consider well the claims that have been urged,
+or be declared our foe.
+At the least he shall deliver one twelfth portion of the treasure unto Bard,
+as the dragon-slayer,
+and as the heir of Girion.
+From that portion Bard will himself
+contribute to the aid of Esgaroth;
+but if Thorin would have the friendship
+and honour of the lands about,
+as his sires had of old,
+then he will give also
+somewhat of his own
+for the comfort of the men of the Lake.”
+Then Thorin seized a bow of horn and shot an arrow at the speaker.
+It smote into his shield
+and stuck there quivering.
+”Since such is your answer,”
+he called in return,
+“I declare the Mountain besieged.
+You shall not depart from it,
+until you call on your side for a truce and a parley.
+We will bear no weapons against you,
+but we leave you to your gold.
+You may eat that,
+if you will!”
+With that the messengers departed swiftly,
+and the dwarves were left to consider their case.
+So grim had Thorin become,
+that even if they had wished,
+the others would not have dared to find fault with him;
+but indeed
+most of them seemed to share his mind —
+except perhaps old fat Bombur
+and Fili and Kili.
+Bilbo, of course,
+disapproved of the whole turn of affairs.
+He had by now had more than enough of the Mountain,
+and being besieged inside it was not at all to his taste.
+“The whole place still stinks of dragon,”
+he grumbled to himself,
+“and it makes me sick.
+And cram is beginning simply to stick in my throat.”

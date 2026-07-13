@@ -1,0 +1,123 @@
+---
+type: richAudio
+title: "His nasty little sword will be useless"
+mediaLink: "https://archive.org/download/hobbit_130/5-7.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/5-7.json"
+---
+Only a few hours ago he had worn it,
+and caught a small goblin-imp.
+How it squeaked!
+He still had a bone or two left to gnaw,
+but he wanted something softer.
+“Quite safe, yes,”
+he whispered to himself.
+“It won’t see us, will it, my precious?
+No.
+It won’t see us,
+and its nassty little sword will be useless,
+yes quite.”
+That is what was in his wicked little mind,
+as he slipped suddenly from Bilbo’s side,
+and flapped back to his boat,
+and went off into the dark.
+Bilbo thought he had heard the last of him.
+Still he waited a while;
+for he had no idea how to find his way out alone.
+Suddenly he heard a screech.
+It sent a shiver down his back.
+Gollum was cursing and wailing away in the gloom,
+not very far off by the sound of it.
+He was on his island,
+scrabbling here and there,
+searching and seeking in vain.
+“Where is it?
+Where iss it?”
+Bilbo heard him crying.
+“Losst it is, my precious,
+lost, lost!
+Curse us and crush us,
+my precious is lost!”
+“What’s the matter?”
+Bilbo called.
+“What have you lost?”
+“It mustn’t ask us,”
+shrieked Gollum.
+“Not its business, no, gollum!
+It’s losst,
+gollum, gollum, gollum.”
+“Well, so am I,”
+cried Bilbo,
+“and I want to get unlost.
+And I won the game,
+and you promised.
+So come along!
+Come and let me out,
+and then go on with your looking!”
+Utterly miserable as Gollum sounded,
+Bilbo could not find much pity in his heart,
+and he had a feeling that anything Gollum wanted so much could hardly be something good.
+“Come along!”
+he shouted.
+“No, not yet, precious!”
+Gollum answered.
+“We must search for it, it’s lost,
+gollum.”
+“But you never guessed my last question, and you promised,”
+said Bilbo.
+“Never guessed!”
+said Gollum.
+Then suddenly out of the gloom came a sharp hiss.
+“What has it got in its pocketses?
+Tell us that.
+It must tell first.”
+As far as Bilbo knew,
+there was no particular reason why he should not tell.
+Gollum’s mind had jumped to a guess quicker than his;
+naturally,
+for Gollum had brooded for ages on this one thing,
+and he was always afraid of its being stolen ).
+But Bilbo was annoyed at the delay.
+After all,
+he had won the game,
+pretty fairly,
+at a horrible risk.
+“Answers were to be guessed not given,”
+he said.
+“But it wasn’t a fair question,”
+said Gollum.
+“Not a riddle, precious, no.”
+“Oh well,
+if it’s a matter of ordinary questions,”
+Bilbo replied,
+“then I asked one first.
+What have you lost?
+Tell me that!”
+“What has it got in its pocketses?”
+The sound came hissing louder and sharper,
+and as he looked towards it,
+to his alarm Bilbo now saw two small points of light peering at him.
+As suspicion grew in Gollum’s mind,
+the light of his eyes burned with a pale flame.
+“What have you lost?”
+Bilbo persisted.
+But now the light in Gollum’s eyes had become a green fire,
+and it was coming swiftly nearer.
+Gollum was in his boat again,
+paddling wildly back to the dark shore;
+and such a rage of loss and suspicion was in his heart
+that no sword had any more terror for him.
+Bilbo could not guess what had maddened the wretched creature,
+but he saw that all was up,
+and that Gollum meant to murder him at any rate.
+Just in time he turned and ran blindly back up the dark passage down which he had come,
+keeping close to the wall
+and feeling it with his left hand.
+“What has it got in its pocketses?”
+he heard the hiss loud behind him,
+and the splash as Gollum leapt from his boat.
+“What have I, I wonder?”
+he said to himself,
+as he panted and stumbled along.
+He put his left hand in his pocket.
+The ring felt very cold
+as it quietly slipped on to his groping forefinger.

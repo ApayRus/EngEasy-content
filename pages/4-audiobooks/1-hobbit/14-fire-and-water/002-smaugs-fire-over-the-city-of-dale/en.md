@@ -1,0 +1,123 @@
+---
+type: richAudio
+title: "Smaug's Fire over the city of Dale"
+mediaLink: "https://archive.org/download/hobbit_130/14-2.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/14-2.json"
+---
+Fire leaped from the dragon’s jaws.
+He circled for a while high in the air above them
+lighting all the lake;
+the trees by the shores
+shone like copper
+and like blood
+with leaping shadows of dense black at their feet.
+Then down he swooped straight through the arrow-storm,
+reckless in his rage,
+taking no heed to turn his scaly sides towards his foes,
+seeking only to set their town ablaze.
+Fire leaped from thatched roofs
+and wooden beam— ends as he hurtled down and past and round again,
+though all had been drenched with water before he came.
+Once more water was flung by a hundred hands wherever a spark appeared.
+Back swirled the dragon.
+A sweep of his tail
+and the roof of the Great House crumbled and smashed down.
+Flames unquenchable sprang high into the night.
+Another swoop and another,
+and another house
+and then another sprang afire and fell;
+and still no arrow hindered Smaug
+or hurt him more than a fly from the marshes.
+Already men were jumping into the water on every side.
+Women and children were being huddled into laden boats in the market-pool.
+Weapons were flung down.
+There was mourning and weeping,
+where but a little time ago the old songs of mirth to come
+had been sung about the dwarves.
+Now men cursed their names.
+The Master himself was turning to his great gilded boat,
+hoping to row away in the confusion and save himself.
+Soon all the town would be deserted
+and burned down to the surface of the lake.
+That was the dragon’s hope.
+They could all get into boats for all he cared.
+There he could have fine sport hunting them,
+or they could stop till they starved.
+Let them try to get to land
+and he would be ready.
+Soon he would set all the shoreland woods ablaze and wither every field and pasture.
+Just now he was enjoying the sport of town-baiting
+more than he had enjoyed anything for years.
+But there was still a company of archers
+that held their ground among the burning houses.
+Their captain was Bard,
+grim-voiced and grim-faced,
+whose friends had accused him of prophesying floods
+and poisoned fish,
+though they knew his worth and courage.
+He was a descendant in long line of Girion,
+Lord of Dale,
+whose wife and child had escaped down the Running River from the ruin long ago.
+Now he shot with a great yew bow,
+till all his arrows but one were spent.
+The flames were near him.
+His companions were leaving him.
+He bent his bow for the last time.
+Suddenly out of the dark something fluttered to his shoulder.
+He started —
+but it was only an old thrush.
+Unafraid
+it perched by his ear
+and it brought him news.
+Marvelling he found he could understand its tongue,
+for he was of the race of Dale.
+“Wait!
+Wait!”
+it said to him.
+“The moon is rising.
+Look for the hollow of the left breast
+as he flies and turns above you!”
+And while Bard paused in wonder
+it told him of tidings up in the Mountain
+and of all that it had heard.
+Then Bard drew his bow-string to his ear.
+The dragon was circling back,
+flying low,
+and as he came
+the moon rose above the eastern shore
+and silvered his great wings.
+“Arrow!”
+said the bowman.
+“Black arrow!
+I have saved you to the last.
+You have never failed me
+and always I have recovered you.
+I had you from my father
+and he from of old.
+If ever you came from the forges of the true king under the Mountain,
+go now and speed well!”
+The dragon swooped once more
+lower than ever,
+and as he turned and dived down his belly glittered white with sparkling fires of gems in the moon —
+but not in one place.
+The great bow twanged.
+The black arrow sped straight from the string,
+straight for the hollow by the left breast where the foreleg was flung wide.
+In it smote and vanished,
+barb,
+shaft and feather,
+so fierce was its flight.
+With a shriek that deafened men,
+felled trees and split stone,
+Smaug shot spouting into the air,
+turned over and crashed down from on high in ruin.
+Full on the town he fell.
+His last throes splintered it to sparks and gledes.
+The lake roared in.
+A vast steam leaped up,
+white in the sudden dark under the moon.
+There was a hiss,
+a gushing whirl,
+and then silence.
+And that was the end of Smaug and Esgaroth,
+but not of Bard.

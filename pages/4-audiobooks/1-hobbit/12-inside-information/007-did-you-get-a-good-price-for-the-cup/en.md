@@ -1,0 +1,92 @@
+---
+type: richAudio
+title: "Did you get a good price for the cup?"
+mediaLink: "https://archive.org/download/hobbit_130/12-7.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/12-7.json"
+---
+“I suppose you got a fair price for that
+cup last night?”
+he went on.
+“Come now, did you?
+Nothing at all!
+Well, that’s just like them.
+And I suppose they are skulking outside,
+and your job is to do all the dangerous work
+and get what you can when I’m not looking —
+for them?
+And you will get a fair share?
+Don’t you believe it!
+If you get off alive,
+you will be lucky.”
+Bilbo was now beginning to feel really uncomfortable.
+Whenever Smaug’s roving eye,
+seeking for him in the shadows,
+flashed across him,
+he trembled,
+and an unaccountable desire seized hold of him
+to rush out and reveal himself
+and tell all the truth to Smaug.
+In fact he was in grievous danger of
+coming under the dragon-spell.
+But plucking up courage he spoke again.
+“You don’t know everything,
+O Smaug the Mighty,”
+said he.
+“Not gold alone brought us hither.”
+“Ha! Ha! You admit the ‘us’,”
+laughed Smaug.
+“Why not say ‘us fourteen’ and be done with it,
+Mr. Lucky Number?
+I am pleased to hear that you had other business in these parts besides my gold.
+In that case you may, perhaps,
+not altogether waste your time.
+“I don’t know if it has occurred to you that,
+even if you could steal the gold bit by bit —
+a matter of a hundred years or so —
+you could not get it very far?
+Not much use on the mountain-side?
+Not much use in the forest?
+Bless me!
+Had you never thought of the catch?
+A fourteenth share, I suppose,
+or something like it,
+those were the terms, eh?
+But what about delivery?
+What about cartage?
+What about armed guards
+and tolls?”
+And Smaug laughed aloud.
+He had a wicked and a wily heart,
+and he knew his guesses were not far out,
+though he suspected that the Lake-men were at the back of the plans,
+and that most of the plunder was meant to stop there in the town by the shore
+that in his young days had been called Esgaroth.
+You will hardly believe it,
+but poor Bilbo was really very taken aback.
+So far all his thoughts and energies
+had been concentrated on getting to the Mountain
+and finding the entrance.
+He had never bothered to wonder how the treasure was to be removed,
+certainly
+never how any part of it that might fall to his share
+was to be brought back all the way to Bag-End Under-Hill.
+Now a nasty suspicion
+began to grow in his mind —
+had the dwarves forgotten this important point too,
+or were they laughing in their sleeves at him all the time?
+That is the effect that dragon-talk has on the inexperienced.
+Bilbo of course
+ought to have been on his guard;
+but Smaug had rather an overwhelming personality.
+“I tell you,”
+he said,
+in an effort to remain loyal to his friends
+and to keep his end up,
+“that gold
+was only an afterthought with us.
+We came over hill and under hill,
+by wave and wind,
+for Revenge.
+Surely, O Smaug the unassessably wealthy,
+you must realize that your success
+has made you some bitter enemies?”

@@ -1,0 +1,119 @@
+---
+type: richAudio
+title: "Dwarves pulled out of the barrel"
+mediaLink: "https://archive.org/download/hobbit_130/10-3.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/10-3.json"
+---
+Knocking outside and calling
+only discovered about six dwarves that could answer.
+They were unpacked and helped ashore
+where they sat or lay muttering and moaning;
+they were so soaked and bruised and cramped
+that they could hardly yet realize their release
+or be properly thankful for it.
+Dwalin and Balin were two of the most unhappy,
+and it was no good asking them to help.
+Bifur and Bofur were less knocked about
+and drier,
+but they lay down and would do nothing.
+Fili and Kili, however,
+who were young for dwarves
+and had also been packed more neatly with plenty of straw into smaller casks,
+came out more or less smiling,
+with only a bruise or two and a stiffness that soon wore off.
+“I hope I never smell the smell of apples again!”
+said Fili.
+“My tub was full of it.
+To smell apples everlastingly when you can scarcely move
+and are cold and sick with hunger is maddening.
+I could eat anything in the wide world now,
+for hours on end —
+but not an apple!”
+With the willing help of Fili and Kili,
+Thorin and Bilbo at last discovered the remainder of the company and got them out.
+Poor fat Bombur was asleep or senseless;
+Dori, Nori, Ori,
+Oin and Gloin were waterlogged and seemed only half alive;
+they all had to be carried one by one
+and laid helpless on the shore.
+“Well!
+Here we are!”
+said Thorin.
+“And I suppose we ought to thank our stars and Mr. Baggins.
+I am sure he has a right to expect it,
+though I wish he could have arranged a more comfortable journey.
+Still —
+all very much at your service once more, Mr. Baggins.
+No doubt we shall feel properly grateful,
+when we are fed and recovered.
+In the meanwhile what next?”
+“I suggest Lake-town,”
+said Bilbo,
+“What else is there?”
+Nothing else
+could, of course, be suggested;
+so leaving the others
+Thorin and Fili and Kili and the hobbit
+went along the shore to the great bridge.
+There were guards at the head of it,
+but they were not keeping very careful watch,
+for it was so long since there had been any real need.
+Except for occasional squabbles about river-tolls
+they were friends with the Wood-elves.
+Other folk were far away;
+and some of the younger people in the town
+openly doubted the existence of any dragon in the mountain,
+and laughed at the greybeards and gammers
+who said that they had seen him
+flying in the sky in their young days.
+That being so
+it is not surprising that the guards were drinking and laughing by a fire in their hut,
+and did not hear the noise of the unpacking of the dwarves
+or the footsteps of the four scouts.
+Their astonishment was enormous
+when Thorin Oakenshield
+stepped in through the door.
+“Who are you and what do you want?”
+they shouted leaping to their feet and gripping for weapons.
+“Thorin
+son of Thrain
+son of Thror
+King under the Mountain!”
+said the dwarf in a loud voice,
+and he looked it,
+inspite of his torn clothes and draggled hood.
+The gold gleamed on his neck and waist:
+his eyes were dark and deep.
+“I have come back.
+I wish to see the Master of your town!”
+Then there was tremendous excitement.
+Some of the more foolish
+ran out of the hut
+as if they expected the Mountain to go golden in the night
+and all the waters of the lake to turn yellow right away.
+The captain of the guard came forward.
+“And who are these?”
+he asked,
+pointing to Fili and Kili and Bilbo.
+“The sons of my father’s daughter,”
+answered Thorin,
+“Fili and Kili of the race of Durin,
+and Mr. Baggins
+who has travelled with us out of the West.”
+“If you come in peace
+lay down your arms!”
+said the captain.
+“We have none,”
+said Thorin,
+and it was true enough:
+their knives had been taken from them by the Wood-elves,
+and the great sword Orcrist too.
+Bilbo had his short sword,
+hidden as usual,
+but he said nothing about that.
+“We have no need of weapons,
+who return at last to our own as spoken of old.
+Nor could we fight against so many.
+Take us to your master!”
+“He is at feast,”
+said the captain.

@@ -1,0 +1,104 @@
+---
+type: richAudio
+title: "The first of May, the Rivendell Valley"
+mediaLink: "https://archive.org/download/hobbit_130/19-1.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/19-1.json"
+---
+Chapter 19.
+The Last Stage
+It was on May the First
+that the two came back at last
+to the brink of the valley of Rivendell,
+where stood the Last
+or the First
+Homely House.
+Again it was evening,
+their ponies were tired,
+especially the one that carried the baggage;
+and they all felt in need of rest.
+As they rode down the steep path,
+Bilbo heard the elves still singing in the trees,
+as if they had not stopped since he left;
+and as soon as their riders came down into the lower glades of the wood
+they burst into a song of much the same kind as before.
+This is something like it:
+The dragon is withered,
+His bones are now crumbled;
+His armour is shivered,
+His splendour is humbled!
+Though sword shall be rusted,
+And throne and crown perish
+With strength that men trusted
+And wealth that they cherish,
+Here grass is still growing,
+And leaves are yet swinging,
+The white water flowing,
+And elves are yet singing
+Come! Tra-la-la-lally!
+Come back to the valley!
+The stars are far brighter
+Than gems without measure,
+The moon is far whiter
+Than silver in treasure:
+The fire is more shining
+On hearth in the gloaming
+Than gold won by mining,
+So why go a-roaming?
+O! Tra-la-la-lally
+Come back to the Valley.
+O! Where are you going,
+So late in returning?
+The river is flowing,
+The stars are all burning!
+O! Whither so laden,
+So sad and so dreary?
+Here elf and elf-maiden
+Now welcome the weary
+With Tra-la-la-lally
+Come back to the Valley,
+Tra-la-la-lally
+Fa-la-la-lally
+Fa-la!
+Then the elves of the valley came out and greeted them
+and led them across the water
+to the house of Elrond.
+There a warm welcome was made them,
+and there were many eager ears that evening
+to hear the tale of their adventures.
+Gandalf it was who spoke,
+for Bilbo was fallen quiet and drowsy.
+Most of the tale he knew,
+for he had been in it,
+and had himself
+told much of it to the wizard on their homeward way
+or in the house of Beorn;
+but every now and again he would open one eye,
+and listen,
+when a part of the story which he did not yet know came in.
+It was in this way that he learned where Gandalf had been to;
+for he overheard the words of the wizard to Elrond.
+It appeared that Gandalf had been to a great council of the white wizards,
+masters of lore and good magic;
+and that they had at last
+driven the Necromancer from his dark hold in the south of Mirkwood.
+“Ere long now,”
+Gandalf was saying,
+“The Forest will grow somewhat more wholesome.
+The North will be freed from that horror for many long years,
+I hope.
+Yet I wish he were banished from the world!”
+“It would be well indeed,”
+said Elrond;
+“but I fear that will not come about in this age of the world,
+or for many after.”
+When the tale of their journeyings was told,
+there were other tales,
+and yet more tales,
+tales of long ago,
+and tales of new things,
+and tales of no time at all,
+till Bilbo’s head fell forward on his chest,
+and he snored comfortably in a corner.
+He woke to find himself in a white bed,
+and the moon shining through an open window.
+Below it many elves were singing loud and clear on the banks of the stream.

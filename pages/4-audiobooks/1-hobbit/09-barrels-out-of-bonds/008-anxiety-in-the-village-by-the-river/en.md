@@ -1,0 +1,54 @@
+---
+type: richAudio
+title: "Anxiety in the village by the river"
+mediaLink: "https://archive.org/download/hobbit_130/9-8.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/9-8.json"
+---
+Very soon there was a fine commotion in the village by the riverside;
+but Bilbo escaped into the woods
+carrying a loaf and a leather bottle of wine and a pie that did not belong to him.
+The rest of the night he had to pass
+wet as he was and far from a fire,
+but the bottle helped him to do that,
+and he actually dozed a little on some dry leaves,
+even though the year was getting late
+and the air was chilly.
+He woke again with a specially loud sneeze.
+It was already grey morning,
+and there was a merry racket down by the river.
+They were making up a raft of barrels,
+and the raft-elves would soon be steering it off down the stream to Lake-town.
+Bilbo sneezed again.
+He was no longer dripping
+but he felt cold all over.
+He scrambled down as fast as his stiff legs would take him
+and managed
+just in time to get on to the mass of casks
+without being noticed in the general bustle.
+Luckily there was no sun at the time to cast an awkward shadow,
+and for a mercy he did not sneeze again for a good while.
+There was a mighty pushing of poles.
+The elves that were standing in the shallow water heaved and shoved.
+The barrels now all lashed together creaked and fretted.
+“This is a heavy load!”
+some grumbled.
+“They float too deep —
+some of these are never empty.
+If they had come ashore in the daylight,
+we might have had a look inside,”
+they said.
+“No time now!”
+cried the raftman.
+“Shove off!”
+And off they went at last,
+slowly at first,
+until they had passed the point of rock
+where other elves stood to fend them off with poles,
+and then quicker and quicker
+as they caught the main stream
+and went sailing away down,
+down towards the Lake.
+They had escaped the dungeons of the king
+and were through the wood,
+but whether alive or dead
+still remains to be seen.

@@ -1,0 +1,143 @@
+---
+type: richAudio
+title: "Table for guests of honor"
+mediaLink: "https://archive.org/download/hobbit_130/10-5.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/10-5.json"
+---
+So he gave up to him his own great chair
+and set Fili and Kili beside him in places of honour.
+Even Bilbo was given a seat at the high table,
+and no explanation of where he came in —
+no songs had alluded to him
+even in the obscurest way —
+was asked for in the general bustle.
+Soon afterwards
+the other dwarves were brought into the town amid scenes of astonishing enthusiasm.
+They were all doctored and fed and housed and pampered
+in the most delightful and satisfactory fashion.
+A large house was given up to Thorin and his company;
+boats and rowers were put at their service;
+and crowds sat outside
+and sang songs all day,
+or cheered if any dwarf showed so much as his nose.
+Some of the songs were old ones;
+but some of them were quite new
+and spoke confidently
+of the sudden death of the dragon
+and of cargoes of rich presents
+coming down the river to Lake-town.
+These were inspired largely by the Master
+and they did not particularly please the dwarves,
+but in the meantime they were well contented
+and they quickly grew fat and strong again.
+Indeed within a week they were quite recovered,
+fitted out in fine cloth of their proper colours,
+with beards combed and trimmed,
+and proud steps.
+Thorin looked
+and walked
+as if his kingdom was already regained
+and Smaug chopped up into little pieces.
+Then,
+as he had said,
+the dwarves’ good feeling towards the little hobbit grew stronger every day.
+There were no more groans or grumbles.
+They drank his health,
+and they patted him on the back,
+and they made a great fuss of him;
+which was just as well,
+for he was not feeling particularly cheerful.
+He had not forgotten the look of the Mountain,
+nor the thought of the dragon,
+and he had besides a shocking cold.
+For three days he sneezed and coughed,
+and he could not go out,
+and even after that his speeches at banquets were limited to
+“Thag you
+very buch.”
+In the meanwhile the Wood-elves had gone back up the Forest River with their cargoes,
+and there was great excitement in the king’s palace.
+I have never heard what happened to the chief of the guards and the butler.
+Nothing of course was ever said about keys or barrels
+while the dwarves stayed in Lake— town,
+and Bilbo was careful never to become invisible.
+Still, I daresay,
+more was guessed than was known,
+though doubtless Mr. Baggins remained a bit of a mystery.
+In any case
+the king knew now the dwarves’ errand,
+or thought he did,
+and he said to himself:
+“Very well!
+We’ll see!
+No treasure will come back through Mirkwood
+without my having something to say in the matter.
+But I expect they will all come to a bad end,
+and serve them right!”
+He at any rate
+did not believe in dwarves fighting and killing dragons like Smaug,
+and he strongly suspected attempted burglary or something like it
+which shows he was a wise elf
+and wiser than the men of the town,
+though not quite right,
+as we shall see in the end.
+He sent out his spies about the shores of the lake
+and as far northward towards the Mountains as they would go,
+and waited.
+At the end of a fortnight
+Thorin began to think of departure.
+While the enthusiasm still lasted in the town
+was the time to get help.
+It would not do to let everything cool down with delay.
+So he spoke to the Master and his councilors
+and said that soon
+he and his company
+must go on towards the Mountain.
+Then for the first time
+the Master was surprised
+and a little frightened;
+and he wondered if Thorin was after all really a descendant of the old kings.
+He had never thought that the dwarves would actually dare to approach Smaug,
+but believed they were frauds
+who would sooner or later be discovered
+and be turned out.
+He was wrong.
+Thorin, of course,
+was really the grandson of the King under the Mountain,
+and there is no knowing what a dwarf will not dare and do
+for revenge
+or the recovery of his own.
+But the Master was not sorry at all to let them go.
+They were expensive to keep,
+and their arrival had turned things into a long holiday
+in which business was at a standstill.
+“Let them go and bother Smaug,
+and see how he welcomes them!”
+he thought.
+“Certainly,
+O Thorin Thrain’s son Thror’s son!”
+was what he said.
+“You must claim your own.
+The hour is at hand,
+spoken of old.
+What help we can offer shall be yours,
+and we trust to your gratitude when your kingdom is regained.”
+So one day,
+although autumn was now getting far on,
+and winds were cold,
+and leaves were falling fast,
+three large boats left Lake-town,
+laden with rowers,
+dwarves,
+Mr. Baggins,
+and many provisions.
+Horses and ponies had been sent round by circuitous paths
+to meet them at their appointed landing-place.
+The Master and his councillors bade them farewell from the great steps of the town-hall that went down to the lake.
+People sang on the quays
+and out of windows.
+The white oars dipped and splashed,
+and off they went north up the lake
+on the last stage of their long journey.
+The only person thoroughly unhappy
+was Bilbo.

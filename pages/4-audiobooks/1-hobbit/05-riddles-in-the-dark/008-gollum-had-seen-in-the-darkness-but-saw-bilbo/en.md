@@ -1,0 +1,112 @@
+---
+type: richAudio
+title: "Gollum had seen in the darkness, but saw Bilbo"
+mediaLink: "https://archive.org/download/hobbit_130/5-8.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/5-8.json"
+---
+The hiss was close behind him.
+He turned now and saw Gollum’s eyes like small green lamps coming up the slope.
+Terrified he tried to run faster,
+but suddenly he struck his toes on a snag in the floor,
+and fell flat with his little sword under him.
+In a moment Gollum was on him.
+But before Bilbo could do anything,
+recover his breath,
+pick himself up,
+or wave his sword,
+Gollum passed by,
+taking no notice of him,
+cursing and whispering as he ran.
+What could it mean?
+Gollum could see in the dark.
+Bilbo could see the light of his eyes palely shining even from behind.
+Painfully he got up,
+and sheathed his sword,
+which was now glowing faintly again,
+then very cautiously he followed.
+There seemed nothing else to do.
+It was no good crawling back down to Gollum’s water.
+Perhaps if he followed him,
+Gollum might lead him to some way of escape without meaning to.
+“Curse it! curse it! curse it!”
+hissed Gollum.
+“Curse the Baggins!
+It’s gone!
+What has it got in its pocketses?
+Oh we guess, we guess, my precious.
+He’s found it,
+yes he must have. My birthday-present.”
+Bilbo pricked up his ears.
+He was at last beginning to guess himself.
+He hurried a little,
+getting as close as he dared behind Gollum,
+who was still going quickly,
+not looking back,
+but turning his head from side to side,
+as Bilbo could see from the faint glimmer on the walls.
+“My birthday-present!
+Curse it!
+How did we lose it,
+my precious,?
+Yes, that’s it.
+When we came this way last,
+when we twisted that nassty young squeaker.
+That’s it.
+Curse it!
+It slipped from us,
+after all these ages and ages!
+It’s gone,
+gollum.”
+Suddenly Gollum sat down and began to weep,
+a whistling and gurgling sound horrible to listen to.
+Bilbo halted and flattened himself against the tunnel-wall.
+After a while
+Gollum stopped weeping
+and began to talk.
+He seemed to be having an argument with himself.
+“It’s no good going back there to search,
+no.
+We doesn’t remember all the places we’ve visited.
+And it’s no use.
+The Baggins has got it in its pocketses;
+the nassty noser has found it, we says.”
+“We guesses, precious,
+only guesses,.
+We can’t know till we find the nassty creature and squeezes it.
+But it doesn’t know what the present can do, does it?
+It’ll just keep it in its pocketses.
+It doesn’t know,
+and it can’t go far.
+It’s lost itself,
+the nassty nosey thing.
+It doesn’t know the way out.
+It said so.”
+“It said so, yes; but it’s tricksy.
+It doesn’t say what it means.
+It won’t say what it’s got in its pocketses.
+It knows.
+It knows a way in,
+it must know a way out, yes.
+It’s off to the back-door.
+To the back-door, that’s it.”
+“The goblinses will catch it then.
+It can’t get out that way, precious.”
+“Ssss, sss, gollum! Goblinses! Yes, but if it’s got the present,
+our precious present,
+then goblinses will get it,
+gollum!
+They’ll find it,
+they’ll find out what it does.
+We shan’t ever be safe again, never,
+gollum!
+One of the goblinses will put it on, and then no one will see him.
+He’ll be there but not seen.
+Not even our clever eyeses will notice him;
+and he’ll come creepsy and tricksy and catch us, gollum,
+gollum!”
+“Then let’s stop talking, precious, and make haste.
+If the Baggins has gone that way,
+we must go quick and see.
+Go!
+Not far now.
+Make haste!”

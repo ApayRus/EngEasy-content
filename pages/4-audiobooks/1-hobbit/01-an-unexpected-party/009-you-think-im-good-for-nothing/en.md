@@ -1,0 +1,113 @@
+---
+type: richAudio
+title: "You think I'm good for nothing"
+mediaLink: "https://archive.org/download/hobbit_130/1-9.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/1-9.json"
+---
+“Pardon me,” he said,
+“if I have overheard words that you were saying.
+I don’t pretend to understand what you are talking about,
+or your reference to burglars,
+but I think I am right in believing ”
+(this is what he called being on his dignity)
+“that you think I am no good.
+I will show you.
+I have no signs on my door,
+it was painted a week ago,
+and I am quite sure you have come to the wrong house.
+As soon as I saw your funny faces on the door-step,
+I had my doubts.
+But treat it as the right one.
+Tell me what you want done, and I will try it,
+if I have to walk from here to the East of East
+and fight the wild Were-worms in the Last Desert.
+I had a great-great-great— granduncle once,
+Bullroarer Took, and —“
+“Yes, yes, but that was long ago,”
+said Gloin.
+“I was talking about you.
+And I assure you there is a mark on this door —
+the usual one in the trade,
+or used to be.
+Burglar wants a good job,
+plenty of Excitement and reasonable Reward,
+that’s how it is usually read.
+You can say
+Expert Treasure-hunter
+instead of Burglar if you like.
+Some of them do.
+It’s all the same to us.
+Gandalf told us that there was a man of the sort in these parts looking for a Job at once,
+and that he had arranged for a meeting here this Wednesday tea-time.”
+“Of course there is a mark,”
+said Gandalf.
+“I put it there myself.
+For very good reasons.
+You asked me to find the fourteenth man for your expedition,
+and I chose Mr. Baggins.
+Just let any one say I chose the wrong man or the wrong house,
+and you can stop at thirteen and have all the bad luck you like,
+or go back to digging coal.”
+He scowled so angrily at Gloin that the dwarf huddled back in his chair;
+and when Bilbo tried to open his mouth to ask a question,
+he turned and frowned at him
+and stuck out his bushy eyebrows,
+till Bilbo shut his mouth tight with a snap.
+“That’s right,”
+said Gandalf.
+“Let’s have no more argument.
+I have chosen Mr. Baggins
+and that ought to be enough for all of you.
+If I say he is a Burglar,
+a Burglar he is,
+or will be when the time comes.
+There is a lot more in him than you guess,
+and a deal more than he has any idea of himself.
+You may (possibly) all live to thank me yet.
+Now Bilbo, my boy,
+fetch the lamp,
+and let’s have little light on this!”
+On the table in the light of a big lamp
+with a red shade
+he spread a piece of parchment rather like a map.
+“This was made by Thror,
+your grandfather, Thorin,
+he said in answer to the dwarves’ excited questions.
+“It is a plan of the Mountain.”
+“I don’t see that this will help us much,”
+said Thorin disappointedly after a glance.
+“I remember the Mountain well enough and the lands about it.
+And I know where Mirkwood is,
+and the Withered Heath where the great dragons bred.”
+“There is a dragon marked in red on the Mountain,
+said Balin,
+“but it will be easy enough to find him without that,
+if ever we arrive there.”
+“There is one point that you haven’t noticed,”
+said the wizard,
+“and that is the secret entrance.
+You see that rune on the West side,
+and the hand pointing to it from the other runes?
+That marks a hidden passage to the Lower Halls.
+“It may have been secret once,”
+said Thorin,
+“but how do we know that it is secret any longer?
+Old Smaug had lived there long enough now to find out anything there is to know about those caves.”
+“He may —
+but he can’t have used it for years and years.
+“Why?”
+“Because it is too small.
+‘Five feet high the door and three may walk abreast ’
+say the runes,
+but Smaug could not creep into a hole that size,
+not even when he was a young dragon,
+certainly not after devouring so many of the dwarves and men of Dale.”
+“It seems a great big hole to me,”
+squeaked Bilbo
+(who had no experience of dragons
+and only of hobbit— holes.
+He was getting excited and interested again,
+so that he forgot to keep his mouth shut.
+He loved maps,
+and in his hall there hung a large one of the Country Round
+with all his favourite walks marked on it in red ink.

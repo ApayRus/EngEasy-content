@@ -1,0 +1,103 @@
+---
+type: richAudio
+title: "Bilbo escaped the goblins"
+mediaLink: "https://archive.org/download/hobbit_130/6-1.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/6-1.json"
+---
+Chapter 6.
+Out of the Frying-Pan into the Fire
+Bilbo had escaped the goblins,
+but he did not know where he was.
+He had lost hood,
+cloak,
+food,
+pony,
+his buttons and his friends.
+He wandered on and on,
+till the sun began to sink westwards —
+behind the mountains.
+Their shadows fell across Bilbo’s path,
+and he looked back.
+Then he looked forward
+and could see before him only ridges and slopes falling towards lowlands and plains
+glimpsed occasionally between the trees.
+“Good heavens!”
+he exclaimed.
+“I seem to have got right to the other side of the Misty Mountains,
+right to the edge of the Land Beyond!
+Where and O, where can Gandalf and the dwarves have got to?
+I only hope to goodness they are not still back there in the power of the goblins!”
+He still wandered on,
+out of the little high valley,
+over its edge,
+and down the slopes beyond;
+but all the while a very uncomfortable thought was growing inside him.
+He wondered whether he ought not,
+now he had the magic ring,
+to go back into the horrible,
+horrible tunnels and look for his friends.
+He had just made up his mind that it was his duty,
+that he must turn back —
+and very miserable he felt about it —
+when he heard voices.
+He stopped and listened.
+It did not sound like goblins;
+so he crept forward carefully.
+He was on a stony path winding downwards
+with a rocky wall on the left hand;
+on the other side the ground sloped away
+and there were dells below the level of the path
+overhung with bushes and low trees.
+In one of these dells under the bushes
+people were talking.
+He crept still nearer,
+and suddenly he saw peering between two big boulders
+a head with a red hood on:
+it was Balin doing look-out.
+He could have clapped and shouted for joy,
+but he did not.
+He had still got the ring on,
+for fear of meeting something unexpected and unpleasant,
+and he saw that Balin was looking straight at him without noticing him.
+“I will give them all a surprise,”
+he thought,
+as he crawled into the bushes at the edge of the dell.
+Gandalf was arguing with the dwarves.
+They were discussing all that had happened to them in the tunnels,
+and wondering and debating what they were to do now.
+The dwarves were grumbling,
+and Gandalf was saying that they could not possibly go on with their journey leaving Mr. Baggins in the hands of the goblins,
+without trying to find out if he was alive or dead,
+and without trying to rescue him.
+“After all he is my friend,”
+said the wizard,
+“and not a bad little chap.
+I feel responsible for him.
+I wish to goodness you had not lost him.”
+The dwarves wanted to know why he had ever been brought at all,
+why he could not stick to his friends and come along with them,
+and why the wizard had not chosen someone with more sense.
+“He has been more trouble than use so far,”
+said one.
+“If we have got to go back now into those abominable tunnels to look for him,
+then drat him, I say.”
+Gandalf answered angrily:
+“I brought him,
+and I don’t bring things that are of no use.
+Either you help me to look for him,
+or I go and leave you here to get out of the mess as best you can yourselves.
+If we can only find him again,
+you will thank me before all is over.
+Whatever did you want to go and drop him for, Dori?”
+“You would have dropped him,”
+said Dori,
+“if a goblin had suddenly grabbed your leg from behind in the dark,
+tripped up your feet,
+and kicked you in the back!”
+“Then why didn’t you pick him up again?”
+“Good heavens!
+Can you ask!
+Goblins fighting and biting in the dark,
+everybody falling over bodies and hitting one another!
+You nearly chopped off my head with Glamdring,
+and Thorin was stabbing here there and everywhere with Orcrist.

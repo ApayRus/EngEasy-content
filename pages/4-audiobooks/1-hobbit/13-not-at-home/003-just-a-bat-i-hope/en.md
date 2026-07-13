@@ -1,0 +1,132 @@
+---
+type: richAudio
+title: "Just a bat, I hope"
+mediaLink: "https://archive.org/download/hobbit_130/13-3.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/13-3.json"
+---
+“Only a bat,
+I suppose and hope!”
+he said miserably.
+But now what am I to do?
+Which is East,
+South,
+North,
+West?”
+“Thorin!
+Balin!
+Oin!
+Gloin!
+Fili!
+Kili!”
+he cried as loud he could —
+it seemed a thin little noise in the wide blackness.
+“The light’s gone out!
+Someone come and find and help me!”
+For the moment his courage had failed altogether.
+Faintly the dwarves heard his small cries,
+though the only word they could catch was
+‘help’!
+“Now what on earth
+or under it has happened?”
+said Thorin.
+“Certainly not the dragon,
+or he would not go on squeaking.”
+They waited a moment or two,
+and still there were no dragon-noises,
+no sound at all in fact but Bilbo’s distant voice.
+“Come,
+one of you,
+get another light or two!”
+Thorin ordered.
+“It seems we have got to go and help our burglar.”
+“It is about our turn to help,”
+said Balin,
+“and I am quite willing to go.
+Anyway I expect it is safe for the moment.”
+Gloin lit several more torches,
+and then they all crept out,
+one by one,
+and went along the wall as hurriedly as they could.
+It was not long before they met Bilbo himself
+coming back towards them.
+His wits had quickly returned soon as he saw the twinkle of their lights.
+“Only a bat and a dropped torch, nothing worse!”
+he said in answer to their questions.
+Though they were much relieved,
+they were inclined to be grumpy at being frightened for nothing;
+but what they would have said,
+if he had told them at that moment about the Arkenstone,
+I don’t know.
+The mere fleeting glimpses of treasure
+which they had caught as they went along
+had rekindled all the fire of their dwarvish hearts;
+and when the heart of a dwarf,
+even the most respectable,
+is wakened by gold and by jewels,
+he grows suddenly bold,
+and he may become fierce.
+The dwarves indeed no longer needed any urging.
+All were now eager to explore the hall
+while they had the chance,
+and willing to believe that,
+for the present,
+Smaug was away from home.
+Each now gripped a lighted torch;
+and as they gazed,
+first on one side and then on another,
+they forgot fear
+and even caution.
+They spoke aloud,
+and cried out to one another,
+as they lifted old treasures from the mound or from the wall
+and held them in the light
+caressing and fingering them.
+Fili and Kili were almost in merry mood,
+and finding still hanging there
+many golden harps strung with silver
+they took them and struck them;
+and being magical
+and also untouched by the dragon,
+who had small interests in music
+they were still in tune.
+The dark hall was filled with a melody that had long been silent.
+But most of the dwarves were more practical;
+they gathered gems and stuffed their pockets,
+and let what they could not carry
+far back through their fingers with a sigh.
+Thorin was not least among these;
+but always he searched from side to side for something which he could not find.
+It was the Arkenstone
+but he spoke of it yet to no one.
+Now the dwarves took down mail and weapons from the walls,
+and armed themselves.
+Royal indeed did Thorin look,
+clad in a coat of gold-plated rings,
+with a silver hafted axe in a belt crusted with scarlet stones.
+“Mr. Baggins!”
+he cried.
+“Here is the first
+payment of your reward!
+Cast off your old coat
+and put on this!”
+With that
+he put on Bilbo a small coat of mail,
+wrought for some young elf-prince long ago.
+It wasof silver-steel
+which the elves call
+mithril,
+and with it went a belt of pearls and crystals.
+A light helm of figured leather,
+strengthened beneath with hoops of steel,
+and studded about the brim with white gems,
+was set upon the hobbit’s head.
+“I feel magnificent,”
+he thought;
+“but I expect I look rather absurd.
+How they would laugh on the Hill at home.
+Still I wish there was a looking-glass handy!”
+All the same Mr. Baggins kept his head more clear of the bewitchment of the hoard than the dwarves did.
+Long before the dwarves were tired of examining the treasures
+he became weary of it
+and sat down on the floor;
+and he began to wonder nervously what the end of it all would be.

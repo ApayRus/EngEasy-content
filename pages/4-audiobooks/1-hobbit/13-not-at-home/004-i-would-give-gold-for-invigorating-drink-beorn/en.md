@@ -1,0 +1,113 @@
+---
+type: richAudio
+title: "I would give gold for invigorating drink Beorn"
+mediaLink: "https://archive.org/download/hobbit_130/13-4.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/13-4.json"
+---
+“I would give a good many of these precious goblets,
+though,
+for a drink of something cheering out of one Beorn’s wooden bowls!”
+“Thorin!”
+he cried aloud.
+“What next?
+We are armed,
+but what good has any armour ever been before against Smaug the Dreadful?
+This treasure is not yet won back.
+We are not looking for gold yet,
+but for a way of escape;
+and we have tempted luck too long!”
+“You speak the truth!”
+answered Thorin,
+recovering his wits.
+“Let us go!
+I will guide you.
+Not in a thousand years should I forget the ways of this palace.”
+Then he hailed the others,
+and they gathered together,
+and holding their torches above their heads
+they passed through the gaping doors,
+not without many a backward glance of longing.
+Their glittering mail they had covered again with their old cloaks
+and their bright helms with their tattered hoods,
+and one by one they walked behind Thorin,
+a line of little lights in the darkness that halted often,
+listening in fear once more for any rumour of the dragon’s coming.
+Though all the old adornments were long mouldered or destroyed,
+and though all was befouled and blasted with the comings and goings of the monster,
+Thorin knew every passage and every turn.
+They climbed long stairs,
+and turned and went down wide echoing ways,
+and turned again and climbed yet more stairs,
+and yet more stairs again.
+These were smooth,
+cut out of the living rock broad and lain;
+and up, up, the dwarves went,
+and they met no sign of any living thing,
+only furtive shadows
+that fled from the approach of their torches fluttering in the draughts.
+The steps were not made,
+all the same,
+for hobbit-legs,
+and Bilbo was just feeling that he could go on no longer,
+when suddenly the roof sprang high and far beyond the reach of their torch-light.
+A white glimmer could be seen coming through some opening far above,
+and the air smelt sweeter.
+Before them light came dimly through great doors,
+that hung twisted on their hinges and half burnt.
+“This is the great chamber of Thror,”
+said Thorin;
+“the hall of feasting and of council.
+Not far off now is the Front Gate.”
+They passed through the ruined chamber.
+Tables were rotting there;
+chairs and benches were lying there overturned,
+charred and decaying.
+Skulls and bones were upon the floor
+among flagons and bowls and broken drinking— horns and dust.
+As they came through yet more doors at the further end,
+a sound of water fell upon their ears,
+and the grey light grew suddenly more full.
+“There is the birth of the Running River,”
+said Thorin.
+“From here it hastens to the Gate.
+Let us follow it!”
+Out of a dark opening in a wall of rock
+there issued a boiling water,
+and it flowed swirling in a narrow channel,
+carved and made straight and deep
+by the cunning of ancient hands.
+Beside it ran a stone-paved road,
+wide enough for many men abreast.
+Swiftly along this they ran,
+and round a wide-sweeping turn —
+and behold!
+before them
+stood the broad light of day.
+In front there rose a tall arch,
+still showing the fragments of old carven work within,
+worn and splintered and blackened though it was.
+A misty sun sent its pale light between the arms of the Mountain,
+and beams of gold
+fell on the pavement at the threshold.
+A whirl of bats frightened from slumber by their smoking torches flurried over them;
+as they sprang forward their feet slithered on stones rubbed smooth and slimed by the passing of the dragon.
+Now before them
+the water fell noisily outward
+and foamed down towards the valley.
+They flung their pale torches to the ground,
+and stood gazing out with dazzled eyes.
+They were come to the Front Gate,
+and were looking out upon Dale.
+“Well!”
+said Bilbo,
+“I never expected to be looking out of this door.
+And I never expected to be so pleased to see the sun again,
+and to feel the wind on my face.
+But, ow!
+this wind is cold!”
+It was.
+A bitter easterly breeze blew with a threat of oncoming winter.
+It swirled over and round the arms of the Mountain into the valley,
+and sighed among the rocks.
+After their long time in the stewing depths of the dragon-haunted caverns,
+they shivered in the sun.

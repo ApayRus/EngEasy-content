@@ -1,0 +1,114 @@
+---
+type: richAudio
+title: "Who are you? Traveling circus?"
+mediaLink: "https://archive.org/download/hobbit_130/7-5.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/7-5.json"
+---
+“As soon as we were asleep,”
+went on Gandalf,
+“a crack at the back of the cave opened;
+goblins came out and grabbed the hobbit and the dwarves and our troop of ponies —“
+“Troop of ponies?
+What were you —
+a travelling circus?
+Or were you carrying lots of goods?
+Or do you always call six a troop?”
+“O no!
+As a matter of fact there were more than six ponies,
+for there were more than six of us — and well,
+here are two more!”
+Just at that moment
+Balin and Dwalin appeared and bowed so low that their beards swept the stone floor.
+The big man was frowning at first,
+but they did their very best to be frightfully polite,
+and kept on nodding and bending and bowing and waving their hoods before their knees
+in proper dwarf-fashion,
+till he stopped frowning and burst into a chuckling laugh;
+they looked so comical.
+“Troop, was right,” he said.
+“A fine comic one.
+Come in my merry men,
+and what are your names?
+I don’t want your service just now,
+only your names;
+and then sit down and stop wagging!”
+“Balin and Dwalin,”
+they said
+not daring to be offended,
+and sat flop on the floor looking rather surprised.
+“Now go on again!”
+said Beorn to the wizard.
+“Where was I? O yes —
+I was not grabbed.
+I killed a goblin or two with a flash —“
+“Good!”
+growled Beorn.
+“It is some good being a wizard, then.”
+“— and slipped inside the crack before it closed.
+I followed down into the main hall,
+which was crowded with goblins.
+The Great Goblin was there with thirty or forty armed guards.
+I thought to myself
+‘even if they were not all chained together,
+what can a dozen do against so many?’ “
+“A dozen!
+That’s the first time I’ve heard eight called a dozen.
+Or have you still got some more jacks that haven’t yet come out of their boxes?”
+“Well, yes, there seem to be a couple more here now — Fili and Kili, I believe,”
+said Gandalf,
+as these two now appeared and stood smiling and bowing.
+“That’s enough!”
+said Beorn.
+“Sit down and be quiet!
+Now go on, Gandalf!”
+So Gandalf went on with the tale,
+until he came to the fight in the dark,
+the discovery of the lower gate,
+and their horror when they found that Mr. Baggins had been mislaid.
+“We counted ourselves and found that there was no hobbit.
+There were only fourteen of us left!”
+“Fourteen!
+That’s the first time I’ve heard one from ten leave fourteen.
+You mean nine,
+or else you haven’t told me yet all the names of your party.”
+“Well, of course you haven’t seen Oin and Gloin yet. And, bless me! here they are.
+I hope you will forgive them for bothering you.”
+“O let ‘em all come! Hurry up! Come along, you two, and sit down!
+But look here, Gandalf,
+even now we have only got yourself and ten dwarves and the hobbit that was lost.
+That only makes eleven
+plus one mislaid
+and not fourteen,
+unless wizards count differently to other people.
+But now please get on with the tale.”
+Beorn did not show it more than he could help,
+but really
+he had begun to get very interested.
+You see,
+in the old days
+he had known the very part of the mountains that Gandalf was describing.
+He nodded and he growled,
+when he heard of the hobbit’s reappearance and of their scramble down the stone-slide
+and of the wolf-ring in the woods.
+When Gandalf came to their climbing into trees with the wolves all underneath,
+he got up and strode about and muttered:
+“I wish I had been there!
+I would have given them more than fireworks!”
+“Well,”
+said Gandalf
+very glad to see that his tale was making a good impression,
+“I did the best I could.
+There we were with the wolves going mad underneath us
+and the forest beginning to blaze in places,
+when the goblins came down from the hills and discovered us.
+They yelled with delight and sang songs making fun of us.
+Fifteen birds in five firtrees …”
+“Good heavens!”
+growled Beorn.
+“Don’t pretend that goblins can’t count. They can.
+Twelve isn’t fifteen and they know it.”
+“And so do I.
+There were Bifur and Bofur as well.
+I haven’t ventured to introduce them before,
+and here they are.”
+In came Bifur and Bofur.

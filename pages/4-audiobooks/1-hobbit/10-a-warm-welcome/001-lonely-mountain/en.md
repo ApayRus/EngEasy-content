@@ -1,0 +1,102 @@
+---
+type: richAudio
+title: "Lonely Mountain!"
+mediaLink: "https://archive.org/download/hobbit_130/10-1.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/10-1.json"
+---
+Chapter 10.
+A Warm Welcome
+The day grew lighter and warmer as they floated along.
+After a while the river rounded a steep shoulder of land that came down upon their left.
+Under its rocky feet
+like an inland cliff
+the deepest stream had flowed lapping and bubbling.
+Suddenly the cliff fell away.
+The shores sank.
+The trees ended.
+Then Bilbo saw a sight:
+The lands opened wide about him,
+filled with the waters of the river which broke up
+and wandered in a hundred winding courses,
+or halted in marshes and pools dotted with isles on every side:
+but still a strong water flowed on steadily through the midst.
+And far away,
+its dark head in a torn cloud,
+there loomed the Mountain!
+Its nearest neighbours to the North-East
+and the tumbled land that joined it to them
+could not be seen.
+All alone it rose and looked across the marshes to the forest.
+The Lonely Mountain!
+Bilbo had come far
+and through many adventures to see it,
+and now he did not like the look of it in the least.
+As he listened to the talk of the raftmen
+and pieced together the scraps of information they let fall,
+he soon realized that he was very fortunate
+ever to have seen it at all,
+even from this distance.
+Dreary as had been his imprisonment and unpleasant as was his position
+to say nothing of the poor dwarves underneath him
+still,
+he had been more lucky than he had guessed.
+The talk was all of the trade
+that came and went on the waterways
+and the growth of the traffic on the river
+as the roads out of the East towards Mirkwood
+vanished or fellinto disuse;
+and of the bickerings of the Lake-men
+and the Wood-elves about the upkeep of the Forest River
+and the care of the banks.
+Those lands had changed much
+since the days when dwarves dwelt in the Mountain,
+days which most people now remembered only as a very shadowy tradition.
+They had changed even in recent years,
+and since the last news that Gandalf had had of them.
+Great floods and rains had swollen the waters that flowed east;
+and there had been an earthquake or two
+which some were inclined to attribute to the dragon —
+alluding to him chiefly with a curse
+and an ominous nod in the direction of the Mountain.
+The marshes and bogs had spread wider and wider on either side.
+Paths had vanished,
+and many a rider and wanderer too,
+if they had tried to find the lost ways across.
+The elf-road through the wood which the dwarves had followed on the advice of Beorn
+now came to a doubtful and little used end at the eastern edge of the forest;
+only the river offered any longer a safe way from the skirts of Mirkwood in the North
+to the mountain-shadowed plains beyond,
+and the river was guarded by the Wood-elves’ king.
+So you see
+Bilbo had come in the end by the only road that was any good.
+It might have been some comfort to Mr. Baggins shivering on the barrels,
+if he had known that news of this
+had reached Gandalf far away and given him great anxiety,
+and that he was in fact finishing his other business
+which does not come into this tale
+and getting ready to come in search of Thorin’s company.
+But Bilbo did not know it.
+All he knew
+was that the river seemed to go on and on and on for ever,
+and he was hungry,
+and had a nasty cold in the nose,
+and did not like the way the Mountain seemed to frown at him
+and threaten him as it drew ever nearer.
+After a while, however,
+the river took a more southerly course
+and the Mountain receded again,
+and at last,
+late in the day the shores grew rocky,
+the river gathered all its wandering waters together into a deep and rapid flood,
+and they swept along at great speed.
+The sun had set when turning with another sweep
+towards the East
+the forest-river rushed into the Long Lake.
+There it had a wide mouth with stony clifflike gates at either side
+whose feet were piled with shingles.
+The Long Lake!
+Bilbo had never imagined that any water that was not the sea could look so big.
+It was so wide that the opposite shores looked small and far,
+but it was so long that its northerly end,
+which pointed towards the Mountain,
+could not be seen at all.

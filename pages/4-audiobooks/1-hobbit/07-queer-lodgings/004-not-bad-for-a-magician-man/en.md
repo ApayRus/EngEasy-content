@@ -1,0 +1,124 @@
+---
+type: richAudio
+title: "Not bad for a magician man"
+mediaLink: "https://archive.org/download/hobbit_130/7-4.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/7-4.json"
+---
+“Yes;
+not a bad fellow as wizards go, I believe.
+I used to see him now and again,”
+said Beorn.
+“Well, now I know who you are,
+or who you say you are.
+What do you want?”
+“To tell you the truth,
+we have lost our luggage and nearly lost our way,
+and are rather in need of help, or at least advice.
+I may say we have had rather a bad time with goblins in the mountains.”
+“Goblins?”
+said the big man less gruffly.
+“Oho,
+so you’ve been having trouble with them, have you?
+What did you go near them for?”
+“We did not mean to.
+They surprised us at night in a pass which we had to cross,
+we were coming out of the Lands over West into these countries —
+it is a long tale.”
+“Then you had better come inside and tell me some of it,
+if it won’t take all day,”
+said the man leading the way through a dark door that opened out of the courtyard into the house.
+Following him they found themselves in a wide hall with a fire-place in the middle.
+Though it was summer
+there was a wood-fire burning and the smoke was rising to the blackened rafters in search of the way out
+through an opening in the roof.
+They passed through this dim hall,
+lit only by the fire and the hole above it,
+and came through another smaller door
+into a sort of veranda
+propped on wooden posts made of single tree-trunks.
+It faced south and was still warm and filled with the light of the westering sun which slanted into it,
+and fell golden on the garden full of flowers that came right up to the steps.
+Here they sat on wooden benches
+while Gandalf began his tale,
+and Bilbo swung his dangling legs and looked at the flowers in the garden,
+wondering what their names could be,
+as he had never seen half of them before.
+“I was coming over the mountains with a friend or two …”
+said the wizard.
+“Or two?
+I can only see one,
+and a little one at that,”
+said Beorn.
+“Well to tell you the truth,
+I did not like to bother you with a lot of us, until I found out if you were busy.
+I will give a call, if I may.”
+“Go on, call away!”
+So Gandalf gave a long shrill whistle,
+and presently Thorin and Dori came round the house by the garden path
+and stood bowing low before them.
+“One or three you meant, I see!”
+said Beorn.
+“But these aren’t hobbits,
+they are dwarves!”
+“Thorin Oakenshield,
+at your service!
+Dori at your service!”
+said the two dwarves bowing again.
+“I don’t need your service, thank you,”
+said Beorn,
+“but I expect you need mine.
+I am not over fond of dwarves;
+but if it is true
+and you are Thorin
+son of Thrain, son of Thror, I believe,
+and that your companion is respectable,
+and that you are enemies of goblins and are not up to any mischief in my lands —
+what are you up to, by the way?”
+“They are on their way to visit the land of their fathers, away east beyond Mirkwood,”
+put in Gandalf,
+“and it is entirely an accident
+that we are in your lands at all.
+We were crossing by the High Pass that should have brought us to the road that lies to the south of your country,
+when we were attacked by the evil goblins —
+as I was about to tell you.”
+“Go on telling, then!”
+said Beorn,
+who was never very polite.
+“There was a terrible storm;
+the stone-giants were out hurling rocks,
+and at the head of the pass we took refuge in a cave,
+the hobbit and I and several of our companions …”
+“Do you call two several?”
+“Well, no.
+As a matter of fact there were more than two.”
+“Where are they?
+Killed,
+eaten,
+gone home?”
+“Well, no.
+They don’t seem all to have come when I whistled.
+Shy, I expect.
+You see,
+we are very much afraid that we are rather a lot for you to entertain.”
+“Go on, whistle again!
+I am in for a party, it seems,
+and one or two more won’t make much difference,”
+growled Beorn.
+Gandalf whistled again;
+but Nori and Ori were there almost before he had stopped, for,
+if you remember,
+Gandalf had told them to come in pairs every five minutes.
+“Hullo!”
+said Beorn.
+“You came pretty quick —
+where were you hiding?
+Come on my jack-in-the-boxes!”
+“Nori at your service,
+Ori at …”
+they began;
+but Beorn interrupted them.
+“Thank you!
+When I want your help I will ask for it.
+Sit down,
+and let’s get on with this tale,
+or it will be supper-time before it is ended.”

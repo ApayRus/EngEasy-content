@@ -1,0 +1,111 @@
+---
+type: richAudio
+title: "wine Dorviniona"
+mediaLink: "https://archive.org/download/hobbit_130/9-5.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/9-5.json"
+---
+The wine of Dorwinion brings deep and pleasant dreams.
+There would be a different expression on the face of the chief guard next day,
+even though Bilbo,
+before they went on,
+stole in and kindheartedly put the keys back on his belt.
+“That will save him some of the trouble he is in for,”
+said Mr. Baggins to himself.
+“He wasn’t a bad fellow, and quite decent to the prisoners.
+It will puzzle them all too.
+They will think we had a very strong magic to pass through all those locked doors and disappear.
+Disappear!
+We have got to get busy very quick,
+if that is to happen!”
+Balin was told off to watch the guard and the butler and give warning if they stirred.
+The rest went into the adjoining cellar with the trapdoors.
+There was little time to lose.
+Before long,
+as Bilbo knew,
+some elves were under orders to come down
+and help the butler get the empty barrels through the doors into the stream.
+These were in fact already standing in rows in the middle of the floor
+waiting to be pushed off.
+Some of them were wine-barrels,
+and these were not much use,
+as they could not easily be opened at the end
+without a deal of noise,
+nor could they easily be secured again.
+But among them were several others
+which had been used for bringing other stuffs,
+butter,
+apples,
+and all sorts of things,
+to the king’s palace.
+They soon found thirteen with room enough for a dwarf in each.
+In fact some were too roomy,
+and as they climbed in the dwarves thought anxiously of the shaking and the bumping they would get inside,
+though Bilbo did his best to find straw and other stuff to pack them in as cosily as could be managed in a short time.
+At last
+twelve dwarves were stowed.
+Thorin had given a lot of trouble,
+and turned and twisted in his tub and grumbled like a large dog in a small kennel;
+while Balin,
+who came last,
+made a great fuss about his air-holes and said he was stifling,
+even before his lid was on.
+Bilbo had done what he could to close holes in the sides of the barrels,
+and to fix on all the lids as safely as could be managed,
+and now he was left alone again,
+running round putting the finishing touches to the packing,
+and hoping against hope
+that his plan would come off.
+It had not been a-bit too soon.
+Only a minute or two after Balin’s lid had been fitted on
+there came the sound of voices
+and the flicker of lights.
+A number of elves came laughing and talking into the cellars
+and singing snatches of song.
+They had left a merry feast in one of the halls
+and were bent on returning as soon as they could.
+“Where’s old Galion, the butler?”
+said one.
+“I haven’t seen him at the tables tonight.
+He ought to be here now to show us what is to be done.”
+“I shall be angry if the old slowcoach is late,”
+said another.
+“I have no wish to waste time down here while the song is up!”
+“Ha, ha!”
+came a cry.
+“Here’s the old villain with his head on a jug!
+He’s been having a little feast all to himself and his friend the captain.”
+“Shake him!
+Wake him!”
+shouted the others impatiently.
+Galion was not at all pleased at being shaken or wakened,
+and still less at being laughed at.
+“You’re all late,”
+he grumbled.
+“Here am I waiting and waiting down here,
+while you fellows drink and make merry and forget your tasks.
+Small wonder if I fall asleep from weariness!”
+“Small wonder,”
+said they,
+“when the explanation stands close at hand in a jug!
+Come
+give us a taste of your sleeping-draught before we fall to!
+No need to wake the turnkey yonder.
+He has had his share by the looks of it.”
+Then they drank once round
+and became mighty merry all of a sudden.
+But they did not quite lose their wits.
+“Save us, Galion!” cried some,
+“you began your feasting early and muddled your wits!
+You have stacked some full casks here instead of the empty ones,
+if there is anything in weight.”
+“Get on with the work!”
+growled the butler.
+“There is nothing in the feeling of weight in an idle toss-pot’s arms.
+These are the ones to go and no others.
+Do as I say!”
+“Very well,
+very well,”
+they answered rolling the barrels to the opening.
+“On your head be it,
+if the king’s full buttertubs
+and his best wine is pushed into the river for the Lake-men to feast on for nothing!”

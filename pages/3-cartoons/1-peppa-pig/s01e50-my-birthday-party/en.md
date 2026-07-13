@@ -1,78 +1,130 @@
 ---
 type: richVideo
-title: My Birthday Party (s01e50)
-description: >-
-  It's Peppa's birthday and she wakes up early to make sure her special day
-  lasts.
-mediaLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e50-my-birthday-party.mp4'
-peaksLink: 'https://archive.org/download/peppa-pig-all-episodes/s01e50-my-birthday-party.json'
+title: "My Birthday Party (s01e50)"
+description: "It's Peppa's birthday and she wakes up early to make sure her special day lasts."
+mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s01e50-my-birthday-party.mp4"
+peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s01e50-my-birthday-party.json"
 ---
 
 I'm Peppa Pig.
-This is my little brother George, this is Mommy Pig, and this is Daddy Pig.
-My Birthday Party.
-Today is Peppa's birthday.
-It is very early in the morning.
-Wake up, George. It's my birthday.
-Peppa runs into Mummy and Daddy Pig's bedroom.
-Wake up, it's my birthday.
-Happy birthday, Peppa.
-Peppa goes downstairs to see her presents.
-Look at all the cards.
-And here is your present, Peppa.
-Peppa opens her present.
-It is a beautiful doll's house.
-Wow, thank you, Mummy and Daddy.
-Peppa loves her doll's house.
-Now it is time for Peppa's birthday party.
-All her friends are coming.
-The guests have arrived.
-Hello, everyone.
-Happy birthday, Peppa.
-Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony are here.
-We are going to play party games.
-First, they play musical statues.
-Daddy Pig plays the music on the piano.
-When the music stops, everyone must stand perfectly still.
-The music stops.
-Rebecca Rabbit moves her ears.
-Oh, Rebecca, you moved.
-Next, Danny Dog moves his tail.
-You're out, Danny.
-Now it is just Peppa and Suzy.
-The music stops.
-Suzy is completely still.
-Peppa giggles.
-Oh, Peppa, you giggled.
-Suzy Sheep is the winner.
-Well done, Suzy.
-Now, Daddy Pig is going to do a magic show.
-I am the Amazing Mysterio.
-Daddy Pig wears a big black top hat.
-For my first trick, I shall make a coin disappear.
-Daddy Pig makes the coin disappear.
-Wow, how did you do that, Daddy?
-A magician never reveals his secrets, Peppa.
-Now, I shall pull a rabbit out of my hat.
-Daddy Pig reaches into his hat.
-He pulls out Rebecca Rabbit.
-No, Daddy, that's just Rebecca.
-Oh, sorry, wrong rabbit.
-Daddy Pig reaches into the hat again.
-This time he pulls out a little white toy rabbit.
-Hurrah!
-The children clap and cheer.
-That was a brilliant magic show, Daddy.
-Now it is time for the birthday cake.
-Mummy Pig brings out a big cake with candles on it.
-Look at the cake.
-Happy birthday to you.
-Happy birthday to you.
-Happy birthday, dear Peppa.
-Happy birthday to you.
-Blow out the candles, Peppa.
-Peppa blows out all the candles.
-Hurrah!
-Everyone loves birthday parties.
-But Peppa loves them the most.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
 Peppa Pig.
+My Birthday Party.
+It is Peppa's birthday.
+It is very early in the morning.
+It's my birthday!
+George, wake up! It's my birthday!
+I'm going to have a party,
+and Daddy's doing a magic show.
+Quick, George!
+Let's wake Mummy and Daddy up.
+Mummy Pig and Daddy Pig are still fast asleep.
+Wake up! It's my birthday!
+Wake up!
+What time is it?
+It's very late.
+It's five o'clock in the morning.
+Yes, the whole day is going.
+Okay, let's get your birthday started.
+Yippee!
+Mummy Pig, Daddy Pig and George are giving Peppa her birthday present.
+What is it?
+A doll's dress.
+I can put it on Teddy.
+Thank you, everyone.
+You're welcome, Peppa.
+I didn't know Teddy was a girl.
+Oh, Daddy!
+Of course Teddy's a girl.
+I love my new dress.
+Thank you, everyone.
+You're welcome, Teddy. 
+Don't get it dirty.
+Do you know what's happening next, Peppa?
+Yes.
+My friends are coming for my birthday party,
+and Daddy's doing a magic show.
+No one will know the magician is your daddy.
+You will introduce me 
+as the Amazing Mysterio.
+The Amazing Mysterio.
+Yes.
+The Amazing Mysterio.
+Daddy's been practising his magic tricks all week.
+My friends are here!
+Yippee!
+Here are Peppa's friends:
+Candy Cat,
+Suzy Sheep,
+Danny Dog,
+Rebecca Rabbit and Pedro Pony.
+Hello, everyone!
+Happy Birthday, Peppa!
+Come on, children.
+The party is starting.
+Hooray!
+Daddy Pig is going to do a magic show.
+Peppa, 
+remember what you have to say.
+Ladies and gentlemen,
+introducing
+The Amazing Mysterio!
+OK, Daddy.
+Ladies and gentlemen...
+It's Magic Daddy!
+Hoorey
+For my first trick...
+Abracadabra!
+Wow!
+It's Teddy!
+For my next trick,
+I need a helper from the audience.
+Me! Me!
+I just need one. 
+Young lady.
+You put your hand up first.
+Can you tell the audience your name?
+Suzy Sheep.
+Okay, Suzy.
+Here are three balls:
+a red one,
+a blue one,
+and a yellow one.
+Okay.
+You have to secretly choose one
+while my back is turned.
+Okay.
+Have you chosen one?
+Yes.
+Abracadabra!
+You chose 
+yellow.
+No.
+Abracadabra!
+Blue.
+No.
+Abracadabra!
+Red.
+Yes!
+It is red!
+Hooray!
+Silly Magic Daddy.
+You said all three colours.
+Shush, Peppa, don't tell anyone.
+Would you like one more trick?
+Yes, please.
+Close your eyes.
+No looking.
+Say the magic words.
+Abracadabra!
+Abracadabra!
+Open your eyes.
+Hooray!
+My banana birthday cake!
+Blow the candles out, Peppa.
+Hooray!
+Happy Birthday, Peppa!
+Thank you, everyone.
+This is my best birthday ever!

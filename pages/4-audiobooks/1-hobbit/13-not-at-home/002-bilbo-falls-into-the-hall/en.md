@@ -1,0 +1,114 @@
+---
+type: richAudio
+title: "Bilbo falls into the hall"
+mediaLink: "https://archive.org/download/hobbit_130/13-2.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/13-2.json"
+---
+The dwarves, of course,
+were very alarmed when Bilbo fell forward down the step
+with a bump into the hall,
+and they sat huddled
+just where he had left them
+at the end the tunnel.
+“Sh!
+sh!”
+they hissed,
+when they heard his voice:
+and though that helped the hobbit to find out where they were,
+it was some time before he could get
+anything else out of them.
+But in the end,
+when Bilbo actually began to stamp in the floor,
+and screamed out
+light!’
+at the top of his thrill voice,
+Thorin gave way,
+and Oin and Gloin
+were sent back to their bundles at the top of the tunnel.
+After a while
+a twinkling gleam showed them returning,
+Oin with a small pine— torch
+alight in his hand,
+and Gloin with a bundle of others under his arm.
+Quickly Bilbo trotted to the door and took the torch;
+but he could not persuade the dwarves to light the others
+or to come and join him yet.
+As Thorin carefully explained,
+Mr. Baggins was still officially their expert burglar and investigator.
+If he liked to risk a light,
+that was his affair.
+They would wait in the tunnel for his report.
+So they sat near the door and watched.
+They saw the little dark shape of the hobbit start across the floor
+holding his tiny light aloft.
+Every now and again,
+while he was still near enough,
+they caught a glint
+and a tinkle
+as he stumbled on some golden thing.
+The light grew smaller as he wandered away into the vast hall;
+then it began to rise dancing into the air.
+Bilbo was climbing the great mound of treasure.
+Soon he stood upon the top,
+and still went on.
+Then they saw him halt and stoop for a moment;
+but they did not know the reason.
+It was the Arkenstone,
+the Heart of the Mountain.
+So Bilbo guessed from Thorin’s description;
+but indeed
+there could not be two such gems,
+even in so marvellous a hoard,
+even in all the world.
+Ever as he climbed,
+the same white gleam had shone before him
+and drawn his feet towards.
+Slowly it grew to a little globe of pallid light.
+Now as came near,
+it was tinged with a flickering sparkle of many colours at the surface,
+reflected and splintered from the wavering light of his torch.
+At last he looked down upon it
+and he caught his breath.
+The great jewel shone before his feet
+of its own inner light, and yet,
+cut and fashioned by the dwarves,
+who had dug it from the heart of the mountain long ago,
+it took all light that fell upon it
+and changed it into ten thousand sparks of white radiance
+shot with glints of the rainbow.
+Suddenly Bilbo’s arm went towards it drawn by its enchantment.
+His small hand would not close about it
+for it was a large and heavy gem;
+but he lifted it,
+shut his eyes,
+and put it in his deepest pocket.
+“Now I am a burglar indeed!”
+thought he.
+“But I suppose I must tell the dwarves about it —
+some time.
+They did say I could pick and choose my own share;
+and I think I would choose this,
+if they took all the rest!”
+All the same
+he had an uncomfortable feeling that the picking and choosing had not really been meant to include this marvellous gem,
+and that trouble would yet come of it.
+Now he went on again.
+Down the other side of the great mound he climbed,
+and the spark of his torch
+vanished from the sight of the watching dwarves.
+But soon they saw it far away in the distance again.
+Bilbo was crossing the floor of the hall.
+He went on,
+until he came to the great doors at the further side,
+and there a draught of air refreshed him,
+but it almost puffed out his light.
+He peeped timidly through
+and caught a glimpse of great passages
+and of the dim beginnings of wide stairs going up into the gloom.
+And still there was no sight nor sound of Smaug.
+He was just going to turn and go back,
+when a black shape swooped at him
+and brushed his face.
+He squeaked and started,
+stumbled backwards and fell.
+His torch dropped head downwards and went out!

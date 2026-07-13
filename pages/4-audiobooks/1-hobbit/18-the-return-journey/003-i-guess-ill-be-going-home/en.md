@@ -1,0 +1,121 @@
+---
+type: richAudio
+title: "I guess I'll be going home?"
+mediaLink: "https://archive.org/download/hobbit_130/18-3.mp3"
+peaksLink: "https://archive.org/download/hobbit_130/18-3.json"
+---
+“I am sorry.
+I mean,
+I should have liked to see them again,”
+said Bilbo sleepily;
+“perhaps I shall see them on the way home.
+I suppose I shall be going home soon?”
+“As soon as you like,”
+said the wizard.
+Actually it was some days before Bilbo really set out.
+They buried Thorin deep beneath the Mountain,
+and Bard laid the Arkenstone upon his breast.
+“There let it lie till the Mountain falls!”
+he said.
+“May it bring good fortune to all his folk that dwell here after!”
+Upon his tomb the Elvenking then laid Orcrist,
+the elvish sword that had been taken from Thorin in captivity.
+It is said in songs
+that it gleamed ever in the dark if foes approached,
+and the fortress of the dwarves could not be taken by surprise.
+There now Dain son of Nain took up his abode,
+and he became King under the Mountain,
+and in time many other dwarves gathered to his throne in the ancient halls.
+Of the twelve companions of Thorin,
+ten remained.
+Fili and Kili had fallen defending him with shield and body,
+for he was their mother’s elder brother.
+The others remained with Dain;
+for Dain dealt his treasure well.
+There was, of course,
+no longer any question of dividing the hoard in such shares as had been planned,
+to Balin and Dwalin,
+and Dori and Nori and Ori,
+and Oin and Gloin,
+and Bifur and Bofur and Bombur —
+or to Bilbo.
+Yet a fourteenth share of all the silver and gold,
+wrought and unwrought,
+was given up to Bard;
+for Dain said:
+“We will honour the agreement of the dead,
+and he has now the Arkenstone in his keeping.”
+Even a fourteenth share was wealth exceedingly great,
+greater than that of many mortal kings.
+From that treasure
+Bard sent much gold to the Master of Lake-town;
+and he rewarded his followers and friends freely.
+To the Elvenking
+he gave the emeralds of Girion,
+such jewels as he most loved,
+which Dain had restored to him.
+To Bilbo he said:
+“This treasure is as much yours
+as it is mine;
+though old agreements cannot stand,
+since so many have a claim in its winning and defence.
+Yet even though you were willing to lay aside all your claim,
+I should wish that the words of Thorin,
+of which he repented,
+should not prove true:
+that we should give you little.
+I would reward you most richly of all.”
+“Very kind of you,”
+said Bilbo.
+“But really
+it is a relief to me.
+How on earth should I have got all that treasure home
+without war and murder all along the way, I don’t know.
+And I don’t know what I should have done with it
+when I got home.
+I am sure it is better in your hands.”
+In the end
+he would only take two small chests,
+one filled with silver,
+and the other with gold,
+such as one strong pony could carry.
+“That will be quite as much as I can manage,”
+said he.
+At last the time came for him to say good-bye to his friends.
+“Farewell, Balin!”
+he said;
+“and farewell, Dwalin;
+and farewell Dori, Nori,
+Ori,
+Oin,
+Gloin,
+Bifur,
+Bofur,
+and Bombur!
+May your beards never grow thin!”
+And turning towards the Mountain he added:
+“Farewell Thorin Oakenshield!
+And Fili
+and Kili!
+May your memory never fade!”
+Then the dwarves bowed low before their Gate,
+but words stuck in their throats.
+“Good-bye and good luck,
+wherever you fare!”
+said Balin at last.
+“If ever you visit us again,
+when our halls are made fair once more,
+then the feast shall indeed be splendid!”
+“If ever you are passing my way,”
+said Bilbo,
+“don’t wait to knock!
+Tea is at four;
+but any of you are welcome at any time!”
+Then he turned away.
+The elf-host was on the march;
+and if it was sadly lessened,
+yet many were glad,
+for now the northern world would be merrier for many a long day.
+The dragon was dead,
+and the goblins overthrown,
+and their hearts looked forward after winter to a spring of joy.
