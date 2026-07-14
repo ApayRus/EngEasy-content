@@ -1,0 +1,111 @@
+---
+type: richAudio
+title: "3"
+mediaLink: "https://archive.org/download/pride-and-prejudice_137_202607/46_03.mp3"
+peaksLink: "https://archive.org/download/pride-and-prejudice_137_202607/46_03.json"
+---
+
+Darcy was fixed in astonishment.
+“When I consider,”
+she added in a yet more agitated voice,
+“that I might have prevented it!
+I who knew what he was.
+Had I but explained some part of it only—some part of what I learnt,
+to my own family!
+Had his character been known,
+this could not have happened.
+But it is all—all too late now.”
+“I am grieved indeed,”
+cried Darcy;
+“grieved—shocked.
+But is it certain—absolutely certain?”
+“Oh,
+yes!
+They left Brighton together on Sunday night,
+and were traced almost to London,
+but not beyond;
+they are certainly not gone to Scotland.”
+“And what has been done,
+what has been attempted,
+to recover her?”
+“My father is gone to London,
+and Jane has written to beg my uncle’s immediate assistance;
+and we shall be off,
+I hope,
+in half-an-hour.
+But nothing can be done—I know very well that nothing can be done.
+How is such a man to be worked on?
+How are they even to be discovered?
+I have not the smallest hope.
+It is every way horrible!”
+Darcy shook his head in silent acquiescence.
+“When my eyes were opened to his real character—Oh!
+had I known what I ought,
+what I dared to do!
+But I knew not—I was afraid of doing too much.
+Wretched,
+wretched mistake!”
+Darcy made no answer.
+He seemed scarcely to hear her,
+and was walking up and down the room in earnest meditation,
+his brow contracted,
+his air gloomy.
+Elizabeth soon observed,
+and instantly understood it.
+Her power was sinking;
+everything must sink under such a proof of family weakness,
+such an assurance of the deepest disgrace.
+She could neither wonder nor condemn,
+but the belief of his self-conquest brought nothing consolatory to her bosom,
+afforded no palliation of her distress.
+It was,
+on the contrary,
+exactly calculated to make her understand her own wishes;
+and never had she so honestly felt that she could have loved him,
+as now,
+when all love must be vain.
+But self,
+though it would intrude,
+could not engross her.
+Lydia—the humiliation,
+the misery she was bringing on them all,
+soon swallowed up every private care;
+and covering her face with her handkerchief,
+Elizabeth was soon lost to everything else;
+and,
+after a pause of several minutes,
+was only recalled to a sense of her situation by the voice of her companion,
+who,
+in a manner which,
+though it spoke compassion,
+spoke likewise restraint,
+said,
+“I am afraid you have been long desiring my absence,
+nor have I anything to plead in excuse of my stay,
+but real,
+though unavailing concern.
+Would to Heaven that anything could be either said or done on my part that might offer consolation to such distress!
+But I will not torment you with vain wishes,
+which may seem purposely to ask for your thanks.
+This unfortunate affair will,
+I fear,
+prevent my sister’s having the pleasure of seeing you at Pemberley to-day.”
+“Oh,
+yes.
+Be so kind as to apologise for us to Miss Darcy.
+Say that urgent business calls us home immediately.
+Conceal the unhappy truth as long as it is possible,
+I know it cannot be long.”
+He readily assured her of his secrecy;
+again expressed his sorrow for her distress,
+wished it a happier conclusion than there was at present reason to hope,
+and leaving his compliments for her relations,
+with only one serious,
+parting look,
+went away.
+As he quitted the room,
+Elizabeth felt how improbable it was that they should ever see each other again on such terms of cordiality as had marked their several meetings in Derbyshire;
+and as she threw a retrospective glance over the whole of their acquaintance,
+so full of contradictions and varieties,
+sighed at the perverseness of those feelings which would now have promoted its continuance,
+and would formerly have rejoiced in its termination.

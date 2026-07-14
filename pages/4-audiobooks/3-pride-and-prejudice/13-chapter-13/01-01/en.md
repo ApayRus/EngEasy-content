@@ -1,0 +1,117 @@
+---
+type: richAudio
+title: "1"
+mediaLink: "https://archive.org/download/pride-and-prejudice_137_202607/13_01.mp3"
+peaksLink: "https://archive.org/download/pride-and-prejudice_137_202607/13_01.json"
+---
+
+Chapter 13
+“I hope,
+my dear,”
+said Mr. Bennet to his wife,
+as they were at breakfast the next morning,
+“that you have ordered a good dinner to-day,
+because I have reason to expect an addition to our family party.”
+“Who do you mean,
+my dear?
+I know of nobody that is coming,
+I am sure,
+unless Charlotte Lucas should happen to call in—and I hope my dinners are good enough for her.
+I do not believe she often sees such at home.”
+“The person of whom I speak is a gentleman,
+and a stranger.”
+Mrs. Bennet’s eyes sparkled.
+“A gentleman and a stranger!
+It is Mr. Bingley,
+I am sure!
+Well,
+I am sure I shall be extremely glad to see Mr. Bingley.
+But—good Lord!
+how unlucky!
+There is not a bit of fish to be got to-day.
+Lydia,
+my love,
+ring the bell—I must speak to Hill this moment.”
+“It is not Mr. Bingley,”
+said her husband;
+“it is a person whom I never saw in the whole course of my life.”
+This roused a general astonishment;
+and he had the pleasure of being eagerly questioned by his wife and his five daughters at once.
+After amusing himself some time with their curiosity,
+he thus explained:
+“About a month ago I received this letter;
+and about a fortnight ago I answered it,
+for I thought it a case of some delicacy,
+and requiring early attention.
+It is from my cousin,
+Mr. Collins,
+who,
+when I am dead,
+may turn you all out of this house as soon as he pleases.”
+“Oh!
+my dear,”
+cried his wife,
+“I cannot bear to hear that mentioned.
+Pray do not talk of that odious man.
+I do think it is the hardest thing in the world,
+that your estate should be entailed away from your own children;
+and I am sure,
+if I had been you,
+I should have tried long ago to do something or other about it.”
+Jane and Elizabeth tried to explain to her the nature of an entail.
+They had often attempted to do it before,
+but it was a subject on which Mrs. Bennet was beyond the reach of reason,
+and she continued to rail bitterly against the cruelty of settling an estate away from a family of five daughters,
+in favour of a man whom nobody cared anything about.
+“It certainly is a most iniquitous affair,”
+said Mr. Bennet,
+“and nothing can clear Mr. Collins from the guilt of inheriting Longbourn.
+But if you will listen to his letter,
+you may perhaps be a little softened by his manner of expressing himself.”
+“No,
+that I am sure I shall not;
+and I think it is very impertinent of him to write to you at all,
+and very hypocritical.
+I hate such false friends.
+Why could he not keep on quarreling with you,
+as his father did before him?”
+“Why,
+indeed;
+he does seem to have had some filial scruples on that head,
+as you will hear.”
+“Hunsford,
+near Westerham,
+Kent,
+15th October.
+“Dear Sir,—
+“The disagreement subsisting between yourself and my late honoured father always gave me much uneasiness,
+and since I have had the misfortune to lose him,
+I have frequently wished to heal the breach;
+but for some time I was kept back by my own doubts,
+fearing lest it might seem disrespectful to his memory for me to be on good terms with anyone with whom it had always pleased him to be at variance.—
+‘There,
+Mrs. Bennet.’—
+My mind,
+however,
+is now made up on the subject,
+for having received ordination at Easter,
+I have been so fortunate as to be distinguished by the patronage of the Right Honourable Lady Catherine de Bourgh,
+widow of Sir Lewis de Bourgh,
+whose bounty and beneficence has preferred me to the valuable rectory of this parish,
+where it shall be my earnest endeavour to demean myself with grateful respect towards her ladyship,
+and be ever ready to perform those rites and ceremonies which are instituted by the Church of England.
+As a clergyman,
+moreover,
+I feel it my duty to promote and establish the blessing of peace in all families within the reach of my influence;
+and on these grounds I flatter myself that my present overtures are highly commendable,
+and that the circumstance of my being next in the entail of Longbourn estate will be kindly overlooked on your side,
+and not lead you to reject the offered olive-branch.
+I cannot be otherwise than concerned at being the means of injuring your amiable daughters,
+and beg leave to apologise for it,
+as well as to assure you of my readiness to make them every possible amends—but of this hereafter.
+If you should have no objection to receive me into your house,
+I propose myself the satisfaction of waiting on you and your family,
+Monday,
+November 18th,
+by four o’clock,
+and shall probably trespass on your hospitality till the Saturday se’ennight following,

@@ -1,0 +1,86 @@
+---
+type: richAudio
+title: "2"
+mediaLink: "https://archive.org/download/pride-and-prejudice_137_202607/48_02.mp3"
+peaksLink: "https://archive.org/download/pride-and-prejudice_137_202607/48_02.json"
+---
+
+Every day at Longbourn was now a day of anxiety;
+but the most anxious part of each was when the post was expected.
+The arrival of letters was the grand object of every morning’s impatience.
+Through letters,
+whatever of good or bad was to be told would be communicated,
+and every succeeding day was expected to bring some news of importance.
+But before they heard again from Mr. Gardiner,
+a letter arrived for their father,
+from a different quarter,
+from Mr. Collins;
+which,
+as Jane had received directions to open all that came for him in his absence,
+she accordingly read;
+and Elizabeth,
+who knew what curiosities his letters always were,
+looked over her,
+and read it likewise.
+It was as follows:
+“My dear Sir,
+“I feel myself called upon,
+by our relationship,
+and my situation in life,
+to condole with you on the grievous affliction you are now suffering under,
+of which we were yesterday informed by a letter from Hertfordshire.
+Be assured,
+my dear sir,
+that Mrs. Collins and myself sincerely sympathise with you and all your respectable family,
+in your present distress,
+which must be of the bitterest kind,
+because proceeding from a cause which no time can remove.
+No arguments shall be wanting on my part that can alleviate so severe a misfortune—or that may comfort you,
+under a circumstance that must be of all others the most afflicting to a parent’s mind.
+The death of your daughter would have been a blessing in comparison of this.
+And it is the more to be lamented,
+because there is reason to suppose as my dear Charlotte informs me,
+that this licentiousness of behaviour in your daughter has proceeded from a faulty degree of indulgence;
+though,
+at the same time,
+for the consolation of yourself and Mrs. Bennet,
+I am inclined to think that her own disposition must be naturally bad,
+or she could not be guilty of such an enormity,
+at so early an age.
+Howsoever that may be,
+you are grievously to be pitied;
+in which opinion I am not only joined by Mrs. Collins,
+but likewise by Lady Catherine and her daughter,
+to whom I have related the affair.
+They agree with me in apprehending that this false step in one daughter will be injurious to the fortunes of all the others;
+for who,
+as Lady Catherine herself condescendingly says,
+will connect themselves with such a family?
+And this consideration leads me moreover to reflect,
+with augmented satisfaction,
+on a certain event of last November;
+for had it been otherwise,
+I must have been involved in all your sorrow and disgrace.
+Let me then advise you,
+dear sir,
+to console yourself as much as possible,
+to throw off your unworthy child from your affection for ever,
+and leave her to reap the fruits of her own heinous offense.
+“I am,
+dear sir,
+etc.,
+etc.”
+Mr. Gardiner did not write again till he had received an answer from Colonel Forster;
+and then he had nothing of a pleasant nature to send.
+It was not known that Wickham had a single relationship with whom he kept up any connection,
+and it was certain that he had no near one living.
+His former acquaintances had been numerous;
+but since he had been in the militia,
+it did not appear that he was on terms of particular friendship with any of them.
+There was no one,
+therefore,
+who could be pointed out as likely to give any news of him.
+And in the wretched state of his own finances,
+there was a very powerful motive for secrecy,
+in addition to his fear of discovery by Lydia’s relations,
+for it had just transpired that he had left gaming debts behind him to a very considerable amount.

@@ -1,0 +1,112 @@
+---
+type: richAudio
+title: "2"
+mediaLink: "https://archive.org/download/pride-and-prejudice_137_202607/31_02.mp3"
+peaksLink: "https://archive.org/download/pride-and-prejudice_137_202607/31_02.json"
+---
+
+“You mean to frighten me,
+Mr. Darcy,
+by coming in all this state to hear me?
+I will not be alarmed though your sister does play so well.
+There is a stubbornness about me that never can bear to be frightened at the will of others.
+My courage always rises at every attempt to intimidate me.”
+“I shall not say you are mistaken,”
+he replied,
+“because you could not really believe me to entertain any design of alarming you;
+and I have had the pleasure of your acquaintance long enough to know that you find great enjoyment in occasionally professing opinions which in fact are not your own.”
+Elizabeth laughed heartily at this picture of herself,
+and said to Colonel Fitzwilliam,
+“Your cousin will give you a very pretty notion of me,
+and teach you not to believe a word I say.
+I am particularly unlucky in meeting with a person so able to expose my real character,
+in a part of the world where I had hoped to pass myself off with some degree of credit.
+Indeed,
+Mr. Darcy,
+it is very ungenerous in you to mention all that you knew to my disadvantage in Hertfordshire—and,
+give me leave to say,
+very impolitic too—for it is provoking me to retaliate,
+and such things may come out as will shock your relations to hear.”
+“I am not afraid of you,”
+said he,
+smilingly.
+“Pray let me hear what you have to accuse him of,”
+cried Colonel Fitzwilliam.
+“I should like to know how he behaves among strangers.”
+“You shall hear then—but prepare yourself for something very dreadful.
+The first time of my ever seeing him in Hertfordshire,
+you must know,
+was at a ball—and at this ball,
+what do you think he did?
+He danced only four dances,
+though gentlemen were scarce;
+and,
+to my certain knowledge,
+more than one young lady was sitting down in want of a partner.
+Mr. Darcy,
+you cannot deny the fact.”
+“I had not at that time the honour of knowing any lady in the assembly beyond my own party.”
+“True;
+and nobody can ever be introduced in a ball-room.
+Well,
+Colonel Fitzwilliam,
+what do I play next?
+My fingers wait your orders.”
+“Perhaps,”
+said Darcy,
+“I should have judged better,
+had I sought an introduction;
+but I am ill-qualified to recommend myself to strangers.”
+“Shall we ask your cousin the reason of this?”
+said Elizabeth,
+still addressing Colonel Fitzwilliam.
+“Shall we ask him why a man of sense and education,
+and who has lived in the world,
+is ill qualified to recommend himself to strangers?”
+“I can answer your question,”
+said Fitzwilliam,
+“without applying to him.
+It is because he will not give himself the trouble.”
+“I certainly have not the talent which some people possess,”
+said Darcy,
+“of conversing easily with those I have never seen before.
+I cannot catch their tone of conversation,
+or appear interested in their concerns,
+as I often see done.”
+“My fingers,”
+said Elizabeth,
+“do not move over this instrument in the masterly manner which I see so many women’s do.
+They have not the same force or rapidity,
+and do not produce the same expression.
+But then I have always supposed it to be my own fault—because I will not take the trouble of practising.
+It is not that I do not believe my fingers as capable as any other woman’s of superior execution.”
+Darcy smiled and said,
+“You are perfectly right.
+You have employed your time much better.
+No one admitted to the privilege of hearing you can think anything wanting.
+We neither of us perform to strangers.”
+Here they were interrupted by Lady Catherine,
+who called out to know what they were talking of.
+Elizabeth immediately began playing again.
+Lady Catherine approached,
+and,
+after listening for a few minutes,
+said to Darcy:
+“Miss Bennet would not play at all amiss if she practised more,
+and could have the advantage of a London master.
+She has a very good notion of fingering,
+though her taste is not equal to Anne’s.
+Anne would have been a delightful performer,
+had her health allowed her to learn.”
+Elizabeth looked at Darcy to see how cordially he assented to his cousin’s praise;
+but neither at that moment nor at any other could she discern any symptom of love;
+and from the whole of his behaviour to Miss de Bourgh she derived this comfort for Miss Bingley,
+that he might have been just as likely to marry her,
+had she been his relation.
+Lady Catherine continued her remarks on Elizabeth’s performance,
+mixing with them many instructions on execution and taste.
+Elizabeth received them with all the forbearance of civility,
+and,
+at the request of the gentlemen,
+remained at the instrument till her ladyship’s carriage was ready to take them all home.
+End of chapter 31.

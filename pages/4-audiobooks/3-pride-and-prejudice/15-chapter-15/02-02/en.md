@@ -1,0 +1,116 @@
+---
+type: richAudio
+title: "2"
+mediaLink: "https://archive.org/download/pride-and-prejudice_137_202607/15_02.mp3"
+peaksLink: "https://archive.org/download/pride-and-prejudice_137_202607/15_02.json"
+---
+
+Mr. Denny addressed them directly,
+and entreated permission to introduce his friend,
+Mr. Wickham,
+who had returned with him the day before from town,
+and he was happy to say had accepted a commission in their corps.
+This was exactly as it should be;
+for the young man wanted only regimentals to make him completely charming.
+His appearance was greatly in his favour;
+he had all the best part of beauty,
+a fine countenance,
+a good figure,
+and very pleasing address.
+The introduction was followed up on his side by a happy readiness of conversation—a readiness at the same time perfectly correct and unassuming;
+and the whole party were still standing and talking together very agreeably,
+when the sound of horses drew their notice,
+and Darcy and Bingley were seen riding down the street.
+On distinguishing the ladies of the group,
+the two gentlemen came directly towards them,
+and began the usual civilities.
+Bingley was the principal spokesman,
+and Miss Bennet the principal object.
+He was then,
+he said,
+on his way to Longbourn on purpose to inquire after her.
+Mr. Darcy corroborated it with a bow,
+and was beginning to determine not to fix his eyes on Elizabeth,
+when they were suddenly arrested by the sight of the stranger,
+and Elizabeth happening to see the countenance of both as they looked at each other,
+was all astonishment at the effect of the meeting.
+Both changed colour,
+one looked white,
+the other red.
+Mr. Wickham,
+after a few moments,
+touched his hat—a salutation which Mr. Darcy just deigned to return.
+What could be the meaning of it?
+It was impossible to imagine;
+it was impossible not to long to know.
+In another minute,
+Mr. Bingley,
+but without seeming to have noticed what passed,
+took leave and rode on with his friend.
+Mr. Denny and Mr. Wickham walked with the young ladies to the door of Mr. Phillip’s house,
+and then made their bows,
+in spite of Miss Lydia’s pressing entreaties that they should come in,
+and even in spite of Mrs. Phillips’s throwing up the parlour window and loudly seconding the invitation.
+Mrs. Phillips was always glad to see her nieces;
+and the two eldest,
+from their recent absence,
+were particularly welcome,
+and she was eagerly expressing her surprise at their sudden return home,
+which,
+as their own carriage had not fetched them,
+she should have known nothing about,
+if she had not happened to see Mr. Jones’s shop-boy in the street,
+who had told her that they were not to send any more draughts to Netherfield because the Miss Bennets were come away,
+when her civility was claimed towards Mr. Collins by Jane’s introduction of him.
+She received him with her very best politeness,
+which he returned with as much more,
+apologising for his intrusion,
+without any previous acquaintance with her,
+which he could not help flattering himself,
+however,
+might be justified by his relationship to the young ladies who introduced him to her notice.
+Mrs. Phillips was quite awed by such an excess of good breeding;
+but her contemplation of one stranger was soon put to an end by exclamations and inquiries about the other;
+of whom,
+however,
+she could only tell her nieces what they already knew,
+that Mr. Denny had brought him from London,
+and that he was to have a lieutenant’s commission in the ——shire.
+She had been watching him the last hour,
+she said,
+as he walked up and down the street,
+and had Mr. Wickham appeared,
+Kitty and Lydia would certainly have continued the occupation,
+but unluckily no one passed windows now except a few of the officers,
+who,
+in comparison with the stranger,
+were become “stupid,
+disagreeable fellows.”
+Some of them were to dine with the Phillipses the next day,
+and their aunt promised to make her husband call on Mr. Wickham,
+and give him an invitation also,
+if the family from Longbourn would come in the evening.
+This was agreed to,
+and Mrs. Phillips protested that they would have a nice comfortable noisy game of lottery tickets,
+and a little bit of hot supper afterwards.
+The prospect of such delights was very cheering,
+and they parted in mutual good spirits.
+Mr. Collins repeated his apologies in quitting the room,
+and was assured with unwearying civility that they were perfectly needless.
+As they walked home,
+Elizabeth related to Jane what she had seen pass between the two gentlemen;
+but though Jane would have defended either or both,
+had they appeared to be in the wrong,
+she could no more explain such behaviour than her sister.
+Mr. Collins on his return highly gratified Mrs. Bennet by admiring Mrs. Phillips’s manners and politeness.
+He protested that,
+except Lady Catherine and her daughter,
+he had never seen a more elegant woman;
+for she had not only received him with the utmost civility,
+but even pointedly included him in her invitation for the next evening,
+although utterly unknown to her before.
+Something,
+he supposed,
+might be attributed to his connection with them,
+but yet he had never met with so much attention in the whole course of his life.
+End of chapter 15.

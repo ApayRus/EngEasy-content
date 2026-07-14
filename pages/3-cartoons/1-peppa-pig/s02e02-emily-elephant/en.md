@@ -1,95 +1,133 @@
 ---
-type: richVideo
 title: "Emily Elephant (s02e02)"
+description: ""
+type: "richVideo"
 mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s02e02-emily-elephant.mp4"
 peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s02e02-emily-elephant.json"
 ---
 
-House Rules!
-Today, Peppa is going to play at Suzy Sheep’s house today.
-Remember, when you visit someone’s house, remember to always say please and thank you.
-I always say Please and Thank you, mummy.
-Peppa has arrived at Suzy Sheep’s house.
-Hello, Peppa!
-Hello, Suzy!
-Does Peppa like pasta?
-I love pasta! Thank you very much. Can we go and play now?
-Peppa, stop! You need to take your shoes off.
-Why?
-It’s a new house rule. We have a new carpet.
-Oh!
-Gosh, a lightly colored carpet. That’s brave.
-You must take your shoes off when you go to Suzy’s House.
-Come on Peppa, let’s go play in my room.
-Let’s jump on the bed!
-Peppa, stop! You can’t jump on my bed,
-Yes, I can! Watch.
-SUZY?!?!
-See, I’m not allowed to jump on my bed. It’s a rule in my house.
-Oh, it’s not a rule in my house.
+I'm Peppa Pig.
+This is my little brother George, 
+this is Mommy Pig, 
+and this is Daddy Pig.
+Peppa Pig.
+Emily Elephant
+Peppa and her friends are going to playgroup today.
+The children each have their own hook to hang their coats on.
+Today we have a new pupil,
+Emily Elephant.
+Hello, Emily.
 Hello.
-Hello, Mummy Sheep. It’s Doctor Elephant here. Would Suzy like to come on a picnic with Emily?
-Oh, Peppa is here too.
-Oh, well they can both come.
-Ok, I’ll check with mummy pig. Shall I bring some food?
-That would be lovely. Uh, but please make sure there are no nuts. Emily is allergic to nuts.
-Ok.
-Peppa and Suzy have come to a picnic with Emily.
-Hello, Emily!
-Hello Suzy! Hello Peppa!
-Suzy, remember to say please and thank you.
-I always say please and thank you!
-Here's the food for the picnic.
-Thank you! Are you sure there are no nuts?
-There are no nuts.
-Why no nuts?
-I'm allergic to nuts.
-What does "allergic" mean?
-If I eat a nut, I get very poorly.
-That's not fun.
-No, it is knots.
-And that is why we have the "No nuts" house rule.
-The "No nuts" rule is very important.
-Let's play in my bedroom.
-Ok!
-Oh, you don't have to take your shoes off in our house.
-You do at Suzy's house.
-We got a new carpet.
-A light colored carpets.
-Oh, that's great.
-Uhm, can we jump in your bed?
-Yes, but we must take off our shoes.
-What's going on in here?
-We're jumping on the bed!
-New house rule, only one person allowed to jump on the bed at a time.
-Emily's house rules is not the same as Suzy's house rules.
-Time for your picnic.
-Daddy, can we have our picnic in our bedroom?
-In your bedroom?
-Is there a house rule that says we can't?
-Eh, no.
-Peppa Pig, Suzy Sheep, Emily Elephant: Hooray!
-I like picnics!
-Emily likes having a picnic in her bedroom.
-Now we brush our teeth!
-Don't you brush your teeth at bedtime?
-In our house, it's a rule that we clean our teeth after every meal.
-Normally, we wait at least 60 seconds so the pH level is destabilized, but we won't have to brush them now, just this once.
-Oh, but I don't have my toothbrush.
-Have a new toothbrush.
-Doctor Elephant is a dentist.
-Red for me, please!
-Pink for me, please!
-It is home time for Peppa and Suzy.
-Mummy Sheep, Mummy Pig!
-I hope they are well behaved.
-It is always a pleasure having Peppa and Suzy to play. They are so polite.
-See? I told you.
-We always say please and thank you!
-Bye, bye Emily!
-Bye, bye!
-Thank you for having us!
-Oh, what a fun day. Playing in Suzy's and Emily's house.
-Now i know all the house rules! Take your shoes off, Keep your shoes on, No jumping on the bed, Jump on the bed, Brush your teeth and No nuts!
-Oh, i see! Everyone's house rules are a bit different, Peppa! But there is one rule that is the same in every house.
-Oh, i said please and thank you!
+Emily is a bit shy.
+Who would like to show Emily 
+where to hang her coat?
+Me!
+Oh, we just need one.
+Peppa,
+can you show Emily 
+where to hang her coat?
+Yes, Madame Gazelle.
+We each have our own coat hooks.
+This one is for you, Emily.
+Emily is hanging her coat on her very own coat hook.
+Now, Emily,
+what would you like to do today?
+Painting,
+clay,
+or building blocks?
+I don't know.
+Maybe 
+building blocks.
+And everyone else?
+Painting,
+clay,
+or building blocks?
+Building blocks!
+My goodness!
+Building blocks are popular today.
+Everyone wants to sit next to Emily Elephant.
+Emily,
+you put one block 
+on top of another,
+like this.
+It's better if you put them side by side.
+No, 
+this way, Emily.
+This is the right way, Emily.
+No, Emily, 
+like this.
+You are all being very helpful,
+but Emily,
+how would you play with the blocks?
+I'm not very sure.
+I might just like this.
+Wow!
+Emily Elephant is good at building blocks.
+It is playtime.
+Hooray!
+Emily,
+would you like to play outside with the others?
+Yes, please.
+Can someone show Emily where we play?
+Yes, Madame Gazelle.
+At playtime,
+Peppa and her friends play in the school garden.
+You can't catch me!
+What a lot of noise!
+Let's see 
+who is the loudest.
+Okay.
+I'll go first.
+Squeak! Squeak!
+That was quite loud.
+Now it is Zoe Zebra's turn.
+Now Suzy Sheep.
+Now Danny Dog.
+That was very loud.
+My turn!
+My turn!
+My turn!
+Peppa is the loudest.
+Emily, you try.
+I'm not too sure.
+Please, Emily.
+Okay.
+I'll try.
+My goodness!
+That was loud.
+Wow!
+Do it again!
+Emily is not shy anymore.
+Emily,
+would you like to play my favourite game?
+What is your favourite game?
+Jumping in muddy puddles.
+That's my favourite game too!
+Peppa loves jumping up and down in muddy puddles.
+Emily loves jumping up and down in muddy puddles.
+This looks like fun!
+Yippee!
+Madame Gazelle loves jumping up and down in muddy puddles.
+Everyone loves jumping up and down in muddy puddles.
+Emily,
+have you enjoyed your first day at our playgroup?
+Yes, Madame Gazelle.
+And I see you've made lots of new friends.
+Yes.
+Emily Elephant 
+is my friend.
+And Emily is my friend.
+And mine.
+And mine.
+Mine.
+And mine.
+Emily,
+who do you like best?
+Um...
+I like 
+Suzy,
+and Danny,
+and Zoe,
+and Rebecca,
+and Pedro,
+and Peppa.

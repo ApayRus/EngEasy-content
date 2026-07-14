@@ -1,0 +1,183 @@
+---
+type: richAudio
+title: "2"
+mediaLink: "https://archive.org/download/pride-and-prejudice_137_202607/51_02.mp3"
+peaksLink: "https://archive.org/download/pride-and-prejudice_137_202607/51_02.json"
+---
+
+Their visitors were not to remain above ten days with them.
+Mr. Wickham had received his commission before he left London,
+and he was to join his regiment at the end of a fortnight.
+No one but Mrs. Bennet regretted that their stay would be so short;
+and she made the most of the time by visiting about with her daughter,
+and having very frequent parties at home.
+These parties were acceptable to all;
+to avoid a family circle was even more desirable to such as did think,
+than such as did not.
+Wickham’s affection for Lydia was just what Elizabeth had expected to find it;
+not equal to Lydia’s for him.
+She had scarcely needed her present observation to be satisfied,
+from the reason of things,
+that their elopement had been brought on by the strength of her love,
+rather than by his;
+and she would have wondered why,
+without violently caring for her,
+he chose to elope with her at all,
+had she not felt certain that his flight was rendered necessary by distress of circumstances;
+and if that were the case,
+he was not the young man to resist an opportunity of having a companion.
+Lydia was exceedingly fond of him.
+He was her dear Wickham on every occasion;
+no one was to be put in competition with him.
+He did every thing best in the world;
+and she was sure he would kill more birds on the first of September,
+than any body else in the country.
+One morning,
+soon after their arrival,
+as she was sitting with her two elder sisters,
+she said to Elizabeth:
+“Lizzy,
+I never gave you an account of my wedding,
+I believe.
+You were not by,
+when I told mamma and the others all about it.
+Are not you curious to hear how it was managed?”
+“No really,”
+replied Elizabeth;
+“I think there cannot be too little said on the subject.”
+“La!
+You are so strange!
+But I must tell you how it went off.
+We were married,
+you know,
+at St.
+Clement’s,
+because Wickham’s lodgings were in that parish.
+And it was settled that we should all be there by eleven o’clock.
+My uncle and aunt and I were to go together;
+and the others were to meet us at the church.
+Well,
+Monday morning came,
+and I was in such a fuss!
+I was so afraid,
+you know,
+that something would happen to put it off,
+and then I should have gone quite distracted.
+And there was my aunt,
+all the time I was dressing,
+preaching and talking away just as if she was reading a sermon.
+However,
+I did not hear above one word in ten,
+for I was thinking,
+you may suppose,
+of my dear Wickham.
+I longed to know whether he would be married in his blue coat.”
+“Well,
+and so we breakfasted at ten as usual;
+I thought it would never be over;
+for,
+by the bye,
+you are to understand,
+that my uncle and aunt were horrid unpleasant all the time I was with them.
+If you’ll believe me,
+I did not once put my foot out of doors,
+though I was there a fortnight.
+Not one party,
+or scheme,
+or anything.
+To be sure London was rather thin,
+but,
+however,
+the Little Theatre was open.
+Well,
+and so just as the carriage came to the door,
+my uncle was called away upon business to that horrid man Mr. Stone.
+And then,
+you know,
+when once they get together,
+there is no end of it.
+Well,
+I was so frightened I did not know what to do,
+for my uncle was to give me away;
+and if we were beyond the hour,
+we could not be married all day.
+But,
+luckily,
+he came back again in ten minutes’ time,
+and then we all set out.
+However,
+I recollected afterwards that if he had been prevented going,
+the wedding need not be put off,
+for Mr. Darcy might have done as well.”
+“Mr. Darcy!”
+repeated Elizabeth,
+in utter amazement.
+“Oh,
+yes!—
+he was to come there with Wickham,
+you know.
+But gracious me!
+I quite forgot!
+I ought not to have said a word about it.
+I promised them so faithfully!
+What will Wickham say?
+It was to be such a secret!”
+“If it was to be secret,”
+said Jane,
+“say not another word on the subject.
+You may depend upon my seeking no further.”
+“Oh!
+certainly,”
+said Elizabeth,
+though burning with curiosity;
+“we will ask you no questions.”
+“Thank you,”
+said Lydia,
+“for if you did,
+I should certainly tell you all,
+and then Wickham would be angry.”
+On such encouragement to ask,
+Elizabeth was forced to put it out of her power,
+by running away.
+But to live in ignorance on such a point was impossible;
+or at least it was impossible not to try for information.
+Mr. Darcy had been at her sister’s wedding.
+It was exactly a scene,
+and exactly among people,
+where he had apparently least to do,
+and least temptation to go.
+Conjectures as to the meaning of it,
+rapid and wild,
+hurried into her brain;
+but she was satisfied with none.
+Those that best pleased her,
+as placing his conduct in the noblest light,
+seemed most improbable.
+She could not bear such suspense;
+and hastily seizing a sheet of paper,
+wrote a short letter to her aunt,
+to request an explanation of what Lydia had dropt,
+if it were compatible with the secrecy which had been intended.
+“You may readily comprehend,”
+she added,
+“what my curiosity must be to know how a person unconnected with any of us,
+and (comparatively speaking)
+a stranger to our family,
+should have been amongst you at such a time.
+Pray write instantly,
+and let me understand it—unless it is,
+for very cogent reasons,
+to remain in the secrecy which Lydia seems to think necessary;
+and then I must endeavour to be satisfied with ignorance.”
+“Not that I shall,
+though,”
+she added to herself,
+as she finished the letter;
+“and my dear aunt,
+if you do not tell me in an honourable manner,
+I shall certainly be reduced to tricks and stratagems to find it out.”
+Jane’s delicate sense of honour would not allow her to speak to Elizabeth privately of what Lydia had let fall;
+Elizabeth was glad of it;—
+till it appeared whether her inquiries would receive any satisfaction,
+she had rather be without a confidante.
+End of chapter 51.

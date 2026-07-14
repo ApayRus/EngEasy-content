@@ -1,0 +1,150 @@
+---
+type: richAudio
+title: "1"
+mediaLink: "https://archive.org/download/pride-and-prejudice_137_202607/19_01.mp3"
+peaksLink: "https://archive.org/download/pride-and-prejudice_137_202607/19_01.json"
+---
+
+Chapter 19
+The next day opened a new scene at Longbourn.
+Mr. Collins made his declaration in form.
+Having resolved to do it without loss of time,
+as his leave of absence extended only to the following Saturday,
+and having no feelings of diffidence to make it distressing to himself even at the moment,
+he set about it in a very orderly manner,
+with all the observances,
+which he supposed a regular part of the business.
+On finding Mrs. Bennet,
+Elizabeth,
+and one of the younger girls together,
+soon after breakfast,
+he addressed the mother in these words:
+“May I hope,
+madam,
+for your interest with your fair daughter Elizabeth,
+when I solicit for the honour of a private audience with her in the course of this morning?”
+Before Elizabeth had time for anything but a blush of surprise,
+Mrs. Bennet answered instantly,
+“Oh dear!—
+yes—certainly.
+I am sure Lizzy will be very happy—I am sure she can have no objection.
+Come,
+Kitty,
+I want you up stairs.”
+And,
+gathering her work together,
+she was hastening away,
+when Elizabeth called out:
+“Dear madam,
+do not go.
+I beg you will not go.
+Mr. Collins must excuse me.
+He can have nothing to say to me that anybody need not hear.
+I am going away myself.”
+“No,
+no,
+nonsense,
+Lizzy.
+I desire you to stay where you are.”
+And upon Elizabeth’s seeming really,
+with vexed and embarrassed looks,
+about to escape,
+she added:
+“Lizzy,
+I insist upon your staying and hearing Mr. Collins.”
+Elizabeth would not oppose such an injunction—and a moment’s consideration making her also sensible that it would be wisest to get it over as soon and as quietly as possible,
+she sat down again and tried to conceal,
+by incessant employment the feelings which were divided between distress and diversion.
+Mrs. Bennet and Kitty walked off,
+and as soon as they were gone,
+Mr. Collins began.
+“Believe me,
+my dear Miss Elizabeth,
+that your modesty,
+so far from doing you any disservice,
+rather adds to your other perfections.
+You would have been less amiable in my eyes had there not been this little unwillingness;
+but allow me to assure you,
+that I have your respected mother’s permission for this address.
+You can hardly doubt the purport of my discourse,
+however your natural delicacy may lead you to dissemble;
+my attentions have been too marked to be mistaken.
+Almost as soon as I entered the house,
+I singled you out as the companion of my future life.
+But before I am run away with by my feelings on this subject,
+perhaps it would be advisable for me to state my reasons for marrying—and,
+moreover,
+for coming into Hertfordshire with the design of selecting a wife,
+as I certainly did.”
+The idea of Mr. Collins,
+with all his solemn composure,
+being run away with by his feelings,
+made Elizabeth so near laughing,
+that she could not use the short pause he allowed in any attempt to stop him further,
+and he continued:
+“My reasons for marrying are,
+first,
+that I think it a right thing for every clergyman in easy circumstances (like myself)
+to set the example of matrimony in his parish;
+secondly,
+that I am convinced that it will add very greatly to my happiness;
+and thirdly—which perhaps I ought to have mentioned earlier,
+that it is the particular advice and recommendation of the very noble lady whom I have the honour of calling patroness.
+Twice has she condescended to give me her opinion (unasked too!)
+on this subject;
+and it was but the very Saturday night before I left Hunsford—between our pools at quadrille,
+while Mrs. Jenkinson was arranging Miss de Bourgh’s footstool,
+that she said,
+‘Mr. Collins,
+you must marry.
+A clergyman like you must marry.
+Choose properly,
+choose a gentlewoman for my sake;
+and for your own,
+let her be an active,
+useful sort of person,
+not brought up high,
+but able to make a small income go a good way.
+This is my advice.
+Find such a woman as soon as you can,
+bring her to Hunsford,
+and I will visit her.’
+Allow me,
+by the way,
+to observe,
+my fair cousin,
+that I do not reckon the notice and kindness of Lady Catherine de Bourgh as among the least of the advantages in my power to offer.
+You will find her manners beyond anything I can describe;
+and your wit and vivacity,
+I think,
+must be acceptable to her,
+especially when tempered with the silence and respect which her rank will inevitably excite.
+Thus much for my general intention in favour of matrimony;
+it remains to be told why my views were directed towards Longbourn instead of my own neighbourhood,
+where I can assure you there are many amiable young women.
+But the fact is,
+that being,
+as I am,
+to inherit this estate after the death of your honoured father (who,
+however,
+may live many years longer),
+I could not satisfy myself without resolving to choose a wife from among his daughters,
+that the loss to them might be as little as possible,
+when the melancholy event takes place—which,
+however,
+as I have already said,
+may not be for several years.
+This has been my motive,
+my fair cousin,
+and I flatter myself it will not sink me in your esteem.
+And now nothing remains for me but to assure you in the most animated language of the violence of my affection.
+To fortune I am perfectly indifferent,
+and shall make no demand of that nature on your father,
+since I am well aware that it could not be complied with;
+and that one thousand pounds in the four per cents,
+which will not be yours till after your mother’s decease,
+is all that you may ever be entitled to.
+On that head,
+therefore,
+I shall be uniformly silent;
+and you may assure yourself that no ungenerous reproach shall ever pass my lips when we are married.”
