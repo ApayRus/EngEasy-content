@@ -1,11 +1,6 @@
 ---
 type: richVideo
-title: "Стейки во сне"
-mediaLink: "https://archive.org/download/madagascar-scenes-40/30.mp4"
+title: Стейки во сне
+mediaLink: 'https://archive.org/download/madagascar-scenes-40/30.mp4'
 ---
 
-Алекс.
-Что ты делаешь?
-Двадцать семь, 28, 29.<br />Тридцать черных и только 29 белых.
-Похоже, ты черный<br />с белыми полосками.
-Проблема решена.<br />Спокойной ночи.

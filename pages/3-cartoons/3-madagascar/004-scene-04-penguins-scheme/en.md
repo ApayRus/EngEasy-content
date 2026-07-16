@@ -1,17 +1,6 @@
 ---
 type: richVideo
-title: "4. Penguins Scheme"
-mediaLink: "https://archive.org/download/madagascar-scenes-40/4.mp4"
+title: 4. Penguins Scheme
+mediaLink: 'https://archive.org/download/madagascar-scenes-40/4.mp4'
 ---
 
-Just smile and wave, boys.<br />Smile and wave.
-Kowalski, progress report.
-We're 500 feet from the main sewer line.
-- And the bad news?<br />- We've broken our last shovel.
-Right.
-Rico, you're on litter patrol.<br />We need shovels.
-And find more Popsicle sticks.<br />We don't want to risk another cave-in.
-And me, Skipper?
-I want you<br />to look cute and cuddly, Private.
-Today we're going to blow this dump.
-Come here. Come here.<br />Come on, penguin.

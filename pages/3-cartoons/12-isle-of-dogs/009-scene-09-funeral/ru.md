@@ -1,15 +1,6 @@
 ---
 type: richVideo
-title: "Похороны"
-mediaLink: "https://archive.org/download/isle-of-dogs-36/9.mp4"
+title: Похороны
+mediaLink: 'https://archive.org/download/isle-of-dogs-36/9.mp4'
 ---
 
-– Откуда это у тебя?<br />– Что? Он всегда у меня был.
-Я украл его у мёртвого пса.
-О, нет!
-Эй! Умер другой пёс!
-Умер другой пёс!
-Другой… другой пёс умер.
-Это был не Спотс.
-Кто это?
-Я не чую его запаха.

@@ -1,32 +1,6 @@
 ---
 type: richVideo
-title: "Cave's Curse"
+title: Cave's Curse
 mediaLink: 'https://archive.org/download/27_20260619_20260619/12.mp4'
 ---
 
-Wait here.
-This is it?
-This is what we came<br />all the way down here to...
-Abu! No!
-Infidels!
-You have touched<br />the forbidden treasure!
-Now you will never again<br />see the light of day!
-Help! Help! Help!
-Gotcha!
-Carpet, let's move.
-Abu!
-Abu, this is no time to panic.
-Start panicking.
-- Help me out.<br />- Throw me the lamp.
-I can't hold on. Give me your hand.
-First give me the lamp.
-Yes!
-At last!
-What are you doing?
-Giving you your reward.
-Your eternal reward.
-It's mine.
-It's all mine.
-I... Where is it?
-No.
-No!

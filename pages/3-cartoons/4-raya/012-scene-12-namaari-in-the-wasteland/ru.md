@@ -1,20 +1,6 @@
 ---
 type: richVideo
-title: "Намаари в пустоши"
-mediaLink: "https://archive.org/download/raya-scenes-42/12.mp4"
+title: Намаари в пустоши
+mediaLink: 'https://archive.org/download/raya-scenes-42/12.mp4'
 ---
-
-
-
-
-
-
-
-Принцесса Намаари,
-земли Хвоста кишат Друунами.
-Дочь Бенджи, считайте, уже камень.
-Бесполезный свиток дракона 
-не стоит риска.
-
-У кого-то ещё сомнения в наших целях?
 

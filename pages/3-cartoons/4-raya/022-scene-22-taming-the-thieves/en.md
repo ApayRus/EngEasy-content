@@ -1,37 +1,6 @@
 ---
 type: richVideo
-title: "Taming the Thieves"
-mediaLink: "https://archive.org/download/raya-scenes-42/22.mp4"
+title: Taming the Thieves
+mediaLink: 'https://archive.org/download/raya-scenes-42/22.mp4'
 ---
 
-(DRAMATIC MUSIC PLAYING)
--(LAUGHING)<br />-(TUK TUK GRUNTS)
-(EXCLAIMS)
-MALE MERCHANT: Hey, watch out!
-(GRUNTS)
--(GRUNTING)<br />-(WEAPON WHOOSHING)
-(EXCLAIMS)
-(EXCLAIMING IN SLOW MOTION)
-(MOUTHING) Bye!
-(GIGGLING)
-(DRAMATIC MUSIC CONTINUES)
-(EXCLAIMS) Diaper!
-(BLOWS RASPBERRY)
-(CRASHING)
-(THUD)
-(ONGI SQUEAKING)
-(PUNCHES)
-Thanks.
-So, it's none of my business,
-but using your baby charm<br />to rip people off...
-(EXCLAIMS INDIGNANTLY)
--...is super sketchy.<br />-(HUFFS)
-(GROWLS)
-All right,<br />where is your family?
-(BLOWS RASPBERRY)
-(COMMANDS) Mm.
-RAYA: Oh...
-Right.
-Hey.
-How would you like to earn<br />some honest loot?
-Gah?

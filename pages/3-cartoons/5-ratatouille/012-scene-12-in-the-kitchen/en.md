@@ -1,20 +1,6 @@
 ---
 type: richVideo
-title: "In the Kitchen"
-mediaLink: "https://archive.org/download/ratatouille-scenes-42/12.mp4"
+title: In the Kitchen
+mediaLink: 'https://archive.org/download/ratatouille-scenes-42/12.mp4'
 ---
 
-Table five coming up, right now.
-- Coming down the line.<br />- Set.
-Hot! Open oven!
-Coming around.
-Oui, chef.<br />One filet mignon, three lamb, two duck.
-Fire those souffles for table six, ja.
-- Five minutes, chef.<br />- Oh, God.
-Tonight,<br />I'd like to present the foie gras.
-It has a wonderful finish.
-Ready to go on table seven. Come on!<br />Let's go!
-Oui, chef.
-Remy! What are you waiting for?
-Is this going to become a regular thing<br />with you?
-You know how to fix it.<br />This is your chance.

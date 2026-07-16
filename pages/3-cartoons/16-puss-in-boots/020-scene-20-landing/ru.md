@@ -1,17 +1,6 @@
 ---
 type: richVideo
-title: "Приземление"
-mediaLink: "https://archive.org/download/puss-in-boots-31/20.mp4"
+title: Приземление
+mediaLink: 'https://archive.org/download/puss-in-boots-31/20.mp4'
 ---
 
-Держитесь!
-А ну иди сюда.
-Попалась!
-Она теперь моя!
-Привет!
-О, нет! Давай, гусенок, лети!
-Нет! Все должно быть не так!
-- Кот?<br />- Нет.
-Извините.
-Спасибо, Рыжий.
-Наверное, лучше будет срубить.

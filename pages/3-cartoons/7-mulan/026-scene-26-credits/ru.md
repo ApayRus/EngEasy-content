@@ -1,7 +1,6 @@
 ---
 type: richVideo
-title: "Титры"
-mediaLink: "https://archive.org/download/mulan-scenes-26/26.mp4"
+title: Титры
+mediaLink: 'https://archive.org/download/mulan-scenes-26/26.mp4'
 ---
-
 

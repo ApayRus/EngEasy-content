@@ -1,19 +1,6 @@
 ---
 type: richVideo
-title: "Humans Don’t Just Survive, They Create"
-mediaLink: "https://archive.org/download/ratatouille-scenes-42/4.mp4"
+title: 'Humans Don’t Just Survive, They Create'
+mediaLink: 'https://archive.org/download/ratatouille-scenes-42/4.mp4'
 ---
 
-I know I'm supposed to hate humans,<br />but there's something about them.
-They don't just survive.<br />They discover, they create.
-I mean,<br />just look at what they do with food.
-How can I describe it?
-Good food is like music you can taste,<br />color you can smell.
-There is excellence all around you.
-You need only be aware to stop<br />and savor it.
-Oh, Gusteau was right.
-Oh, yeah.
-Oh, amazing.
-Each flavor was totally unique.
-But combine one flavor with another,
-and something new was created.

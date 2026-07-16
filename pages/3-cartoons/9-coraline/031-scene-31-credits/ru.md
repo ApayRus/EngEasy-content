@@ -1,7 +1,6 @@
 ---
 type: richVideo
-title: "Титры"
-mediaLink: "https://archive.org/download/coraline-scenes-31/31.ia.mp4"
+title: Титры
+mediaLink: 'https://archive.org/download/coraline-scenes-31/31.ia.mp4'
 ---
-
 

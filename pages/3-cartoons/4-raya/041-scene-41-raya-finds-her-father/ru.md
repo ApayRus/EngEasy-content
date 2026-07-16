@@ -1,31 +1,6 @@
 ---
 type: richVideo
-title: "Рая находит отца"
-mediaLink: "https://archive.org/download/raya-scenes-42/41.mp4"
+title: Рая находит отца
+mediaLink: 'https://archive.org/download/raya-scenes-42/41.mp4'
 ---
-
-
-
-
-
-
-
-Папа?
-
-Росинка?
-
-Папа!
-
-Это правда она?
-Вождь Бенджа, гордитесь своей дочерью.
-Она привела друзей. Надеюсь, вы не против.
-
-
-Папа?
-Добро пожаловать в Кумандру.
-
-
-
-
-
 

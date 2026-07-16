@@ -1,19 +1,6 @@
 ---
 type: richVideo
-title: "6. Zoo Closure. Massage, Dinner"
-mediaLink: "https://archive.org/download/madagascar-scenes-40/6.mp4"
+title: '6. Zoo Closure. Massage, Dinner'
+mediaLink: 'https://archive.org/download/madagascar-scenes-40/6.mp4'
 ---
 
-<i>Alex the lion.</i>
-Roar!
-Thank you. Thank you very much.
-You guys are great.<br />You're a great crowd.
-Give yourselves a hand.<br />Thank you. Thank you.
-Well. Thank you.
-Oh, that's too kind. Too kind.
-Underpants!
-Everybody get home safe. Hey!<br />Check out my Web site.
-Twenty-four hour Alex Cam.<br />Watch me sleep.
-This is the life.
-Theft the spot
-I'm in heaven.
