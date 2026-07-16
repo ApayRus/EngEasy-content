@@ -12,4 +12,5 @@ itemTitlePrimary: true
 itemTitleSecondary: true
 itemDescriptionPrimary: false
 itemDescriptionSecondary: false
+materialTitleStrategy: hierarchy
 ---

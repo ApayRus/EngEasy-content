@@ -1,62 +1,111 @@
 ---
-type: richVideo
 title: "Traffic Jam (s02e13)"
+description: ""
+type: "richVideo"
 mediaLink: "https://archive.org/download/peppa-pig-all-episodes/s02e13-traffic-jam.mp4"
 peaksLink: "https://archive.org/download/peppa-pig-all-episodes/s02e13-traffic-jam.json"
 ---
 
-Grandma and Grandpa Pig are preparing lunch for Peppa and George's family.
-I picked some more potatoes to make on bake
-oh we don't already have many? Why neither at the harvests do you yet know that you can never have too many potatoes darling?
-you like
-but you better start cooking them others will be here soon
-Oh, we’ve plenty of time! it’s only 11’o clock.
-Peppa and her family are on their way
-I wish we’d set off sooner. We’re going to be late again.
-no you don't have to worry we have everything the time we need
-we are always in late when we are invited to the house of grandparents not this time
-because we will take a new path you will see there is never this little traffic. I really didn't expect it
-Peppa’s family remained stuck in traffic
-look at that is Danny cane and his grandfather with him also Danny and Grandpa cane they were stuck
-hi Peppa
-good morning
-we were invited to lunch at my grandparents' house but we will be late as always
-have you seen? it's already 1 o'clock and they’re in late delay yours do this every time
-potatoes are ready they need cook for a while longer ready with who I speak?
-hello I'm Daddy Pig we stayed stuck in traffic
-don't worry we are on the high seas we too grandfather exaggerated a little with the potatoes are waiting for you expensive they are apparently blocked
-so I will have time to go to pick up some more potato from the garden you never change
-we're going too slowly we will no longer get to the grandparents
-let's try to change direction
-this step map but there are no others marked here
-I know a shortcut
-bye bye I'll see you again let's kill luck mom pig
-Mummy Pig changed course to avoid the tail but it's a very shortcut bumpy
-you are sure of what you do?
-trust me
-bye ducks we are taking a shortcut
-look here is the main road
-fantastic work mummy pig
-but how? We are back to the same point
-hi welcome back
-apparently the shortcut didn't help much
-it's two o'clock lunch is ready
-yes every what is perfectly fine above all my potatoes
-the table is set but Peppa's family is nowhere to be seen
-ready to go home pig who's talking?
-ready I'm daddy pig we're close now but the traffic goes at the speed of one snail a steal
-that really goes a long way
-they are almost there but not
-they manage to get rid of traffic
-Oh poor dears at this rate yes
-It'll cool everything
-down came to mind an idea wait while I go get it wheelbarrow
-what is he going to do?
-I didn’t have any strenght take the potatoes and place them inside the wheelbarrow
-at your orders grandpa Pig
-if they can't come so far for lunch then we will bring the lunch with them
-look at me, there are grandfather and grandmother pigs with our lunch on a wheelbarrow
-a good think guys as they say lunch is served
-I can tell Danny and grandpa cane eat with us?
-we have enough for them too enough for everyone you know you did well to cook them in abundance
-all things considered and I have it always said that potatoes are never too much darling
+Traffic Jam.
+Granny Pig and Grandpa Pig are making lunch 
+for Peppa and her family.
+I've dug up some more potatoes.
+Oh, Grandpa, 
+we've already got plenty of potatoes.
+You can never have too many potatoes.
+Okay, 
+but get the potatoes in the oven. 
+The others will be here soon.
+We've got plenty of time. 
+It's only eleven o'clock.
+Peppa and her family are on their way.
+I wish we'd set off sooner.
+We're going to be late again.
+Don't worry, Mummy Pig. 
+We've still got loads of time.
+We're always late 
+when we go to Granny and Grandpa's.
+Not this time. 
+I've found a new way 
+that avoids all the traffic.
+I wasn't expected that.
+Peppa and her family are stuck in a traffic jam.
+Look! 
+There's Danny Dog 
+and Granddad Dog.
+Danny Dog and Granddad Dog are in the traffic jam too.
+Hello, Peppa!
+Hello, Peppa!
+We're going to my granny and grandpa's for lunch.
+We're going to be late.
+It's one o'clock. 
+They're late 
+as usual.
+How are your potatoes doing?
+They still need a bit more cooking.
+Granny Pig speaking.
+Hello, Granny Pig. 
+We're stuck in a traffic jam.
+Don't worry. 
+We're running late too. 
+Grandpa's gone over the top with potatoes.
+See you in a bit.
+The poor dears are stuck in a traffic jam.
+Sounds like I've got time to get a few more potatoes.
+Grandpa Pig!
+We're moving so slowly.
+We'll never get to Granny and Grandpa's.
+Peppa's right.
+We have to try a different way.
+But there aren't any other main roads.
+I know a shortcut.
+Bye-bye, everyone!
+We're taking a shortcut.
+Bye-bye, Peppa. Good luck!
+Mummy Pig is taking a shortcut to get ahead of the traffic.
+The shortcut is very bumpy.
+This is fun!
+Are you sure about this?
+Trust me.
+Hello, ducks!
+We're taking a shortcut.
+Look! 
+There's the main road again.
+Well done, Mummy Pig.
+But we're still behind Danny's lorry.
+Hello! Welcome back.
+Oh dear. 
+Mummy Pig's shortcut has not worked very well.
+Good. 
+Lunch is ready.
+And most important of all, 
+the potatoes are done.
+Lunch is ready, 
+but Peppa and her family are still not here.
+Grandpa Pig speaking.
+We're almost at your house, 
+but the traffic is still moving at the speed of a snail.
+A very, very slow snail.
+They're almost here, 
+but they're still in the traffic jam.
+Poor dears.
+The food is going to get cold.
+I've got an idea.
+I'll get my wheelbarrow.
+What is Grandpa Pig doing?
+Granny Pig, 
+load the lunch into the wheelbarrow.
+Aye aye, Grandpa Pig!
+If they can't come to the lunch, 
+we have to take the lunch to them.
+Look!
+There's Granny and Grandpa 
+with our lunch in a wheelbarrow.
+There!
+Lunch is served.
+Is there enough for Danny and Granddad Dog 
+to have some too?
+We've got enough for everyone.
+Hooray, potate!
+Good job you did lots and lots of potatoes, Grandpa.
+You can never have too many potatoes!
