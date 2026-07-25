@@ -8,6 +8,8 @@ pageTitlePrimary: false
 pageTitleSecondary: true
 pageDescriptionPrimary: false
 pageDescriptionSecondary: true
+childPageTitlePrimary: true
+childPageTitleSecondary: true
 itemTitlePrimary: true
 itemTitleSecondary: true
 itemDescriptionPrimary: false

@@ -1,0 +1,6 @@
+---
+type: richVideo
+title: "Беззубик на свободе"
+mediaLink: 'https://archive.org/download/how-to-train-your-dragon_202607/28.mp4'
+peaksLink: 'https://archive.org/download/how-to-train-your-dragon_202607/28.json'
+---

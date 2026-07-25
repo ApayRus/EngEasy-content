@@ -1,0 +1,103 @@
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Rob.
+<v Sam> And I’m Sam.
+<v Rob> When it comes to US presidential elections,
+some are more dramatic than others.
+<v Sam> But few elections have been as controversial as this November’s contest between current President Trump and his Democratic rival,
+Joe Biden.
+<v Rob> In America,
+where many votes are cast digitally,
+there is a risk of cyber-attacks on election day and with so much depending on the result,
+US election officials are worried.
+<v Sam> In this programme we’ll be hearing about plans to prevent election cyber-attacks which involve election officials working with a very unusual group of people: volunteer hackers.
+<strong>Volunteers</strong> are people who work willingly,
+without being paid…
+<v Rob> …
+and <strong>hackers</strong> are people who break into computer systems without permission in order to find information or do something illegal.
+<v Sam> But cyber-attacks from hackers are not the only threat to fair and democratic elections.
+<v Rob> In 2000 the presidential race between Al Gore and George W.
+Bush ended in recounts and disputes over missing votes.
+George Bush became the first modern president to win the election despite gaining fewer popular votes than his opponent –
+but how many fewer?
+That’s our quiz question –
+how many fewer votes did Bush win than Gore in the 2000 American presidential election?
+Was it:
+a) half a million votes?,
+b) a million votes?,
+or
+c) two million votes?
+<v Sam> I’ll say b) a million votes.
+<v Rob> OK,
+we’ll find out later.
+Now,
+the project Sam mentioned,
+where official administrators team up with expert volunteers to keep the election secure,
+is called <em>The Election Cyber Surge</em>.
+<v Sam> BBC World Service programme <em>Digital Planet</em> met up with project organiser Maya Worman to discuss the importance of keeping the election free from interference.
+<v Maya Worman> Any attempt to manipulate or interfere with election infrastructures –
+the machines or the information sets that determine who is <strong>eligible</strong> to vote and where –
+undermines the right to vote.
+And it puts burdens on voters and it impacts public confidence; and <strong>high-profile</strong> elections,
+especially like the one coming up,
+heighten the types of risks that we’re talking about.
+<v Rob> You can only vote in an election if you are <strong>eligible</strong> –
+qualified by having the necessary requirements,
+for example being a US citizen who’s aged 18 or over.
+<v Sam> It’s up to each of the eight thousand local jurisdictions around the United States to keep their area free from cyber-attacks and misinformation -
+risks which have increased because the coming election is so <strong>high-profile</strong> -
+attracting a lot of attention and interest from newspapers and the public.
+<v Rob> The <em>Cyber Surge</em> project to put expert volunteers in touch with local officials aims to prevent these risks.
+It covers everything from making sure administrators are using the latest anti-virus software to more serious threats from troublemakers.
+<v Sam> Now that’s got me thinking actually,
+Rob.
+Suppose I’m a troublemaker who wants to influence the election result –
+so I sign up as a volunteer and gain access to all kinds of information.
+How do we know that the volunteers who sign up are trustworthy?
+<v Rob> That’s a good question,
+Sam,
+and one that BBC World Service programme,
+<em>Digital Planet</em>,
+put to Maya Worman.
+<v Maya Worman> The expectation is not that the <strong>volunteer</strong> will have <strong>the keys to the castle</strong> by any means,
+more that they will have an open dialogue with an election administrator who wants to know more to explore <strong>cybersecurity</strong> enhancements in general or specifically.
+<v Sam> Volunteers are carefully selected according to their experience and skills in <strong>cybersecurity</strong> -
+measures that help organisations and countries keep their computer information safe against crimes and attacks carried out through the internet.
+<v Rob> Volunteers share their expert advice by talking with election officials.
+They won’t be given access to sensitive information so they won’t have <strong>the keys to the castle</strong> –
+an idiom meaning to possess information or knowledge which gives the possessor access to power.
+<v Sam> All of which means that the 2020 election result will,
+hopefully,
+be accepted by everyone.
+<v Rob> Unlike the situation twenty years ago.
+<v Sam> Ah,
+you mean our quiz question,
+Rob,
+about the 2000 US presidential election which George W.
+Bush won despite securing fewer votes than his opponent.
+<v Rob> I asked you how many fewer votes Bush won than Al Gore that year.
+<v Sam> And I said b) a million votes.
+<v Rob> But in fact,
+it was even closer –
+just a) half a million votes in Florida.
+<v Sam> In this programme we’ve been looking ahead to the US presidential elections and its <strong>cybersecurity –</strong> measures taken to protect countries and their computer information against online crimes and attacks.
+<v Rob> The <em>Cyber Surge</em> project aims to put officials in touch with <strong>volunteers –</strong> people who work for free,
+who also happen to be expert <strong>hackers</strong> –
+people who break into computer systems without permission.
+<v Sam> But the idea isn’t to commit election crime –
+rather to prevent it by making sure only those who are <strong>eligible</strong> –
+or qualified -
+to vote,
+do so.
+<v Rob> The project was set up because the November 2020 election has become so <strong>high-profile -</strong> attracting a lot of attention and interest from the public and the media.
+<v Sam> And of course the volunteers themselves are carefully chosen to be impartial experts who give advice without holding <strong>the keys to the castle</strong> –
+an idiom about possessing information which gives access to power.
+<v Rob> What’s certain is that the world will be watching this election,
+so if you’re <strong>eligible,</strong> remember to vote.
+<v Sam> And remember to join us again soon.
+Bye for now!
+<v Rob> Bye bye!
+6 minute English from BBC.

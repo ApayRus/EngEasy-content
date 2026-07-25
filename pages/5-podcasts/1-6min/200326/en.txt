@@ -1,0 +1,148 @@
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Sam> And I’m Sam.
+<v Neil> Do you like cooking,
+Sam?
+There’s a new recipe I’ve been trying out -
+it’s for ‘frosted oysters’.
+<v Sam> Frosted oysters?!
+Sounds…
+unusual.
+How do you make it?
+<v Neil> Well,
+take a pound of chicken,
+then some cubed pork and half a crushed garlic.
+<v Sam> Eh?
+I thought you said it was for ‘frosted oysters’,
+whatever they are.
+<v Neil> Yes,
+that’s right.
+Now heat it up until boiling and serve with custard.
+<v Sam> Ugh,
+that sounds disgusting!
+Who on earth told you that recipe?
+<v Neil> It’s not ‘who’
+told me,
+Sam,
+but ‘what’.
+In fact,
+that recipe was made by computers using artificial intelligence,
+or AI,
+which is the topic of today’s programme.
+In real life,
+AI is making huge progress -
+from car satnavs to detecting cancer cells.
+But as you can see from that revolting recipe,
+things don’t always go according to plan.
+<v Sam> So,
+just how intelligent is artificial intelligence?
+I mean,
+it definitely needs some cooking lessons!
+<v Neil> Right.
+AI is not as intelligent as we tend to think.
+AI programmes use artificial brain cells to roughly imitate real brain cell activity,
+but they’re still a long way behind human levels of intelligence.
+And that’s my quiz question –
+in terms of brain cell count,
+what level of intelligence is AI currently working at?
+Is AI as smart as:
+a) a frog
+b) an earthworm
+c) a bumblebee
+<v Sam> Well,
+I don’t think any of <em>those</em> are good cooks either,
+to be honest.
+I’ll say c) a bumblebee,
+because at least they can make honey!
+<v Neil> Nice guess,
+Sam.
+We’ll find out the answer later.
+But first let’s find out more about how AI misunderstandings like the oyster recipe can happen.
+Janelle Shane is the author of ‘You Look Like a Thing and I Love You’
+in which she tells her amusing experiences and bizarre experiments with AI.
+<v Sam> You Look Like a Thing and I Love You –
+that’s a strange title for a book,
+Neil.
+<v Neil> Yes.
+It’s another example of AI miscommunication.
+The book title is what a AI produced when asked to write <strong>chat-up lines</strong> –
+remarks men and women make to start up a conversation with someone they don’t know but find attractive.
+Here she is talking to the BBC World Service programme More or Less:
+<v Janelle Shane> ‘Machine learning’
+is what most programmers mean when they say ‘AI’.
+In the programme that we’re used to,
+if you want to have a computer programme solve a problem you have to have a human <strong>programmer</strong> write down exhaustive step-by-step instructions on how to do everything.
+But with ‘machine learning’
+you just give it the goal,
+and then the programme figures out via <strong>trial and error</strong> how it’s going to solve that problem.
+<v Sam> So even though we’re talking about machines learning for themselves,
+there still need to be humans involved at the start of the journey.
+This human teaching is done by <strong>computer programmers</strong> –
+people who write,
+or code,
+the computer programmes used by AI.
+<v Neil> Right.
+These programmers write <strong>algorithms</strong> –
+a set of rules or procedures to be followed in problem-solving exercises.
+So,
+for example,
+the AI that wrote that oyster recipe read thousands of other recipes before coming up with its own version.
+<v Sam> In other words,
+Artificial intelligence uses a process of <strong>trial and error</strong> –
+repeating the same task over and over until finding the most successful way.
+Only in the case of the oyster recipe,
+there was more ‘error’
+than ‘trial’!
+<v Neil> Well,
+according to Janelle Shane,
+we can learn a lot about something by seeing how it goes wrong.
+Here she is,
+talking about an AI which had been told to solve maths problems:
+<v Janelle Shane> It seemed to be that it was getting scored on how many wrong answers it got,
+and it was supposed to be <strong>minimising</strong> the number of wrong answers,
+and just by <strong>a stroke of luck</strong> as part of its trial and error flailing around,
+one of the flails it did accidentally deleted the solutions list,
+and then it and everybody else got a perfect score.
+<v Sam> So,
+AIs learn by <strong>minimising</strong> their errors –
+reducing them as much as possible.
+And sometimes,
+these algorithms only discover the right answer by <strong>a stroke of luck</strong> –
+when something unexpected happens by good luck or chance.
+It seems to me that they’re not so intelligent after all!
+<v Neil> Well,
+let’s settle it once and for all by answering today’s quiz question.
+Remember I asked you how intelligent AI was in terms of brain cell count and you said,
+as intelligent as…
+<v Sam> I said c) a bumblebee.
+<v Neil> Well,
+here’s Janelle again with the answer…
+<v Janelle Shane> If you’re looking at rough computing power,
+the algorithms we’re working with are probably somewhere around the level of an earthworm.
+<v Sam> So,
+the correct answer was b) as clever as an earthworm!
+No wonder AIs can’t cook!
+<v Neil> Or take a maths test without cheating!
+In this programme we’ve been looking at artificial intelligence,
+or AI,
+and seeing how <strong>programmers</strong> –
+that’s people who write instructions for computers to follow create <strong>algorithms</strong> –
+sets of rules used in problem-solving.
+<v Sam> AI learns through <strong>trial and error</strong> –
+repeating the same activity again and again until discovering the best way,
+and <strong>minimising</strong> –
+reducing as much as possible,
+the number of errors it makes.
+<v Neil> And success can be the result of <strong>a stroke of luck,</strong> when something unexpected happens purely by chance,
+although so far that hasn’t helped AIs to write good <strong>chat-up lines</strong> –
+the flattering remarks people make to get to know someone they find attractive.
+<v Sam> And AIs don’t know much about cooking oysters either!
+<v Neil> That’s all from us from this programme.
+Be sure to join us again for more topical discussion and vocabulary at 6 Minute English for BBC Learning English.
+Bye for now!
+<v Sam> Bye.
+6 minute English from BBC.
