@@ -1,90 +1,81 @@
-# 1
-big
-small
-I
+--- lesson 1 ---
+i
 you
 he
 she
 it
 we
 they
-be | am | are | is | are
+be
+am
+are
+is
+big
+small
 
-# 2
+--- lesson 2 ---
+i'm
+you're
+he's
+she's
+it's
+we're
+they're
 good
 bad
 new
 old
-hot
-cold
+
+--- lesson 3 ---
+busy
+free
 happy
 sad
 young
 strong
 weak
-I'm | I am
-you're | you are
-he's | he is
-she's | she is
-it's | it is
-we're | we are
-they're | they are
-
-# 3
-busy
-ready
-late
-early
-right
-wrong
 tired
 hungry
-here
-there
+ready
 yes
 
-# 4
+--- lesson 4 ---
+not
+aren't
+isn't
 kind
+angry
 nice
+rude
 smart
 stupid
 funny
-friendly
-angry
-free
-fine
-aren't | are not
-isn't | is not
+boring
+
+--- lesson 5 ---
 no
+tall
+short
+rich
+poor
+brave
+afraid
+quiet
+loud
+clean
+dirty
 
-# 5
-a
-what's | what is
-that's | that is
-this
-that
-house
-door
-window
-floor
-ceiling
-wall
-table
-chair
-room
-what
-
-# 6
+--- lesson 6 ---
+where
+where's
 the
+on
+in
+under
+near
 and
-where's | where is
 box
 bag
 book
 key
 phone
-on
-in
-under
-near
-where

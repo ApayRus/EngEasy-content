@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T22:55:16.132Z",
+  "generatedAt": "2026-08-01T17:22:59.074Z",
   "lesson": 40,
   "slug": "40-going-to",
   "path": [
@@ -17,11 +17,11 @@
     "cumulative": {
       "grammar": [
         "verbBe.present.statement",
+        "verbBe.present.contracted",
         "verbBe.present.question",
         "verbBe.present.negative",
         "verbBe.present.question.negative",
-        "verbBe.present.question.negative.contracted",
-        "verbBe.present.question.wh"
+        "verbBe.present.question.negative.contracted"
       ],
       "morphology": [
         "verbBe.base",
@@ -33,12 +33,7 @@
         "pronoun.subject",
         "contraction.short",
         "contraction.full",
-        "fixedAdverb.base",
         "interjection.base",
-        "questionWord.base",
-        "article.base",
-        "noun.singular",
-        "demonstrative.singular",
         "preposition.base",
         "conjunction.base"
       ]

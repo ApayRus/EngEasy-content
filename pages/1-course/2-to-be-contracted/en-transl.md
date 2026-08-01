@@ -2,22 +2,24 @@
 type: lesson
 description: ðə vɜːb tuː biː ɪz ˈɒfən juːzd ɪn kənˈtræktɪd fɔːmz.
 hideHelp: true
+grammar:
+  - verbBe.present.contracted
 morphology:
   - contraction.short
   - contraction.full
 ---
 
-# 2. aɪm ˈhæpi, ænd juː ɑː strɒŋ
+# 2. aɪm ɡʊd, ænd jɔː bæd
 
 ## kənˈtræktɪd fɔːmz {new|contraction}
 
-aɪm, aɪ æm
-jɔː, juː ɑː
-hiːz, hiː ɪz
-ʃiːz, ʃiː ɪz
-ɪts, ɪt ɪz
-wɪə, wiː ɑː
-ðeə, ðeɪ ɑː
+aɪm
+jɔː
+hiːz
+ʃiːz
+ɪts
+wɪə
+ðeə
 
 ## ˈædʒɪktɪvz {new|adjective}
 
@@ -25,72 +27,44 @@ wɪə, wiː ɑː
 bæd
 njuː
 əʊld
-hɒt
-kəʊld
-ˈhæpi
-sæd
-jʌŋ
-strɒŋ
-wiːk
 
 ## ˈpræktɪs
 
-aɪ æm ˈhæpi
-aɪm ˈhæpi
-juː ɑː wiːk
-jɔː wiːk
-hiː ɪz jʌŋ
-hiːz jʌŋ
-ʃiː ɪz strɒŋ
-ʃiːz strɒŋ
-ɪt ɪz kəʊld
-ɪts kəʊld
+aɪ æm ɡʊd
+aɪm ɡʊd
+juː ɑː bæd
+jɔː bæd
+hiː ɪz njuː
+hiːz njuː
+ʃiː ɪz əʊld
+ʃiːz əʊld
+ɪt ɪz bɪɡ
+ɪts bɪɡ
 wiː ɑː ɡʊd
 wɪə ɡʊd
 ðeɪ ɑː əʊld
 ðeə əʊld
 
-aɪ æm sæd
-aɪm sæd
-juː ɑː strɒŋ
-jɔː strɒŋ
-hiː ɪz ɡʊd
-hiːz ɡʊd
-ʃiː ɪz ˈhæpi
-ʃiːz ˈhæpi
-ɪt ɪz hɒt
-ɪts hɒt
-wiː ɑː jʌŋ
-wɪə jʌŋ
-ðeɪ ɑː wiːk
-ðeə wiːk
+aɪm bæd
+jɔː ɡʊd
+hiːz əʊld
+ʃiːz njuː
+ɪts smɔːl
+wɪə bɪɡ
+ðeə bæd
 
-aɪ æm ɡʊd
-aɪm ɡʊd
-juː ɑː əʊld
+aɪm njuː
 jɔː əʊld
-hiː ɪz bæd
-hiːz bæd
-ʃiː ɪz kəʊld
-ʃiːz kəʊld
-ɪt ɪz njuː
-ɪts njuː
-wiː ɑː ˈhæpi
-wɪə ˈhæpi
-ðeɪ ɑː sæd
-ðeə sæd
+hiːz ɡʊd
+ʃiːz bæd
+ɪts ɡʊd
+wɪə njuː
+ðeə smɔːl
 
-aɪ æm wiːk
-aɪm wiːk
-juː ɑː njuː
+aɪm əʊld
 jɔː njuː
-hiː ɪz strɒŋ
-hiːz strɒŋ
-ʃiː ɪz ɡʊd
+hiːz bæd
 ʃiːz ɡʊd
-ɪt ɪz əʊld
 ɪts əʊld
-wiː ɑː kəʊld
-wɪə kəʊld
-ðeɪ ɑː hɒt
-ðeə hɒt
+wɪə smɔːl
+ðeə bɪɡ

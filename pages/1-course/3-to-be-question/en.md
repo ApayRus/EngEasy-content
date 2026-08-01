@@ -1,9 +1,8 @@
 ---
 type: lesson
-description: Present Simple question with the verb to be. Fixed adverb base form. Interjection base form.
+description: Present Simple question with the verb to be. Interjection base form.
 hideHelp: true
 morphology:
-  - fixedAdverb.base
   - interjection.base
 grammar:
   - verbBe.present.question
@@ -24,18 +23,15 @@ Are they
 ## Adjectives {new|adjective}
 
 busy
-ready
-late
-early
-right
-wrong
+free
+happy
+sad
+young
+strong
+weak
 tired
 hungry
-
-## Place words {new|fixedAdverb}
-
-here
-there
+ready
 
 ## Answer words {new|interjection}
 
@@ -47,23 +43,23 @@ Am I busy?
 Yes, I am busy.
 Are you ready?
 Yes, you are ready.
-Is he late?
-Is she early?
-Is it right?
-Is it wrong?
+Is he happy?
+Is she sad?
+Is it good?
+Is it bad?
 Are we tired?
 Are they hungry?
-Are you here?
-Are they there?
+Are you free?
+Are they strong?
 
 Am I ready?
 Are you busy?
-Is he early?
-Is she late?
-Is it here?
-Is it there?
-Are we right?
-Are they wrong?
+Is he young?
+Is she weak?
+Is it new?
+Is it old?
+Are we happy?
+Are they sad?
 Are you tired?
 Is he hungry?
 
@@ -71,19 +67,19 @@ Is he hungry?
 
 Am I hungry?
 Yes, I am hungry.
-Are you early?
-Is he here?
-Yes, he is here.
+Are you free?
+Is he strong?
+Yes, he is strong.
 Is she ready?
 Is it busy?
-Are we late?
+Are we weak?
 Are they tired?
 
-Am I right?
-Are you wrong?
+Am I young?
+Are you happy?
 Is he hungry?
-Is she here?
-Is it early?
+Is she free?
+Is it bad?
 Are we ready?
 Yes, we are ready.
 Are they busy?

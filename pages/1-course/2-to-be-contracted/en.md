@@ -2,22 +2,24 @@
 type: lesson
 description: The verb to be is often used in contracted forms.
 hideHelp: true
+grammar:
+  - verbBe.present.contracted
 morphology:
   - contraction.short
   - contraction.full
 ---
 
-# 2. I'm happy, and you are strong
+# 2. I'm good, and you're bad
 
 ## Contracted forms {new|contraction}
 
-I'm, I am
-you're, you are
-he's, he is
-she's, she is
-it's, it is
-we're, we are
-they're, they are
+I'm
+you're
+he's
+she's
+it's
+we're
+they're
 
 ## Adjectives {new|adjective}
 
@@ -25,72 +27,44 @@ good
 bad
 new
 old
-hot
-cold
-happy
-sad
-young
-strong
-weak
 
 ## Practice
 
-I am happy
-I'm happy
-You are weak
-You're weak
-He is young
-He's young
-She is strong
-She's strong
-It is cold
-It's cold
+I am good
+I'm good
+You are bad
+You're bad
+He is new
+He's new
+She is old
+She's old
+It is big
+It's big
 We are good
 We're good
 They are old
 They're old
 
-I am sad
-I'm sad
-You are strong
-You're strong
-He is good
-He's good
-She is happy
-She's happy
-It is hot
-It's hot
-We are young
-We're young
-They are weak
-They're weak
+I'm bad
+You're good
+He's old
+She's new
+It's small
+We're big
+They're bad
 
-I am good
-I'm good
-You are old
+I'm new
 You're old
-He is bad
-He's bad
-She is cold
-She's cold
-It is new
-It's new
-We are happy
-We're happy
-They are sad
-They're sad
+He's good
+She's bad
+It's good
+We're new
+They're small
 
-I am weak
-I'm weak
-You are new
+I'm old
 You're new
-He is strong
-He's strong
-She is good
+He's bad
 She's good
-It is old
 It's old
-We are cold
-We're cold
-They are hot
-They're hot
+We're small
+They're big

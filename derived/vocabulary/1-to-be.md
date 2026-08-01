@@ -1,11 +1,14 @@
-# 1
-big
-small
-I
+--- lesson 1 ---
+i
 you
 he
 she
 it
 we
 they
-be | am | are | is | are
+be
+am
+are
+is
+big
+small

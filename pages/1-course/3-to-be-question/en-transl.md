@@ -1,9 +1,8 @@
 ---
 type: lesson
-description: ˈprezənt ˈsɪmpəl ˈkwestʃən wɪð ðə vɜːb tuː biː. fɪkst ˈædvɜːb beɪs fɔːm. ˌɪntəˈdʒekʃən beɪs fɔːm.
+description: ˈprezənt ˈsɪmpəl ˈkwestʃən wɪð ðə vɜːb tuː biː. ˌɪntəˈdʒekʃən beɪs fɔːm.
 hideHelp: true
 morphology:
-  - fixedAdverb.base
   - interjection.base
 grammar:
   - verbBe.present.question
@@ -24,18 +23,15 @@ grammar:
 ## ˈædʒɪktɪvz {new|adjective}
 
 ˈbɪzi
-ˈredi
-leɪt
-ˈɜːli
-raɪt
-rɒŋ
+friː
+ˈhæpi
+sæd
+jʌŋ
+strɒŋ
+wiːk
 ˈtaɪəd
 ˈhʌŋɡri
-
-## pleɪs wɜːdz {new|fixedAdverb}
-
-hɪə
-ðeə
+ˈredi
 
 ## ˈɑːnsə wɜːdz {new|interjection}
 
@@ -47,23 +43,23 @@ jes
 jes, aɪ æm ˈbɪzi.
 ɑː juː ˈredi?
 jes, juː ɑː ˈredi.
-ɪz hiː leɪt?
-ɪz ʃiː ˈɜːli?
-ɪz ɪt raɪt?
-ɪz ɪt rɒŋ?
+ɪz hiː ˈhæpi?
+ɪz ʃiː sæd?
+ɪz ɪt ɡʊd?
+ɪz ɪt bæd?
 ɑː wiː ˈtaɪəd?
 ɑː ðeɪ ˈhʌŋɡri?
-ɑː juː hɪə?
-ɑː ðeɪ ðeə?
+ɑː juː friː?
+ɑː ðeɪ strɒŋ?
 
 æm aɪ ˈredi?
 ɑː juː ˈbɪzi?
-ɪz hiː ˈɜːli?
-ɪz ʃiː leɪt?
-ɪz ɪt hɪə?
-ɪz ɪt ðeə?
-ɑː wiː raɪt?
-ɑː ðeɪ rɒŋ?
+ɪz hiː jʌŋ?
+ɪz ʃiː wiːk?
+ɪz ɪt njuː?
+ɪz ɪt əʊld?
+ɑː wiː ˈhæpi?
+ɑː ðeɪ sæd?
 ɑː juː ˈtaɪəd?
 ɪz hiː ˈhʌŋɡri?
 
@@ -71,19 +67,19 @@ jes, juː ɑː ˈredi.
 
 æm aɪ ˈhʌŋɡri?
 jes, aɪ æm ˈhʌŋɡri.
-ɑː juː ˈɜːli?
-ɪz hiː hɪə?
-jes, hiː ɪz hɪə.
+ɑː juː friː?
+ɪz hiː strɒŋ?
+jes, hiː ɪz strɒŋ.
 ɪz ʃiː ˈredi?
 ɪz ɪt ˈbɪzi?
-ɑː wiː leɪt?
+ɑː wiː wiːk?
 ɑː ðeɪ ˈtaɪəd?
 
-æm aɪ raɪt?
-ɑː juː rɒŋ?
+æm aɪ jʌŋ?
+ɑː juː ˈhæpi?
 ɪz hiː ˈhʌŋɡri?
-ɪz ʃiː hɪə?
-ɪz ɪt ˈɜːli?
+ɪz ʃiː friː?
+ɪz ɪt bæd?
 ɑː wiː ˈredi?
 jes, wiː ɑː ˈredi.
 ɑː ðeɪ ˈbɪzi?

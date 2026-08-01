@@ -8,7 +8,7 @@ grammar:
   - verbBe.present.question.negative.contracted
 ---
 
-# 4. aɪm nɒt ˈæŋɡri. ʃiː ˈɪzənt faɪn.
+# 4. aɪm nɒt ˈæŋɡri. ʃiː ˈɪzənt ruːd.
 
 ## ˈneɡətɪv ˈpætənz {new}
 
@@ -32,34 +32,33 @@ nəʊ
 ## ˈædʒɪktɪvz {new|adjective}
 
 kaɪnd
+ˈæŋɡri
 naɪs
+ruːd
 smɑːt
 ˈstjuːpɪd
 ˈfʌni
-ˈfrendli
-ˈæŋɡri
-friː
-faɪn
+ˈbɔːrɪŋ
 
 ## ˈpræktɪs
 
 aɪ æm nɒt ˈæŋɡri.
 aɪm nɒt ˈæŋɡri.
-juː ɑː nɒt ˈfrendli.
-jɔː nɒt ˈfrendli.
+juː ɑː nɒt ruːd.
+jɔː nɒt ruːd.
 hiː ɪz nɒt kaɪnd.
 hiː ˈɪzənt kaɪnd.
 ʃiː ɪz nɒt smɑːt.
 ʃiː ˈɪzənt smɑːt.
 ɪt ˈɪzənt ˈfʌni.
-wɪə nɒt faɪn.
+wɪə nɒt ˈbɔːrɪŋ.
 ðeɪ ɑːnt friː.
 
 aɪm nɒt ˈstjuːpɪd.
 jɔː nɒt naɪs.
-hiː ˈɪzənt ˈfrendli.
+hiː ˈɪzənt ruːd.
 ʃiː ˈɪzənt kaɪnd.
-ɪt ˈɪzənt faɪn.
+ɪt ˈɪzənt ˈbɔːrɪŋ.
 wiː ɑːnt friː.
 ðeɪ ɑːnt smɑːt.
 
@@ -67,9 +66,9 @@ aɪm nɒt ˈfʌni.
 jɔː nɒt ˈæŋɡri.
 hiː ˈɪzənt ˈstjuːpɪd.
 ʃiː ˈɪzənt naɪs.
-ɪt ˈɪzənt ˈfrendli.
+ɪt ˈɪzənt ruːd.
 wɪə nɒt kaɪnd.
-ðeɪ ɑːnt faɪn.
+ðeɪ ɑːnt ˈbɔːrɪŋ.
 
 aɪm nɒt friː.
 juː ɑːnt smɑːt.
@@ -81,9 +80,9 @@ wiː ɑːnt naɪs.
 
 ## ˈneɡətɪv ˈkwestʃənz
 
-ɑː juː nɒt ˈfrendli?
-ɑːnt juː ˈfrendli?
-nəʊ, jɔː nɒt ˈfrendli.
+ɑː juː nɒt ruːd?
+ɑːnt juː ruːd?
+nəʊ, jɔː nɒt ruːd.
 
 ɪz hiː nɒt kaɪnd?
 ˈɪzənt hiː kaɪnd?
@@ -96,8 +95,8 @@ nəʊ, hiː ˈɪzənt kaɪnd.
 ˈɪzənt ɪt ˈfʌni?
 nəʊ, ɪt ˈɪzənt ˈfʌni.
 
-ɑː wiː nɒt faɪn?
-ɑːnt wiː faɪn?
+ɑː wiː nɒt ˈbɔːrɪŋ?
+ɑːnt wiː ˈbɔːrɪŋ?
 
 ɑː ðeɪ nɒt friː?
 ɑːnt ðeɪ friː?
@@ -112,8 +111,8 @@ nəʊ, ðeɪ ɑːnt friː.
 ɑː juː nɒt ˈæŋɡri?
 ɑːnt juː ˈæŋɡri?
 
-ɪz ɪt nɒt ˈfrendli?
-ˈɪzənt ɪt ˈfrendli?
+ɪz ɪt nɒt ruːd?
+ˈɪzənt ɪt ruːd?
 
 ɑː wiː nɒt kaɪnd?
 ɑːnt wiː kaɪnd?
