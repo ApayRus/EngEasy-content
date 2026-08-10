@@ -1,9 +1,7 @@
 ---
-type: richAudio
-title: '1'
-mediaLink: >-
-  https://archive.org/download/aliceinwonderland_33_202607/aliceinwonderland_09_01.mp3
-peaksLink: >-
-  https://archive.org/download/aliceinwonderland_33_202607/aliceinwonderland_09_01.json
+title: "1"
+description: ""
+type: "richAudio"
+mediaLink: "https://archive.org/download/aliceinwonderland_33_202607/aliceinwonderland_09_01.mp3"
+peaksLink: "https://archive.org/download/aliceinwonderland_33_202607/aliceinwonderland_09_01.json"
 ---
-

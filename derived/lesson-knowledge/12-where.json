@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-08-08T17:23:00.912Z",
+  "lesson": 12,
+  "slug": "12-where",
+  "path": [
+    "course",
+    "where"
+  ],
+  "sourceFile": "content/pages/1-course/12-where/en.md",
+  "sentenceCount": 90,
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "questionWord.where"
+      ],
+      "morphology": [
+        "questionWord.base",
+        "fixedAdverb.base"
+      ]
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.statement",
+        "verbBe.present.contracted",
+        "verbBe.present.question",
+        "verbBe.present.negative",
+        "verbBe.present.question.negative",
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite",
+        "demonstrative.thisThat",
+        "demonstrative.theseThose",
+        "noun.plural",
+        "article.definite",
+        "verbBe.present.location",
+        "preposition.location",
+        "existential.thereIs",
+        "questionWord.where"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject",
+        "contraction.short",
+        "contraction.full",
+        "interjection.base",
+        "article.indefinite",
+        "noun.singular",
+        "demonstrative.singular",
+        "demonstrative.plural",
+        "noun.plural",
+        "article.definite",
+        "preposition.base",
+        "questionWord.base",
+        "fixedAdverb.base"
+      ]
+    }
+  }
+}

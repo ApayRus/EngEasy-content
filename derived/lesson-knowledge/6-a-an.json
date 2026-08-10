@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-08-08T17:23:00.911Z",
+  "lesson": 6,
+  "slug": "6-a-an",
+  "path": [
+    "course",
+    "a-an"
+  ],
+  "sourceFile": "content/pages/1-course/6-a-an/en.md",
+  "sentenceCount": 35,
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "article.indefinite"
+      ],
+      "morphology": [
+        "article.indefinite",
+        "noun.singular"
+      ]
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.statement",
+        "verbBe.present.contracted",
+        "verbBe.present.question",
+        "verbBe.present.negative",
+        "verbBe.present.question.negative",
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject",
+        "contraction.short",
+        "contraction.full",
+        "interjection.base",
+        "article.indefinite",
+        "noun.singular"
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-08-08T17:23:00.911Z",
+  "lesson": 7,
+  "slug": "7-this-that",
+  "path": [
+    "course",
+    "this-that"
+  ],
+  "sourceFile": "content/pages/1-course/7-this-that/en.md",
+  "sentenceCount": 60,
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "demonstrative.thisThat"
+      ],
+      "morphology": [
+        "demonstrative.singular"
+      ]
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.statement",
+        "verbBe.present.contracted",
+        "verbBe.present.question",
+        "verbBe.present.negative",
+        "verbBe.present.question.negative",
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite",
+        "demonstrative.thisThat"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject",
+        "contraction.short",
+        "contraction.full",
+        "interjection.base",
+        "article.indefinite",
+        "noun.singular",
+        "demonstrative.singular"
+      ]
+    }
+  }
+}

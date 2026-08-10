@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:22:59.073Z",
+  "generatedAt": "2026-08-08T17:23:00.912Z",
   "lesson": 14,
   "slug": "14-places",
   "path": [
@@ -21,7 +21,19 @@
         "verbBe.present.question",
         "verbBe.present.negative",
         "verbBe.present.question.negative",
-        "verbBe.present.question.negative.contracted"
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite",
+        "demonstrative.thisThat",
+        "demonstrative.theseThose",
+        "noun.plural",
+        "article.definite",
+        "verbBe.present.location",
+        "preposition.location",
+        "existential.thereIs",
+        "questionWord.where",
+        "noun.possessiveS",
+        "noun.possessivePlural",
+        "noun.compound"
       ],
       "morphology": [
         "verbBe.base",
@@ -34,8 +46,15 @@
         "contraction.short",
         "contraction.full",
         "interjection.base",
+        "article.indefinite",
+        "noun.singular",
+        "demonstrative.singular",
+        "demonstrative.plural",
+        "noun.plural",
+        "article.definite",
         "preposition.base",
-        "conjunction.base"
+        "questionWord.base",
+        "fixedAdverb.base"
       ]
     }
   }

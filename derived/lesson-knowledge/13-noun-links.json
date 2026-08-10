@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2026-08-08T17:23:00.912Z",
+  "lesson": 13,
+  "slug": "13-noun-links",
+  "path": [
+    "course",
+    "noun-links"
+  ],
+  "sourceFile": "content/pages/1-course/13-noun-links/en.md",
+  "sentenceCount": 99,
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "noun.possessiveS",
+        "noun.possessivePlural",
+        "noun.compound"
+      ],
+      "morphology": []
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.statement",
+        "verbBe.present.contracted",
+        "verbBe.present.question",
+        "verbBe.present.negative",
+        "verbBe.present.question.negative",
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite",
+        "demonstrative.thisThat",
+        "demonstrative.theseThose",
+        "noun.plural",
+        "article.definite",
+        "verbBe.present.location",
+        "preposition.location",
+        "existential.thereIs",
+        "questionWord.where",
+        "noun.possessiveS",
+        "noun.possessivePlural",
+        "noun.compound"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject",
+        "contraction.short",
+        "contraction.full",
+        "interjection.base",
+        "article.indefinite",
+        "noun.singular",
+        "demonstrative.singular",
+        "demonstrative.plural",
+        "noun.plural",
+        "article.definite",
+        "preposition.base",
+        "questionWord.base",
+        "fixedAdverb.base"
+      ]
+    }
+  }
+}

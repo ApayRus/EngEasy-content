@@ -1,14 +1,17 @@
 ---
 name: article
 forms:
-  - id: base
-    name: base form
+  - id: indefinite
+    name: indefinite article
+  - id: definite
+    name: definite article
 ---
-
-# 5
-
-a
 
 # 6
 
-the
+a |
+an |
+
+# 9
+
+ | the

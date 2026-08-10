@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-08-08T17:23:00.912Z",
+  "lesson": 15,
+  "slug": "15-comparison",
+  "path": [
+    "course",
+    "comparison"
+  ],
+  "sourceFile": "content/pages/1-course/15-comparison/en.md",
+  "sentenceCount": 77,
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "adjective.comparative",
+        "adjective.superlative",
+        "comparison.than"
+      ],
+      "morphology": [
+        "adjective.comparative",
+        "adjective.superlative",
+        "conjunction.base"
+      ]
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.statement",
+        "verbBe.present.contracted",
+        "verbBe.present.question",
+        "verbBe.present.negative",
+        "verbBe.present.question.negative",
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite",
+        "demonstrative.thisThat",
+        "demonstrative.theseThose",
+        "noun.plural",
+        "article.definite",
+        "verbBe.present.location",
+        "preposition.location",
+        "existential.thereIs",
+        "questionWord.where",
+        "noun.possessiveS",
+        "noun.possessivePlural",
+        "noun.compound",
+        "questionWord.what",
+        "adjective.comparative",
+        "adjective.superlative",
+        "comparison.than"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject",
+        "contraction.short",
+        "contraction.full",
+        "interjection.base",
+        "article.indefinite",
+        "noun.singular",
+        "demonstrative.singular",
+        "demonstrative.plural",
+        "noun.plural",
+        "article.definite",
+        "preposition.base",
+        "questionWord.base",
+        "fixedAdverb.base",
+        "adjective.comparative",
+        "adjective.superlative",
+        "conjunction.base"
+      ]
+    }
+  }
+}

@@ -20,33 +20,59 @@ good | better | best
 bad | worse | worst
 new | newer | newest
 old | older | oldest
-hot | hotter | hottest
-cold | colder | coldest
+
+# 3
+
+busy | busier | busiest
+free | freer | freest
 happy | happier | happiest
 sad | sadder | saddest
 young | younger | youngest
 strong | stronger | strongest
 weak | weaker | weakest
-
-# 3
-
-busy | busier | busiest
-ready | readier | readiest
-late | later | latest
-early | earlier | earliest
-right | righter | rightest
-wrong | wronger | wrongest
 tired | more tired | most tired
 hungry | hungrier | hungriest
+ready | readier | readiest
 
 # 4
 
 kind | kinder | kindest
+angry | angrier | angriest
 nice | nicer | nicest
+rude | ruder | rudest
 smart | smarter | smartest
 stupid | stupider | stupidest
 funny | funnier | funniest
-friendly | friendlier | friendliest
-angry | angrier | angriest
-free | freer | freest
-fine | finer | finest
+boring | more boring | most boring
+
+# 5
+
+tall | taller | tallest
+short | shorter | shortest
+rich | richer | richest
+poor | poorer | poorest
+brave | braver | bravest
+afraid | more afraid | most afraid
+quiet | quieter | quietest
+loud | louder | loudest
+clean | cleaner | cleanest
+dirty | dirtier | dirtiest
+
+# 10
+
+open | more open | most open
+closed | more closed | most closed
+full | fuller | fullest
+empty | emptier | emptiest
+
+# 15
+
+long | longer | longest
+wide | wider | widest
+heavy | heavier | heaviest
+easy | easier | easiest
+hard | harder | hardest
+hot | hotter | hottest
+light | lighter | lightest
+beautiful | more beautiful | most beautiful
+interesting | more interesting | most interesting

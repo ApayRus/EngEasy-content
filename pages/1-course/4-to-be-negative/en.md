@@ -20,8 +20,8 @@ They are not
 
 ## Contracted negative forms {new|contraction}
 
-aren't = are not
-isn't = is not
+aren't
+isn't
 
 ## Adjectives {new|adjective}
 

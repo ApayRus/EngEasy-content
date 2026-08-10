@@ -4,8 +4,6 @@ description: ˈprezənt ˈsɪmpəl ˈneɡətɪv wɪð ðə vɜːb tuː biː.
 hideHelp: true
 grammar:
   - verbBe.present.negative
-  - verbBe.present.question.negative
-  - verbBe.present.question.negative.contracted
 ---
 
 # 4. aɪm nɒt ˈæŋɡri. ʃiː ˈɪzənt ruːd.
@@ -25,10 +23,6 @@ wiː ɑː nɒt
 ɑːnt = ɑː nɒt
 ˈɪzənt = ɪz nɒt
 
-## ˈɑːnsə wɜːdz {new|interjection}
-
-nəʊ
-
 ## ˈædʒɪktɪvz {new|adjective}
 
 kaɪnd
@@ -42,17 +36,28 @@ smɑːt
 
 ## ˈpræktɪs
 
-aɪ æm nɒt ˈæŋɡri.
-aɪm nɒt ˈæŋɡri.
 juː ɑː nɒt ruːd.
 jɔː nɒt ruːd.
+juː ɑːnt ruːd.
 hiː ɪz nɒt kaɪnd.
+hiːz nɒt kaɪnd.
 hiː ˈɪzənt kaɪnd.
 ʃiː ɪz nɒt smɑːt.
+ʃiːz nɒt smɑːt.
 ʃiː ˈɪzənt smɑːt.
-ɪt ˈɪzənt ˈfʌni.
+wiː ɑː nɒt ˈbɔːrɪŋ.
 wɪə nɒt ˈbɔːrɪŋ.
+wiː ɑːnt ˈbɔːrɪŋ.
+ðeɪ ɑː nɒt friː.
+ðeə nɒt friː.
 ðeɪ ɑːnt friː.
+
+aɪ æm nɒt ˈæŋɡri.
+aɪm nɒt ˈæŋɡri.
+ɪt ˈɪzənt ˈfʌni.
+ɪt ɪz nɒt ruːd.
+ɪts nɒt ruːd.
+ɪt ˈɪzənt ruːd.
 
 aɪm nɒt ˈstjuːpɪd.
 jɔː nɒt naɪs.
@@ -77,45 +82,3 @@ hiː ˈɪzənt ˈfʌni.
 ɪt ˈɪzənt kaɪnd.
 wiː ɑːnt naɪs.
 ðeɪ ɑːnt ˈstjuːpɪd.
-
-## ˈneɡətɪv ˈkwestʃənz
-
-ɑː juː nɒt ruːd?
-ɑːnt juː ruːd?
-nəʊ, jɔː nɒt ruːd.
-
-ɪz hiː nɒt kaɪnd?
-ˈɪzənt hiː kaɪnd?
-nəʊ, hiː ˈɪzənt kaɪnd.
-
-ɪz ʃiː nɒt smɑːt?
-ˈɪzənt ʃiː smɑːt?
-
-ɪz ɪt nɒt ˈfʌni?
-ˈɪzənt ɪt ˈfʌni?
-nəʊ, ɪt ˈɪzənt ˈfʌni.
-
-ɑː wiː nɒt ˈbɔːrɪŋ?
-ɑːnt wiː ˈbɔːrɪŋ?
-
-ɑː ðeɪ nɒt friː?
-ɑːnt ðeɪ friː?
-nəʊ, ðeɪ ɑːnt friː.
-
-ɪz hiː nɒt ˈstjuːpɪd?
-ˈɪzənt hiː ˈstjuːpɪd?
-
-ɪz ʃiː nɒt naɪs?
-ˈɪzənt ʃiː naɪs?
-
-ɑː juː nɒt ˈæŋɡri?
-ɑːnt juː ˈæŋɡri?
-
-ɪz ɪt nɒt ruːd?
-ˈɪzənt ɪt ruːd?
-
-ɑː wiː nɒt kaɪnd?
-ɑːnt wiː kaɪnd?
-
-ɑː ðeɪ nɒt smɑːt?
-ɑːnt ðeɪ smɑːt?

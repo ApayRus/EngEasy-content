@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:22:59.074Z",
+  "generatedAt": "2026-08-08T17:23:00.912Z",
   "lesson": 40,
   "slug": "40-going-to",
   "path": [
@@ -21,7 +21,23 @@
         "verbBe.present.question",
         "verbBe.present.negative",
         "verbBe.present.question.negative",
-        "verbBe.present.question.negative.contracted"
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite",
+        "demonstrative.thisThat",
+        "demonstrative.theseThose",
+        "noun.plural",
+        "article.definite",
+        "verbBe.present.location",
+        "preposition.location",
+        "existential.thereIs",
+        "questionWord.where",
+        "noun.possessiveS",
+        "noun.possessivePlural",
+        "noun.compound",
+        "questionWord.what",
+        "adjective.comparative",
+        "adjective.superlative",
+        "comparison.than"
       ],
       "morphology": [
         "verbBe.base",
@@ -34,7 +50,17 @@
         "contraction.short",
         "contraction.full",
         "interjection.base",
+        "article.indefinite",
+        "noun.singular",
+        "demonstrative.singular",
+        "demonstrative.plural",
+        "noun.plural",
+        "article.definite",
         "preposition.base",
+        "questionWord.base",
+        "fixedAdverb.base",
+        "adjective.comparative",
+        "adjective.superlative",
         "conjunction.base"
       ]
     }

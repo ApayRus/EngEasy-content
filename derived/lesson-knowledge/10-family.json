@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:22:59.073Z",
+  "generatedAt": "2026-08-08T17:23:00.911Z",
   "lesson": 10,
   "slug": "10-family",
   "path": [
@@ -21,7 +21,12 @@
         "verbBe.present.question",
         "verbBe.present.negative",
         "verbBe.present.question.negative",
-        "verbBe.present.question.negative.contracted"
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite",
+        "demonstrative.thisThat",
+        "demonstrative.theseThose",
+        "noun.plural",
+        "article.definite"
       ],
       "morphology": [
         "verbBe.base",
@@ -34,8 +39,12 @@
         "contraction.short",
         "contraction.full",
         "interjection.base",
-        "preposition.base",
-        "conjunction.base"
+        "article.indefinite",
+        "noun.singular",
+        "demonstrative.singular",
+        "demonstrative.plural",
+        "noun.plural",
+        "article.definite"
       ]
     }
   }

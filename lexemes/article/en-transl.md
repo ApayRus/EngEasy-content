@@ -1,14 +1,17 @@
 ---
 name: ˈɑːtɪkəl
 forms:
-  - id: base
-    name: beɪs fɔːm
+  - id: indefinite
+    name: ˌɪndɪˈfɪnət ˈɑːtɪkəl
+  - id: definite
+    name: ˈdefɪnət ˈɑːtɪkəl
 ---
-
-# 5
-
-ə
 
 # 6
 
-ðə
+ə |
+ən |
+
+# 9
+
+ | ðə / ðiː

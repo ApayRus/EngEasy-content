@@ -7,7 +7,12 @@ forms:
     name: plural form
 ---
 
-# 5
+# 7
 
 this | this
 that | that
+
+# 8
+
+these | these
+those | those

@@ -50,3 +50,22 @@ smɑːt | ˈsmɑːtə | ˈsmɑːtɪst
 ˈæŋɡri | ˈæŋɡriə | ˈæŋɡriɪst
 friː | ˈfriːə | ˈfriːɪst
 faɪn | ˈfaɪnə | ˈfaɪnɪst
+
+# 10
+
+ˈəʊpən | ˈəʊpənə | ˈəʊpənɪst
+kləʊzd | mɔː kləʊzd | məʊst kləʊzd
+fʊl | ˈfʊlə | ˈfʊlɪst
+ˈempti | ˈemptiə | ˈemptiɪst
+
+# 15
+
+lɒŋ | ˈlɒŋɡə | ˈlɒŋɡɪst
+waɪd | ˈwaɪdə | ˈwaɪdɪst
+ˈhevi | ˈheviə | ˈheviɪst
+ˈiːzi | ˈiːziə | ˈiːziɪst
+hɑːd | ˈhɑːdə | ˈhɑːdɪst
+hɒt | ˈhɒtə | ˈhɒtɪst
+laɪt | ˈlaɪtə | ˈlaɪtɪst
+ˈbjuːtɪfəl | mɔː ˈbjuːtɪfəl | məʊst ˈbjuːtɪfəl
+ˈɪntrəstɪŋ | mɔː ˈɪntrəstɪŋ | məʊst ˈɪntrəstɪŋ

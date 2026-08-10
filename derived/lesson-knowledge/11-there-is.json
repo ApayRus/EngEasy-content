@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-08-08T17:23:00.912Z",
+  "lesson": 11,
+  "slug": "11-there-is",
+  "path": [
+    "course",
+    "there-is"
+  ],
+  "sourceFile": "content/pages/1-course/11-there-is/en.md",
+  "sentenceCount": 69,
+  "knowledge": {
+    "added": {
+      "grammar": [
+        "existential.thereIs"
+      ],
+      "morphology": []
+    },
+    "cumulative": {
+      "grammar": [
+        "verbBe.present.statement",
+        "verbBe.present.contracted",
+        "verbBe.present.question",
+        "verbBe.present.negative",
+        "verbBe.present.question.negative",
+        "verbBe.present.question.negative.contracted",
+        "article.indefinite",
+        "demonstrative.thisThat",
+        "demonstrative.theseThose",
+        "noun.plural",
+        "article.definite",
+        "verbBe.present.location",
+        "preposition.location",
+        "existential.thereIs"
+      ],
+      "morphology": [
+        "verbBe.base",
+        "verbBe.present.singular.first",
+        "verbBe.present.singular.second",
+        "verbBe.present.singular.third",
+        "verbBe.present.plural",
+        "adjective.base",
+        "pronoun.subject",
+        "contraction.short",
+        "contraction.full",
+        "interjection.base",
+        "article.indefinite",
+        "noun.singular",
+        "demonstrative.singular",
+        "demonstrative.plural",
+        "noun.plural",
+        "article.definite",
+        "preposition.base"
+      ]
+    }
+  }
+}

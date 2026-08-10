@@ -22,11 +22,14 @@ wɪə | wiː ɑː
 ɑːnt | ɑː nɒt
 ˈɪzənt | ɪz nɒt
 
-# 5
+# 7
 
-wɒts | wɒt ɪz
 ðæts | ðæt ɪz
 
-# 6
+# 12
 
-weəz | weər ɪz
+weəz | weə ɪz
+
+# 14
+
+wɒts | wɒt ɪz

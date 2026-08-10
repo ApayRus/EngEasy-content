@@ -1,32 +1,29 @@
---- lesson 1 ---
-i
+# 1
+big
+small
+I
 you
 he
 she
 it
 we
 they
-be
-am
-are
-is
-big
-small
+be | am | are | is | are
 
---- lesson 2 ---
-i'm
-you're
-he's
-she's
-it's
-we're
-they're
+# 2
 good
 bad
 new
 old
+I'm | I am
+you're | you are
+he's | he is
+she's | she is
+it's | it is
+we're | we are
+they're | they are
 
---- lesson 3 ---
+# 3
 busy
 free
 happy
